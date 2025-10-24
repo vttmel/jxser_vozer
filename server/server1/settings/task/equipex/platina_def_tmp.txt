@@ -1,0 +1,195 @@
+EQUIPNAME	PLATINAID	GOLDID	TASKRATE	RECOIN	
+[Thiªn Tø] Méng Long ChÝnh Hång T¨ng M·o	1	1	4	2	
+[Thiªn Tø] Méng Long Kim Ti ChÝnh Hång Cµ Sa	2	2	2	2	
+[Thiªn Tø] Méng Long HuyÒn Ti Ph¸t ®¸i	3	3	2	2	
+[Thiªn Tø] Méng Long PhËt Ph¸p HuyÒn Béi	4	4	7	5	fixnew
+[Thiªn Tø] Phôc Ma Tö Kim C«n	6	6	3	2	
+[Thiªn Tø] Phôc Ma ¤ Kim NhuyÔn §iÒu	8	8	2	2	
+[Thiªn Tø] Phôc Ma PhËt T©m NhuyÔn KhÊu	9	9	7	5	fixnew
+[Thiªn Tø] Phôc Ma Phæ §é T¨ng hµi	10	10	7	5	fixnew
+[Thiªn Tø] Tø Kh«ng Gi¸ng Ma Giíi §ao	11	11	6	5	
+[Thiªn Tø] Tø Kh«ng Hé ph¸p Yªu ®¸i	13	13	3	3	
+[Thiªn Tø] Tø Kh«ng NhuyÔn B× Hé UyÓn	14	14	7	5	fixnew
+[Thiªn Tø] Tø Kh«ng Giíi LuËt Ph¸p giíi	15	15	7	5	fixnew
+[Thiªn Tø] H¸m Thiªn Kim Hoµn §¹i Nh·n ThÇn Chïy	16	16	8	6	
+[Thiªn Tø] H¸m Thiªn Uy Vò Thóc yªu ®¸i	18	18	7	5	fixnew
+[Thiªn Tø] H¸m Thiªn Hæ ®Çu KhÈn Thóc UyÓn	19	19	3	1	
+[Thiªn Tø] H¸m Thiªn Thõa Long ChiÕn Ngoa	20	20	3	3	
+[Thiªn Tø] KÕ NghiÖp B«n L«i Toµn Long Th­¬ng	21	21	8	5	
+[Thiªn Tø] KÕ NghiÖp HuyÒn Vò Hoµng Kim Kh¶i	22	22	3	3	
+[Thiªn Tø] KÕ NghiÖp B¹ch Hæ V« Song khÊu	23	23	4	4	
+[Thiªn Tø] KÕ NghiÖp Háa V©n Kú L©n Thñ 	24	24	7	5	fixnew
+[Thiªn Tø] Ngù Long L­îng Ng©n B¶o §ao	26	26	6	3	
+[Thiªn Tø] Ngù Long ChiÕn ThÇn Phi Qu¶i gi¸p	27	27	7	5	fixnew
+[Thiªn Tø] Ngù Long Thiªn M«n Thóc Yªu hoµn	28	28	3	3	
+[Thiªn Tø] Ngù Long TuyÖt MÖnh ChØ hoµn	30	30	7	5	fixnew
+[Thiªn Tø] V« Gian û Thiªn KiÕm	31	31	5	4	
+[Thiªn Tø] V« Gian PhÊt V©n Ti ®¸i	33	33	2.5	3	
+[Thiªn Tø] V« Gian CÇm VËn Hé UyÓn	34	34	2.5	3	
+[Thiªn Tø] V« Gian B¹ch Ngäc Bµn ChØ 	35	35	7	5	fixnew
+[Thiªn Tø] V« Ma Ma Ni qu¸n	36	36	7	5	fixnew
+[Thiªn Tø] V« Ma B¨ng Tinh ChØ Hoµn	38	38	2.5	1	
+[Thiªn Tø] V« Ma TÈy T­îng Ngäc KhÊu	39	39	5	4	
+[Thiªn Tø] V« Ma Hång Truy NhuyÔn Th¸p hµi	40	40	2.5	3	
+[Thiªn Tø] V« TrÇn Tõ Bi Ngäc Ban ChØ 	43	43	7	5	fixnew
+[Thiªn Tø] Tª Hoµng Phông Nghi §ao	46	46	5	5	
+[Thiªn Tø] Tª Hoµng Phong TuyÕt B¹ch V©n Thóc §¸i	48	48	2.5	3	
+[Thiªn Tø] Tª Hoµng B¨ng Tung CÈm uyÓn	49	49	2.5	3	
+[Thiªn Tø] Tª Hoµng Thóy Ngäc ChØ Hoµn	50	50	7	5	fixnew
+[Thiªn Tø] BÝch H¶i Uyªn ¦¬ng Liªn Hoµn §ao	51	51	3	2	
+[Thiªn Tø] BÝch H¶i Hång Linh Kim Ti ®¸i	53	53	2	2	
+[Thiªn Tø] BÝch H¶i Hång L¨ng Ba	54	54	2	2	
+[Thiªn Tø] BÝch H¶i Khiªn TÕ ChØ hoµn	55	55	7	5	fixnew
+[Thiªn Tø] U Lung Kim Xµ Ph¸t §¸i	56	56	2.5	2	
+[Thiªn Tø] U Lung Thanh Ng« TriÒn yªu	58	58	7	5	fixnew
+[Thiªn Tø] U Lung Ng©n ThÒm Hé UyÓn	59	59	7	5	fixnew
+[Thiªn Tø] U Lung MÆc Thï NhuyÔn Lý 	60	60	5	2	
+[Thiªn Tø] Minh ¶o Tµ S¸t §éc NhËn	61	61	4	3	
+[Thiªn Tø] Minh ¶o U §éc ¸m Y	62	62	2.5	3	
+[Thiªn Tø] Minh ¶o §éc YÕt ChØ Hoµn	63	63	7	5	fixnew
+[Thiªn Tø] Minh ¶o Hñ Cèt Hé uyÓn	64	64	2.5	3	
+[Thiªn Tø] Chó Ph­îc U ¶o ChØ Hoµn	68	68	7	5	fixnew
+[Thiªn Tø] B¨ng Hµn §¬n ChØ Phi §ao	71	71	4	3	
+[Thiªn Tø] B¨ng Hµn HuyÒn Y Thóc Gi¸p	72	72	7	5	fixnew
+[Thiªn Tø] B¨ng Hµn T©m TiÔn Yªu KhÊu	73	73	2	2	
+[Thiªn Tø] B¨ng Hµn HuyÒn Thiªn B¨ng Háa Béi	74	74	7	5	fixnew
+[Thiªn Tø] Thiªn Quang Hoa Vò M¹n Thiªn	76	76	5	4	
+[Thiªn Tø] Thiªn Quang §Þnh T©m Ng­ng ThÇn Phï 	77	77	2.5	3	
+[Thiªn Tø] Thiªn Quang S©m La Thóc §¸i	78	78	7	5	fixnew
+[Thiªn Tø] Thiªn Quang Thóc Thiªn Ph­îc §Þa Hoµn	80	80	2.5	1	
+[Thiªn Tø] S©m Hoang Phi Tinh §o¹t Hån	81	81	4	3	
+[Thiªn Tø] S©m Hoang Hån Gi¶o Yªu Thóc	83	83	2	2	
+[Thiªn Tø] S©m Hoang HuyÒn ThiÕt T­¬ng Ngäc Béi	84	84	7	5	fixnew
+[Thiªn Tø] S©m Hoang Tinh VÉn Phi Lý 	85	85	7	5	fixnew
+[Thiªn Tø] §Þa Ph¸ch TÝch LÞch L«i Háa Giíi	88	88	7	5	fixnew
+[Thiªn Tø] §ång Cõu Gi¸ng Long C¸i Y	92	92	5	2	
+[Thiªn Tø] §ång Cõu TiÒm Long Yªu §¸i	93	93	3	2	
+[Thiªn Tø] §ång Cõu Kh¸ng Long Hé UyÓn	94	94	2.5	2	
+[Thiªn Tø] §ång Cõu KiÕn Long Ban ChØ 	95	95	7	5	fixnew
+[Thiªn Tø] §Þch Kh¸i Lôc Ngäc Tr­îng	96	96	4	5	
+[Thiªn Tø] §Þch Kh¸i TriÒn M·ng yªu ®¸i	98	98	7	5	fixnew
+[Thiªn Tø] §Þch Kh¸i CÈu TÝch B× Hé uyÓn	99	99	2.5	2	
+[Thiªn Tø] §Þch Kh¸i Th¶o Gian Th¹ch giíi	100	100	7	5	fixnew
+[Thiªn Tø] Ma S¸t Quû Cèc U Minh Th­¬ng	101	101	4	3	
+[Thiªn Tø] Ma S¸t Tµn D­¬ng ¶nh HuyÕt Gi¸p	102	102	2	2	
+[Thiªn Tø] Ma S¸t XÝch Ký Táa Yªu KhÊu	103	103	7	5	fixnew
+[Thiªn Tø] Ma S¸t V©n Long Thæ Ch©u giíi	105	105	7	5	fixnew
+[Thiªn Tø] Ma Hoµng HuyÕt Y Thó Tr¹c	109	109	7	5	fixnew
+[Thiªn Tø] Ma ThÞ LiÖt DiÖm Qu¸n MiÖn	111	111	2.5	2	fix
+[Thiªn Tø] Ma ThÞ NghiÖp Háa U Minh Giíi	113	113	7	5	fixnew
+[Thiªn Tø] Ma ThÞ HuyÕt Ngäc ThÊt S¸t Béi	114	114	2	2	
+[Thiªn Tø] Ma ThÞ s¬n H¶i Phi Hång Lý 	115	115	4	2	
+[Thiªn Tø] L¨ng Nh¹c Th¸i Cùc KiÕm	116	116	7	5	fix
+[Thiªn Tø] L¨ng Nh¹c Né L«i Giíi	118	118	3	2	
+[Thiªn Tø] L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi	119	119	2.5	2	
+[Thiªn Tø] L¨ng Nh¹c Thiªn §Þa HuyÒn Hoµng giíi	120	120	3	1	
+[Thiªn Tø] CËp Phong Ch©n Vò KiÕm	121	121	7	5	
+[Thiªn Tø] CËp Phong Tam Thanh Phï 	122	122	7	5	fixnew
+[Thiªn Tø] CËp Phong HuyÒn Ti Tam §o¹n cÈm	123	123	3.5	3	
+[Thiªn Tø] CËp Phong Thanh Tïng Ph¸p giíi	125	125	7	5	fixnew
+[Thiªn Tø] S­¬ng Tinh Thiªn Niªn Hµn ThiÕt	126	126	5	4	
+[Thiªn Tø] S­¬ng Tinh Thanh Phong Lò ®¸i	128	128	7	5	fixnew
+[Thiªn Tø] S­¬ng Tinh Thiªn Tinh B¨ng Tinh thñ 	129	129	7	5	fixnew
+[Thiªn Tø] S­¬ng Tinh Phong B¹o chØ hoµn	130	130	2.5	1	
+[Thiªn Tø] L«i Khung Hµn Tïng B¨ng B¹ch Quan	131	131	3	2	
+[Thiªn Tø] L«i Khung Thiªn §Þa Hé phï 	132	132	2	2	
+[Thiªn Tø] L«i Khung Phong L«i Thanh CÈm ®¸i	133	133	2.5	2	
+[Thiªn Tø] L«i Khung Cöu Thiªn DÉn L«i giíi	135	135	7	5	fixnew
+[Thiªn Tø] Vô ¶o Thóc T©m chØ hoµn	138	138	7	5	fixnew
+[Thiªn Tø] Méng Long ChÝnh Hång T¨ng M·o	905	905	4	2	
+[Thiªn Tø] Méng Long Kim Ti ChÝnh Hång Cµ Sa	906	906	2	2	
+[Thiªn Tø] Méng Long HuyÒn Ti Ph¸t ®¸i	907	907	2	2	
+[Thiªn Tø] Méng Long PhËt Ph¸p HuyÒn Béi	908	908	7	5	fixnew
+[Thiªn Tø] Phôc Ma Tö Kim C«n	910	910	3	2	
+[Thiªn Tø] Phôc Ma ¤ Kim NhuyÔn §iÒu	912	912	2	2	
+[Thiªn Tø] Phôc Ma PhËt T©m NhuyÔn KhÊu	913	913	7	5	fixnew
+[Thiªn Tø] Phôc Ma Phæ §é T¨ng hµi	914	914	7	5	fixnew
+[Thiªn Tø] Tø Kh«ng Gi¸ng Ma Giíi §ao	915	915	6	5	
+[Thiªn Tø] Tø Kh«ng Hé ph¸p Yªu ®¸i	917	917	3	3	
+[Thiªn Tø] Tø Kh«ng NhuyÔn B× Hé UyÓn	918	918	7	5	fixnew
+[Thiªn Tø] Tø Kh«ng Giíi LuËt Ph¸p giíi	919	919	7	5	fixnew
+[Thiªn Tø] H¸m Thiªn Kim Hoµn §¹i Nh·n ThÇn Chïy	920	920	8	6	
+[Thiªn Tø] H¸m Thiªn Uy Vò Thóc yªu ®¸i	922	922	7	5	fixnew
+[Thiªn Tø] H¸m Thiªn Hæ ®Çu KhÈn Thóc UyÓn	923	923	3	1	
+[Thiªn Tø] H¸m Thiªn Thõa Long ChiÕn Ngoa	924	924	3	3	
+[Thiªn Tø] KÕ NghiÖp B«n L«i Toµn Long Th­¬ng	925	925	8	5	
+[Thiªn Tø] KÕ NghiÖp HuyÒn Vò Hoµng Kim Kh¶i	926	926	3	3	
+[Thiªn Tø] KÕ NghiÖp B¹ch Hæ V« Song khÊu	927	927	4	4	
+[Thiªn Tø] KÕ NghiÖp Háa V©n Kú L©n Thñ 	928	928	7	5	fixnew
+[Thiªn Tø] Ngù Long L­îng Ng©n B¶o §ao	930	930	6	3	
+[Thiªn Tø] Ngù Long ChiÕn ThÇn Phi Qu¶i gi¸p	931	931	7	5	fixnew
+[Thiªn Tø] Ngù Long Thiªn M«n Thóc Yªu hoµn	932	932	3	3	
+[Thiªn Tø] Ngù Long TuyÖt MÖnh ChØ hoµn	934	934	7	5	fixnew
+[Thiªn Tø] V« Gian û Thiªn KiÕm	935	935	5	4	
+[Thiªn Tø] V« Gian PhÊt V©n Ti ®¸i	937	937	2.5	3	
+[Thiªn Tø] V« Gian CÇm VËn Hé UyÓn	938	938	2.5	3	
+[Thiªn Tø] V« Gian B¹ch Ngäc Bµn ChØ 	939	939	7	5	fixnew
+[Thiªn Tø] V« Ma Ma Ni qu¸n	940	940	7	5	fixnew
+[Thiªn Tø] V« Ma B¨ng Tinh ChØ Hoµn	942	942	2.5	1	
+[Thiªn Tø] V« Ma TÈy T­îng Ngäc KhÊu	943	943	5	4	
+[Thiªn Tø] V« Ma Hång Truy NhuyÔn Th¸p hµi	944	944	2.5	3	
+[Thiªn Tø] V« TrÇn Tõ Bi Ngäc Ban ChØ 	947	947	7	5	fixnew
+[Thiªn Tø] Tª Hoµng Phông Nghi §ao	950	950	5	5	
+[Thiªn Tø] Tª Hoµng Phong TuyÕt B¹ch V©n Thóc §¸i	952	952	2.5	3	
+[Thiªn Tø] Tª Hoµng B¨ng Tung CÈm uyÓn	953	953	2.5	3	
+[Thiªn Tø] Tª Hoµng Thóy Ngäc ChØ Hoµn	954	954	7	5	fixnew
+[Thiªn Tø] BÝch H¶i Uyªn ¦¬ng Liªn Hoµn §ao	955	955	3	2	
+[Thiªn Tø] BÝch H¶i Hång Linh Kim Ti ®¸i	957	957	2	2	
+[Thiªn Tø] BÝch H¶i Hång L¨ng Ba	958	958	2	2	
+[Thiªn Tø] BÝch H¶i Khiªn TÕ ChØ hoµn	959	959	7	5	fixnew
+[Thiªn Tø] U Lung Kim Xµ Ph¸t §¸i	960	960	2.5	2	
+[Thiªn Tø] U Lung Thanh Ng« TriÒn yªu	962	962	7	5	fixnew
+[Thiªn Tø] U Lung Ng©n ThÒm Hé UyÓn	963	963	7	5	fixnew
+[Thiªn Tø] U Lung MÆc Thï NhuyÔn Lý 	964	964	5	2	
+[Thiªn Tø] Minh ¶o Tµ S¸t §éc NhËn	965	965	4	3	
+[Thiªn Tø] Minh ¶o U §éc ¸m Y	966	966	2.5	3	
+[Thiªn Tø] Minh ¶o §éc YÕt ChØ Hoµn	967	967	7	5	fixnew
+[Thiªn Tø] Minh ¶o Hñ Cèt Hé uyÓn	968	968	2.5	3	
+[Thiªn Tø] Chó Ph­îc U ¶o ChØ Hoµn	972	972	7	5	fixnew
+[Thiªn Tø] B¨ng Hµn §¬n ChØ Phi §ao	975	975	4	3	
+[Thiªn Tø] B¨ng Hµn HuyÒn Y Thóc Gi¸p	976	976	7	5	fixnew
+[Thiªn Tø] B¨ng Hµn T©m TiÔn Yªu KhÊu	977	977	2	2	
+[Thiªn Tø] B¨ng Hµn HuyÒn Thiªn B¨ng Háa Béi	978	978	7	5	fixnew
+[Thiªn Tø] Thiªn Quang Hoa Vò M¹n Thiªn	980	980	5	4	
+[Thiªn Tø] Thiªn Quang §Þnh T©m Ng­ng ThÇn Phï 	981	981	2.5	3	
+[Thiªn Tø] Thiªn Quang S©m La Thóc §¸i	982	982	7	5	fixnew
+[Thiªn Tø] Thiªn Quang Thóc Thiªn Ph­îc §Þa Hoµn	984	984	2.5	1	
+[Thiªn Tø] S©m Hoang Phi Tinh §o¹t Hån	985	985	4	3	
+[Thiªn Tø] S©m Hoang Hån Gi¶o Yªu Thóc	987	987	2	2	
+[Thiªn Tø] S©m Hoang HuyÒn ThiÕt T­¬ng Ngäc Béi	988	988	7	5	fixnew
+[Thiªn Tø] S©m Hoang Tinh VÉn Phi Lý 	989	989	7	5	fixnew
+[Thiªn Tø] §Þa Ph¸ch TÝch LÞch L«i Háa Giíi	992	992	7	5	fixnew
+[Thiªn Tø] §ång Cõu Gi¸ng Long C¸i Y	996	996	5	2	
+[Thiªn Tø] §ång Cõu TiÒm Long Yªu §¸i	997	997	3	2	
+[Thiªn Tø] §ång Cõu Kh¸ng Long Hé UyÓn	998	998	2.5	2	
+[Thiªn Tø] §ång Cõu KiÕn Long Ban ChØ 	999	999	7	5	fixnew
+[Thiªn Tø] §Þch Kh¸i Lôc Ngäc Tr­îng	1000	1000	4	5	
+[Thiªn Tø] §Þch Kh¸i TriÒn M·ng yªu ®¸i	1002	1002	7	5	fixnew
+[Thiªn Tø] §Þch Kh¸i CÈu TÝch B× Hé uyÓn	1003	1003	2.5	2	
+[Thiªn Tø] §Þch Kh¸i Th¶o Gian Th¹ch giíi	1004	1004	7	5	fixnew
+[Thiªn Tø] Ma S¸t Quû Cèc U Minh Th­¬ng	1005	1005	4	3	
+[Thiªn Tø] Ma S¸t Tµn D­¬ng ¶nh HuyÕt Gi¸p	1006	1006	2	2	
+[Thiªn Tø] Ma S¸t XÝch Ký Táa Yªu KhÊu	1007	1007	7	5	fixnew
+[Thiªn Tø] Ma S¸t V©n Long Thæ Ch©u giíi	1009	1009	7	5	fixnew
+[Thiªn Tø] Ma Hoµng HuyÕt Y Thó Tr¹c	1013	1013	7	5	fixnew
+[Thiªn Tø] Ma ThÞ LiÖt DiÖm Qu¸n MiÖn	1015	1015	2.5	2	fix
+[Thiªn Tø] Ma ThÞ NghiÖp Háa U Minh Giíi	1017	1017	7	5	fixnew
+[Thiªn Tø] Ma ThÞ HuyÕt Ngäc ThÊt S¸t Béi	1018	1018	2	2	
+[Thiªn Tø] Ma ThÞ s¬n H¶i Phi Hång Lý 	1019	1019	4	2	
+[Thiªn Tø] L¨ng Nh¹c Th¸i Cùc KiÕm	1020	1020	7	5	fix
+[Thiªn Tø] L¨ng Nh¹c Né L«i Giíi	1022	1022	3	2	
+[Thiªn Tø] L¨ng Nh¹c V« Cùc HuyÒn Ngäc Béi	1023	1023	2.5	2	
+[Thiªn Tø] L¨ng Nh¹c Thiªn §Þa HuyÒn Hoµng giíi	1024	1024	3	1	
+[Thiªn Tø] CËp Phong Ch©n Vò KiÕm	1025	1025	7	5	
+[Thiªn Tø] CËp Phong Tam Thanh Phï 	1026	1026	7	5	fixnew
+[Thiªn Tø] CËp Phong HuyÒn Ti Tam §o¹n cÈm	1027	1027	3.5	3	
+[Thiªn Tø] CËp Phong Thanh Tïng Ph¸p giíi	1029	1029	7	5	fixnew
+[Thiªn Tø] S­¬ng Tinh Thiªn Niªn Hµn ThiÕt	1030	1030	5	4	
+[Thiªn Tø] S­¬ng Tinh Thanh Phong Lò ®¸i	1032	1032	7	5	fixnew
+[Thiªn Tø] S­¬ng Tinh Thiªn Tinh B¨ng Tinh thñ 	1033	1033	7	5	fixnew
+[Thiªn Tø] S­¬ng Tinh Phong B¹o chØ hoµn	1034	1034	2.5	1	
+[Thiªn Tø] L«i Khung Hµn Tïng B¨ng B¹ch Quan	1035	1035	3	2	
+[Thiªn Tø] L«i Khung Thiªn §Þa Hé phï 	1036	1036	2	2	
+[Thiªn Tø] L«i Khung Phong L«i Thanh CÈm ®¸i	1037	1037	2.5	2	
+[Thiªn Tø] L«i Khung Cöu Thiªn DÉn L«i giíi	1039	1039	7	5	fixnew
+[Thiªn Tø] Vô ¶o Thóc T©m chØ hoµn	1042	1042	7	5	fixnew

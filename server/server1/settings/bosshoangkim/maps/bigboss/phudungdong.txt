@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+202	1647	3100	Phï Dung §éng
+202	1535	3032	Phï Dung §éng
+202	1618	2950	Phï Dung §éng
+202	1528	2768	Phï Dung §éng

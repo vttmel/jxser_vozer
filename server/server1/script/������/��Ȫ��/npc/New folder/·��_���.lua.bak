@@ -1,0 +1,53 @@
+--ÁúÈª´å Â·ÈË Åí·Å
+--ÁúÈª´åĞÂÊÖÈÎÎñ£ºĞŞµ¶
+-- By: Dan_Deng(2003-09-03)
+
+Include("\\script\\global\\itemhead.lua")
+
+function main(sel)
+	UTask_world19 = GetTask(19)
+	if (UTask_world19 == 0) and (GetLevel() >= 2) then 		--ĞŞµ¶ÈÎÎñÆô¶¯
+		if (GetSex() == 0) then
+			W19_rank = "LTT14ºóÉú"
+		else
+			W19_rank = "LTT15¹ÃÄï"
+		end
+		Talk(2,"W19_get","LTT16Åí·Å:"..W19_rank.."¿LTT17ÉÒÔ°ïÖúÔÚÏÂÂğ?","°ïÊ²Ã´Âğ? ")
+	elseif (UTask_world19 == 2) and (HaveItem(229) == 0) then
+		AddEventItem(229)
+		Talk(1,"", 10903)
+	elseif (UTask_world19 == 8) and HaveItem(230) then		-- ÈÎÎñÍê³É
+		Talk(1,"", 10904)
+		DelItem(230)
+		SetTask(19,10)
+		AddNote("°LTT18ÑĞŞºÃµÄ±¦µ¶¸øÅí·Å, Íê³ÉÈÎÎñ")
+		Msg2Player("LTT19°ÑĞŞºÃµÄ±¦µ¶¸øÅí·Å, Íê³ÉÈÎÎñ")
+		p1,p2,p3,p4,p5,p6 = RndItemProp(6,10)
+		if(GetSex() == 0) then
+			AddItem(0, 8, 1, 1, random(0,4), GetLucky(), p1,p2,p3,p4,p5,p6)
+			Msg2Player("LTT20µÃµ½ÓãÆ¤»¤Íó")
+		else
+			AddItem(0, 8, 0, 1, random(0,4), GetLucky(), p1,p2,p3,p4,p5,p6)
+			Msg2Player("LTT21µÃµ½ÓãÆ¤»¤Íó")
+		end
+		AddRepute(6)
+		Msg2Player("LTT22ÄãµÄÃûÍûÔö¼ÓÁË6µã")
+	else
+		Talk(1,"", 10905)
+	end
+end;
+
+function W19_get()
+	Say(10906 ,2,"°LTT23ïÖúËû! /W19_get_yes","²»ÒªÓÌÔ¥/W19_get_no")
+end
+
+function W19_get_yes()
+	SetTask(19,2)
+	AddEventItem(229)
+	Talk(1,"", 10907)
+	AddNote("LTT24½ÓÊÜÈÎÎñ£º°ïÖúÅí·Å´øµ¶È¥ĞŞ")
+	Msg2Player("½ÓÊÜÈÎÎñ£º°ïÖúÅí·Å´øµ¶È¥ĞŞ")
+end
+
+function W19_get_no()
+end

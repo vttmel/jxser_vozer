@@ -1,0 +1,105 @@
+2025-10-20 01:59:34	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	U Lung MÆc Thï NhuyÔn Lý 	1
+2025-10-20 01:59:48	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	Chó Ph­îc B¨ng Háa Thùc Cèt Ngoa	1
+2025-10-20 02:15:02	concho4	ConChoTN	127	0	Thiªn NhÉn Gi¸o	78	19	SuDungRuongHoangKimMonPhai	Minh ¶o Song Hoµn Xµ Hµi	1
+2025-10-20 02:27:25	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	U Lung Ng©n ThÒm Hé UyÓn	1
+2025-10-20 02:27:34	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	U Lung Ng©n ThÒm Hé UyÓn	1
+2025-10-20 02:27:41	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	Minh ¶o Song Hoµn Xµ Hµi	1
+2025-10-20 02:28:03	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	Minh Hoan Song Hoµn Xµ KhÊu	1
+2025-10-20 02:30:12	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	Chó Ph­îc U ¶o ChØ Hoµn	1
+2025-10-20 02:30:20	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	Chó Ph­îc U ¶o ChØ Hoµn	1
+2025-10-20 02:34:30	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	Chó Ph­îc DiÖt L«i C¶nh Phï 	1
+2025-10-20 10:17:23	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Chó Ph­îc DiÖt L«i C¶nh Phï 	1
+2025-10-20 10:17:32	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Minh ¶o §éc YÕt ChØ Hoµn	1
+2025-10-20 10:17:40	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Minh Hoan Song Hoµn Xµ KhÊu	1
+2025-10-20 10:18:06	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	U Lung MÆc Thï NhuyÔn Lý 	1
+2025-10-20 10:23:14	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Minh ¶o Song Hoµn Xµ Hµi	1
+2025-10-20 10:25:36	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Minh ¶o Song Hoµn Xµ Hµi	1
+2025-10-20 10:26:09	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Chó Ph­îc U ¶o ChØ Hoµn	1
+2025-10-20 10:26:17	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	U Lung Kim Xµ Ph¸t ®¸i	1
+2025-10-20 10:26:25	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	U Lung XÝch YÕt MËt trang	1
+2025-10-20 10:26:57	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Minh ¶o §éc YÕt ChØ Hoµn	1
+2025-10-20 10:27:48	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	H¸m Thiªn Hæ ®Çu KhÈn Thóc UyÓn	1
+2025-10-20 10:28:15	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Chó Ph­îc Ph¸ gi¸p ®Çu hoµn	1
+2025-10-20 10:28:41	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Chó Ph­îc B¨ng Háa Thùc Cèt Ngoa	1
+2025-10-20 10:28:49	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Minh ¶o Hñ Cèt Hé uyÓn	1
+2025-10-20 10:28:55	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Chó Phäc Trïng Cèt Ngäc Béi	1
+2025-10-20 10:38:32	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	S©m Hoang KimTiÒn Liªn Hoµn Gi¸p	1
+2025-10-20 10:39:16	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Phôc Ma HuyÒn Hoµng Cµ Sa	1
+2025-10-20 10:41:07	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Méng Long §¹t Ma T¨ng hµi	1
+2025-10-20 10:41:14	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Méng Long §¹t Ma T¨ng hµi	1
+2025-10-20 10:41:22	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Méng Long Kim Ti ChÝnh Hång Cµ Sa	1
+2025-10-20 10:42:23	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Méng Long Kim Ti ChÝnh Hång Cµ Sa	1
+2025-10-20 10:43:02	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Tø Kh«ng Hé ph¸p Yªu ®¸i	1
+2025-10-20 10:43:10	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Méng Long PhËt Ph¸p HuyÒn Béi	1
+2025-10-20 10:43:19	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Méng Long Tö Kim B¸t Nh· Giíi	1
+2025-10-20 10:52:05	qqq1	BlanC1	153	0	Thiªn V­¬ng Bang	78	19	SuDungRuongHoangKimMonPhai	Tø Kh«ng §¹t Ma T¨ng Hµi	1
+2025-10-20 13:32:37	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	Chó Ph­îc Xuyªn T©m §éc UyÓn	1
+2025-10-20 13:32:48	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	U Lung Ng©n ThÒm Hé UyÓn	1
+2025-10-20 13:32:55	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	Minh Hoan Song Hoµn Xµ KhÊu	1
+2025-10-20 13:33:03	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	Chó Ph­îc Xuyªn T©m §éc UyÓn	1
+2025-10-20 13:33:10	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	Minh ¶o §éc YÕt ChØ Hoµn	1
+2025-10-20 13:35:56	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	Minh ¶o Tµ S¸t §éc NhËn	1
+2025-10-20 13:37:34	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	Minh ¶o §éc YÕt ChØ Hoµn	1
+2025-10-20 13:37:41	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	U Lung MÆc Thï NhuyÔn Lý 	1
+2025-10-20 13:37:48	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	Chó Ph­îc U ¶o ChØ Hoµn	1
+2025-10-20 13:37:55	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	Minh ¶o Song Hoµn Xµ Hµi	1
+2025-10-20 13:42:10	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	U Lung Kim Xµ Ph¸t ®¸i	1
+2025-10-20 13:42:17	concho1	ConCho5Doc	126	0	Ngò §éc Gi¸o	78	19	SuDungRuongHoangKimMonPhai	U Lung XÝch YÕt MËt trang	1
+2025-10-20 14:49:10	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	S©m Hoang Phi Tinh §o¹t Hån	1
+2025-10-20 14:49:19	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	Thiªn Quang S©m La Thóc §¸i	1
+2025-10-20 14:49:27	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	B¨ng Hµn HuyÒn Y Thóc Gi¸p	1
+2025-10-20 14:49:53	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	B¨ng Hµn HuyÒn Thiªn B¨ng Háa Béi	1
+2025-10-20 14:50:00	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	S©m Hoang Tinh VÉn Phi Lý 	1
+2025-10-20 14:51:04	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	§Þa Ph¸ch Phong Hµn Thóc Yªu	1
+2025-10-20 14:51:16	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	S©m Hoang Tinh VÉn Phi Lý 	1
+2025-10-20 14:51:37	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	§Þa Ph¸ch Ngò hµnh Liªn Hoµn Qu¸n	1
+2025-10-20 14:51:45	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	Thiªn Quang Song B¹o Hµn ThiÕt Tr¹c	1
+2025-10-20 14:52:08	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	B¨ng Hµn T©m TiÔn Yªu KhÊu	1
+2025-10-20 15:17:22	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	S©m Hoang Tinh VÉn Phi Lý 	1
+2025-10-20 15:17:30	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	Thiªn Quang §Þnh T©m Ng­ng ThÇn Phï 	1
+2025-10-20 15:17:37	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	S©m Hoang Tinh VÉn Phi Lý 	1
+2025-10-20 15:18:38	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	Thiªn Quang Hoa Vò M¹n Thiªn	1
+2025-10-20 15:18:46	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	S©m Hoang Hån Gi¶o Yªu Thóc	1
+2025-10-20 15:19:28	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	S©m Hoang Tinh VÉn Phi Lý 	1
+2025-10-20 15:19:38	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	B¨ng Hµn §¬n ChØ Phi §ao	1
+2025-10-20 15:19:52	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	§Þa Ph¸ch TÝch LÞch L«i Háa Giíi	1
+2025-10-20 15:20:00	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	S©m Hoang HuyÒn ThiÕt T­¬ng Ngäc Béi	1
+2025-10-20 15:20:08	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	Thiªn Quang Hoa Vò M¹n Thiªn	1
+2025-10-20 15:22:32	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	§Þa Ph¸ch §Þa Hµnh Thiªn Lý Ngoa	1
+2025-10-20 15:22:44	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	§Þa Ph¸ch §Þa Hµnh Thiªn Lý Ngoa	1
+2025-10-20 15:22:52	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	S©m Hoang HuyÒn ThiÕt T­¬ng Ngäc Béi	1
+2025-10-20 15:23:01	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	§Þa Ph¸ch KhÊu T©m tr¹c	1
+2025-10-20 15:23:32	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	Thiªn Quang Song B¹o Hµn ThiÕt Tr¹c	1
+2025-10-20 15:24:11	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	Thiªn Quang S©m La Thóc §¸i	1
+2025-10-20 15:24:19	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	Thiªn Quang Song B¹o Hµn ThiÕt Tr¹c	1
+2025-10-20 15:24:26	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	B¨ng Hµn HuyÒn Thiªn B¨ng Háa Béi	1
+2025-10-20 15:24:35	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	B¨ng Hµn §¬n ChØ Phi §ao	1
+2025-10-20 15:24:43	giang3	§­êngTam	137	0	§­êng M«n	78	19	SuDungRuongHoangKimMonPhai	S©m Hoang Hån Gi¶o Yªu Thóc	1
+2025-10-20 15:38:37	ductuan1	HoaSat1	122	0	C¸i Bang	78	19	SuDungRuongHoangKimMonPhai	L¨ng Nh¹c V« Ng· Thóc §¸i	1
+2025-10-20 16:29:35	ductuan1	HoaSat1	122	0	C¸i Bang	78	19	SuDungRuongHoangKimMonPhai	CËp Phong Tam Thanh Phï 	1
+2025-10-20 16:37:01	ductuan1	HoaSat1	122	0	C¸i Bang	78	19	SuDungRuongHoangKimMonPhai	V« TrÇn Ngäc N÷ Tè T©m qu¸n	1
+2025-10-20 16:37:34	ductuan1	HoaSat1	122	0	C¸i Bang	78	19	SuDungRuongHoangKimMonPhai	L¨ng Nh¹c V« Ng· Thóc §¸i	1
+2025-10-20 16:37:53	ductuan1	HoaSat1	122	0	C¸i Bang	78	19	SuDungRuongHoangKimMonPhai	§ång Cõu Gi¸ng Long C¸i Y	1
+2025-10-20 16:40:55	ductuan1	HoaSat1	122	0	C¸i Bang	80	19	SuDungRuongHoangKimMonPhai	CËp Phong Ch©n Vò KiÕm	1
+2025-10-20 16:42:06	ductuan1	HoaSat1	122	0	C¸i Bang	78	19	SuDungRuongHoangKimMonPhai	V« Gian CÇm VËn Hé UyÓn	1
+2025-10-20 16:42:18	ductuan1	HoaSat1	122	0	C¸i Bang	78	19	SuDungRuongHoangKimMonPhai	§Þch Kh¸i CÈu TÝch B× Hé uyÓn	1
+2025-10-20 16:42:26	ductuan1	HoaSat1	122	0	C¸i Bang	78	19	SuDungRuongHoangKimMonPhai	CËp Phong Thóy Ngäc HuyÒn Hoµng Béi	1
+2025-10-20 16:42:34	ductuan1	HoaSat1	122	0	C¸i Bang	78	19	SuDungRuongHoangKimMonPhai	V« TrÇn Ngäc N÷ Tè T©m qu¸n	1
+2025-10-20 16:42:45	ductuan1	HoaSat1	122	0	C¸i Bang	78	19	SuDungRuongHoangKimMonPhai	§Þch Kh¸i TriÒn M·ng yªu ®¸i	1
+2025-10-20 16:43:22	ductuan1	HoaSat1	122	0	C¸i Bang	78	19	SuDungRuongHoangKimMonPhai	§ång Cõu Phi Long §Çu hoµn	1
+2025-10-20 16:44:11	ductuan1	HoaSat1	122	0	C¸i Bang	78	19	SuDungRuongHoangKimMonPhai	H¸m Thiªn Hæ ®Çu KhÈn Thóc UyÓn	1
+2025-10-20 16:58:03	sader1	ÙÙKimÙÙ	126	0	ThiÕu L©m ph¸i	80	19	SuDungRuongHoangKimMonPhai	CËp Phong Thóy Ngäc HuyÒn Hoµng Béi	1
+2025-10-20 16:58:12	sader1	ÙÙKimÙÙ	126	0	ThiÕu L©m ph¸i	80	19	SuDungRuongHoangKimMonPhai	CËp Phong Ch©n Vò KiÕm	1
+2025-10-20 16:58:41	sader1	ÙÙKimÙÙ	126	0	ThiÕu L©m ph¸i	80	19	SuDungRuongHoangKimMonPhai	Méng Long Tö Kim B¸t Nh· Giíi	1
+2025-10-20 16:58:51	sader1	ÙÙKimÙÙ	126	0	ThiÕu L©m ph¸i	80	19	SuDungRuongHoangKimMonPhai	Méng Long Kim Ti ChÝnh Hång Cµ Sa	1
+2025-10-20 16:59:16	sader1	ÙÙKimÙÙ	126	0	ThiÕu L©m ph¸i	80	19	SuDungRuongHoangKimMonPhai	B¨ng Hµn HuyÒn Thiªn B¨ng Háa Béi	1
+2025-10-20 16:59:23	sader1	ÙÙKimÙÙ	126	0	ThiÕu L©m ph¸i	80	19	SuDungRuongHoangKimMonPhai	§Þa Ph¸ch Phong Hµn Thóc Yªu	1
+2025-10-20 16:59:46	sader1	ÙÙKimÙÙ	126	0	ThiÕu L©m ph¸i	80	19	SuDungRuongHoangKimMonPhai	Vô Hoan Th¸i Uyªn Ch©n Vò Liªn	1
+2025-10-20 16:59:53	sader1	ÙÙKimÙÙ	126	0	ThiÕu L©m ph¸i	80	19	SuDungRuongHoangKimMonPhai	S­¬ng Tinh Thiªn Tinh B¨ng Tinh thñ 	1
+2025-10-20 17:00:18	sader1	ÙÙKimÙÙ	126	0	ThiÕu L©m ph¸i	80	19	SuDungRuongHoangKimMonPhai	CËp Phong Thóy Ngäc HuyÒn Hoµng Béi	1
+2025-10-20 17:00:25	sader1	ÙÙKimÙÙ	126	0	ThiÕu L©m ph¸i	80	19	SuDungRuongHoangKimMonPhai	Minh ¶o Hñ Cèt Hé uyÓn	1
+2025-10-20 17:00:32	sader1	ÙÙKimÙÙ	126	0	ThiÕu L©m ph¸i	80	19	SuDungRuongHoangKimMonPhai	U Lung Thanh Ng« TriÒn yªu	1
+2025-10-20 22:55:31	samuagiong9165	THOTHO111	95	0	C«n L«n ph¸i	78	19	SuDungRuongHoangKimMonPhai	Minh ¶o Tµ S¸t §éc NhËn	1
+2025-10-20 23:06:48	samuagiong9165	THOTHO111	95	0	C«n L«n ph¸i	78	19	SuDungRuongHoangKimMonPhai	Chó Ph­îc DiÖt L«i C¶nh Phï 	1
+2025-10-20 23:07:28	samuagiong9165	THOTHO111	95	0	C«n L«n ph¸i	78	19	SuDungRuongHoangKimMonPhai	Ma Hoµng Kim Gi¸p Kh«i	1
+2025-10-20 23:08:06	samuagiong9165	THOTHO111	95	0	C«n L«n ph¸i	78	19	SuDungRuongHoangKimMonPhai	Ma S¸t Quû Cèc U Minh Th­¬ng	1

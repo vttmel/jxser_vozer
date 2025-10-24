@@ -1,0 +1,382 @@
+index_Name	index_ItemGenre	index_DetailType	index_ParticualrType	index_taskid	index_level	index_content
+MËt ®å "§ång hµnh luyÖn cÊp" 1	6	1	447	6	15	§Õn Ph­îng T­êng giÕt 50 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 2	6	1	448	7	15	§Õn Ph­îng T­êng giÕt 100 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 3	6	1	449	8	15	§Õn Ph­îng T­êng giÕt 150 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 4	6	1	450	9	15	§Õn Hoa s¬n  giÕt 50 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 5	6	1	451	10	15	§Õn Hoa s¬n  giÕt 100 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 6	6	1	452	11	15	§Õn Hoa s¬n  giÕt 150 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 7	6	1	453	12	25	§Õn KiÕm C¸c T©y B¾c giÕt 50 con Sãi ®á, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 8	6	1	454	13	25	§Õn KiÕm C¸c T©y B¾c giÕt 100 con Sãi ®á, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 9	6	1	455	14	25	§Õn KiÕm C¸c T©y B¾c giÕt 150 con Sãi ®á, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 10	6	1	456	15	35	§Õn Kim Quang ®éng giÕt 50 tªn Th¶o KhÊu Gi¸p, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 11	6	1	457	16	35	§Õn Kim Quang ®éng giÕt 100 tªn Th¶o KhÊu Gi¸p, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 12	6	1	458	17	35	§Õn Kim Quang ®éng giÕt 150 tªn Th¶o KhÊu Gi¸p, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 13	6	1	459	18	45	§Õn Kinh Hoµng ®éng giÕt 50 tªn Thæ PhØ Gi¸p, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 14	6	1	460	19	45	§Õn Kinh Hoµng ®éng giÕt 100 tªn Thæ PhØ Gi¸p, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 15	6	1	461	20	45	§Õn Kinh Hoµng ®éng giÕt 150 tªn Thæ PhØ Gi¸p, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 16	6	1	462	21	45	§Õn Táa V©n ®éng giÕt 50 tªn s¬n  tÆc Êt, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 17	6	1	463	22	45	§Õn Táa V©n ®éng giÕt 100 tªn s¬n  tÆc Êt, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 18	6	1	464	23	45	§Õn Táa V©n ®éng giÕt 150 tªn s¬n  tÆc Êt, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 19	6	1	465	24	25	§Õn TÇn L¨ng giÕt 50 con nhİm, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 20	6	1	466	25	25	§Õn TÇn L¨ng giÕt 100 con nhİm, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 21	6	1	467	26	25	§Õn TÇn L¨ng giÕt 150 con nhİm, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 22	6	1	468	27	35	§Õn tÇng 1 TÇn L¨ng giÕt 50 tªn ThiÕt Tr¶o, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 23	6	1	469	28	35	§Õn tÇng 1 TÇn L¨ng giÕt 100 tªn ThiÕt Tr¶o, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 24	6	1	470	29	35	§Õn tÇng 1 TÇn L¨ng giÕt 150 tªn ThiÕt Tr¶o, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 25	6	1	471	30	75	§Õn tÇng 2 TÇn L¨ng giÕt 50 coi D¬i, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 26	6	1	472	31	75	§Õn tÇng 2 TÇn L¨ng giÕt 50 coi D¬i, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 27	6	1	473	32	75	§Õn tÇng 2 TÇn L¨ng giÕt 50 coi D¬i, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 28	6	1	474	33	85	§Õn tÇng 3 TÇn L¨ng giÕt 50 Méc nh©n, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 29	6	1	475	34	85	§Õn tÇng 3 TÇn l¨ng L¨ng giÕt 100 Méc nh©n, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 30	6	1	476	35	85	§Õn tÇng 3 TÇn l¨ng L¨ng giÕt 150 Méc nh©n, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 31	6	1	477	36	85	§Õn B¨ng Hµ ®éng giÕt 50 tªn Phi Liªm, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 32	6	1	478	37	85	§Õn B¨ng Hµ ®éng giÕt 100 tªn Phi Liªm, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 33	6	1	479	38	85	§Õn B¨ng Hµ ®éng giÕt 150 tªn Phi Liªm, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 34	6	1	480	39	10	VÜnh L¹c trÊn giÕt 50 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 35	6	1	481	40	10	VÜnh L¹c trÊn giÕt 100 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 36	6	1	482	41	10	VÜnh L¹c trÊn giÕt 150 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 37	6	1	483	42	75	§Õn Tr­êng Giang Nguyªn ®Çu giÕt 50 ¸c Ni, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 38	6	1	484	43	75	§Õn Tr­êng Giang Nguyªn ®Çu giÕt 100 ¸c Ni, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 39	6	1	485	44	75	§Õn Tr­êng Giang Nguyªn ®Çu giÕt 150 ¸c Ni, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 40	6	1	486	45	85	§Õn Nh¹n Th¹ch ®éng giÕt 50 tªn H¾c C©n, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 41	6	1	487	46	85	§Õn Nh¹n Th¹ch ®éng giÕt 100 tªn H¾c C©n, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 42	6	1	488	47	85	§Õn Nh¹n Th¹ch ®éng giÕt 150 tªn H¾c C©n, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 43	6	1	489	48	15	§Õn Thµnh §« giÕt 50 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 44	6	1	490	49	15	§Õn Thµnh §« giÕt 100 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 45	6	1	491	50	15	§Õn Thµnh §« giÕt 150 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 46	6	1	492	51	55	§Õn MËt ®¹o Tİn T­íng tù giÕt 50 tªn Hung T¨ng, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 47	6	1	493	52	55	§Õn MËt ®¹o Tİn T­íng tù giÕt 100 tªn Hung T¨ng, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 48	6	1	494	53	55	§Õn MËt ®¹o Tİn T­íng tù giÕt 150 tªn Hung T¨ng, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 49	6	1	495	54	15	§Õn Nga Mi ph¸i giÕt 50 con khØ ngùa, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 50	6	1	496	55	15	§Õn Nga Mi ph¸i giÕt 100 con khØ ngùa, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 51	6	1	497	56	15	§Õn Nga Mi ph¸i giÕt 150 con khØ ngùa, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 52	6	1	498	57	25	§Õn M·nh Hæ ®éng giÕt 50 con B¹ch S¸t Hæ, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 53	6	1	499	58	25	§Õn M·nh Hæ ®éng giÕt 100 con B¹ch S¸t Hæ, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 54	6	1	500	59	25	§Õn M·nh Hæ ®éng giÕt 150 con B¹ch S¸t Hæ, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 55	6	1	501	60	25	§Õn KiÕm C¸c T©y Nam giÕt 50 con nhİm, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 56	6	1	502	61	25	§Õn KiÕm C¸c T©y Nam giÕt 100 con nhİm, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 57	6	1	503	62	25	§Õn KiÕm C¸c T©y Nam giÕt 150 con nhİm, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 58	6	1	504	63	10	§Õn Giang T©n th«n giÕt 50 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 59	6	1	505	64	10	§Õn Giang T©n th«n giÕt 100 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 60	6	1	506	65	10	§Õn Giang T©n th«n giÕt 150 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 61	6	1	507	66	45	§Õn Thanh Thµnh s¬n  giÕt 50 con Kim §iªu, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 62	6	1	508	67	45	§Õn Thanh Thµnh s¬n  giÕt 100 con Kim §iªu, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 63	6	1	509	68	45	§Õn Thanh Thµnh s¬n  giÕt 150 con Kim §iªu, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 64	6	1	510	69	35	§Õn B¹ch V©n ®éng giÕt 50 tªn L­u L·ng, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 65	6	1	511	70	35	§Õn B¹ch V©n ®éng giÕt 100 tªn L­u L·ng, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 66	6	1	512	71	35	§Õn B¹ch V©n ®éng giÕt 150 tªn L­u L·ng, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 67	6	1	513	72	45	§Õn ThÇn Tiªn ®éng giÕt 50 tªn Tr­êng ®ao, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 68	6	1	514	73	45	§Õn ThÇn Tiªn ®éng giÕt 100 tªn Tr­êng ®ao, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 69	6	1	515	74	45	§Õn ThÇn Tiªn ®éng giÕt 150 tªn Tr­êng ®ao, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 70	6	1	516	75	55	§Õn H­ëng Thñy ®éng giÕt 50 tªn Lam C©n, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 71	6	1	517	76	55	§Õn H­ëng Thñy ®éng giÕt 100 tªn Lam C©n, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 72	6	1	518	77	55	§Õn H­ëng Thñy ®éng giÕt 150 tªn Lam C©n, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 73	6	1	519	78	15	§Õn §­êng M«n giÕt 50 con khØ ngùa, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 74	6	1	520	79	15	§Õn §­êng M«n giÕt 100 con khØ ngùa, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 75	6	1	521	80	15	§Õn §­êng M«n giÕt 150 con khØ ngùa, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 76	6	1	522	81	85	§Õn Phï Dung ®éng giÕt 50 tªn Phi Liªm, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 77	6	1	523	82	85	§Õn Phï Dung ®éng giÕt 100 tªn Phi Liªm, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 78	6	1	524	83	85	§Õn Phï Dung ®éng giÕt 150 tªn Phi Liªm, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 79	6	1	525	84	15	§Õn BiÖn Kinh giÕt 50 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 80	6	1	526	85	15	§Õn BiÖn Kinh giÕt 100 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 81	6	1	527	86	15	§Õn BiÖn Kinh giÕt 150 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 82	6	1	528	87	55	§Õn tÇng 1 ThiÕt Th¸p giÕt 50 tªn §ao binh, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 83	6	1	529	88	55	§Õn tÇng 1 ThiÕt Th¸p giÕt 100 tªn §ao binh, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 84	6	1	530	89	55	§Õn tÇng 1 ThiÕt Th¸p giÕt 150 tªn §ao binh, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 85	6	1	531	90	55	§Õn tÇng 2 ThiÕt Th¸p giÕt 50 tªn Th­¬ng binh, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 86	6	1	532	91	55	§Õn tÇng 2 ThiÕt Th¸p giÕt 50 tªn Th­¬ng binh, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 87	6	1	533	92	55	§Õn tÇng 2 ThiÕt Th¸p giÕt 50 tªn Th­¬ng binh, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 88	6	1	534	93	45	§Õn Phôc Ng­u s¬n t©y giÕt 50 con Sãi xanh, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 89	6	1	535	94	45	§Õn Phôc Ng­u s¬n t©y giÕt 100 con Sãi xanh, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 90	6	1	536	95	45	§Õn Phôc Ng­u s¬n t©y giÕt 150 con Sãi xanh, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 91	6	1	537	96	55	§Õn Thiªn T©m ®éng giÕt 50 tªn §o¶n Kİch, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 92	6	1	538	97	55	§Õn Thiªn T©m ®éng giÕt 100 tªn §o¶n Kİch, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 93	6	1	539	98	55	§Õn Thiªn T©m ®éng giÕt 150 tªn §o¶n Kİch, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 94	6	1	540	99	25	§Õn KiÕm C¸c Trung Nguyªn giÕt 50 con Sãi x¸m, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 95	6	1	541	100	25	§Õn KiÕm C¸c Trung Nguyªn giÕt 100 con Sãi x¸m, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 96	6	1	542	101	25	§Õn KiÕm C¸c Trung Nguyªn giÕt 150 con Sãi x¸m, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 97	6	1	543	102	15	§Õn Thiªn NhÉn  gi¸o  giÕt 50 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 98	6	1	544	103	15	§Õn Thiªn NhÉn  gi¸o  giÕt 100 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 99	6	1	545	104	15	§Õn Thiªn NhÉn  gi¸o  giÕt 150 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 100	6	1	546	105	15	§Õn tÇng 1 Thiªn NhÉn  gi¸o giÕt 50 con D¬i, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 101	6	1	547	106	15	§Õn tÇng 1 Thiªn NhÉn  gi¸o giÕt 100 con D¬i, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 102	6	1	548	107	15	§Õn tÇng 1 Thiªn NhÉn  gi¸o giÕt 150 con D¬i, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 103	6	1	549	108	15	§Õn ThÊt S¸t ®éng giÕt 50 tªn M·ng H¸n, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 104	6	1	550	109	15	§Õn ThÊt S¸t ®éng giÕt 100 tªn M·ng H¸n, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 105	6	1	551	110	15	§Õn ThÊt S¸t ®éng giÕt 150 tªn M·ng H¸n, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 106	6	1	552	111	10	§Õn Chu Tiªn trÊn giÕt 50 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 107	6	1	553	112	10	§Õn Chu Tiªn trÊn giÕt 100 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 108	6	1	554	113	10	§Õn Chu Tiªn trÊn giÕt 150 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 109	6	1	555	114	10	§Õn Ba L¨ng huyÖn giÕt 50 con Kim Miªu.
+MËt ®å "§ång hµnh luyÖn cÊp" 110	6	1	556	115	10	§Õn Ba L¨ng huyÖn giÕt 100 con Kim Miªu.
+MËt ®å "§ång hµnh luyÖn cÊp" 111	6	1	557	116	10	§Õn Ba L¨ng huyÖn giÕt 150 con Kim Miªu.
+MËt ®å "§ång hµnh luyÖn cÊp" 112	6	1	558	117	15	§Õn Nam Nh¹c trÊn giÕt 50 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 113	6	1	559	118	15	§Õn Nam Nh¹c trÊn giÕt 100 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 114	6	1	560	119	15	§Õn Nam Nh¹c trÊn giÕt 150 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 115	6	1	561	120	75	§Õn §µo Hoa Nguyªn giÕt 50 con H­¬u ®èm, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 116	6	1	562	121	75	§Õn §µo Hoa Nguyªn giÕt 100 con H­¬u ®èm, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 117	6	1	563	122	75	§Õn §µo Hoa Nguyªn giÕt 150 con H­¬u ®èm, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 118	6	1	564	123	65	§Õn Hoµnh s¬n  ph¸i giÕt 50 con Kim §iªu, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 119	6	1	565	124	65	§Õn Hoµnh s¬n  ph¸i giÕt 100 con Kim §iªu, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 120	6	1	566	125	65	§Õn Hoµnh s¬n  ph¸i giÕt 150 con Kim §iªu, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 121	6	1	567	126	15	§Õn Thiªn V­¬ng  ®¶o s¬n  ®éng giÕt 50 con Kim Miªu, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 122	6	1	568	127	15	§Õn Thiªn V­¬ng  ®¶o s¬n  ®éng giÕt 100 con Kim Miªu, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 123	6	1	569	128	15	§Õn Thiªn V­¬ng  ®¶o s¬n  ®éng giÕt 150 con Kim Miªu, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 124	6	1	570	129	55	§Õn tÇng 1 §éng §×nh Hå giÕt 50 con c¸ sÊu, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 125	6	1	571	130	55	§Õn tÇng 1 §éng §×nh Hå giÕt 100 con c¸ sÊu, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 126	6	1	572	131	55	§Õn tÇng 1 §éng §×nh Hå giÕt 150 con c¸ sÊu, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 127	6	1	573	132	65	§Õn Thanh Loa ®¶o giÕt 50 tªn Lam C©n, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 128	6	1	574	133	65	§Õn Thanh Loa ®¶o giÕt 100 tªn Lam C©n, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 129	6	1	575	134	65	§Õn Thanh Loa ®¶o giÕt 50 tªn Lam C©n, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 130	6	1	576	135	75	§Õn Thanh Loa ®¶o s¬n  ®éng giÕt 50 tªn ThiÕt Tr¶o, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 131	6	1	577	136	75	§Õn Thanh Loa ®¶o s¬n  ®éng giÕt 100 tªn ThiÕt Tr¶o, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 132	6	1	578	137	75	§Õn Thanh Loa ®¶o s¬n  ®éng giÕt 150 tªn ThiÕt Tr¶o, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 133	6	1	579	138	25	§Õn Vò L¨ng s¬n  giÕt 50 con Th­¬ng ¦ng, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 134	6	1	580	139	25	§Õn Vò L¨ng s¬n  giÕt 100 con Th­¬ng ¦ng, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 135	6	1	581	140	25	§Õn Vò L¨ng s¬n  giÕt 150 con Th­¬ng ¦ng, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 136	6	1	582	141	25	§Õn B¹ch Thñy ®éng giÕt 50 tªn §ång Chïy, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 137	6	1	583	142	25	§Õn B¹ch Thñy ®éng giÕt 100 tªn §ång Chïy, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 138	6	1	584	143	25	§Õn B¹ch Thñy ®éng giÕt 150 tªn §ång Chïy, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 139	6	1	585	144	75	§Õn §¹i Tï ®éng giÕt 50 tªn §ång Chïy, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 140	6	1	586	145	75	§Õn §¹i Tï ®éng giÕt 100 tªn §ång Chïy, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 141	6	1	587	146	75	§Õn §¹i Tï ®éng giÕt 150 tªn §ång Chïy, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 142	6	1	588	147	25	§Õn Phôc L­u ®éng giÕt 50 con c¸ sÊu, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 143	6	1	589	148	25	§Õn Phôc L­u ®éng giÕt 100 con c¸ sÊu, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 144	6	1	590	149	25	§Õn Phôc L­u ®éng giÕt 150 con c¸ sÊu, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 145	6	1	591	150	35	§Õn Miªu LÜnh giÕt 50 con tr©u rõng, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 146	6	1	592	151	35	§Õn Miªu LÜnh giÕt 100 con tr©u rõng, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 147	6	1	593	152	35	§Õn Miªu LÜnh giÕt 150 con tr©u rõng, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 148	6	1	594	153	95	§Õn Kho¶ Lang ®éng giÕt 50 Lang Bæng, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 149	6	1	595	154	95	§Õn Kho¶ Lang ®éng giÕt 100 Lang Bæng, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 150	6	1	596	155	95	§Õn Kho¶ Lang ®éng giÕt 150 Lang Bæng, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 151	6	1	597	156	75	§Õn S¬n B¶o ®éng giÕt 50 Háa Viªm Hæ, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 152	6	1	598	157	75	§Õn S¬n B¶o ®éng giÕt 100 Háa Viªm Hæ, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 153	6	1	599	158	75	§Õn S¬n B¶o ®éng giÕt 150 Háa Viªm Hæ, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 154	6	1	600	159	35	§Õn YÕn Tö ®éng giÕt 50 con D¬i, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 155	6	1	601	160	35	§Õn YÕn Tö ®éng giÕt 100 con D¬i, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 156	6	1	602	161	35	§Õn YÕn Tö ®éng giÕt 150 con D¬i, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 157	6	1	603	162	85	§Õn Vò L¨ng ®éng giÕt 50 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 158	6	1	604	163	85	§Õn Vò L¨ng ®éng giÕt 100 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 159	6	1	605	164	85	§Õn Vò L¨ng ®éng giÕt 150 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 160	6	1	606	165	15	§Õn T­¬ng D­¬ng giÕt 50 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 161	6	1	607	166	15	§Õn T­¬ng D­¬ng giÕt 100 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 162	6	1	608	167	15	§Õn T­¬ng D­¬ng giÕt 150 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 163	6	1	609	168	65	§Õn T­¬ng D­¬ng mËt ®¹o giÕt 50 tªn §ao binh §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 164	6	1	610	169	65	§Õn T­¬ng D­¬ng mËt ®¹o giÕt 100 tªn §ao binh, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 165	6	1	611	170	65	§Õn T­¬ng D­¬ng mËt ®¹o giÕt 150 tªn §ao binh, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 166	6	1	612	171	15	§Õn D­¬ng Ch©u giÕt 50 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 167	6	1	613	172	15	§Õn D­¬ng Ch©u giÕt 100 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 168	6	1	614	173	15	§Õn D­¬ng Ch©u giÕt 150 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 169	6	1	615	174	25	§Õn Háa Lang ®éng giÕt 50 con Th­¬ng H©n, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 170	6	1	616	175	25	§Õn Háa Lang ®éng giÕt 100 con Th­¬ng H©n, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 171	6	1	617	176	25	§Õn Háa Lang ®éng giÕt 150 con Th­¬ng H©n, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 172	6	1	618	177	35	§Õn Phôc Ng­u s¬n  §«ng giÕt 50 con Sãi xanh, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 173	6	1	619	178	35	§Õn Phôc Ng­u s¬n  §«ng giÕt 100 con Sãi xanh, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 174	6	1	620	179	35	§Õn Phôc Ng­u s¬n  §«ng giÕt 150 con Sãi xanh, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 175	6	1	621	180	45	§Õn Kª Qu¸n ®éng giÕt 50 con Háa V©n Hæ, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 176	6	1	622	181	45	§Õn Kª Qu¸n ®éng giÕt 100 con Háa V©n Hæ, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 177	6	1	623	182	45	§Õn Kª Qu¸n ®éng giÕt 150 con Háa V©n Hæ, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 178	6	1	624	183	35	§Õn Thôc C­¬ng s¬n  giÕt 50 con khØ x¸m, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 179	6	1	625	184	35	§Õn Thôc C­¬ng s¬n  giÕt 100 con khØ x¸m, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 180	6	1	626	185	35	§Õn Thôc C­¬ng s¬n  giÕt 150 con khØ x¸m, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 181	6	1	627	186	95	§Õn TiÕn Cóc ®éng giÕt 50 tªn §ao Kh¸ch, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 182	6	1	628	187	95	§Õn TiÕn Cóc ®éng giÕt 100 tªn §ao Kh¸ch, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 183	6	1	629	188	95	§Õn TiÕn Cóc ®éng giÕt 150 tªn §ao Kh¸ch, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 184	6	1	630	189	75	§Õn Linh Cèc ®éng giÕt 50 con GÊu n©u, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 185	6	1	631	190	75	§Õn Linh Cèc ®éng giÕt 100 con GÊu n©u, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 186	6	1	632	191	75	§Õn Linh Cèc ®éng giÕt 150 con GÊu n©u, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 187	6	1	633	192	10	§Õn §¹o H­¬ng th«n giÕt 50 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 188	6	1	634	193	10	§Õn §¹o H­¬ng th«n giÕt 100 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 189	6	1	635	194	10	§Õn §¹o H­¬ng th«n giÕt 150 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 190	6	1	636	195	15	§Õn Méc Nh©n H¹ng giÕt 50 tªn Méc nh©n, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 191	6	1	637	196	15	§Õn Méc Nh©n H¹ng L¨ng giÕt 100 Méc nh©n, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 192	6	1	638	197	15	§Õn Méc Nh©n H¹ng L¨ng giÕt 150 Méc nh©n, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 193	6	1	639	198	45	§Õn ThiÕu L©m MËt thÊt giÕt 50 tªn §ång nh©n, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 194	6	1	640	199	45	§Õn ThiÕu L©m MËt thÊt giÕt 100 tªn §ång nh©n, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 195	6	1	641	200	45	§Õn ThiÕu L©m MËt thÊt giÕt 150 tªn §ång nh©n, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 196	6	1	642	201	85	§Õn Phi Thiªn ®éng giÕt 50 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 197	6	1	643	202	85	§Õn Phi Thiªn ®éng giÕt 100 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 198	6	1	644	203	85	§Õn Phi Thiªn ®éng giÕt 150 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 199	6	1	645	204	85	§Õn Phong L¨ng §é giÕt 50 tªn ThÇn Tı, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 200	6	1	646	205	85	§Õn Phong L¨ng §é giÕt 100 tªn ThÇn Tı, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 201	6	1	647	206	85	§Õn Phong L¨ng §é giÕt 150 tªn ThÇn Tı, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 202	6	1	648	207	55	§Õn tÇng 1 T­êng V©n ®éng giÕt 50 tªn §ao Kh¸ch, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 203	6	1	649	208	55	§Õn tÇng 1 T­êng V©n ®éng giÕt 100 tªn §ao Kh¸ch, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 204	6	1	650	209	55	§Õn tÇng 1 T­êng V©n ®éng giÕt 150 tªn §ao Kh¸ch, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 205	6	1	651	210	65	§Õn tÇng 2 T­êng V©n ®éng giÕt 50 tªn s¬n  tÆc, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 206	6	1	652	211	65	§Õn tÇng 2 T­êng V©n ®éng giÕt 100 tªn s¬n  tÆc, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 207	6	1	653	212	65	§Õn tÇng 2 T­êng V©n ®éng giÕt 150 tªn s¬n  tÆc, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 208	6	1	654	213	65	§Õn tÇng 3 T­êng V©n ®éng giÕt 50 Lang Bæng, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 209	6	1	655	214	65	§Õn tÇng 3 T­êng V©n ®éng giÕt 100 Lang Bæng, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 210	6	1	656	215	65	§Õn tÇng 3 T­êng V©n ®éng giÕt 150 Lang Bæng, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 211	6	1	657	216	65	§Õn tÇng 4 T­êng V©n ®éng giÕt 50 tªn Ngäc DiÖn, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 212	6	1	658	217	65	§Õn tÇng 4 T­êng V©n ®éng giÕt 100 tªn Ngäc DiÖn, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 213	6	1	659	218	65	§Õn tÇng 4 T­êng V©n ®éng giÕt 150 tªn Ngäc DiÖn, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 214	6	1	660	219	75	§Õn tÇng 5 T­êng V©n ®éng giÕt 50 tªn §én Phñ, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 215	6	1	661	220	75	§Õn tÇng 5 T­êng V©n ®éng giÕt 100 tªn §én Phñ, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 216	6	1	662	221	75	§Õn tÇng 5 T­êng V©n ®éng giÕt 150 tªn §én Phñ, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 217	6	1	663	222	85	§Õn D­¬ng Trung ®éng giÕt 50 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 218	6	1	664	223	85	§Õn D­¬ng Trung ®éng giÕt 100 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 219	6	1	665	224	85	§Õn D­¬ng Trung ®éng giÕt 150 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 220	6	1	666	225	10	§Õn Long M«n trÊn giÕt 50 con Kim Miªu.
+MËt ®å "§ång hµnh luyÖn cÊp" 221	6	1	667	226	10	§Õn Long M«n trÊn giÕt 100 con Kim Miªu.
+MËt ®å "§ång hµnh luyÖn cÊp" 222	6	1	668	227	10	§Õn Long M«n trÊn giÕt 150 con Kim Miªu.
+MËt ®å "§ång hµnh luyÖn cÊp" 223	6	1	669	228	45	§Õn Hoµng hµ Nguyªn ®Çu giÕt 50 con B¹ch hæ, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 224	6	1	670	229	45	§Õn Hoµng hµ Nguyªn ®Çu giÕt 100 con B¹ch hæ, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 225	6	1	671	230	45	§Õn Hoµng hµ Nguyªn ®Çu giÕt 150 con B¹ch hæ, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 226	6	1	672	231	75	§Õn L·o Hæ ®éng giÕt 50 tªn Tr­êng Th­¬ng, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 227	6	1	673	232	75	§Õn L·o Hæ ®éng giÕt 100 tªn Tr­êng Th­¬ng, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 228	6	1	674	233	75	§Õn L·o Hæ ®éng giÕt 150 tªn Tr­êng Th­¬ng, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 229	6	1	675	234	95	§Õn C¸n Viªn ®éng giÕt 50 con Voi Hoµng hµ, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 230	6	1	676	235	95	§Õn C¸n Viªn ®éng giÕt 100 con Voi Hoµng hµ, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 231	6	1	677	236	95	§Õn C¸n Viªn ®éng giÕt 150 con Voi Hoµng hµ, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 232	6	1	678	237	55	§Õn tÇng 1 L­u Tiªn ®éng giÕt 50 tªn §o¶n Kİch, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 233	6	1	679	238	55	§Õn tÇng 1 L­u Tiªn ®éng giÕt 100 tªn §o¶n Kİch, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 234	6	1	680	239	55	§Õn tÇng 1 L­u Tiªn ®éng giÕt 150 tªn §o¶n Kİch, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 235	6	1	681	240	65	§Õn tÇng 2 L­u Tiªn ®éng giÕt 50 tªn Ngäc DiÖn, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 236	6	1	682	241	65	§Õn tÇng 2 L­u Tiªn ®éng giÕt 100 tªn Ngäc DiÖn, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 237	6	1	683	242	65	§Õn tÇng 2 L­u Tiªn ®éng giÕt 150 tªn Ngäc DiÖn, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 238	6	1	684	243	65	§Õn tÇng 3 L­u Tiªn ®éng giÕt 50 tªn L­u L·ng, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 239	6	1	685	244	65	§Õn tÇng 3 L­u Tiªn ®éng giÕt 100 tªn L­u L·ng, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 240	6	1	686	245	65	§Õn tÇng 3 L­u Tiªn ®éng giÕt 150 tªn L­u Lang, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 241	6	1	687	246	65	§Õn tÇng 4 L­u Tiªn ®éng giÕt 50 tªn B×nh Th­¬ng, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 242	6	1	688	247	65	§Õn tÇng 4 L­u Tiªn ®éng giÕt 100 tªn B×nh Th­¬ng, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 243	6	1	689	248	65	§Õn tÇng 4 L­u Tiªn ®éng giÕt 150 tªn B×nh Th­¬ng, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 244	6	1	690	249	75	§Õn tÇng 5 L­u Tiªn ®éng giÕt 50 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 245	6	1	691	250	75	§Õn tÇng 5 L­u Tiªn ®éng giÕt 100 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 246	6	1	692	251	75	§Õn tÇng 5 L­u Tiªn ®éng giÕt 150 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 247	6	1	693	252	75	§Õn tÇng 6 L­u Tiªn ®éng giÕt 50 tªn Hµnh Gi¶, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 248	6	1	694	253	75	§Õn tÇng 6 L­u Tiªn ®éng giÕt 100 tªn Hµnh Gi¶, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 249	6	1	695	254	75	§Õn tÇng 6 L­u Tiªn ®éng giÕt 150 tªn Hµnh Gi¶, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 250	6	1	696	255	55	§Õn B¨ng HuyÖt ®éng giÕt 50 con TuyÕt Qu¸i, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 251	6	1	697	256	55	§Õn B¨ng HuyÖt ®éng giÕt 100 con TuyÕt Qu¸i, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 252	6	1	698	257	55	§Õn B¨ng HuyÖt ®éng giÕt 150 con TuyÕt Qu¸i, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 253	6	1	699	258	45	§Õn KiÕn Tİnh Phong s¬n  ®éng giÕt 50 tªn §én Phñ, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 254	6	1	700	259	45	§Õn KiÕn Tİnh Phong s¬n  ®éng giÕt 100 tªn §én Phñ, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 255	6	1	701	260	45	§Õn KiÕn Tİnh Phong s¬n  ®éng giÕt 150 tªn §én Phñ, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 256	6	1	702	261	85	§Õn Sa m¹c §Şa biÓu giÕt 50 con bß c¹p, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 257	6	1	703	262	85	§Õn Sa m¹c §Şa biÓu giÕt 100 con bß c¹p, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 258	6	1	704	263	85	§Õn Sa m¹c §Şa biÓu giÕt 150 con bß c¹p, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 259	6	1	705	264	95	§Õn tÇng 1 Sa M¹c s¬n  ®éng giÕt 50 tªn L­u V©n, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 260	6	1	706	265	95	§Õn tÇng 1 Sa M¹c s¬n  ®éng giÕt 100 tªn L­u V©n, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 261	6	1	707	266	95	§Õn tÇng 1 Sa M¹c s¬n  ®éng giÕt 150 tªn L­u V©n, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 262	6	1	708	267	95	§Õn tÇng 2 Sa M¹c s¬n  ®éng giÕt 50 tªn L­u V©n, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 263	6	1	709	268	95	§Õn tÇng 2 Sa M¹c s¬n  ®éng giÕt 100 tªn L­u V©n, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 264	6	1	710	269	95	§Õn tÇng 2 Sa M¹c s¬n  ®éng giÕt 150 tªn L­u V©n, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 265	6	1	711	270	35	§Õn Kho¸i Ho¹t l©m giÕt 50 tªn §ång Chïy, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 266	6	1	712	271	35	§Õn Kho¸i Ho¹t l©m giÕt 100 tªn §ång Chïy, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 267	6	1	713	272	35	§Õn Kho¸i Ho¹t l©m giÕt 150 tªn §ång Chïy, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 268	6	1	714	273	15	§Õn D­îc V­¬ng  giÕt 50 con Linh Miªu, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 269	6	1	715	274	15	§Õn D­îc V­¬ng cèc giÕt 100 con Linh Miªu, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 270	6	1	716	275	15	§Õn D­îc V­¬ng cèc giÕt 150 con Linh Miªu, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 271	6	1	717	276	35	§Õn tÇng 1 D­îc V­¬ng ®éng giÕt 50 tªn ThiÕt Tr¶o, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 272	6	1	718	277	35	§Õn tÇng 1 D­îc V­¬ng ®éng giÕt 100 tªn ThiÕt Tr¶o, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 273	6	1	719	278	35	§Õn tÇng 1 D­îc V­¬ng ®éng giÕt 150 tªn ThiÕt Tr¶o, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 274	6	1	720	279	75	§Õn tÇng 2 D­îc V­¬ng ®éng giÕt 50 tªn §ång Chïy, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 275	6	1	721	280	75	§Õn tÇng 2 D­îc V­¬ng ®éng giÕt 100 tªn §ång Chïy, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 276	6	1	722	281	75	§Õn tÇng 2 D­îc V­¬ng ®éng giÕt 150 tªn §ång Chïy, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 277	6	1	723	282	85	§Õn tÇng 3 D­îc V­¬ng ®éng giÕt 50 tªn Lam C©n, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 278	6	1	724	283	85	§Õn tÇng 3 D­îc V­¬ng ®éng giÕt 100 tªn Lam C©n, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 279	6	1	725	284	85	§Õn tÇng 3 D­îc V­¬ng ®éng giÕt 50 tªn Lam C©n, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 280	6	1	726	285	95	§Õn tÇng 4 D­îc V­¬ng ®éng giÕt 50 tªn Xuyªn s¬n, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 281	6	1	727	286	95	§Õn tÇng 4 D­îc V­¬ng ®éng giÕt 100 tªn Xuyªn s¬n, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 282	6	1	728	287	95	§Õn tÇng 4 D­îc V­¬ng ®éng giÕt 150 tªn Xuyªn s¬n, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 283	6	1	729	288	85	§Õn Cæ D­¬ng ®éng giÕt 50 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 284	6	1	730	289	85	§Õn Cæ D­¬ng ®éng giÕt 100 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 285	6	1	731	290	85	§Õn Cæ D­¬ng ®éng giÕt 150 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 286	6	1	732	291	95	§Õn M¹c Cao QuËt giÕt 50 tªn Phi Sa, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 287	6	1	733	292	95	§Õn M¹c Cao QuËt giÕt 100 tªn Phi Sa, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 288	6	1	734	293	95	§Õn M¹c Cao QuËt giÕt 150 tªn Phi Sa, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 289	6	1	735	294	10	§Õn Th¹ch Cæ trÊn giÕt 50 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 290	6	1	736	295	10	§Õn Th¹ch Cæ trÊn giÕt 100 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 291	6	1	737	296	10	§Õn Th¹ch Cæ trÊn giÕt 150 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 292	6	1	738	297	15	§Õn Thóy Yªn m«n giÕt 50 con Ho¸n hïng, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 293	6	1	739	298	15	§Õn Thóy Yªn m«n giÕt 100 con Ho¸n hïng, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 294	6	1	740	299	15	§Õn Thóy Yªn m«n giÕt 150 con Ho¸n hïng, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 295	6	1	741	300	65	§Õn CÊm ®Şa mª cung giÕt 50 tªn H¾c C©n, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 296	6	1	742	301	65	§Õn CÊm ®Şa mª cung giÕt 100 tªn H¾c C©n, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 297	6	1	743	302	65	§Õn CÊm ®Şa mª cung giÕt 150 tªn H¾c C©n, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 298	6	1	744	303	15	§Õn §¹i Lı giÕt 50 con Th»n l»n ®á, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 299	6	1	745	304	15	§Õn §¹i Lı giÕt 100 con Th»n l»n ®á, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 300	6	1	746	305	15	§Õn §¹i Lı giÕt 150 con Th»n l»n ®á, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 301	6	1	747	306	55	§Õn ¸c B¸ Gia ®Şa ®¹o giÕt 50 tªn ¸c B¸, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 302	6	1	748	307	55	§Õn ¸c B¸ Gia ®Şa ®¹o giÕt 100 tªn ¸c B¸, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 303	6	1	749	308	55	§Õn ¸c B¸ Gia ®Şa ®¹o giÕt 150 tªn ¸c B¸, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 304	6	1	750	309	55	§Õn tÇng 1 Thiªn TÇm th¸p giÕt 50 tªn M·ng H¸n, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 305	6	1	751	310	55	§Õn tÇng 1 Thiªn TÇm th¸p giÕt 100 tªn M·ng H¸n, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 306	6	1	752	311	55	§Õn tÇng 1 Thiªn TÇm th¸p giÕt 150 tªn M·ng H¸n, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 307	6	1	753	312	55	§Õn tÇng 2 Thiªn TÇm th¸p giÕt 50 tªn L­u L·ng, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 308	6	1	754	313	55	§Õn tÇng 2 Thiªn TÇm th¸p giÕt 100 tªn L­u L·ng, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 309	6	1	755	314	55	§Õn tÇng 2 Thiªn TÇm th¸p giÕt 150 tªn L­u Lang, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 310	6	1	756	315	65	§Õn tÇng 3 Thiªn TÇm th¸p giÕt 50 tªn Song Phong, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 311	6	1	757	316	65	§Õn tÇng 3 Thiªn TÇm th¸p giÕt 100 tªn Song Phong, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 312	6	1	758	317	65	§Õn tÇng 3 Thiªn TÇm th¸p giÕt 150 tªn Song Phong, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 313	6	1	759	318	45	§Õn §iÓm Th­¬ng s¬n  giÕt 50 con X¸ LŞ, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 314	6	1	760	319	45	§Õn §iÓm Th­¬ng s¬n  giÕt 100 con X¸ LŞ, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 315	6	1	761	320	45	§Õn §iÓm Th­¬ng s¬n  giÕt 150 con X¸ LŞ, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 316	6	1	762	321	45	§Õn Phông Nh·n ®éng giÕt 50 con D¬i ®á, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 317	6	1	763	322	45	§Õn Phông Nh·n ®éng giÕt 100 con D¬i ®á, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 318	6	1	764	323	45	§Õn Phông Nh·n ®éng giÕt 150 con D¬i ®á, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 319	6	1	765	324	75	§Õn Long Nh·n ®éng  giÕt 50 con Lîi Phñ, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 320	6	1	766	325	75	§Õn Long Nh·n ®éng  giÕt 100 con Lîi Phñ, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 321	6	1	767	326	75	§Õn Long Nh·n ®éng  giÕt 150 con Lîi Phñ, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 322	6	1	768	327	35	§Õn Thæ PhØ ®éng giÕt 50 tªn M·ng H¸n, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 323	6	1	769	328	35	§Õn Thæ PhØ ®éng giÕt 100 tªn M·ng H¸n, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 324	6	1	770	329	35	§Õn Thæ PhØ ®éng giÕt 150 tªn M·ng H¸n, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 325	6	1	771	330	45	§Õn tÇng 1 §iÓm Th­¬ng ®éng giÕt 50 tªn M·ng H¸n, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 326	6	1	772	331	45	§Õn tÇng 1 §iÓm Th­¬ng ®éng giÕt 100 tªn M·ng H¸n, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 327	6	1	773	332	45	§Õn tÇng 1 §iÓm Th­¬ng ®éng giÕt 150 tªn M·ng H¸n, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 328	6	1	774	333	45	§Õn tÇng 2 §iÓm Th­¬ng ®éng giÕt 50 tªn Ngäc DiÖn, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 329	6	1	775	334	45	§Õn tÇng 2 §iÓm Th­¬ng ®éng giÕt 100 tªn Ngäc DiÖn, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 330	6	1	776	335	45	§Õn tÇng 2 §iÓm Th­¬ng ®éng giÕt 150 tªn Ngäc DiÖn, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 331	6	1	777	336	45	§Õn tÇng 3 §iÓm Th­¬ng ®éng giÕt 50 tªn H¾c C©n, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 332	6	1	778	337	45	§Õn tÇng 3 §iÓm Th­¬ng ®éng giÕt 100 tªn H¾c C©n, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 333	6	1	779	338	45	§Õn tÇng 3 §iÓm Th­¬ng ®éng giÕt 150 tªn H¾c C©n, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 334	6	1	780	339	85	§Õn V« Danh ®éng giÕt 50 tªn Tr­êng Th­¬ng, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 335	6	1	781	340	85	§Õn V« Danh ®éng giÕt 100 tªn Tr­êng Th­¬ng, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 336	6	1	782	341	85	§Õn V« Danh ®éng giÕt 150 tªn Tr­êng Th­¬ng, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 337	6	1	783	342	10	§Õn Long TuyÒn th«n giÕt 50 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 338	6	1	784	343	10	§Õn Long TuyÒn th«n giÕt 100 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 339	6	1	785	344	10	§Õn Long TuyÒn th«n giÕt 150 con Heo tr¾ng.
+MËt ®å "§ång hµnh luyÖn cÊp" 340	6	1	786	345	15	§Õn L©m An giÕt 50 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 341	6	1	787	346	15	§Õn L©m An giÕt 100 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 342	6	1	788	347	15	§Õn L©m An giÕt 150 con nhİm, §ång hµnh ®¼ng cÊp tõ 5 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 343	6	1	789	348	25	§Õn La Tiªu s¬n  giÕt 50 con Sãi x¸m, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 344	6	1	790	349	25	§Õn La Tiªu s¬n  giÕt 100 con Sãi x¸m, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 345	6	1	791	350	25	§Õn La Tiªu s¬n  giÕt 150 con Sãi x¸m, §ång hµnh ®¼ng cÊp tõ 15 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 346	6	1	792	351	45	§Õn Long Cung ®éng giÕt 50 tªn H¾c C©n, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 347	6	1	793	352	45	§Õn Long Cung ®éng giÕt 100 tªn H¾c C©n, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 348	6	1	794	353	45	§Õn Long Cung ®éng giÕt 150 tªn H¾c C©n, §ång hµnh ®¼ng cÊp tõ 35 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 349	6	1	795	354	85	§Õn L­ìng Thñy ®éng giÕt 50 tªn ¶nh C«n, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 350	6	1	796	355	85	§Õn L­ìng Thñy ®éng giÕt 100 tªn ¶nh C«n, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 351	6	1	797	356	85	§Õn L­ìng Thñy ®éng giÕt 150 tªn ¶nh C«n, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 352	6	1	798	357	55	§Õn NghiÖt Long ®éng giÕt 50 tªn B×nh Th­¬ng, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 353	6	1	799	358	55	§Õn NghiÖt Long ®éng giÕt 100 tªn B×nh Th­¬ng, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 354	6	1	800	359	55	§Õn NghiÖt Long ®éng giÕt 150 tªn B×nh Th­¬ng, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 355	6	1	801	360	35	§Õn Vò Di s¬n  giÕt 50 tªn TuyÕt B¸o, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 356	6	1	802	361	35	§Õn Vò Di s¬n  giÕt 100 tªn TuyÕt B¸o, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 357	6	1	803	362	35	§Õn Vò Di s¬n  giÕt 150 tªn TuyÕt B¸o, §ång hµnh ®¼ng cÊp tõ 25 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 358	6	1	804	363	55	§Õn Ngäc Hoa ®éng giÕt 50 tªn Lam C©n, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 359	6	1	805	364	55	§Õn Ngäc Hoa ®éng giÕt 100 tªn Lam C©n, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 360	6	1	806	365	55	§Õn Ngäc Hoa ®éng giÕt 50 tªn Lam C©n, §ång hµnh ®¼ng cÊp tõ 45 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 361	6	1	807	366	65	§Õn D­¬ng Gi¸c ®éng giÕt 50 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 362	6	1	808	367	65	§Õn D­¬ng Gi¸c ®éng giÕt 100 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 363	6	1	809	368	65	§Õn D­¬ng Gi¸c ®éng giÕt 150 tªn KÕ Chñy, §ång hµnh ®¼ng cÊp tõ 55 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 364	6	1	810	369	85	§Õn Thanh Khª ®éng giÕt 50 tªn Phi Liªm, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 365	6	1	811	370	85	§Õn Thanh Khª ®éng giÕt 100 tªn Phi Liªm, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 366	6	1	812	371	85	§Õn Thanh Khª ®éng giÕt 150 tªn Phi Liªm, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 367	6	1	813	372	75	§Õn L©m Du Quan  giÕt 50 tªn B«n L«i, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 368	6	1	814	373	75	§Õn L©m Du Quan  giÕt 50 tªn B«n L«i, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 369	6	1	815	374	75	§Õn L©m Du Quan  giÕt 50 tªn B«n L«i, §ång hµnh ®¼ng cÊp tõ 65 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 370	6	1	816	375	85	§Õn Tr­êng B¹ch s¬n  giÕt 50 tªn §éc Bé, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 371	6	1	817	376	85	§Õn Tr­êng B¹ch s¬n  giÕt 100 tªn §éc Bé, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 372	6	1	818	377	85	§Õn Tr­êng B¹ch s¬n  giÕt 150 tªn §éc Bé, §ång hµnh ®¼ng cÊp tõ 75 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 373	6	1	819	378	95	§Õn Tr­êng B¹ch nam  giÕt 50 tªn S­¬ng §ao, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 374	6	1	820	379	95	§Õn Tr­êng B¹ch nam  giÕt 100 tªn S­¬ng §ao, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 375	6	1	821	380	95	§Õn Tr­êng B¹ch nam  giÕt 150 tªn S­¬ng §ao, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 376	6	1	822	381	95	§Õn Tr­êng B¹ch b¾c  giÕt 50 tªn §ao Tr¶m, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 377	6	1	823	382	95	§Õn Tr­êng B¹ch b¾c  giÕt 100 tªn §ao Tr¶m, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 378	6	1	824	383	95	§Õn Tr­êng B¹ch b¾c  giÕt 150 tªn §ao Tr¶m, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 379	6	1	825	384	95	§Õn M¹c B¾c Th¶o Nguyªn giÕt 50 tªn M«ng Cæ Vâ sÜ, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 380	6	1	826	385	95	§Õn M¹c B¾c Th¶o Nguyªn giÕt 100 tªn M«ng Cæ Vâ sÜ, §ång hµnh ®¼ng cÊp tõ 85 trë lªn
+MËt ®å "§ång hµnh luyÖn cÊp" 381	6	1	827	386	95	§Õn M¹c B¾c Th¶o Nguyªn giÕt 150 tªn M«ng Cæ Vâ sÜ, §ång hµnh ®¼ng cÊp tõ 85 trë lªn

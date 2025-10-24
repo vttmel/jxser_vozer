@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+321	1474	3008	Tr­êng B¹ch S¬n Nam
+321	1065	3059	Tr­êng B¹ch S¬n Nam
+321	1007	2626	Tr­êng B¹ch S¬n Nam
+321	1413	2440	Tr­êng B¹ch S¬n Nam

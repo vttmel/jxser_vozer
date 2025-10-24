@@ -1,0 +1,63 @@
+-- Developer by AloneScript
+
+Include("\\script\\misc\\eventsys\\eventsys.lua")
+
+pEventType =  EventSys:NewType("AddFeatureOption")
+
+
+function pEventType:Reg(szItemName, szOptName, fn, tbParam, fnLimit, tbLimitParam)
+	
+	self.MapEvnent[szItemName] = self.MapEvnent[szItemName] or {}
+	local nNewId = getn(self.MapEvnent[szItemName]) + 1
+	self.MapEvnent[szItemName][nNewId] = 
+	{
+		szOptName = szOptName,
+		fn = fn,
+		tbParam = tbParam,
+		fnLimit = fnLimit,
+		tbLimitParam = tbLimitParam,
+		nPackNo = curpack(),
+	}
+	return nNewId
+end
+
+function pEventType:OnEvent(szItemName, tbDailog, nItemIndex)
+	if not self.MapEvnent[szItemName] then
+		return
+	end
+	for nId=1, getn(self.MapEvnent[szItemName]) do
+		local tbProcParam = self.MapEvnent[szItemName][nId]
+		
+		local fnLimit = tbProcParam.fnLimit
+		if not self:CanAdd(tbProcParam.fnLimit, tbProcParam.tbLimitParam, nItemIndex) then
+			return 
+		end
+		
+		
+		tbDailog:AddOptEntry(tbProcParam.szOptName, self.OnSelectOpt, {self, tbProcParam.nPackNo, tbProcParam.fn, tbProcParam.tbParam})
+		
+	end
+end
+
+function pEventType:CanAdd(fnLimit, tbLimitParam, nItemIndex)
+	if fnLimit then
+		local tbParam = {}
+		if tbLimitParam then
+			for i = 1, getn(tbLimitParam) do
+				tinsert(tbParam, tbLimitParam[i])
+			end
+		end
+		tinsert(tbParam, nItemIndex)
+		if not call(fnLimit, tbParam) then
+			return 
+		end		
+	end
+	return 1
+end
+
+function pEventType:OnSelectOpt(nPackNo, fn, tbParam)
+	local nPlayerIndex = PlayerIndex
+	local nOldPack = usepack(nPackNo)
+	CallPlayerFunction(nPlayerIndex, fn, unpack(tbParam))
+	usepack(nOldPack)
+end

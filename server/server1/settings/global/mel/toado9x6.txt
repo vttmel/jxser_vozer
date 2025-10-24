@@ -1,0 +1,5 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+152	1636	3320	204	207	Tuy’t B∏o ÆÈng t«ng 8
+152	1592	3267	199	204	Tuy’t B∏o ÆÈng t«ng 8
+152	1618	3227	202	201	Tuy’t B∏o ÆÈng t«ng 8
+152	1534	3297	191	206	Tuy’t B∏o ÆÈng t«ng 8

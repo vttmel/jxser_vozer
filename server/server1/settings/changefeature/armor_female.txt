@@ -1,0 +1,28 @@
+Name	Feature	Price
+§­êng M«n	59	50
+Ngò §éc	58	50
+C¸i Bang	60	50
+Thiªn NhÉn	61	50
+Vâ §ang	62	50
+C«n L«n	63	50
+Nga My	56	50
+Thóy Yªn	57	50
+Long T­¬ng	66	50
+Vò LiÖt	68	50
+H¾c ThÇn	64	50
+Sa Ni phôc	0	50
+NguyÖn B¹ch cµ sa	1	50
+ThÊt B¶o cµ sa 	2	50
+Linh Xµ y	6	50
+Hæ B× y	7	50
+Cöu VÜ B¹ch Hå trang	8	50
+CÈm Sam	9	50
+Thanh La sam	10	50
+TrÇm H­¬ng sam	11	50
+Kh¶m ThiÕt n÷ gi¸p	12	50
+XÝch Nh¹n gi¸p	13	50
+TÝch LÞch Kim Phông gi¸p	14	50
+Ph¸ Ma y	15	50
+B¹ch §iÖp quÇn	18	50
+NguyÖt Hoa quÇn	19	50
+L­u Tiªn QuÇn	20	50

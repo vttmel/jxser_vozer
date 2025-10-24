@@ -1,0 +1,53 @@
+--ÁúÃÅÕò Â·ÈË ÆòØ¤ ĞÂÊÖÈÎÎñ£ºÉÓ¿ÚĞÅ
+-- By: Dan_Deng(2003-09-04)
+
+Include("\\script\\global\\itemhead.lua")
+
+function main(sel)
+	UTask_world26 = GetTask(26)
+	if (UTask_world26 == 0) and (GetLevel() >= 2) then		-- ÈÎÎñÆô¶¯
+		if (GetSex() == 0) then
+			Talk(4,"W26_get","VLT3ÕâÎ»´óÏÀ£¬Çë°ïÎÒ¸öÃ¦. ","ÔõÃ´ÁË?","Äã¿ÉÒÔ°ïÎÒ¸øÕòÉÏµÄÃ¼¶ù¹ÃÄïÉÓ¸ö¿ÚĞÅÂğ? ","Ê²Ã´»°")
+		else
+			Talk(4,"W26_get","VLT4ÕâÎ»´óÏÀ£¬Çë°ïÎÒ¸öÃ¦. ","ÔõÃ´ÁË?","Äã¿ÉÒÔ°ïÎÒ¸øÕòÉÏµÄÃ¼¶ù¹ÃÄïÉÓ¸ö¿ÚĞÅÂğ? ","Ê²Ã´»°")
+		end
+	elseif (UTask_world26 == 6) then
+		Talk(1,"W26_prise","VLT5×îºóÄã¸æËßÎÒËµ³öÀ´ÈÃÕÔÃ¼¶ùÍ´¿à¾øÍûÓĞÊ²Ã´ÒâÒå¡£Õæ¿ÉÁ¯!")
+	elseif (UTask_world26 >= 10) then
+		Talk(1,"","VLT6ÔÂÔç²»ÁÁ£¬ÌÛµ½ĞÄ¸Î£¡Ë­Ëµ´ºÌìÃÀ£¬Ö»¼û»¨µòÁã¡£µ½Õâ¸öµØ²½»¹ÓĞÊ²Ã´Á³¼ûÈËÄØ!")
+	else				-- ·ÇÈÎÎñ¶Ô»°
+		Talk(1,"","VLT7Ê²Ã´£¿Ê©ÉáÎÒ°¡£¿×ß×ß£¡ÎÒ²»ÒªÇ®£¬²»Òª¾õµÃÎÒÊÇÆòØ¤.")
+	end
+end;
+
+function W26_get()
+	Say("VLT8¸æËßËıĞ¤ÒÑÓ°ÒÑ¾­ËÀÁË£¬»¹ÓĞ²»ÒªËµÊÇÎÒËµµÄ!",2,"°ïÃ¦ /W26_get_yes","²»°ïÃ¦ /W26_get_no")
+end
+
+function W26_get_yes()
+	Talk(1,"","²VLT9»ÖªµÀÄãËµÊ²Ã´£¡µ«ÎÒÒ²ÊÇÒªÈ¥Ò»ÌËµÄ!")
+	SetTask(26,3)
+	AddNote("VLT10½ÓÏÂÀ´µÄÈÎÎñ£º°ïÆòØ¤ÉÓ¿ÚĞÅ¸øÕÔÃ¼¶ù")
+	Msg2Player("½ÓÏÂÀ´µÄÈÎÎñ£º°ïÆòØ¤ÉÓ¿ÚĞÅ¸øÕÔÃ¼¶ù")
+end
+
+function W26_get_no()
+	Talk(2,"","VLT11ÕæÊÇÆæ¹ÖµÄÇëÇó£¡Äã²»ËµÇå³şÎÒ²»°ï.","ÕâÑùµÄ»°ÎÒÕÒ±ğÈË°ïÃ¦ºÃÁË!")
+end
+
+function W26_prise()
+	Talk(1,"",":VLT12Ò»ÑÔÄÑ¾¡£¬ÕâÊÇÒ»µãÒâË¼£¬ÇëÊÕÏÂ!")
+	SetTask(26,10)
+	AddNote("°VLT13ÑÕÔÃ¼¶ùµÄ·´Ó¦¸æËßØ¤°ï£¬Íê³ÉÈÎÎñ")
+	Msg2Player("°ÑÕÔÃ¼¶ùµÄ·´Ó¦¸æËßØ¤°ï£¬Íê³ÉÈÎÎñ")
+	p1,p2,p3,p4,p5,p6 = RndItemProp(6,15)
+	if(GetSex() == 0) then
+		AddItem(0, 8, 1, 1, random(0,4), GetLucky(), p1,p2,p3,p4,p5,p6)
+		Msg2Player("VLT14µÃµ½Ò»¸öÓãÆ¤»¤Íó. ")
+	else
+		AddItem(0, 8, 0, 1, random(0,4), GetLucky(), p1,p2,p3,p4,p5,p6)
+		Msg2Player("VLT15µÃµ½Ò»¸öÇàÍ­Óñïí. ")
+	end
+	AddRepute(5)
+	Msg2Player("Danh väng cña b¹n t¨ng thªm 5 ®iÓm")
+end

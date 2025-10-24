@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+203	1626	3049	V« Danh §éng
+203	1471	2992	V« Danh §éng
+203	1590	3282	V« Danh §éng
+203	1792	3234	V« Danh §éng

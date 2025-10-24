@@ -1,0 +1,2 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+2	2581	3641	322	227	 Hoa S¬n

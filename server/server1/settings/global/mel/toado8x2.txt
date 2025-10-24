@@ -1,0 +1,5 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+198	1545	2813	193	175	Thanh khª ®éng
+198	1611	3048	201	190	Thanh khª ®éng
+198	1821	3052	227	190	Thanh khª ®éng
+198	1756	3188	219	199	Thanh khª ®éng

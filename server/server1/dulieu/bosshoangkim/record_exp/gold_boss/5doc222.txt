@@ -1,0 +1,627 @@
+10/04/2025_21:25:13	100000000	Kinh nghiÖm ®øng gÇn lóc boss §¹o Thanh Ch©n Nh©n bŞ tiªu diÖt.
+10/04/2025_21:30:47	100000000	Kinh nghiÖm ®øng gÇn lóc boss §¹o Thanh Ch©n Nh©n bŞ tiªu diÖt.
+10/04/2025_21:32:19	100000000	Kinh nghiÖm ®øng gÇn lóc boss §¹o Thanh Ch©n Nh©n bŞ tiªu diÖt.
+10/04/2025_21:33:47	100000000	Kinh nghiÖm ®øng gÇn lóc boss §¹o Thanh Ch©n Nh©n bŞ tiªu diÖt.
+10/04/2025_21:38:47	100000000	Kinh nghiÖm ®øng gÇn lóc boss §¹o Thanh Ch©n Nh©n bŞ tiªu diÖt.
+10/04/2025_21:41:33	100000000	Kinh nghiÖm ®øng gÇn lóc boss Lam Y Y bŞ tiªu diÖt.
+10/04/2025_21:44:26	100000000	Kinh nghiÖm ®øng gÇn lóc boss Lam Y Y bŞ tiªu diÖt.
+10/04/2025_21:45:27	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/04/2025_21:47:54	100000000	Kinh nghiÖm ®øng gÇn lóc boss Lam Y Y bŞ tiªu diÖt.
+10/04/2025_21:53:21	100000000	Kinh nghiÖm ®øng gÇn lóc boss Lam Y Y bŞ tiªu diÖt.
+10/04/2025_21:54:20	100000000	Kinh nghiÖm ®øng gÇn lóc boss Lam Y Y bŞ tiªu diÖt.
+10/04/2025_21:55:01	100000000	Kinh nghiÖm ®øng gÇn lóc boss Lam Y Y bŞ tiªu diÖt.
+10/04/2025_21:55:55	100000000	Kinh nghiÖm ®øng gÇn lóc boss Lam Y Y bŞ tiªu diÖt.
+10/04/2025_21:58:32	100000000	Kinh nghiÖm ®øng gÇn lóc boss Lam Y Y bŞ tiªu diÖt.
+10/04/2025_22:14:54	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/04/2025_22:17:20	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/04/2025_22:18:22	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/04/2025_22:20:43	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/04/2025_22:21:55	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/04/2025_22:23:04	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/04/2025_22:24:12	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/04/2025_22:26:04	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/04/2025_22:27:06	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/04/2025_22:28:08	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/04/2025_22:29:12	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/04/2025_22:30:18	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/04/2025_22:31:27	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/04/2025_22:32:58	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/04/2025_22:34:10	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/04/2025_22:35:41	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/05/2025_13:51:35	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_13:51:55	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_13:53:52	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Linh Phiªu bŞ tiªu diÖt.
+10/05/2025_13:54:17	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_13:54:44	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_13:56:12	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_13:57:10	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_13:59:17	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_13:59:35	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:00:22	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:00:54	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:01:16	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:02:58	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:03:24	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:05:44	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:06:24	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:06:41	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:07:32	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:08:10	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:08:38	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:14:49	100000000	Kinh nghiÖm ®øng gÇn lóc boss §o¹n Méc DuÖ bŞ tiªu diÖt.
+10/05/2025_14:15:39	100000000	Kinh nghiÖm ®øng gÇn lóc boss §o¹n Méc DuÖ bŞ tiªu diÖt.
+10/05/2025_14:16:06	100000000	Kinh nghiÖm ®øng gÇn lóc boss §o¹n Méc DuÖ bŞ tiªu diÖt.
+10/05/2025_14:16:22	100000000	Kinh nghiÖm ®øng gÇn lóc boss §o¹n Méc DuÖ bŞ tiªu diÖt.
+10/05/2025_14:17:50	100000000	Kinh nghiÖm ®øng gÇn lóc boss §o¹n Méc DuÖ bŞ tiªu diÖt.
+10/05/2025_14:20:57	100000000	Kinh nghiÖm ®øng gÇn lóc boss §o¹n Méc DuÖ bŞ tiªu diÖt.
+10/05/2025_14:23:29	100000000	Kinh nghiÖm ®øng gÇn lóc boss §o¹n Méc DuÖ bŞ tiªu diÖt.
+10/05/2025_14:25:51	100000000	Kinh nghiÖm ®øng gÇn lóc boss §o¹n Méc DuÖ bŞ tiªu diÖt.
+10/05/2025_14:27:30	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:27:48	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:27:51	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:27:55	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:28:00	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:28:01	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:28:14	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:28:18	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:28:23	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:28:51	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:29:04	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:29:06	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:29:10	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:29:13	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_14:29:17	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/05/2025_19:52:04	100000000	Kinh nghiÖm ®øng gÇn lóc boss HuyÒn Gi¸c §¹i S­ bŞ tiªu diÖt.
+10/05/2025_19:53:25	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/05/2025_19:58:55	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/05/2025_19:58:55	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/05/2025_20:00:39	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/05/2025_20:00:39	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/05/2025_20:06:51	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/05/2025_20:06:51	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/05/2025_20:08:29	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/05/2025_20:08:29	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/05/2025_20:09:32	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/05/2025_20:09:32	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/06/2025_18:09:57	100000000	Kinh nghiÖm ®øng gÇn lóc boss V­¬ng T¸ bŞ tiªu diÖt.
+10/06/2025_18:11:00	100000000	Kinh nghiÖm ®øng gÇn lóc boss V­¬ng T¸ bŞ tiªu diÖt.
+10/06/2025_18:12:09	100000000	Kinh nghiÖm ®øng gÇn lóc boss V­¬ng T¸ bŞ tiªu diÖt.
+10/06/2025_18:13:18	100000000	Kinh nghiÖm ®øng gÇn lóc boss V­¬ng T¸ bŞ tiªu diÖt.
+10/06/2025_20:33:27	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/06/2025_20:33:27	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/06/2025_20:35:00	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/06/2025_20:35:00	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/06/2025_20:49:32	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/06/2025_20:49:32	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/07/2025_16:05:44	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/07/2025_16:05:44	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/07/2025_16:09:12	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/07/2025_16:09:12	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/07/2025_16:13:51	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/07/2025_16:13:51	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/07/2025_16:19:34	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/07/2025_16:19:34	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/07/2025_16:32:51	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/07/2025_16:32:51	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/07/2025_16:40:50	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/07/2025_16:40:50	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/07/2025_21:15:17	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng Phi YÕn bŞ tiªu diÖt.
+10/07/2025_21:17:06	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §¹o Thanh Ch©n Nh©n 
+10/07/2025_21:17:06	100000000	Kinh nghiÖm ®øng gÇn lóc boss §¹o Thanh Ch©n Nh©n bŞ tiªu diÖt.
+10/07/2025_21:23:09	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/07/2025_21:23:09	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/07/2025_21:25:02	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/07/2025_21:25:02	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/07/2025_21:30:04	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/07/2025_21:30:04	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/07/2025_21:33:59	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/07/2025_21:33:59	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/07/2025_21:35:06	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/07/2025_21:35:06	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/08/2025_16:28:30	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/08/2025_16:28:30	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/08/2025_16:31:13	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/08/2025_16:31:13	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/08/2025_16:34:17	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/08/2025_16:34:17	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/08/2025_16:37:36	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/08/2025_16:37:36	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/08/2025_19:58:49	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/08/2025_19:58:49	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/08/2025_20:02:03	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/08/2025_20:02:03	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/08/2025_20:21:04	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/08/2025_20:21:04	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/08/2025_20:27:29	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/08/2025_20:27:29	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/08/2025_20:28:49	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/08/2025_20:28:49	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/08/2025_20:31:12	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Linh Phiªu bŞ tiªu diÖt.
+10/08/2025_20:33:31	100000000	Kinh nghiÖm ®øng gÇn lóc boss Yªn HiÓu Tr¸i bŞ tiªu diÖt.
+10/08/2025_20:34:03	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss HuyÒn Nan §¹i S­ 
+10/08/2025_20:34:03	100000000	Kinh nghiÖm ®øng gÇn lóc boss HuyÒn Nan §¹i S­ bŞ tiªu diÖt.
+10/08/2025_20:34:31	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh Liªn Tö bŞ tiªu diÖt.
+10/08/2025_20:34:43	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §¹o Thanh Ch©n Nh©n 
+10/08/2025_20:34:43	100000000	Kinh nghiÖm ®øng gÇn lóc boss §¹o Thanh Ch©n Nh©n bŞ tiªu diÖt.
+10/08/2025_20:47:23	100000000	Kinh nghiÖm ®øng gÇn lóc boss §o¹n Méc DuÖ bŞ tiªu diÖt.
+10/08/2025_20:55:13	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Hµ Nh©n Ng· 
+10/08/2025_20:55:13	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/08/2025_20:58:56	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/08/2025_20:58:56	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/08/2025_20:59:08	100000000	Kinh nghiÖm ®øng gÇn lóc boss Chung Linh Tó bŞ tiªu diÖt.
+10/08/2025_20:59:31	100000000	Kinh nghiÖm ®øng gÇn lóc boss Lam Y Y bŞ tiªu diÖt.
+10/08/2025_20:59:56	100000000	Kinh nghiÖm ®øng gÇn lóc boss HuyÒn Gi¸c §¹i S­ bŞ tiªu diÖt.
+10/08/2025_21:00:13	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/08/2025_21:00:26	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng Phi YÕn bŞ tiªu diÖt.
+10/08/2025_21:02:57	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµn Ngu Dèt bŞ tiªu diÖt.
+10/08/2025_23:34:31	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/08/2025_23:34:31	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/08/2025_23:40:35	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/08/2025_23:40:35	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/08/2025_23:43:08	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/08/2025_23:43:08	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/08/2025_23:44:10	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/08/2025_23:44:10	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/09/2025_15:51:15	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/09/2025_15:51:15	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/09/2025_15:57:11	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/09/2025_15:57:11	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/09/2025_15:58:54	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/09/2025_15:58:54	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/09/2025_16:01:10	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/09/2025_16:01:10	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/09/2025_16:02:59	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/09/2025_16:02:59	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/09/2025_16:04:52	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/09/2025_16:04:52	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/09/2025_16:07:42	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/09/2025_16:07:42	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/09/2025_16:09:40	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/09/2025_16:09:40	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/09/2025_16:16:59	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/09/2025_16:16:59	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/09/2025_16:20:10	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/09/2025_16:20:10	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/09/2025_16:23:18	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/09/2025_16:23:18	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/09/2025_16:27:11	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/09/2025_16:27:11	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/09/2025_16:31:47	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/09/2025_16:31:47	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/09/2025_22:30:32	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/09/2025_22:30:32	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/09/2025_22:32:16	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/09/2025_22:32:16	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/09/2025_22:35:04	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/09/2025_22:35:04	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/09/2025_22:37:09	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/09/2025_22:37:09	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/10/2025_16:07:57	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/10/2025_16:07:57	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/10/2025_16:11:11	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Hµ Linh Phiªu 
+10/10/2025_16:11:11	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Linh Phiªu bŞ tiªu diÖt.
+10/10/2025_16:14:18	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Lam Y Y 
+10/10/2025_16:14:18	100000000	Kinh nghiÖm ®øng gÇn lóc boss Lam Y Y bŞ tiªu diÖt.
+10/10/2025_16:16:22	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Lam Y Y 
+10/10/2025_16:16:22	100000000	Kinh nghiÖm ®øng gÇn lóc boss Lam Y Y bŞ tiªu diÖt.
+10/10/2025_16:18:14	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Lam Y Y 
+10/10/2025_16:18:14	100000000	Kinh nghiÖm ®øng gÇn lóc boss Lam Y Y bŞ tiªu diÖt.
+10/10/2025_16:20:21	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Hµ Linh Phiªu 
+10/10/2025_16:20:21	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Linh Phiªu bŞ tiªu diÖt.
+10/10/2025_16:22:27	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/10/2025_16:22:27	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/10/2025_16:34:12	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/10/2025_16:34:12	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/10/2025_16:37:54	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/10/2025_16:37:54	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/10/2025_16:40:27	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/10/2025_16:40:27	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/10/2025_16:42:42	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Cæ B¸ch 
+10/10/2025_16:42:42	100000000	Kinh nghiÖm ®øng gÇn lóc boss Cæ B¸ch bŞ tiªu diÖt.
+10/10/2025_16:43:59	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/10/2025_16:43:59	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/10/2025_21:29:17	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/10/2025_21:29:17	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/10/2025_21:30:50	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/10/2025_21:30:50	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/10/2025_21:32:17	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/10/2025_21:32:17	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/10/2025_21:33:14	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/10/2025_21:33:14	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/10/2025_21:34:09	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/10/2025_21:34:09	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/10/2025_21:35:54	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng Phi YÕn 
+10/10/2025_21:35:54	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng Phi YÕn bŞ tiªu diÖt.
+10/10/2025_21:41:27	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:41:30	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Tõ §¹i Nh¹c 
+10/10/2025_21:41:30	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:41:31	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:41:32	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Tõ §¹i Nh¹c 
+10/10/2025_21:41:32	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:41:35	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:42:47	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:42:48	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:42:50	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:42:51	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:42:56	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:43:11	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:43:14	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:43:15	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:43:16	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:43:17	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:43:21	100000000	Kinh nghiÖm ®øng gÇn lóc boss Tõ §¹i Nh¹c bŞ tiªu diÖt.
+10/10/2025_21:50:06	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/10/2025_21:50:06	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/10/2025_21:57:10	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss V­¬ng T¸ 
+10/10/2025_21:57:10	100000000	Kinh nghiÖm ®øng gÇn lóc boss V­¬ng T¸ bŞ tiªu diÖt.
+10/10/2025_22:28:42	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/10/2025_22:28:42	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/10/2025_22:30:35	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/10/2025_22:30:35	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/10/2025_22:31:44	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/10/2025_22:31:44	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/10/2025_22:33:37	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/10/2025_22:33:37	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/10/2025_22:34:49	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/10/2025_22:34:49	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/10/2025_22:35:46	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/10/2025_22:35:46	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/10/2025_22:37:31	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/10/2025_22:37:31	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/12/2025_21:23:30	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/12/2025_21:23:30	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/12/2025_21:25:00	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/12/2025_21:25:00	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/12/2025_21:32:24	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/12/2025_21:32:24	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/12/2025_22:14:29	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/12/2025_22:14:29	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/12/2025_22:15:53	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/12/2025_22:15:53	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/12/2025_22:16:25	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/12/2025_22:16:25	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/12/2025_22:17:42	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/12/2025_22:17:42	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/12/2025_22:19:48	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/12/2025_22:19:48	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/12/2025_22:21:06	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/12/2025_22:21:06	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/12/2025_22:22:41	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/12/2025_22:22:41	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/12/2025_22:23:59	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/12/2025_22:23:59	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_14:57:41	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_14:57:41	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_14:58:59	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_14:58:59	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_14:59:45	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_14:59:45	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_15:00:25	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_15:00:25	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_15:01:08	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_15:01:08	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_15:02:21	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh Liªn Tö 
+10/13/2025_15:02:21	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh Liªn Tö bŞ tiªu diÖt.
+10/13/2025_15:05:41	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh Liªn Tö 
+10/13/2025_15:05:41	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh Liªn Tö bŞ tiªu diÖt.
+10/13/2025_15:06:22	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_15:06:22	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_15:06:59	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_15:06:59	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_15:09:27	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_15:09:27	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_21:17:22	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_21:26:18	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_21:26:18	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_21:26:49	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_21:26:49	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_21:27:36	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh Liªn Tö 
+10/13/2025_21:27:36	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh Liªn Tö bŞ tiªu diÖt.
+10/13/2025_21:58:10	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_21:58:10	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_21:58:43	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_21:58:43	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_22:00:56	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_22:00:56	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_22:01:31	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_22:01:31	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_22:02:09	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_22:02:09	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_22:02:38	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_22:02:38	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_22:03:06	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_22:03:06	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/13/2025_22:03:47	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/13/2025_22:03:47	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_14:31:11	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_14:31:11	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_14:32:10	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_14:32:10	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_14:32:52	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_14:32:52	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_14:33:22	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_14:33:22	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_14:33:44	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_14:33:44	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_14:34:23	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_14:34:23	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_14:35:04	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_14:35:04	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_14:35:41	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_14:35:41	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_14:45:19	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_14:45:19	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_14:45:43	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_14:45:43	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_14:46:10	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_14:46:10	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_14:46:47	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_14:46:47	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_16:36:51	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_16:36:51	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_16:38:00	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_16:38:00	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_16:39:04	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_16:39:04	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_16:40:09	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_16:40:09	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_16:40:46	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_16:40:46	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_16:41:19	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_16:41:19	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_16:41:59	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_16:41:59	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_16:45:55	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_16:45:55	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_16:47:08	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_16:47:08	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_16:47:31	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_16:47:31	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_16:48:01	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_16:48:01	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_16:49:34	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_16:49:34	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_21:04:59	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss TuyÒn C¬ Tö 
+10/14/2025_21:04:59	100000000	Kinh nghiÖm ®øng gÇn lóc boss TuyÒn C¬ Tö bŞ tiªu diÖt.
+10/14/2025_21:06:34	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §¹o Thanh Ch©n Nh©n 
+10/14/2025_21:06:34	100000000	Kinh nghiÖm ®øng gÇn lóc boss §¹o Thanh Ch©n Nh©n bŞ tiªu diÖt.
+10/14/2025_21:08:18	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/14/2025_21:08:18	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/14/2025_21:14:09	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/14/2025_21:14:09	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:16:37	100000000	Kinh nghiÖm ®øng gÇn lóc boss Gia LuËt TŞ Ly bŞ tiªu diÖt.
+10/14/2025_21:16:57	100000000	Kinh nghiÖm ®øng gÇn lóc boss Gia LuËt TŞ Ly bŞ tiªu diÖt.
+10/14/2025_21:17:06	100000000	Kinh nghiÖm ®øng gÇn lóc boss Yªn HiÓu Tr¸i bŞ tiªu diÖt.
+10/14/2025_21:17:14	100000000	Kinh nghiÖm ®øng gÇn lóc boss Yªn HiÓu Tr¸i bŞ tiªu diÖt.
+10/14/2025_21:17:22	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:17:34	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:17:44	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:17:55	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:18:19	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:18:28	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:18:37	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:18:45	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:19:13	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:19:30	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:19:38	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:19:46	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:19:54	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:20:03	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:20:10	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:20:26	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:21:14	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:21:26	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:21:35	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:21:41	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:21:48	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:21:52	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:22:01	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:22:11	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:22:20	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:22:30	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:22:45	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:22:56	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:23:05	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:23:18	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:23:42	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:23:58	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:26:38	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:26:55	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:27:11	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:27:23	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:27:38	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:27:54	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:28:12	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:28:30	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_21:28:44	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:28:54	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:29:05	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:29:16	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:29:24	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:29:43	100000000	Kinh nghiÖm ®øng gÇn lóc boss M¹nh Th­¬ng L­¬ng bŞ tiªu diÖt.
+10/14/2025_21:30:06	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:30:20	100000000	Kinh nghiÖm ®øng gÇn lóc boss M¹nh Th­¬ng L­¬ng bŞ tiªu diÖt.
+10/14/2025_21:30:34	100000000	Kinh nghiÖm ®øng gÇn lóc boss M¹nh Th­¬ng L­¬ng bŞ tiªu diÖt.
+10/14/2025_21:30:52	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:31:12	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:31:28	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:31:37	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:31:53	100000000	Kinh nghiÖm ®øng gÇn lóc boss HuyÒn Gi¸c §¹i S­ bŞ tiªu diÖt.
+10/14/2025_21:32:19	100000000	Kinh nghiÖm ®øng gÇn lóc boss HuyÒn Gi¸c §¹i S­ bŞ tiªu diÖt.
+10/14/2025_21:33:11	100000000	Kinh nghiÖm ®øng gÇn lóc boss HuyÒn Gi¸c §¹i S­ bŞ tiªu diÖt.
+10/14/2025_21:33:55	100000000	Kinh nghiÖm ®øng gÇn lóc boss HuyÒn Nan §¹i S­ bŞ tiªu diÖt.
+10/14/2025_21:34:38	100000000	Kinh nghiÖm ®øng gÇn lóc boss HuyÒn Nan §¹i S­ bŞ tiªu diÖt.
+10/14/2025_21:35:15	100000000	Kinh nghiÖm ®øng gÇn lóc boss HuyÒn Nan §¹i S­ bŞ tiªu diÖt.
+10/14/2025_21:35:58	100000000	Kinh nghiÖm ®øng gÇn lóc boss HuyÒn Nan §¹i S­ bŞ tiªu diÖt.
+10/14/2025_21:37:03	100000000	Kinh nghiÖm ®øng gÇn lóc boss HuyÒn Nan §¹i S­ bŞ tiªu diÖt.
+10/14/2025_21:38:29	100000000	Kinh nghiÖm ®øng gÇn lóc boss M¹nh Th­¬ng L­¬ng bŞ tiªu diÖt.
+10/14/2025_21:38:52	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:39:07	100000000	Kinh nghiÖm ®øng gÇn lóc boss M¹nh Th­¬ng L­¬ng bŞ tiªu diÖt.
+10/14/2025_21:39:22	100000000	Kinh nghiÖm ®øng gÇn lóc boss §¹o Thanh Ch©n Nh©n bŞ tiªu diÖt.
+10/14/2025_21:39:47	100000000	Kinh nghiÖm ®øng gÇn lóc boss §¹o Thanh Ch©n Nh©n bŞ tiªu diÖt.
+10/14/2025_21:40:06	100000000	Kinh nghiÖm ®øng gÇn lóc boss §¹o Thanh Ch©n Nh©n bŞ tiªu diÖt.
+10/14/2025_21:40:22	100000000	Kinh nghiÖm ®øng gÇn lóc boss Chung Linh Tó bŞ tiªu diÖt.
+10/14/2025_21:40:38	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng Phi YÕn bŞ tiªu diÖt.
+10/14/2025_21:40:56	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_21:42:19	100000000	Kinh nghiÖm ®øng gÇn lóc boss M¹nh Th­¬ng L­¬ng bŞ tiªu diÖt.
+10/14/2025_21:42:32	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/14/2025_21:42:44	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/14/2025_21:42:56	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/14/2025_21:43:13	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/14/2025_21:43:26	100000000	Kinh nghiÖm ®øng gÇn lóc boss Lam Y Y bŞ tiªu diÖt.
+10/14/2025_21:43:40	100000000	Kinh nghiÖm ®øng gÇn lóc boss Lam Y Y bŞ tiªu diÖt.
+10/14/2025_21:43:55	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/14/2025_21:44:08	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/14/2025_21:44:21	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/14/2025_21:44:28	100000000	Kinh nghiÖm ®øng gÇn lóc boss Hµ Nh©n Ng· bŞ tiªu diÖt.
+10/14/2025_22:14:17	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/14/2025_22:14:17	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_22:14:55	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/14/2025_22:14:55	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/14/2025_22:15:15	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/14/2025_22:15:15	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/15/2025_21:02:29	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/15/2025_21:04:40	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Lam Y Y 
+10/15/2025_21:04:40	100000000	Kinh nghiÖm ®øng gÇn lóc boss Lam Y Y bŞ tiªu diÖt.
+10/15/2025_21:09:15	100000000	Kinh nghiÖm ®øng gÇn lóc boss HuyÒn Nan §¹i S­ bŞ tiªu diÖt.
+10/15/2025_21:15:14	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/15/2025_21:15:14	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/15/2025_21:16:09	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/15/2025_21:16:09	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/15/2025_21:16:48	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/15/2025_21:16:48	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/15/2025_21:17:29	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/15/2025_21:17:29	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/15/2025_21:19:56	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/15/2025_21:19:56	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/15/2025_21:23:23	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/15/2025_21:23:23	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/15/2025_21:24:03	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/15/2025_21:24:03	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/15/2025_21:24:38	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/15/2025_21:24:38	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/15/2025_21:25:53	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/15/2025_21:25:53	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/15/2025_21:28:08	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/15/2025_21:28:08	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/15/2025_21:28:48	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/15/2025_21:28:48	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/15/2025_21:29:27	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/15/2025_21:29:27	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/15/2025_21:30:10	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/15/2025_21:30:10	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/16/2025_20:36:09	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/16/2025_20:36:09	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/16/2025_20:36:45	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/16/2025_20:36:45	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/16/2025_20:37:31	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/16/2025_20:37:31	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/16/2025_20:38:41	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/16/2025_20:38:41	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/16/2025_20:39:49	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/16/2025_20:39:49	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/16/2025_20:41:11	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/16/2025_20:41:11	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/16/2025_20:42:00	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/16/2025_20:42:00	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/16/2025_20:42:38	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/16/2025_20:42:38	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/16/2025_20:43:35	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/16/2025_20:43:35	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/16/2025_20:44:18	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/16/2025_20:44:18	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/16/2025_20:45:54	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/16/2025_20:45:54	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/16/2025_20:46:29	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/16/2025_20:46:29	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/16/2025_20:48:01	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/16/2025_20:48:01	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/16/2025_20:48:36	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/16/2025_20:48:36	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/16/2025_21:01:45	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh Liªn Tö 
+10/16/2025_21:01:45	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh Liªn Tö bŞ tiªu diÖt.
+10/16/2025_21:03:06	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/16/2025_21:03:06	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/16/2025_21:03:48	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Chung Linh Tó 
+10/16/2025_21:03:48	100000000	Kinh nghiÖm ®øng gÇn lóc boss Chung Linh Tó bŞ tiªu diÖt.
+10/16/2025_21:05:27	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/16/2025_21:05:27	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/16/2025_21:06:47	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss M¹nh Th­¬ng L­¬ng 
+10/16/2025_21:06:47	100000000	Kinh nghiÖm ®øng gÇn lóc boss M¹nh Th­¬ng L­¬ng bŞ tiªu diÖt.
+10/16/2025_21:07:56	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Yªn HiÓu Tr¸i 
+10/16/2025_21:07:56	100000000	Kinh nghiÖm ®øng gÇn lóc boss Yªn HiÓu Tr¸i bŞ tiªu diÖt.
+10/16/2025_21:09:54	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §¹o Thanh Ch©n Nh©n 
+10/16/2025_21:09:54	100000000	Kinh nghiÖm ®øng gÇn lóc boss §¹o Thanh Ch©n Nh©n bŞ tiªu diÖt.
+10/16/2025_21:21:18	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss V­¬ng T¸ 
+10/16/2025_21:21:18	100000000	Kinh nghiÖm ®øng gÇn lóc boss V­¬ng T¸ bŞ tiªu diÖt.
+10/16/2025_21:29:54	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Gia LuËt TŞ Ly 
+10/16/2025_21:29:54	100000000	Kinh nghiÖm ®øng gÇn lóc boss Gia LuËt TŞ Ly bŞ tiªu diÖt.
+10/16/2025_21:34:42	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/16/2025_21:35:46	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/16/2025_21:36:27	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/16/2025_21:37:08	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/16/2025_21:38:15	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/16/2025_21:38:50	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/16/2025_21:39:24	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/16/2025_21:39:59	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/17/2025_21:07:08	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/17/2025_21:07:08	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/17/2025_21:09:33	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/17/2025_21:09:33	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/17/2025_21:23:58	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss V­¬ng T¸ 
+10/17/2025_21:23:58	100000000	Kinh nghiÖm ®øng gÇn lóc boss V­¬ng T¸ bŞ tiªu diÖt.
+10/17/2025_21:32:57	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Cæ B¸ch 
+10/17/2025_21:32:57	100000000	Kinh nghiÖm ®øng gÇn lóc boss Cæ B¸ch bŞ tiªu diÖt.
+10/17/2025_21:39:02	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/17/2025_21:39:02	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/17/2025_21:41:56	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/17/2025_21:41:56	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/17/2025_21:42:51	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/17/2025_21:42:51	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/17/2025_21:43:29	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/17/2025_21:43:29	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/17/2025_21:45:05	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/17/2025_21:45:05	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/17/2025_21:46:38	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/17/2025_21:46:38	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/17/2025_21:47:08	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/17/2025_21:47:08	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/17/2025_21:47:39	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/17/2025_21:47:39	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/17/2025_21:48:17	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/17/2025_21:48:17	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/17/2025_21:49:00	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/17/2025_21:49:00	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/17/2025_21:51:21	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/17/2025_21:51:21	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/17/2025_21:52:03	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/17/2025_21:52:03	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/17/2025_21:52:49	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 
+10/17/2025_21:52:49	100000000	Kinh nghiÖm ®øng gÇn lóc boss B¹ch Doanh Doanh bŞ tiªu diÖt.
+10/17/2025_21:53:32	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/17/2025_21:53:32	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/18/2025_21:04:32	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss Thanh TuyÖt S­ Th¸i 
+10/18/2025_21:04:32	100000000	Kinh nghiÖm ®øng gÇn lóc boss Thanh TuyÖt S­ Th¸i bŞ tiªu diÖt.
+10/18/2025_21:44:32	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/18/2025_21:44:32	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/18/2025_21:45:10	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/18/2025_21:45:10	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/18/2025_21:49:26	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/18/2025_21:49:26	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/18/2025_21:50:23	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/18/2025_21:50:23	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/18/2025_21:51:04	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/18/2025_21:51:04	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/18/2025_21:51:40	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/18/2025_21:51:40	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/18/2025_21:52:18	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/18/2025_21:52:18	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/18/2025_21:54:59	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/18/2025_21:54:59	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/18/2025_21:55:19	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/18/2025_21:55:19	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/18/2025_21:55:36	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/18/2025_21:55:36	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/18/2025_21:55:52	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss §­êng BÊt NhiÔm 
+10/18/2025_21:55:52	100000000	Kinh nghiÖm ®øng gÇn lóc boss §­êng BÊt NhiÔm bŞ tiªu diÖt.
+10/18/2025_21:56:17	10000000	 Kinh nghiÖm ®· h¹ gôc tõ boss B¹ch Doanh Doanh 

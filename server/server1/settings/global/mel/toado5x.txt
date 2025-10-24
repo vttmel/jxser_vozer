@@ -1,0 +1,2 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+182	1871	3151	233	196	NghiÖt Long ®éng

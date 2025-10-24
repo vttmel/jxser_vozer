@@ -1,0 +1,2 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+7	2388	2673	298	167	TÇn L¨ng

@@ -1,0 +1,2 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+21	2590	4377	323	273	 Thanh Thµnh s¬n

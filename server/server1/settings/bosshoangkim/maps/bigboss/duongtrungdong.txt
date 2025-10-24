@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+205	1612	3364	D­¬ng Trung §éng
+205	1585	3226	D­¬ng Trung §éng
+205	1495	3110	D­¬ng Trung §éng
+205	1275	3059	D­¬ng Trung §éng

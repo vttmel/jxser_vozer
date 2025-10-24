@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+10	1667	3055	Nh¹n Th¹ch §éng
+10	1773	2935	Nh¹n Th¹ch §éng
+10	1836	3082	Nh¹n Th¹ch §éng	
+10	1750	3193	Nh¹n Th¹ch §éng

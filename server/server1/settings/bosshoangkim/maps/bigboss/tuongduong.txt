@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+78	1753	3121	T­¬ng D­¬ng
+78	1679	3462	T­¬ng D­¬ng
+78	1369	3411	T­¬ng D­¬ng
+78	1379	3141	T­¬ng D­¬ng

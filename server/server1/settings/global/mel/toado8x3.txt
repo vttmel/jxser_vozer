@@ -1,0 +1,4 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+224	1548	3102	193	193	Sa mπc Æﬁa bi”u
+224	1694	3154	211	197	Sa mπc Æﬁa bi”u
+224	1677	3238	209	202	Sa mπc Æﬁa bi”u

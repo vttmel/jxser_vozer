@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+204	1624	3379	Phi Thiªn §éng
+204	1818	3460	Phi Thiªn §éng
+204	1527	3529	Phi Thiªn §éng
+204	1403	3407	Phi Thiªn §éng

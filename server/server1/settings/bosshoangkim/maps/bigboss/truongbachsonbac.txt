@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+322	1938	3957	Tr­êng B¹ch S¬n B¾c
+322	1697	3511	Tr­êng B¹ch S¬n B¾c
+322	1595	3976	Tr­êng B¹ch S¬n B¾c
+322	2046	3351	Tr­êng B¹ch S¬n B¾c

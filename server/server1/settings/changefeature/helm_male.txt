@@ -1,0 +1,30 @@
+Name	Feature	Price
+ThiÕu L©m 	28	50
+Thiªn V­¬ng 	29	50
+Ngò §éc 	32	50
+§­êng M«n 	33	50
+C¸i Bang 	34	50
+Thiªn NhÉn 	35	50
+Vâ §ang 	36	50
+C«n L«n 	37	50
+Long T­¬ng 	40	50
+Vò LiÖt 	42	50
+H¾c ThÇn 	38	50
+Sa Di Giíi C« 	0	50
+Phï Dung M·o	1	50
+Tú L« m·o	2	50
+Tróc L¹p	6	50
+Nh©n B× DiÖn Tr¸o	7	50
+Tu La Ph¸t kÕt	8	50
+Phi YÕn Qu¸n	9	50
+Anh L¹c Qu¸n	10	50
+Th«ng Thiªn Ph¸t Qu¸n	11	50
+ThiÕt Kh«i	12	50
+Ng©n Kh«i	13	50
+YÓm NhËt kh«i	14	50
+Ph¸ Bè C©n	15	50
+Song TÇng L­u Ly Hoµn	16	50
+TrÝch Tinh hoµn	17	50
+Bè C©n	18	50
+Chu Khëi Qu¸n	19	50
+¤ Tµm M·o	20	50

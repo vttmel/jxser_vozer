@@ -1,0 +1,11 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+321	1017	2526	127	157	Tr­êng B¹ch s¬n Nam 
+321	1038	2597	129	162	Tr­êng B¹ch s¬n Nam 
+321	1058	2689	132	168	Tr­êng B¹ch s¬n Nam 
+321	1082	2791	135	174	Tr­êng B¹ch s¬n Nam 
+321	1134	2960	141	185	Tr­êng B¹ch s¬n Nam 
+321	1166	3041	145	190	Tr­êng B¹ch s¬n Nam 
+321	1236	2977	154	186	Tr­êng B¹ch s¬n Nam 
+321	1244	2879	155	179	Tr­êng B¹ch s¬n Nam 
+321	1269	2680	158	167	Tr­êng B¹ch s¬n Nam 
+321	1311	2455	163	153	Tr­êng B¹ch s¬n Nam 

@@ -1,0 +1,2 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+92	1609	3231	201	201	Thôc C­¬ng s¬n

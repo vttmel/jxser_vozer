@@ -1,0 +1,80 @@
+--ÁúÈª´å Ö°ÄÜ ÔÓ»õµêÀÏ°å
+--ÁúÈª´åĞÂÊÖÈÎÎñ£ººóµùºÃ²»ºÃ¡¢Ñô´º°×Ñ©¸ş
+-- By: Dan_Deng(2003-09-03)
+Include("\\script\\task\\newtask\\education\\jiaoyutasknpc.lua")
+Include("\\script\\task\\newtask\\newtask_head.lua")
+Include("\\script\\global\\itemhead.lua")
+Include("\\script\\global\\global_zahuodian.lua");
+
+
+function main(sel)
+	UTask_world18 = GetTask(18)
+	if (UTask_world18 == 0) then 		--¡°ºóµùºÃ²»ºÃ¡±ÈÎÎñÆô¶¯
+		Talk(4,"W18_get","ÚLTT68À! Õæµ¹Ã¹!","ÄãÓÖÓöµ½·³ĞÄµÄÊÂÇéÁË?","ËµÆğÀ´Ò²Õæ¶ªÈË£¡ÎÒºÍÒ»¸öÅ®µÄ½á»éÒ»ÄêÁË£¡ËıÊÇ¸Ä¼ŞµÄ£¬´ø×ÅÒ»¸öº¢×Ó¡£ÚÀ£¡ÎÒÕæÊÇ²»ÖªµÀĞ¡º¢×ÓÏëÊ²Ã´¡£Ö»ÖªµÀËûºÜÌÖÑáÎÒ ","¿ÉÄÜÊÇÒòÎªÄãÌ«Ãô¸ĞÁË£¡Ö±½ÓÎÊËûÏëÒªÊ²Ã´»á²»»áºÃÒ»µã")
+	elseif (UTask_world18 == 6) then		-- ¡°ºóµùºÃ²»ºÃ¡±ÈÎÎñÍê³É
+		Talk(1,"W18_prise","LTT69ÎÒÒÑ¾­ÎÊ¹ıÄÇ¸öĞ¡º¢ÁË£¬Ëû¾ø¶ÔÃ»ÓĞÌÖÑáÄã£¬Äã·ÅĞÄ°É!")
+	elseif (GetTask(20) == 5) and (HaveItem(231) == 0) then		-- ¡°Ñô´º°×Ñ©¸ş¡±ÈÎÎñ½øĞĞÖĞ²¢ÇÒÃ»ÓĞ´ËµÀ¾ß
+		if (UTask_world18 == 10) then			-- ÒÑÍê³É¡°ºóµùºÃ²»ºÃ¡±ÈÎÎñ
+			Talk(1,"","LTT70Ñô´ºÁéÖ¥£¿ÕâÖÖÁéÖ¥ÏÖÔÚºÜÉÙ¼ûÁË¡£µ«ÊÇÎÒÕâÀï»¹ÓĞÒ»µã¡£Äã°ïÎÒÒ»¸öÃ¦ÎÒ¾Í°ÑÁéÖ¥È«²¿ËÍ¸øÄã")
+			AddEventItem(231)
+			AddNote("LTT71µÃµ½ÔÓ»õÀÏ°åËÍµÄÑô´ºÁéÖ¥")
+			Msg2Player("µÃµ½ÔÓ»õÀÏ°åËÍµÄÑô´ºÁéÖ¥")
+		else
+			local buttons = store_sel_village_extend();
+			tinsert(buttons, 1, "ÂLTT72òÑô´ºÁéÖ¥/W20_buy");
+			Say("LTT73Ñô´ºÁéÖ¥£¿ÕâÖÖÁéÖ¥ÏÖÔÚºÜÉÙ¼ûÁË¡£µ«ÊÇÎÒÕâÀï»¹ÓĞÒ»µã¡£Ö»Òª500Á½°×Òø",getn(buttons),buttons);
+		end
+	else
+		local buttons = store_sel_village_extend();
+		Say("LTT74ÎÒÖ®Ç°Ô­ÊÇÒ»ÃûÉÌÈË£¬½á½»ÁËºÜ¶àÅóÓÑ¡£Ö®ºó´òÂÒ£¬ÄÄÀï¶¼¿´¼ûÕ½Õù¡£Òò´ËÎÒÖ»ºÃ°²¾ÓÔÚÕâ",getn(buttons),buttons)
+	end
+end;
+
+function W18_get()
+	local buttons = store_sel_village_extend();
+	tinsert(buttons, 1, "LTT75ËãÁËÕâÑùÎÒ°ïÄãÎÊÎÊ/W18_get_yes");
+	Say("LTT76µ«ÊÇ.µ«ÊÇÎÒ»¹ÊÇÊ§°Ü! Ö»ÊÇÒ»¸öĞ¡º¢Ò²µÃ²»µ½ËûµÄĞÄ",getn(buttons),buttons)
+end
+
+function W18_get_yes()
+	SetTask(18,3)
+	Talk(1,"","LTT77Õâ¾ÍÌ«ºÃÁË£¡ÎÒ½«ÔÚÕâµÈÄãµÄºÃÏûÏ¢£¡")
+	AddNote("LTT78½ÓÈÎÎñ£º°ïÖúÀÏ°åÈ¥ÎÊ¿×ÏşµÄĞÄÒâ")
+	Msg2Player("½ÓÈÎÎñ£º°ïÖúÀÏ°åÈ¥ÎÊ¿×ÏşµÄĞÄÒâ")
+end
+
+function W18_prise()
+	Talk(1,"","LTT79ÕâÑù¾ÍÌ«ºÃÁË£¡ÕæµÄÌ«¸ĞĞ»ÄãÁË£¡ÕâÊÇÒ»µãĞÄÒâ£¡ÍûÄãÊÕÏÂ")
+	SetTask(18,10)
+	AddNote("LTT80ÏòÔÓ»õÀÏ°åËµ¿×ÏşµÄÏë·¨£¬Íê³ÉÈÎÎñ¡£")
+	Msg2Player("ÏòÔÓ»õÀÏ°åËµ¿×ÏşµÄÏë·¨£¬Íê³ÉÈÎÎñ¡£")
+	p1,p2,p3,p4,p5,p6 = RndItemProp(6,10)
+	if(GetSex() == 0) then
+		AddItem(0, 2, 6, 1, random(0,4), GetLucky(), p1,p2,p3,p4,p5,p6)
+		Msg2Player("LTT81µÃµ½Ò»¼ş´Ö²¼ÒÂ")
+	else
+		AddItem(0, 2, 13, 1, random(0,4), GetLucky(), p1,p2,p3,p4,p5,p6)
+		Msg2Player("LTT82µÃµ½°ÙñŞÈ¹.")
+	end
+	AddRepute(5)
+	Msg2Player("ÄLTT83ãµÄÃûÍûÔö¼ÓÁË5µã")
+end
+
+function W20_buy()
+	if (GetCash() >= 500) then
+		Pay(500)
+		AddEventItem(231)
+		AddNote("ÂLTT84òµ½Ñô´ºÁéÖ¥.")
+		Msg2Player("ÂLTT85òµ½Ñô´ºÁéÖ¥.")
+		Talk(2,"","LTT86Õâ¸öÁéÖ¥ÕæÊÇ¹ó","Ò»·ÖÇ®Ò»·Ö»õ¡£Äã²»»á³Ô¿÷µÄ!")
+	else
+		Talk(1,"","ÂLTT87ôµÄÕæ¹ó£¬ÎÒÄÄÀ´ÄÇÃ´¶àÇ®°¡")
+	end
+end
+
+function yes()
+	Sale(29)
+end;
+
+function no()
+end;

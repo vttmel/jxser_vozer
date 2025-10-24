@@ -1,0 +1,1 @@
+Include("\\script\\global\\general\\hotrotanthu\\item\\settumang.lua")

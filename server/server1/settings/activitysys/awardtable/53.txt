@@ -1,0 +1,11 @@
+TableId	AwardName	LuaBuff	Count	Rate	AwardId	ActivityId
+53	Thanh C©u L÷nh	{tbProp={6,1,2369,1,0,0},}	1	1	422	11
+53	Huy“n Vi™n L÷nh	{tbProp={6,1,2351,1,0,0},}	1	0.05	423	11
+53	Th≠¨ng Lang L÷nh	{tbProp={6,1,2352,1,0,0},}	1	0.2	424	11
+53	V©n LÈc L÷nh	{tbProp={6,1,2353,1,0,0},}	1	1	425	11
+53	Tinh Luy÷n Thπch	{tbProp={6,1,2280,1,0,0},nExpiredTime=43200,}	1	30	426	11
+53	Huy“n tinh kho∏ng thπch c p 7	{tbProp={6,1,147,7,0,0},}	1	10	427	11
+53	Huy“n tinh kho∏ng thπch c p 8	{tbProp={6,1,147,8,0,0},}	1	10	428	11
+53	kinh nghi÷m 	"return {nExp=1}"	18000000	10	429	11
+53	kinh nghi÷m 	"return {nExp=1}"	12000000	10	430	11
+53	Qu∂ Huy Hoµng	{tbProp={6,1,906,1,0,0},nExpiredTime=43200,}	1	27.75	431	11

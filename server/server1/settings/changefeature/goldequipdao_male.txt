@@ -1,0 +1,11 @@
+Name	Feature	Price
+§ao	128	100
+§¹i Phong §ao	22	100
+§¹i Phong §ao	75	100
+§ao HÖ Kim	32	100
+§ao HÖ Méc	34	100
+§ao HÖ Thñy	54	100
+§ao HÖ Háa	55	100
+§ao HÖ Thæ	35	100
+§ao TÝm	56	100
+§ao Vµng	52	100

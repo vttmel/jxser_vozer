@@ -1,0 +1,9 @@
+MAPID	POSX	POSY	MAPNAME
+336	1113	3134	Phong L¨ng §é
+336	1241	3038	Phong L¨ng §é
+336	1422	3113	Phong L¨ng §é
+336	1475	2929	Phong L¨ng §é
+336	1531	2535	Phong L¨ng §é
+336	1140	2639	Phong L¨ng §é
+336	1166	2824	Phong L¨ng §é
+336	1425	2793	Phong L¨ng §é

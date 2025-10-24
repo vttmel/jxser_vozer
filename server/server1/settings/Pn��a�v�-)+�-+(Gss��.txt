@@ -1,0 +1,198 @@
+Status	文件名	类型	播放方式	主角身后开始帧	主角身后结束帧	动画总帧数	动画总方向数	动画帧间隔	图分几瓣	说明：图只能分1、2、3瓣
+Status1	Special	Head	Loop			8	1	50	1	Cho竛g
+Status2	Special	Foot	Loop			8	1	50	1	Tr髇g c
+Status3	Special	Body	Loop	0	29	8	1	50	1	ng b╪g 
+Status4	Special	Body	Loop	10	20	8	1	50	1	t 
+Status5	Special	Body				8	1	50	1	h鏽 lo筺
+Status6	\spr\skill\五毒教\wdu_06_无形蛊.spr	Foot	Loop	0	0	30	1	18	1	V?H譶h чc
+Status7	\spr\skill\五毒教\wdu_07_毒盾.spr	Body	Loop	0	15	20	1	12	1	чc thu蒼
+Status8	\spr\skill\五毒教\wdu_08_冰蓝玄晶.spr	Head	Loop	0	0	30	1	18	1	B╪g Lam Huy襫 Tinh
+Status9	\spr\skill\五毒教\wdu_09_雷动九天.spr	Head	Loop	0	0	30	1	18	1	L玦 ng C鰑 Thi猲 
+Status10	\spr\skill\五毒教\wdu_10_赤焰蚀天.spr	Head	Loop	0	0	30	1	18	1	X輈h Di謒 Th鵦 Thi猲
+Status11	\spr\skill\五毒教\wdu_11_万蛊蚀心.spr	Head	Loop	0	0	30	1	18	1	V筺 чc Th鵦 T﹎
+Status12	\spr\skill\五毒教\wdu_12_移花接玉.spr	Head	Loop	0	0	20	1	12	1	Di Hoa Ti誴 Ng鋍
+Status13	\spr\skill\昆仑\kl_06_大浪蚀空.spr	Body	Loop	5	15	20	1	12	1	Чi L穘g Th鵦 Kh玭g
+Status14	\spr\skill\昆仑\kl_07_引雷遁地.spr	Body	Loop	7	22	30	1	18	1	D蒼 L玦 чn мa
+Status15	\spr\skill\昆仑\kl_08_烈火红尘.spr	Body	Loop	7	22	30	1	18	1	Li謙 H醓 H錸g Tr莕
+Status16	\spr\skill\昆仑\kl_09_木珠兵解.spr	Body	Loop	40	40	40	1	16	1	M閏 Ch﹗ Binh Gi秈
+Status17	\spr\skill\昆仑\kl_10_滑不留手.spr	Body	Loop	4	12	15	1	12	1	Ho箃 B蕋 L璾 Th?
+Status18	\spr\skill\武当\wd_08_人剑合一.spr	Body	Loop	7	22	30	1	18	1	Nh﹏ Ki誱 H頿 Nh蕋  
+Status19	\spr\skill\武当\wd_06_坐忘无我.spr	Head	Loop	0	0	36	1	21	1	T鋋 V鋘g V?Ng?
+Status20	\spr\skill\武当\wd_07_七星阵.spr	Foot	Loop	0	0	30	1	24	1	Th蕋 Tinh Tr薾
+Status21	\spr\skill\天忍\mag_tr_06_火盾.spr	Body	Loop	4	12	15	1	18	1	H醓 Thu蒼
+Status22	\spr\skill\天忍\mag_tr_07_偷天换日.spr	Head	Loop	0	0	15	1	3	1	Th﹗ Thi猲 Ho竛 Nh藅
+Status23	\spr\skill\天忍\mag_tr_08_吸星大法.spr	Head	Loop	0	0	15	1	3	1	H蕄 Tinh Чi Ph竝
+Status24	\spr\skill\天忍\mag_tr_09_借力打力.spr	Head	Loop	0	0	15	1	3	1	T?L鵦 Ф L鵦
+Status25	\spr\skill\天忍\mag_tr_10_蚀骨血仞.spr	Head	Loop	0	0	15	1	30	1	Th鵦 C鑤 Huy誸 Nh蒼 
+Status26	\spr\skill\天忍\mag_tr_11_幻影飞狐.spr	Head	Loop	0	0	15	1	12	1	秓 秐h Phi H?
+Status27	\spr\skill\天忍\mag_tr_12_飞鸿无迹.spr	Head	Loop	0	0	15	1	12	1	Phi H錸g V?T輈h
+Status28	\spr\skill\天忍\mag_tr_13_厉魔夺魂.spr	Head	Loop	0	0	15	1	12	1	L辌h Ma 箃 H錸
+Status29	\spr\skill\天忍\mag_tr_14_五行阵.spr	Foot	Loop	0	0	15	1	18	1	Ng?h祅h tr薾
+Status30	\spr\skill\天忍\mag_tr_15_天魔解体.spr	Head	Loop	0	0	15	1	15	1	Thi猲 Ma Gi秈 Th?
+Status31	\spr\skill\翠烟\mag_cy_06_雪盾.spr	Body	Loop	4	12	16	1	18	1	Tuy誸 Thu蒼
+Status32	\spr\skill\翠烟\mag_cy_07_冰盾.spr	Body	Loop	4	12	16	1	18	1	B╪g Thu蒼
+Status33	\spr\skill\翠烟\mag_cy_09_雪影.spr	Body	Loop	16	16	16	1	15	1	Tuy誸 秐h
+Status34	\spr\skill\翠烟\mag_cy_12_摄心术.spr	Head	Loop	0	0	18	1	6	1	Nhi誴 T﹎ Thu藅
+Status35	\spr\skill\唐门\tm_01_毒附加.spr	Head	Loop	0	0	30	1	18	1	T╪g c
+Status36	\spr\skill\唐门\tm_02_冰附加.spr	Head	Loop	0	0	30	1	18	1	T╪g b╪g
+Status37	\spr\skill\峨嵋\mag_em_06_秋风叶.spr	Foot	Loop	0	0	16	1	16	1	Thu Phong Di謕
+Status38	\spr\skill\峨嵋\mag_em_07_醉仙望月.spr	Foot	Loop	0	0	16	1	16	1	T髖 Ti猲 V鋘g Nguy謙
+Status39	\spr\skill\峨嵋\mag_em_08_流水.spr	Foot	Loop	0	0	16	1	16	1	L璾 Th駓 
+Status40	\spr\skill\峨嵋\mag_em_09_梦蝶.spr	Foot	Loop	0	0	16	1	16	1	M閚g 謕 
+Status41	\spr\skill\峨嵋\mag_em_10_佛心慈佑.spr	Foot	Loop	0	0	15	1	15	1	Ph藅 T﹎ T?H鱱
+Status42	\spr\skill\峨嵋\mag_em_11_风雨飘香.spr	Head	Loop	0	0	4	1	6	1	Phong V?Phi猽 Hng
+Status43	\spr\skill\丐帮\mag_gb_11_醉蝶狂舞.spr	Body	Loop	4	12	16	1	19	1	T髖 謕 Cu錸g V?
+Status44	\spr\skill\丐帮\mag_gb_12_打狗阵.spr	Foot	Loop	0	0	8	1	19	1	Ф C萿 b鎛g
+Status45	\spr\skill\少林\sl_07_罗汉阵.spr	Foot	Loop	0	0	10	1	8	1	La H竛 Tr薾
+Status46	\spr\skill\天王\tw_01_火眼金睛.spr	Head	Loop	0	0	10	1	16	1	H醓 Nh穘 Kim T譶h
+Status47	\spr\skill\天王\tw_02_天王战意.spr	Body	Loop	20	20	20	1	40	1	Thi猲 Vng Chi課 ?
+Status48	\spr\skill\天王\tw_03_沾衣十八跌.spr	Body	Loop	5	15	20	1	40	1	Tri猰 Y Th藀 B竧 謙
+Status49	\spr\skill\天王\tw_04_金钟罩.spr	Body	Loop	5	15	20	1	20	1	Kim Chung Tr竜
+Status50	\spr\skill\补充\mag_spe_眩晕.spr	Head	Loop	0	0	10	1	10	1	Hi謚 qu?cho竛g
+Status51	\spr\skill\补充\幸运星.spr	Foot	Loop	0	0	15	1	15	1	H筺h V薾 Tinh 
+Status52	\spr\skill\others\c.spr	Body	Loop	0	0	13	1	12	1	B蕋 ng Minh Vng 
+Status53	\spr\skill\sl\慧眼咒.spr	Head	Loop	0	0	15	1	15	1	Nh?Lai Thi猲 Di謕 
+Status54	\spr\skill\wu\化险为夷.spr	Head	Loop	0	0	15	1	15	1	Nh?Lai Thi猲 Di謕 
+Status55	\spr\skill\em\em_菠萝心经.spr	Body	Loop	0	0	20	1	12	1	Thanh  Ph筺 Xng
+Status56	\spr\skill\em\轻音梵唱.spr	Foot	Loop	0	0	20	1	12	1	3h
+Status57	\spr\skill\gb\滑不留手.spr	Body	Loop	0	0	15	1	12	1	Ho箃 B蕋 L璾 Th?
+Status58	\spr\skill\tr\悲酥清风.spr	Body	Loop	0	0	15	1	12	1	Ho箃 B蕋 L璾 Th?
+Status59	\spr\skill\gb\打狗阵.spr	Foot	Loop	0	0	18	1	12	1	Ho箃 B蕋 L璾 Th?
+Status60	\spr\skill\昆仑\Bz_dian3_爆炸.spr	Body	Loop	0	0	8	1	8	1	Ho箃 B蕋 L璾 Th?
+Status61	\spr\skill\昆仑\kl_15_岁月无情符.spr	Body	Loop	0	0	20	1	12	1	Ho箃 B蕋 L璾 Th?
+Status62	\spr\skill\昆仑\kl_14_弃心符.spr	Body	Loop	0	0	20	1	12	1	M?Tung 秓 秐h
+Status63	\spr\skill\others\奔流到海.spr	Head	Loop	0	0	15	1	15	1	Nh?Lai Thi猲 Di謕 
+Status64	\spr\skill\others\孤木遁雷.spr	Head	Loop	0	0	15	1	15	1	Nh?Lai Thi猲 Di謕 
+Status65	\spr\skill\others\金乌映雪.spr	Head	Loop	0	0	15	1	15	1	Nh?Lai Thi猲 Di謕 
+Status66	\spr\skill\others\奎木星照.spr	Head	Loop	0	0	15	1	15	1	Nh?Lai Thi猲 Di謕 
+Status67	\spr\skill\others\lucky.spr	Head	Loop	0	0	15	1	50	1	May m緉
+Status68	\spr\skill\bm\泥鳅.spr	Body	Loop	0	0	15	1	50	1	N?Thu C玭g 
+Status69	\spr\skill\bm\龟命.spr	Head	Loop	0	0	15	1	50	1	Trng Sinh Quy M謓h Quy誸
+Status70	\spr\skill\bm\灵狐.spr	Head	Loop	0	0	15	1	50	1	Linh H?Khai Th莕 thu藅 
+Status71	\spr\skill\bm\鸡犬.spr	Foot	Loop	0	0	15	1	50	1	K?Khuy觧 Th╪g Thi猲 
+Status72	\spr\skill\gongcheng\1jia.spr	Foot	Loop	0	0	14	1	50	1	е nh蕋 c玭g th祅h
+Status73	\spr\skill\zhongqiu\zq_sl_001.spr	Head	Loop	0	0	10	1	15	1	B竛h trung thu 
+Status74	\spr\skill\zhongqiu\zq_sl_002.spr	Head	Loop	0	0	10	1	15	1	Qu?Hoa T鰑
+Status75	\spr\skill\christmas\star1.spr	Head	Loop	0	0	10	1	100	1	Hoa ng 
+Status76	\spr\skill\christmas\star2.spr	Head	Loop	0	0	10	1	100	1	Hoa ng 
+Status77	\spr\skill\christmas\star2.spr	MiniMap	Loop	0	0	10	1	100	1	ph鉵g to b秐  nh?
+Status78	\spr\skill\task\taskfinish.spr	Foot	Loop	0	0	27	1	50	1	Ho祅 th祅h nhi謒 v?
+Status79	\spr\skill\special\skill_heart.spr	Body	Loop	0	0	20	1	40	1	Tr筺g th竔 k?n╪g
+Status80	\spr\skill\补充\mag_spe_登录.spr	Foot	Loop	0	0	20	1	50	1	Ho祅 th祅h nhi謒 v? S竧 th? 
+Status81	\spr\skill\others\title_yl.spr	Foot	Loop	0	0	10	1	30	1	V遪g tr遪 V?L﹎ Чi H閕 1
+Status82	\spr\skill\others\title_bj.spr	Foot	Loop	0	0	10	1	30	1	V遪g tr遪 V?L﹎ Чi H閕 2
+Status83	\spr\skill\others\title_zw.spr	Foot	Loop	0	0	11	1	30	1	V遪g tr遪 V?L﹎ Чi H閕 3
+Status84	\spr\skill\others\title_dg.spr	Foot	Loop	0	0	10	1	30	1	V遪g tr遪 V?L﹎ Чi H閕 4
+Status85	\spr\skill\others\title_ab.spr	Foot	Loop	0	0	10	1	30	1	V遪g tr遪 V?L﹎ Чi H閕 5
+Status86	\spr\skill\kl\一气三清符.spr	Head	Loop	0	0	15	1	30	1	Huy襫 Thi猲 V?C鵦
+Status87	\spr\skill\partner\同伴普防.spr	Head	Loop	0	0	1	1	1	1	K?n╪g уng h祅h 
+Status88	\spr\skill\partner\同伴毒防.spr	Head	Loop	0	0	1	1	1	1	K?n╪g уng h祅h 
+Status89	\spr\skill\partner\同伴冰防.spr	Head	Loop	0	0	1	1	1	1	K?n╪g уng h祅h 
+Status90	\spr\skill\partner\同伴火防.spr	Head	Loop	0	0	1	1	1	1	K?n╪g уng h祅h 
+Status91	\spr\skill\partner\同伴雷防.spr	Head	Loop	0	0	1	1	1	1	K?n╪g уng h祅h 
+Status92	\spr\skill\partner\投石毒.spr	Foot	Loop	0	0	15	1	30	1	K?n╪g уng h祅h 
+Status93	\spr\skill\partner\投石冰.spr	Foot	Loop	0	0	15	1	30	1	K?n╪g уng h祅h 
+Status94	\spr\skill\partner\投石火.spr	Foot	Loop	0	0	15	1	30	1	K?n╪g уng h祅h 
+Status95	\spr\skill\partner\青木功.spr	Foot	Loop	0	0	15	1	30	1	K?n╪g уng h祅h 
+Status96	\spr\skill\partner\skill_bairenzhan.spr	Foot	Loop	0	0	15	1	30	1	B竎h Nh﹏ Tr秏
+Status97	\spr\skill\partner\skill_qianrenzhan.spr	Body	Loop	0	0	20	1	40	1	Thi猲 Nh﹏ Tr秏
+Status98	\spr\skill\partner\skill_zhanshouzhe.spr	Head	Loop	0	0	15	1	30	1	o ph?
+Status99	\spr\skill\partner\skill_zhanshouwang.spr	Body	Loop	0	0	20	1	40	1	Tr秏 u vng
+Status100	\spr\skill\task\skill_mupai.spr	Foot	Loop	0	0	10	1	30	1	T輓 s?l謓h ?m閏
+Status101	\spr\skill\task\skill_tongpai.spr	Foot	Loop	0	0	10	1	30	1	T輓 s?l謓h ?уng
+Status102	\spr\skill\task\skill_yinpai.spr	Foot	Loop	0	0	11	1	30	1	T輓 s?l謓h ?B筩
+Status103	\spr\skill\task\skill_jinpai.spr	Foot	Loop	0	0	10	1	30	1	T輓 s?l謓h - V祅g
+Status104	\spr\skill\task\skill_yucijinpai.spr	Foot	Loop	0	0	10	1	30	1	Ng?T?l謓h b礽 - v祅g 
+Status105	\spr\skill\task\randomtask.spr	Head	Loop	0	0	20	1	37	1	tr筺g th竔 nhi謒 v?ng蓇 nhi猲 
+Status106	\spr\skill\补充\mag_spe_眩晕.spr	Head	Loop	0	0	10	1	10	1	cho竛g (Gi竛g Sinh) 
+Status107	\spr\skill\top_tong\bangzhu.spr	Foot	Loop	0	0	16	1	35	1	Bang ch?V?L﹎ е Nh蕋 Bang
+Status108	\spr\skill\top_tong\bangzhong.spr	Foot	Loop	0	0	16	1	35	1	Bang ch髇g V?L﹎ е Nh蕋 Bang
+Status109	\spr\skill\special\炸弹人标示.spr	Head	Loop	0	0	18	1	50	1	Hi觧 th?ngi n衜 ph竜
+Status110	\spr\skill\tw\倒虚天.spr	Body	Loop	0	0	28	1	15	1	Фo H?Thi猲_Kh竛g b颽 ch?
+Status111	\spr\skill\sl\大乘如来咒.spr	Body	Loop	0	0	25	1	25	1	Чi Th鮝 Nh?Lai Ch骭Ph秐 n b颽 ch?
+Status112	\spr\skill\others\苍蝇光环.spr	Body	Loop	0	0	11	1	11	1	V遪g s竛g Thng D╪g
+Status113	\spr\skill\others\香蕉光环.spr	Foot	Loop	0	0	21	1	31	1	V遪g s竛g Hng Ti猽
+Status114	\spr\skill\others\苍鹰光环.spr	Body	Loop	0	0	21	1	63	1	V遪g s竛g Thng g
+Status115	\spr\skill\others\火焰光环.spr	Foot	Loop	0	0	13	1	18	1	V遪g s竛g H醓 Di謒
+Status116	\spr\skill\others\暗影光环.spr	Foot	Loop	0	0	10	1	16	1	V遪g s竛g 竚 秐h
+Status117	\spr\skill\others\七剑光环.spr	Foot	Loop	0	0	20	1	34	1	V遪g s竛g Th蕋 Ki誱
+Status118	\spr\skill\wu\吸星魇.spr	Body	Loop	0	0	25	1	20	1	H蕄 Tinh Y觤
+Status119	\spr\skill\em\闭月拂尘.spr	Foot	Loop	0	0	25	1	20	1	B?Nguy謙 Ph蕋 Tr莕
+Status120	\spr\skill\gb\混天气功.spr	Head	Loop	0	0	11	1	20	1	H鏽 Thi猲 Kh?C玭g
+Status121	\spr\skill\tr\魔音噬魄.spr	Body	Loop	0	0	20	1	40	1	Ma  Ph?Ph竎h
+Status122	\spr\skill\wd\出淤不染.spr	Body	Loop	0	0	27	1	35	1	Xu蕋 ?B蕋 Nhi詍
+Status123	\spr\skill\kl\两仪真气.spr	Body	Loop	0	0	23	1	20	1	Lng Nghi Ch﹏ Kh?
+Status124	\spr\skill\others\灵参力.spr	Foot	Loop	0	0	17	1	20	1	Linh S﹎ L鵦
+Status125	\spr\skill\others\totempole_phoenix.spr	Head	Loop	0	0	18	1	90	1	Ph鬾g Ho祅g 蕁
+Status126	\spr\skill\others\totempole_fetch.spr	Head	Loop	0	0	25	1	50	1	Luy謓 v?h錸
+Status127	\spr\skill\others\totempole_buymen.spr	Head	Loop	0	0	17	1	147	1	Уo Chu Ti襫
+Status128	\spr\skill\others\totempole_children.spr	Head	Loop	0	0	18	1	50	1	Th?v?doanh
+Status129	\spr\skill\others\totempole_pith.spr	Head	Loop	0	0	9	1	130	1	Linh s﹎ l鵦
+Status130	\spr\skill\others\totempole_proficient.spr	Head	Loop	0	0	16	1	50	1	Ho祅g Kim L謓h
+Status131	\spr\skill\others\totempole_mask.spr	Head	Loop	0	0	20	1	70	1	V?Song S竧 Tr薾
+Status132	\spr\skill\others\伪装.spr	Body	Loop	0	0	15	1	70	1	K?n╪g ng魕 trang
+Status133	\spr\skill\task\wenhao.spr	Head	Loop	0	0	16	1	37	1	C﹗ h醝 L?t譶h nh﹏
+Status134	\spr\skill\task\process_000.spr	Foot	Loop	0	0	20	1	60	1	Thanh di詎 ti課 L?T譶h Nh﹏
+Status135	\spr\skill\others\ib_citymaster.spr	Foot	Loop	0	0	10	1	30	1	Trang b?B筩h Kim
+Status136	\spr\skill\others\title_new_zw.spr	Foot	Loop	0	0	15	1	15	1	T鑞g Kim Chi猽 V?Hi謚 髖
+Status137	\spr\skill\others\title_new_yl.spr	Foot	Loop	0	0	11	1	18	1	T鑞g Kim V?L﹎ Trung Lang Tng
+Status138	\spr\skill\others\title_new_bj.spr	Foot	Loop	0	0	20	1	23	1	T鑞g Kim Phi猽 K?Чi Tng Qu﹏
+Status139	\spr\skill\others\title_new_ab.spr	Foot	Loop	0	0	15	1	30	1	T鑞g Kim An Bang Чi Tng Qu﹏
+Status140	\spr\skill\others\title_new_dg.spr	Foot	Loop	0	0	15	1	15	1	T鑞g Kim мnh Qu鑓 Nguy猲 So竔
+Status141	\spr\item\script\tisheng_skill.spr	Body	Loop	0	0	8	1	18	1	Kim Chung Tr竜
+Status142	\spr\skill\others\jingyingsaiguanjun.spr	Foot	Loop	0	0	15	1	18	1	Qu竛 qu﹏ anh h飊g u
+Status143	\spr\skill\others\jingyingsaiyajun.spr	Foot	Loop	0	0	15	1	15	1	?qu﹏ anh h飊g u
+Status144	\spr\skill\others\jingyingsaijijun.spr	Foot	Loop	0	0	15	1	15	1	Qu?qu﹏ anh h飊g u
+Status145	\spr\skill\others\vip_guanghuan.spr	Foot	Loop	0	0	15	1	15	1	vip帐号光环
+Status146	\spr\skill\others\hongguanhuan.spr	Foot	Loop	0	0	15	1	15	1	红色光环
+Status147	\spr\skill\others\lvguagnhuan.spr	Foot	Loop	0	0	15	1	15	1	绿色光环
+Status148	\spr\skill\others\languanhuan.spr	Foot	Loop	0	0	15	1	15	1	蓝色光环
+Status149	\spr\skill\others\jinguanhuan.spr	Foot	Loop	0	0	15	1	15	1	金色光环
+Status150	\spr\skill\others\heiguanhuan.spr	Foot	Loop	0	0	15	1	15	1	黑色光环
+Status151	\spr\skill\others\jianwangzhixia.spr	Foot	Loop	0	0	15	1	35	1	剑网之夏个人活跃度
+Status152	\spr\skill\others\xianfengguan.spr	Foot	Loop	0	0	10	1	20	1	先锋官光环
+Status153	\spr\skill\others\bingmayuanshuai.spr	Foot	Loop	0	0	10	1	20	1	兵马元帅光环
+Status154	\spr\skill\others\dachengxiang.spr	Foot	Loop	0	0	10	1	20	1	大丞相光环
+Status155	\spr\skill\others\huangdi.spr	Foot	Loop	0	0	10	1	50	1	皇帝光环
+Status156	\spr\skill\others\tianzi.spr	Foot	Loop	0	0	10	1	56	1	天子光环
+Status157	\spr\skill\others\chaoji_diyibang.spr	Foot	Loop	0	0	20	1	56	1	Si猽 C蕄 е Nh蕋 Bang
+Status158	\spr\skill\others\gaoji_diyibang.spr	Foot	Loop	0	0	20	1	56	1	Cao C蕄 е Nh蕋 Bang
+Status159	\spr\skill\others\shengguanqindun.spr	Body	Loop	0	0	15	1	56	1	圣光沁盾（效果）
+Status160	\spr\skill\zhongqiu\zq_sl_003.spr	Head	Loop	0	0	20	1	60	1	H錸g Nguy謙
+Status161	\spr\skill\zhongqiu\lanyue.spr	Head	Loop	0	0	10	1	100	1	蓝月
+Status162	\spr\skill\others\vip_sc.spr	Foot	Loop	0	0	20	1	80	1	中级VIP光环
+Status163	\spr\skill\others\vip_sr.spr	Foot	Loop	0	0	20	1	80	1	高级VIP光环
+Status164	\spr\skill\others\vip_sp.spr	Foot	Loop	0	0	20	1	80	1	超级VIP光环
+Status165	\spr\skill\others\dati.spr	Foot	Loop	0	0	20	1	56	1	答题比赛光环
+Status166	\spr\item\newyear2010\醉酒.spr	Head	Loop	0	0	12	1	110	1	T髖 T鰑
+Status167	\spr\skill\others\格挡.spr	Head	Loop	0	0	20	1	56	1	
+Status168	\spr\skill\others\重击.spr	Head	Loop	0	0	20	1	56	1	
+Status169	\spr\skill\others\瞬移.spr	Head	Loop	0	0	50	1	56	1	
+Status170	\spr\skill\others\zhongyueguanjun.spr	Body	Loop	0	0	30	1	56	1	中越PK赛冠军
+Status171	\spr\skill\others\jianmianhui_1st.spr	Foot	Loop	0	0	20	1	80	1	首届金山论剑光环
+Status172	\spr\skill\others\jianghugaoshou.spr	Foot	Loop	0	0	15	1	60	1	VIP帐号光环江湖高手
+Status173	\spr\skill\others\wulinhaojie.spr	Foot	Loop	0	0	15	1	60	1	VIP帐号光环武林豪杰
+Status174	\spr\skill\others\jianxiazhizun.spr	Foot	Loop	0	0	15	1	60	1	VIP帐号光环剑侠至尊
+Status175	\spr\skill\others\dubutianxia.spr	Foot	Loop	0	0	15	1	60	1	VIP帐号光环独步天下
+Status176	\spr\skill\others\xiridaxia.spr	Foot	Loop	0	0	15	1	15	1	昔日大侠活动
+Status177	\spr\skill\others\独孤求败.spr	Head	Loop	0	0	20	1	40	1	чc C?C莡 B筰
+Status178	\spr\skill\others\武林至尊.spr	Head	Loop	0	0	20	1	40	1	V?L﹎ Ch?T玭
+Status179	\spr\skill\others\一代宗师.spr	Head	Loop	0	0	20	1	40	1	Nh蕋 Чi T玭g s?
+Status180	\spr\skill\others\绝世高手.spr	Head	Loop	0	0	20	1	40	1	Tuy謙 Th?Cao Th?
+Status181	\spr\skill\others\名满江湖.spr	Head	Loop	0	0	20	1	40	1	Vang Danh Giang H?
+Status182	\spr\skill\others\侠名远播.spr	Head	Loop	0	0	20	1	40	1	Hi謕 Danh Vi詎 B?
+Status183	\spr\skill\others\武林新秀.spr	Head	Loop	0	0	20	1	40	1	V?L﹎ T﹏ T?
+Status184	\spr\skill\others\初入江湖.spr	Head	Loop	0	0	20	1	40	1	M韎 nh藀 giang h?
+Status185	\spr\skill\others\入门弟子.spr	Head	Loop	0	0	20	1	40	1	Nh藀 M玭 е T?
+Status186	\spr\skill\others\longzhidui2.spr	Foot	Loop	0	0	15	1	83	1	2012龙之队光环
+Status187	\spr\skill\others\pkno1tong.spr	Foot	Loop	0	0	15	1	60	1	2012中越第一帮
+Status188	spr\skill\门派进阶\金.spr	Body	Loop	0	0	20	1	40	1	进阶boss金系光环
+Status189	spr\skill\门派进阶\木.spr	Body	Loop	0	0	20	1	40	1	进阶boss木系光环
+Status190	spr\skill\门派进阶\水.spr	Body	Loop	0	0	20	1	40	1	进阶boss水系光环
+Status191	spr\skill\门派进阶\火.spr	Body	Loop	0	0	20	1	40	1	进阶boss火系光环
+Status192	spr\skill\门派进阶\土.spr	Body	Loop	0	0	20	1	40	1	进阶boss土系光环
+Status193	\spr\skill\others\jianghugaoshou.spr	Foot	Loop	0	0	15	1	60	1	T鑞g Kim Long H?Vi謙 Nam "V?H鋍 K?T礽"
+Status194	\spr\skill\others\wulinhaojie.spr	Foot	Loop	0	0	15	1	60	1	T鑞g Kim Long H?Vi謙 Nam "Vang Danh T?Phng"
+Status195	\spr\skill\others\jianxiazhizun.spr	Foot	Loop	0	0	15	1	60	1	T鑞g Kim Long H?Vi謙 Nam "Th﹏ Th?B蕋 Ph祄"
+Status196	\spr\skill\others\dubutianxia.spr	Foot	Loop	0	0	15	1	60	1	T鑞g Kim Long H?Vi謙 Nam "Thi猲 H?V?Song"
+Status197	\spr\skill\partner\skill_bairenzhan.spr	Foot	Loop	0	0	20	1	25	1	Ci ng鵤

@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+199	1445	2959	V« L¨ng §éng
+199	1602	3295	V« L¨ng §éng
+199	1696	3034	V« L¨ng §éng
+199	1852	3174	V« L¨ng §éng

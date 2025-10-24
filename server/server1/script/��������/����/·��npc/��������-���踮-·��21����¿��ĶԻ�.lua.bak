@@ -1,0 +1,12 @@
+--Î÷±±ÄÏÇø ·ïÏè¸® ¢·ÈË21¢ôµ°¢¿ÈâµÄ¶Ô»°
+
+function main(sel)
+
+i = random(0,1)
+if (i == 0) then
+Say("TÇn nhŞ ca: Cã nghe qua \"Thiªn th­îng long nhôc\" . C¸i nµy cã mµu t­¬i rãi, h¬n nòa cã thÓ bæ khİ m¸u, tèt cho t¹ng phñ ®©y.",0)
+else
+Say("TÇn nhŞ ca: ch­a tõng ¨n quan trung tŞch l­ thŞt ®i ? ta ®©y b¸n tŞch l­ thŞt n¨m vŞ c©u giai, tr¨m thùc kh«ng ch¸n, tói qu¶n ng­¬i ¨n råi cßn muèn ¨n, nÕm thö mét chót ®i ?", 0)
+end;
+
+end;

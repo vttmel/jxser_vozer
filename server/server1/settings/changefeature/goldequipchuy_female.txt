@@ -1,0 +1,3 @@
+Name	Feature	Price
+Chïy	113	100
+Chïy	60	100

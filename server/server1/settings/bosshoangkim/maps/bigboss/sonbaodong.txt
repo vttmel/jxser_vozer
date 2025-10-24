@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+76	1583	2989	S¬n B¶o §éng
+76	1767	3086	S¬n B¶o §éng
+76	1671	3220	S¬n B¶o §éng
+76	1551	3144	S¬n B¶o §éng

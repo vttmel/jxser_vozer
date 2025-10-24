@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+1	1799	3265	Ph­îng T­êng
+1	1835	3024	Ph­îng T­êng
+1	1436	2953	Ph­îng T­êng
+1	1404	3338	Ph­îng T­êng

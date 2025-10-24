@@ -1,0 +1,51 @@
+--ÁúÈª´å Â·ÈË ÖÓÀë
+--ÁúÈª´åĞÂÊÖÈÎÎñ£ºÑô´º°×Ñ©¸ş
+-- By: Dan_Deng(2003-09-03)
+
+Include("\\script\\global\\itemhead.lua")
+
+function main(sel)
+	UTask_world20 = GetTask(20)
+	if (UTask_world20 == 0) and (GetLevel() >= 5) then 		--ÈÎÎñÆô¶¯
+		Talk(2,"W20_get","LTT31ÌìÏÂ»¹Ã»ÓĞÎÒ²»»á×öµÄÊ³Îï. µ«ÊÇÓĞÒ»¸ö½ĞÑô´º°×Ñ©¸şµÄÒ»Ö±×ö²»ºÃ","ÔõÃ´»áÕâÑù?")
+	elseif (UTask_world20 == 5) then
+		if (HaveItem(231) == 1) and (HaveItem(232) == 1) then		-- ÈÎÎñÍê³É
+			SetTask(20,10)
+			DelItem(231)
+			DelItem(232)
+			Talk(1,"","LTT32Ñô´ºÁéÖ¥! °×Ñ©°ÙºÏ. ÕæºÃ! ²»Öª¸ÃÔõÃ´¸ĞĞ»Äã. ÕâÊÇÒ»µãĞÄÒâ£¬ÇëÊÕÏÂ")
+			AddNote("´LTT33øÑô´ºÁéÖ¥ºÍ°×Ñ©°ÙºÏ½»¸øÖÓÀë£¬Íê³ÉÈÎÎñ")
+			Msg2Player("´øÑô´ºÁéÖ¥ºÍ°×Ñ©°ÙºÏ½»¸øÖÓÀë£¬Íê³ÉÈÎÎñ")
+			p1,p2,p3,p4,p5,p6 = RndItemProp(6,15)
+			if(GetSex() == 0) then
+				AddItem(0, 9, 1, 1, random(0,4), GetLucky(), p1,p2,p3,p4,p5,p6)
+				Msg2Player("LTT34µÃµ½Ò»¿éÓñÅå")
+			else
+				AddItem(0, 9, 0, 1, random(0,4), GetLucky(), p1,p2,p3,p4,p5,p6)
+				Msg2Player("LTT35µÃµ½Ò»¸öºÚÉ«÷êÏã°ü")
+			end
+			AddRepute(8)
+			Msg2Player("LTT36ÄãµÄÃûÍûÔö¼Ó8µã")
+		else
+			Talk(1,"","LTT37Ê²Ã´£¿ÄÇÁ½¼ş¶«Î÷Äã¶¼ÕÒ»ØÀ´ÁË°¡?")
+		end
+	elseif (UTask_world20 == 10) then		-- ÈÎÎñÒÑ¾­Íê³É
+		Talk(1,"","LTT38Õæ¸ĞĞ»Äã")
+	else
+		Talk(1,"","LTT39×ß±éÌìÏÂ£¬³Ô±éÌìÏÂ¡£ÎÒ±ÏÉúĞÄÑª¾ÍÊÇ³Ô¾¡ÌìÏÂÃÀÊ³")
+	end
+end;
+
+function W20_get()
+	Say("LTT40ÕâµÀ²ËÒªÓĞÑô´ºÁéÖ¥ºÍ°×Ñ©°ÙºÏ,ÌıËµÖ»ÓĞÁúÈª´å²ÅÓĞÕâÁ½Ñù. ÎÒÕÒÁËºÜ¾Ã¶¼»¹Ã»ÓĞÕÒµ½",2,"°ïÖúËû/W20_get_yes","Ã»´øÀ´/W20_get_no")
+end
+
+function W20_get_yes()
+	SetTask(20,5)
+	Talk(1,"","LTT41ÎÒÀ´°ïÄãÕÒ!")
+	AddNote("LTT42½ÓÈÎÎñ°ïÖúÖÓÀëÕÒÑô´ºÁéÖ¥ºÍ°×Ñ©°ÙºÏ")
+	Msg2Player("½ÓÈÎÎñ°ïÖúÖÓÀëÕÒÑô´ºÁéÖ¥ºÍ°×Ñ©°ÙºÏ")
+end
+
+function W20_get_no()
+end

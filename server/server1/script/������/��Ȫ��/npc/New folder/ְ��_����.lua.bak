@@ -1,0 +1,54 @@
+--ÁúÈª´å Ö°ÄÜ Ìú½³
+--ÁúÈª´åĞÂÊÖÈÎÎñ£ºĞŞµ¶
+-- By: Dan_Deng(2003-09-03)
+Include("\\script\\global\\global_tiejiang.lua")
+Include("\\Script\\Global\\TimerHead.lua")
+
+TIEJIANG_DIALOG = "<dec><npc>LTT49ÏëÂòÊ²Ã´±øÆ÷? ÕâÀïµÄÎäÆ÷ºÜÓĞÃû£¬²»ĞÅµÄ»°Äã¿ÉÒÔÈ¥ÎÊÎÊÁúÈª»Ê¼ÒµÄÇåÃûÊÔÊÔ!"
+
+function main(sel)
+	UTask_world19 = GetTask(19)
+	if(UTask_world19 == 2) then
+		if (HaveItem(229) == 1) then
+			tiejiang_village("<dec><npc>LTT50Õâ°Ñµ¶Ëğ»ÙµÃºÜÑÏÖØ£¬Òª»¨²»ÉÙÇ®À´ĞŞÀíÄØ.Òª120Á½", "½»ĞŞµ¶Ç®/W19_repair")
+		else
+			Talk(2,"","LTT51ÒªĞŞµ¶Âğ? ´øÀ´¸øÎÒ¿´¿´°É","ËãÁË! ÎÒµÄµ¶ÍüÔÚÅí·Å´¦ÁË! ÎÒ»á»ØÀ´ÄÃµÄ")
+		end
+	elseif (UTask_world19 == 4) then
+		tiejiang_village("<dec><npc>´LTT52óÏÀµÄµ¶ÕıÔÚĞŞ, ÇëµÈÏÂ"..GetRestSec(7).."<#>Ò»»áÔÙÀ´ÄÃ.")
+	elseif (UTask_world19 == 6) then
+		Talk(2,"","ÄLTT53ãµÄµ¶ÒÑ¾­ĞŞºÃÁË","ÕæºÃ! Ğ»Ğ»!")
+		SetTask(19,8)
+		AddEventItem(230)
+		AddNote("ÄLTT54Ã±¦µ¶»¹¸øÅí·Å.")
+		Msg2Player("ÄÃLTT55±¦µ¶»¹¸øÅí·Å.")
+	elseif (UTask_world19 == 8) and (HaveItem(230) == 0) then
+		Talk(1,"","ÄLTT56ã°Ñµ¶ÍüÔÚÎÒÕâÀïÁË")
+		AddEventItem(230)
+		Msg2Player("LTT57ÎÒÀ´ÄÃÍüÔÚÌú½³´¦µÄµ½.")
+	else
+		tiejiang_village();
+	end
+end;
+
+function W19_repair()
+	if (GetTimerId() > 0) then		-- ÁíÓĞ¼ÆÊ±Æ÷ÔÚÔËĞĞÖĞ
+		Talk(1,"","ÄLTT58ãÕıÔÚ½øĞĞÕâÑù½ô¼±µÄÈÎÎñ£¬»¹ÂÒÅÜ?")
+	else
+		if (GetCash() < 120) then
+			Talk(1,"","ÄLTT59ãÇ®Ã»´ø¹»")
+		else
+			Talk(1,"","LTT60¿ÉÒÔ!ÎÒ2Ğ¡Ê±ºóÀ´ÄÃ")
+			Pay(120)
+			SetTask(19,4)
+			DelItem(229)
+			SetTimer(2 * CTime * FramePerSec, 7)
+			AddNote("°LTT61Ñ±¦µ¶½»¸øÌú½³ĞŞÀí, 2Ğ¡Ê±Ö®ºóÀ´ÄÃ.")
+			Msg2Player("°Ñ±¦µ¶½»¸øÌú½³ĞŞÀí, 2Ğ¡Ê±Ö®ºóÀ´ÄÃ.")
+		end
+	end
+end;
+
+function yes()
+Sale(28);  				--µ¯³ö½»Ò×¿ò
+end;

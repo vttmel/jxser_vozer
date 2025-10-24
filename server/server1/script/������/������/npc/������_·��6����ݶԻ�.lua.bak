@@ -1,0 +1,22 @@
+-- hai hå khu ba l¨ng huyÒn ng­êi ®i ®­êng 6 du Cöu ch©u ®èi tho¹i 
+
+function main(sel) 
+
+i = random(0,2) 
+
+if (i == 0) then 
+Say(" du Cöu ch©u : ngµy x­a ®¹i th¸nh thiªn v­¬ng d­¬ng yªu ë §éng ®×nh hå khëi binh , thay trêi hµnh ®¹o , sõ c­êng phï nh­îc , s©u d©n t©m , kÕt qu¶ ®­a tíi triÒu ®×nh khñng ho¶ng , ph¸i binh tiªu diÖt , Thiªn v­¬ng qu¶ bÊt ®Şch chóng , bŞ b¾t sau th¶m tao s¸t h¹i . ",0) 
+return 
+end; 
+
+if (i == 1) then 
+Say(" Khi Thiªn V­¬ng bŞ s¸t h¹i, D­¬ng c«ng tö cña ngµi ®ang t¹i ngo¹i häc nghÖ, kh«ng thÓ vÒ nh×n mÆt phô th©n. Khi quay l¹i ®éng §×nh Hå, D­¬ng c«ng tö tËp hîp anh em nghÜa qu©n, lËp ra Thiªn V­¬ng Bang . ",0) 
+return 
+end; 
+
+if (i == 2) then 
+Say(" D­¬ng c«ng tö vâ nghÖ cao c­êng, tµi trİ h¬n ng­êi, Thiªn V­¬ng Bang d­íi tµi l·nh ®¹o cña anh ta ngµy cµng ph¸t triÓn, rÊt ®­îc lßng cña l·o b¸ t¸nh. Nh­ng tõ tr­íc ®Õn giê ta ch­a tõng ®­îc thÊy tËn mÆt cña D­¬ng C«ng Tö, nghe nãi ®ã lµ mét thanh niªn kh«i ng« tuÊn tó. ",0) 
+return 
+end; 
+
+end; 

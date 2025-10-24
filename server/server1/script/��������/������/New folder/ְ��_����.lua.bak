@@ -1,0 +1,18 @@
+--Î÷±±±±Çø ÁúÃÅÕò »ÆºÓÂëÍ·´¬·ò¶Ô»°
+--suyu
+--20031029
+
+CurWharf = 10;
+Include("\\script\\global\\station.lua")
+
+function main(sel)
+	if (GetLevel() >= 5) then		--µÈ¼¶´ïµ½Îå¼¶
+		Say("VLT53ÎÒÃÇÔÚÕâ¸ö´¬ÉÏ×ö¹¤ÕæµÄºÜÐÁ¿à£¡ÈÕÉ¹·ç´µµÄ£¬ÏÖÔÚÓÖÓöµ½ÁË´ó·çÀË£¬¿ÖÅÂË­¶¼»î²»ÁËÁË!", 2, "×ø´¬/WharfFun", "²»×ø/OnCancel")
+	else		
+		Talk(1,"","ÍVLT54âÃæÌ«ÂÒÁË£¬¿´ÄãÊÖÎÞ¸¿¼¦Ö®Á¦£¡Ò»³ö´åÍâÎÒµ£ÐÄÄã¾ÍÈËÍ·²»±£ÁË!")
+	end
+end;
+
+function  OnCancel()
+   Talk(1,"","ÃVLT55»Ç®²»ÄÜ×ø! ")
+end;

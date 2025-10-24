@@ -1,0 +1,9 @@
+--ÁúÈª´åÈÎÎñ ĞŞµ¶ ¼ÆÊ±Æ÷
+-- By: Dan_Deng(2003-09-03)
+
+function OnTimer()
+	StopTimer()
+	Msg2Player("±LTT44¦µ¶ÒÑ¾­ĞŞºÃÁË! ")
+	AddNote("±LTT45¦µ¶ÒÑ¾­ĞŞºÃÁË! Ìú½³ÕıÔÚµÈÄãÈ¥ÄÃ! ")
+	SetTask(19, 6)
+end;

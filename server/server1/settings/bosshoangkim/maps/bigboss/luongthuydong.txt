@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+181	1587	3277	L­ìng Thuû §éng
+181	1683	3244	L­ìng Thuû §éng
+181	1773	3195	L­ìng Thuû §éng
+181	1860	3184	L­ìng Thuû §éng

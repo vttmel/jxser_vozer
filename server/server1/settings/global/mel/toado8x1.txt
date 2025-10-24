@@ -1,0 +1,6 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+320	1267	3038	158	189	Ch©n nói Tr­êng B¹ch
+320	1310	2972	163	185	Ch©n nói Tr­êng B¹ch
+320	1147	2987	143	186	Ch©n nói Tr­êng B¹ch
+320	1172	2615	146	163	Ch©n nói Tr­êng B¹ch
+320	1248	2557	156	159	Ch©n nói Tr­êng B¹ch

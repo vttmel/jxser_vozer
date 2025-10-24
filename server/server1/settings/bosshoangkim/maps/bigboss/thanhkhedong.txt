@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+198	1547	2814	Thanh Khª §éng
+198	1640	2918	Thanh Khª §éng
+198	1687	3025	Thanh Khª §éng
+198	1624	3072	Thanh Khª §éng

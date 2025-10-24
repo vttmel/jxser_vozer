@@ -1,0 +1,4 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+319	1862	3561	232	222	L©m Du Quan
+319	1904	3355	238	209	L©m Du Quan
+319	1993	3337	249	208	L©m Du Quan

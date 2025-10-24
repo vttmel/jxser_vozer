@@ -1,0 +1,11 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+322	1672	3267	209	204	Tr­êng B¹ch s¬n B¾c
+322	1725	3334	215	208	Tr­êng B¹ch s¬n B¾c
+322	1804	3346	225	209	Tr­êng B¹ch s¬n B¾c
+322	1808	3424	226	214	Tr­êng B¹ch s¬n B¾c
+322	1764	3627	220	226	Tr­êng B¹ch s¬n B¾c
+322	1719	3659	214	228	Tr­êng B¹ch s¬n B¾c
+322	1738	3751	217	234	Tr­êng B¹ch s¬n B¾c
+322	1804	3807	225	237	Tr­êng B¹ch s¬n B¾c
+322	1880	3893	235	243	Tr­êng B¹ch s¬n B¾c
+322	1947	3964	243	247	Tr­êng B¹ch s¬n B¾c

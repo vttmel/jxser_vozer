@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+224	1739	2857	Sa Mπc ßﬁa Bi”u
+224	1622	2974	Sa Mπc ßﬁa Bi”u
+224	1784	3096	Sa Mπc ßﬁa Bi”u
+224	1447	3040	Sa Mπc ßﬁa Bi”u

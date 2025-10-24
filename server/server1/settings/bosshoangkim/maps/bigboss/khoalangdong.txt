@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+75	1717	3094	Kho¶ Lang §éng
+75	1614	3191	Kho¶ Lang §éng
+75	1843	3169	Kho¶ Lang §éng
+75	1793	3030	Kho¶ Lang §éng

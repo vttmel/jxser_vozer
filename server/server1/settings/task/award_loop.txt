@@ -1,0 +1,11 @@
+Name	Quality	Genre	Detail	Particular	GoodsFive	Level	Magiclevel	TaskValue
+LÖnh bµi Phong L¨ng §é	0	4	489	1	0	0	0	2000000
+§å phæ Hoµng Kim - §Þnh Quèc Thanh Sa Tr­êng Sam	0	6	1	383	0	0	0	5000000
+§å phæ Hoµng Kim - §Þnh Quèc ¤ Sa Ph¸t Qu¸n	0	6	1	384	0	0	0	8000000
+§å phæ Hoµng Kim - §Þnh Quèc XÝch Quyªn NhuyÔn Ngoa	0	6	1	385	0	0	0	5000000
+§å phæ Hoµng Kim - §Þnh Quèc Tö §»ng Hé uyÓn	0	6	1	386	0	0	0	5000000
+§å phæ Hoµng Kim - §Þnh Quèc Ng©n Tµm Yªu ®¸i	0	6	1	387	0	0	0	5000000
+§å phæ Hoµng Kim - An Bang B¨ng Tinh Th¹ch H¹ng Liªn	0	6	1	388	0	0	0	10000000
+§å phæ Hoµng Kim - An Bang Cóc Hoa Th¹ch ChØ hoµn	0	6	1	389	0	0	0	5000000
+§å phæ Hoµng Kim - An Bang §iÒn Hoµng Th¹ch Ngäc Béi	0	6	1	390	0	0	0	5000000
+§å phæ Hoµng Kim - An Bang Kª HuyÕt Th¹ch Giíi ChØ 	0	6	1	391	0	0	0	5000000
