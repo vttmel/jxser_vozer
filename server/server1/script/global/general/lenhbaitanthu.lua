@@ -126,47 +126,71 @@ local tbFactionSeries =
 }
 ------------------------------------------------------------------------------------------------
 
-TITLEDIALOG = "Tªn nh©n vËt: <color=green>%s<color>\n".."Tªn tµi kho¶n: <color=green>%s<color>\n".."Thêi gian: <color=green>Ngµy <color=yellow>%s<color> Th¸ng <color=yellow>%s<color> N¨m <color=yellow>20%s<color>, <color=yellow>%s<color> giê <color=yellow>%s<color> phót<color>\n".."Täa ®é: <color=green>%d, %d/%d<color>" 
+THONGTINSERVER_DIALOG = "Sè anh em n»m th¼ng: <color=green>%s<color>\n"
+TITLE_DIALOG = "Tªn nh©n vËt: <color=green>%s<color> "
+TITLE_DIALOG  = TITLE_DIALOG.."TTK: <color=green>%s<color>/<color=red>%s<color>, VLMT: <color=green>%s<color>/<color=red>%s<color>\n"
+DOCHI_DIALOG = "§å chÝ: <color=green>%s<color>\n"
+DIEMTK_DIALOG = "§iÓm tÝch lòy Tèng Kim: <color=green>%s<color>\n"
+BOSS_SATTHU_DIALOG = "Boss s¸t thñ: <color=green>%s<color>/<color=red>%s<color>\n"
+THONGTINNHANVAT_DIALOG = "May m¾n: <color=green>%s<color>"
 function main(nItemIndex)
 	dofile("script/global/general/lenhbaitanthu.lua")
-		local strFaction = GetFaction()
-		local nW,nX,nY = GetWorldPos();
-		local year = tonumber(date( "%y"))
-		local mm = tonumber(date( "%m"))
-		local day = tonumber(date( "%d"))
-		local hour = tonumber(GetLocalDate("%H"))
-		local mmin = tonumber(GetLocalDate("%M"))
-		local tbSay = {format(TITLEDIALOG, GetName(), GetAccount(),day,mm,year,hour,mmin ,nW,nX,nY)};
-			if HoTroTestGame == 1 then
-			--tinsert(tbSay, "Test Server/testserver");
-			--tinsert(tbSay, "Xãa toµn bé item trong hµnh trang/xoatoanboitem");
-			--tinsert(tbSay, "Hæ trî lµm nhiÖm vô hoµng kim nhanh/helpgoldquest");
-			end
-			tinsert(tbSay, "Më Shop TiÒn V¹n/shoptienvan")
-			tinsert(tbSay,"§æi tiÒn tÖ/doitien_main")
-			tinsert(tbSay,"§æi ThÇn BÝ §å ChÝ thµnh tiÒn v¹n/thanbidochi")
-			if VongSangHoTroTanThu ==1 and GetSkillState(314) < 0 and GetLevel() < GioiHanCapNhanHoTroVongSang then
-			--tinsert(tbSay, "Vßng s¸ng hç trî t©n thñ/VongSangTanThu");
-			end
-			if NhanHoTroKyNang1xDen6x ==1 and GetTask(5744) == 0 then
-			tinsert(tbSay, "NhËn hæ trî skill 1x-6x/HoTroSkill2");
-			end
-			if ChinhServerPkNhanFullDoVaCap == 1 then
-			--tinsert(tbSay, "Xãa toµn bé item trong hµnh trang/xoatoanboitem");
-			--tinsert(tbSay, "NhËn hæ trî/nhanhotropk");
-			end
-			--tinsert(tbSay, "Thay ®æi danh hiÖu/change_title");
-			tinsert(tbSay, "Më réng r­¬ng/MoRongRuong");
-			tinsert(tbSay, "NhËn Tr¹ng Th¸i Phi ChiÕn §Êu/phichiendau");
-			tinsert(tbSay, "Gi¶i kÑt nh©n vËt/KetAcc");
-			--tinsert(tbSay, "Fix/ChangeKNBToCoin_FixBug");			
-			tinsert(tbSay,"Hñy vËt phÈm/DisposeItem")
-			--tinsert(tbSay,"T¹o b·i qu¸i/meltaobai")
-			--tinsert(tbSay,"Xãa b·i qu¸i/melxoabai")
-			--tinsert(tbSay,"T×m ID NPC/LietKeNPCXungQuanh")
-			tinsert(tbSay, "KÕt thóc ®èi tho¹i./no")
+	local strFaction = GetFaction()
+	local nW,nX,nY = GetWorldPos();
+	local year = tonumber(date( "%y"))
+	local mm = tonumber(date( "%m"))
+	local day = tonumber(date( "%d"))
+	local hour = tonumber(GetLocalDate("%H"))
+	local mmin = tonumber(GetLocalDate("%M"))
+	local nDate = tonumber(GetLocalDate("%y%m%d"));	
+	local nDochi = nt_getTask(1027)
+	local myDateBossST = nt_getTask(1192);
+	local nTTK = nt_getTask(81);
+	local nVLMT = nt_getTask(80);
+	if myDateBossST ~= nDate then
+		nt_setTask(1193, 0);
+		nt_setTask(1192, nDate);
+	end
+	local nBossST = nt_getTask(1193)
+
+	local nDiemTK = nt_getTask(747)
+	local szThongTin = format(THONGTINSERVER_DIALOG, GetPlayerCount());
+	szThongTin = szThongTin..format(TITLE_DIALOG, GetName(), nTTK, GioiHanTTK, nVLMT, GioiHanVLMT);
+	szThongTin = szThongTin..format(DOCHI_DIALOG, nDochi);
+	szThongTin = szThongTin..format(BOSS_SATTHU_DIALOG, nBossST,SoLuongBossSatThuTrongNgay);
+	szThongTin = szThongTin..format(DIEMTK_DIALOG, nDiemTK);
+	szThongTin = szThongTin..format(THONGTINNHANVAT_DIALOG, GetLucky(0));
+	local tbSay = {szThongTin};
+	if HoTroTestGame == 1 then
+	--tinsert(tbSay, "Test Server/testserver");
+	--tinsert(tbSay, "Xãa toµn bé item trong hµnh trang/xoatoanboitem");
+	--tinsert(tbSay, "Hæ trî lµm nhiÖm vô hoµng kim nhanh/helpgoldquest");
+	end
+	tinsert(tbSay, "Më Shop TiÒn V¹n/shoptienvan")
+	tinsert(tbSay,"§æi tiÒn tÖ/doitien_main")
+	tinsert(tbSay,"§æi ThÇn BÝ §å ChÝ thµnh tiÒn v¹n/thanbidochi")
+	if VongSangHoTroTanThu ==1 and GetSkillState(314) < 0 and GetLevel() < GioiHanCapNhanHoTroVongSang then
+	--tinsert(tbSay, "Vßng s¸ng hç trî t©n thñ/VongSangTanThu");
+	end
+	if NhanHoTroKyNang1xDen6x ==1 and GetTask(5744) == 0 then
+	tinsert(tbSay, "NhËn hæ trî skill 1x-6x/HoTroSkill2");
+	end
+	if ChinhServerPkNhanFullDoVaCap == 1 then
+	--tinsert(tbSay, "Xãa toµn bé item trong hµnh trang/xoatoanboitem");
+	--tinsert(tbSay, "NhËn hæ trî/nhanhotropk");
+	end
+	--tinsert(tbSay, "Thay ®æi danh hiÖu/change_title");
+	tinsert(tbSay, "Më réng r­¬ng/MoRongRuong");
+	tinsert(tbSay, "NhËn Tr¹ng Th¸i Phi ChiÕn §Êu/phichiendau");
+	tinsert(tbSay, "Gi¶i kÑt nh©n vËt/KetAcc");
+	--tinsert(tbSay, "Fix/ChangeKNBToCoin_FixBug");			
+	tinsert(tbSay,"Hñy vËt phÈm/DisposeItem")
+	--tinsert(tbSay,"T¹o b·i qu¸i/meltaobai")
+	--tinsert(tbSay,"Xãa b·i qu¸i/melxoabai")
+	--tinsert(tbSay,"T×m ID NPC/LietKeNPCXungQuanh")
+	tinsert(tbSay, "KÕt thóc ®èi tho¹i./no")
 			
-		CreateTaskSay(tbSay)
+	CreateTaskSay(tbSay)
 	return 1;
 end
 
