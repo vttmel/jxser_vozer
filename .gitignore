@@ -13,3 +13,14 @@ server/gateway/bishop_livetime.dat
 server/server1/gameserver.log
 server/server1/servershutdown_log
 
+server/gateway/bishop.cfg
+server/gateway/bishop.cfg
+server/gateway/goddess.cfg
+server/gateway/rolevalue_setting/rolevalue_log/*
+server/gateway/s3relay/relay_config.ini
+server/gateway/s3relay/Stat/*
+server/gateway/s3relay/Stat/*
+server/server1/servercf0.ini
+server/server1/servercfg.ini
+server/server1/dulieu/bosshoangkim/*
+server/server1/vng_data/Logs/*
