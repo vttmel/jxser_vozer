@@ -5152,7 +5152,7 @@ M· Bµi - D­¬ng Sa	6	1	4912	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó
 M· Bµi - Ngù Phong	6	1	4913	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 Ngù Phong (30 ngµy)		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0
 M· Bµi - Truy ®iÖn	6	1	4914	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 Truy ®iÖn (30 ngµy)		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0
 M· Bµi - L­u Tinh	6	1	4915	\spr\item\songjin\token.spr	385	1	1	BÊm chuét ph¶i ®Ó nhËn ®­îc 1 L­u Tinh (30 ngµy)		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0
-LÖnh bµi Boss §¹i Hoµng Kim	6	1	4916	\spr\item\questkey\taskobj132.spr	41	1	1	Dïng ®Ó triÖu håi <color=Yellow>Boss §¹i Hoµng Kim<color>		0	1	0	\script\global\mel\melbosshk.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0
+LÖnh bµi Boss §¹i Hoµng Kim	6	1	4916	\spr\item\questkey\taskobj132.spr	41	1	1	Dïng ®Ó triÖu håi <color=Yellow>Boss §¹i Hoµng Kim<color>		0	1	0	\script\global\mel\melbosshk.lua	0	1	1	0	0		999	0	0	0	0	0	0	0	0	0
 S¸ch l·nh ®¹o chiÕn lo¹n	6	1	4917	\spr\mel\melchienloan.spr	38	1	1	Cuèn s¸ch l­u tr÷ nhiÒu kinh nghiÖm chiÕn lo¹n <color=red>Vâ L©m TruyÒn Kú<color>		0	1	0	\script\global\vinh\simcity\controllers\main.lua	0	1	1	0	1		0	0	0	0	0	0	0	0	0	0
 S¸ch l·nh ®¹o kÐo xe	6	1	4918	\spr\mel\melkeoxe.spr	38	1	1	Cuèn s¸ch l­u tr÷ nhiÒu kinh nghiÖm kÐo xe <color=red>Vâ L©m TruyÒn Kú<color>		0	1	0	\script\global\vinh\simcity\controllers\keoxe.lua	0	1	1	0	1		0	0	0	0	0	0	0	0	0	0
 TÈy Tñy Kinh lÔ bao	6	1	4919	\spr\item\obj_item_jixiang.spr	347	1	1	BÊm chuét ph¶i sö dông ®Ó nhËn ®­îc 15 cuèn TÈy Tñy Kinh		0	1	0	\script\item\market_pack.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0
