@@ -1,0 +1,16 @@
+[Begin]Account(melgm), Role(MelGameMaster)
+Money(100000000): Value(1400)
+[End]Item Evaluate
+[End]Account(melgm), Role(MelGameMaster): ValueG(1400), ValueS(0)
+[Begin]Account(melhoa), Role(TestCaiBang)
+Money(0): Value(0)
+[End]Item Evaluate
+[End]Account(melhoa), Role(TestCaiBang): ValueG(0), ValueS(0)
+[Begin]Account(melmoc), Role(TestNguDoc)
+Money(200000000): Value(2800)
+[End]Item Evaluate
+[End]Account(melmoc), Role(TestNguDoc): ValueG(2800), ValueS(0)
+[Begin]Account(letly), Role(TøcThiÖt)
+Money(0): Value(0)
+[End]Item Evaluate
+[End]Account(letly), Role(TøcThiÖt): ValueG(0), ValueS(0)

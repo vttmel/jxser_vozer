@@ -1,0 +1,68 @@
+[Begin]Account(uchiha1), Role(1CaveBuff)
+Money(83625): Value(1)
+[End]Item Evaluate
+[End]Account(uchiha1), Role(1CaveBuff): ValueG(1), ValueS(0)
+[Begin]Account(uchiha2), Role(2Doctimchim)
+Money(83001): Value(1)
+[End]Item Evaluate
+[End]Account(uchiha2), Role(2Doctimchim): ValueG(1), ValueS(0)
+[Begin]Account(uchiha3), Role(3TNluutinh)
+Money(78001): Value(1)
+[End]Item Evaluate
+[End]Account(uchiha3), Role(3TNluutinh): ValueG(1), ValueS(0)
+[Begin]Account(uchiha4), Role(4Samset)
+Money(83230): Value(1)
+[End]Item Evaluate
+[End]Account(uchiha4), Role(4Samset): ValueG(1), ValueS(0)
+[Begin]Account(uchiha5), Role(5THieulamdao)
+Money(83044): Value(1)
+[End]Item Evaluate
+[End]Account(uchiha5), Role(5THieulamdao): ValueG(1), ValueS(0)
+[Begin]Account(kufunishi3), Role(Huy’tHÂnB®ng)
+Money(126414): Value(1)
+[End]Item Evaluate
+[End]Account(kufunishi3), Role(Huy’tHÂnB®ng): ValueG(1), ValueS(0)
+[Begin]Account(kufunishi4), Role(Huy’tHÂnDi‘m)
+Money(340164): Value(4)
+[End]Item Evaluate
+[End]Account(kufunishi4), Role(Huy’tHÂnDi‘m): ValueG(4), ValueS(0)
+[Begin]Account(kufunishi4), Role(Huy’tHÂnH·a)
+Money(200000): Value(2)
+[End]Item Evaluate
+[End]Account(kufunishi4), Role(Huy’tHÂnH·a): ValueG(2), ValueS(0)
+[Begin]Account(kufunishi5), Role(Huy’tHÂnTr∂m)
+Money(137419): Value(1)
+[End]Item Evaluate
+[End]Account(kufunishi5), Role(Huy’tHÂnTr∂m): ValueG(1), ValueS(0)
+[Begin]Account(kufunishi2), Role(Huy’tHÂnT®ng)
+Money(109254): Value(1)
+[End]Item Evaluate
+[End]Account(kufunishi2), Role(Huy’tHÂnT®ng): ValueG(1), ValueS(0)
+[Begin]Account(kufunishi1), Role(Huy’tHÂnßao)
+Money(111086): Value(1)
+[End]Item Evaluate
+[End]Account(kufunishi1), Role(Huy’tHÂnßao): ValueG(1), ValueS(0)
+[Begin]Account(shakun1), Role(K–oŸXe)
+Money(599825): Value(8)
+[End]Item Evaluate
+[End]Account(shakun1), Role(K–oŸXe): ValueG(8), ValueS(0)
+[Begin]Account(melgm), Role(MelGameMaster)
+Money(100050039): Value(1400)
+[End]Item Evaluate
+[End]Account(melgm), Role(MelGameMaster): ValueG(1400), ValueS(0)
+[Begin]Account(shakun3), Role(M›tŸßÈc)
+Money(932397): Value(13)
+[End]Item Evaluate
+[End]Account(shakun3), Role(M›tŸßÈc): ValueG(13), ValueS(0)
+[Begin]Account(shakun2), Role(PhongŸS≠¨ng)
+Money(368873): Value(5)
+[End]Item Evaluate
+[End]Account(shakun2), Role(PhongŸS≠¨ng): ValueG(5), ValueS(0)
+[Begin]Account(shakun4), Role(TrÍiŸß t)
+Money(561919): Value(7)
+[End]Item Evaluate
+[End]Account(shakun4), Role(TrÍiŸß t): ValueG(7), ValueS(0)
+[Begin]Account(shakun5), Role(ßoπŸThi™n)
+Money(217571): Value(3)
+[End]Item Evaluate
+[End]Account(shakun5), Role(ßoπŸThi™n): ValueG(3), ValueS(0)

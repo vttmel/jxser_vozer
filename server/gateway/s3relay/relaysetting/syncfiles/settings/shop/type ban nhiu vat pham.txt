@@ -1,0 +1,5 @@
+TypeName	SellID
+VËt phÈm	184
+§¹o cô	140
+Th¹ch	141
+Kh¸c	180

@@ -1,0 +1,255 @@
+QId	Tip	Content	ChooseCount	Price	Choose1	Choose2	Choose3	Choose4	Choose5	Choose6	Choose7	Choose8	Choose9	Choose10	BeginSaleTime	EndSaleTime	BeginPayForTime	EndPayForTime	Answer	BonusRate	MaxBonus
+1	14 hµo huy ch­¬ng b¶ng 	14 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408130700	408132400	408150900	408222200	0	50	10000000
+3	15 hµo huy ch­¬ng b¶ng 	15 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408140700	408142400	408160900	408222200	3	50	10000000
+5	16 hµo huy ch­¬ng b¶ng 	16 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408150700	408152400	408170900	408222200	7	50	10000000
+7	17 hµo huy ch­¬ng b¶ng 	17 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408160700	408162400	408200900	408222200	2	50	10000000
+9	18 hµo huy ch­¬ng b¶ng 	18 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408170700	408172400	408200900	408222200	3	50	10000000
+11	19 hµo huy ch­¬ng b¶ng 	19 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408180700	408182400	408200900	408222200	7	50	10000000
+13	20 hµo huy ch­¬ng b¶ng 	20 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408190700	408192400	408210900	408222200	7	50	10000000
+15	21 hµo huy ch­¬ng b¶ng 	21 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408200700	408202400	408220900	408232200	7	50	10000000
+17	22 hµo huy ch­¬ng b¶ng 	22 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408210700	408212400	408230900	408242200	6	50	10000000
+19	23 hµo huy ch­¬ng b¶ng 	23 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408220700	408222400	408240900	408252200	3	50	10000000
+21	24 hµo huy ch­¬ng b¶ng 	24 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408230700	408232400	408250900	408262200	7	50	10000000
+23	25 hµo huy ch­¬ng b¶ng 	25 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408240700	408242400	408260900	408272200	6	50	10000000
+25	26 hµo huy ch­¬ng b¶ng 	26 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408250700	408252400	408270900	408282200	3	50	10000000
+27	27 hµo huy ch­¬ng b¶ng 	27 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408260700	408262400	408280900	408292200	5	50	10000000
+29	28 hµo huy ch­¬ng b¶ng 	28 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408270700	408272400	408290900	408302200	5	50	10000000
+31	29 hµo huy ch­¬ng b¶ng 	29 hµo Trung Hoa Trung Quèc ®éi ë A-ten thÞnh héi th­îng lÊy ®­îc vµng b¹c huy ch­¬ng ®ång sè l­îng ®an song c¹nh sai 	8	5000	ChØ cÇn ®an 	§an song ®an 	ChØ cÇn song 	Song chØ cÇn 	Song song ®an 	Song ®an song 	§an song song 	Song song song 			408280700	408282400	408300900	408312200	2	50	10000000
+2	14 nhËt ®o¹t kim c¹nh sai 	N÷ tö khÝ sóng tr­êng, nam tö hai ng­êi m­êi th­íc cÇu nh¶y trËn chung kÕt qu¸n qu©n ng­êi ®o¹t gi¶i 	10	5000	TriÖu th«ng minh, ®iÒn l­îng / hå giai 	§ç lÖ, ®iÒn l­îng / hå giai 	Gia nhÜ kim na, ®iÒn l­îng / hå giai 	TriÖu th«ng minh, h¸ch ng­¬i mç / n÷u b¸ lý 	§ç lÖ, h¸ch ng­¬i mç / n÷u b¸ lý 	Gia nhÜ kim na, h¸ch ng­¬i mç / n÷u b¸ lý 	TriÖu th«ng minh, nh÷ng tuyÓn thñ kh¸c 	§ç lÖ, nh÷ng tuyÓn thñ kh¸c 	Nh÷ng tuyÓn thñ kh¸c, ®iÒn l­îng / hå giai 	C¸i kh¸c kh¶ n¨ng 	408130700	408132400	408150900	408222200	0	50	10000000
+4	15 nhËt ®o¹t kim c¹nh sai 	Nam tö 100 mÔ b¬i Õch trËn chung kÕt qu¸n qu©n, nam tö cuéc ®Êu bãng rç th¾ng b¹i 	8	5000	T­ l« ®øc nÆc phu, Trung Hoa Trung Quèc th¾ng T©y Ban Nha 	B¾c ®¶o khang giíi, Trung Hoa Trung Quèc th¾ng T©y Ban Nha 	Hansen, Trung Hoa Trung Quèc th¾ng T©y Ban Nha 	T­ l« ®øc nÆc phu, Trung Hoa Trung Quèc phô T©y Ban Nha 	B¾c ®¶o khang giíi, Trung Hoa Trung Quèc phô T©y Ban Nha 	Hansen, Trung Hoa Trung Quèc phô T©y Ban Nha 	Nh÷ng tuyÓn thñ kh¸c, Trung Hoa Trung Quèc th¾ng T©y Ban Nha 	Nh÷ng tuyÓn thñ kh¸c, Trung Hoa Trung Quèc phô T©y Ban Nha 			408140700	408142400	408160900	408222200	5	50	10000000
+6	16 nhËt ®o¹t kim c¹nh sai 	N÷ tö 100 mÔ b¬i Õch, nam tö thÓ thao ®oµn thÓ trËn chung kÕt qu¸n qu©n 	9	5000	La tuyÕt ®Ñp, Trung Hoa Trung Quèc thÓ thao nam ®éi 	Jones, Trung Hoa Trung Quèc thÓ thao nam ®éi 	La tuyÕt ®Ñp, MÜ Quèc thÓ thao nam ®éi 	Jones, MÜ Quèc thÓ thao nam ®éi 	La tuyÕt ®Ñp, nh÷ng quèc gia kh¸c thÓ thao nam ®éi 	Jones, nh÷ng quèc gia kh¸c thÓ thao nam ®éi 	Nh÷ng tuyÓn thñ kh¸c, Trung Hoa Trung Quèc thÓ thao nam ®éi 	Nh÷ng tuyÓn thñ kh¸c, MÜ Quèc thÓ thao nam ®éi 	C¸i kh¸c kh¶ n¨ng 		408150700	408152400	408170900	408222200	5	50	10000000
+8	17 nhËt ®o¹t kim c¹nh sai 	N÷ tö béi kiÕm c¸ nh©n h¹ng môc, nam tö 200 mÔ m«n b¬i b­ím qu¸n qu©n, n÷ tö lòy cÇu bØ t¸i 	8	5000	§µm tuyÕt, Phil phæ t­, Trung Hoa Trung Quèc th¾ng MÜ Quèc 	§µm tuyÕt, nh÷ng tuyÓn thñ kh¸c, Trung Hoa Trung Quèc th¾ng MÜ Quèc 	Nh÷ng tuyÓn thñ kh¸c, Phil phæ t­, Trung Hoa Trung Quèc th¾ng MÜ Quèc 	§µm tuyÕt, Phil phæ t­, Trung Hoa Trung Quèc phô MÜ Quèc 	§µm tuyÕt, nh÷ng tuyÓn thñ kh¸c, Trung Hoa Trung Quèc phô MÜ Quèc 	Nh÷ng tuyÓn thñ kh¸c, Phil phæ t­, Trung Hoa Trung Quèc phô MÜ Quèc 	Nh÷ng tuyÓn thñ kh¸c, nh÷ng tuyÓn thñ kh¸c, Trung Hoa Trung Quèc th¾ng MÜ Quèc 	Nh÷ng tuyÓn thñ kh¸c, nh÷ng tuyÓn thñ kh¸c, Trung Hoa Trung Quèc phô MÜ Quèc 			408160700	408162400	408200900	408222200	6	50	10000000
+10	18 nhËt ®o¹t kim c¹nh sai 	Nam tö thÓ thao c¸ nh©n toµn n¨ng, nam tö 69 kg cÊp cö t¹ qu¸n qu©n 	10	5000	D­¬ng oai, tr­¬ng n­íc chÝnh 	§»ng H¶i t©n, tr­¬ng n­íc chÝnh 	Paul - h¾c mç, tr­¬ng n­íc chÝnh 	D­¬ng oai, Russia tuyÓn thñ 	§»ng H¶i t©n, Russia tuyÓn thñ 	Paul - h¾c mç, Russia tuyÓn thñ 	D­¬ng oai, nh÷ng tuyÓn thñ kh¸c 	§»ng H¶i t©n, nh÷ng tuyÓn thñ kh¸c 	Nh÷ng tuyÓn thñ kh¸c, tr­¬ng n­íc chÝnh 	C¸i kh¸c kh¶ n¨ng 	408170700	408172400	408200900	408222200	3	50	10000000
+12	19 nhËt ®o¹t kim c¹nh sai 	N÷ tö 200 mÔ b¬i Õch, nam tö cö t¹ 77 kg cÊp qu¸n qu©n 	8	5000	§ñ huy, chiªm hóc c­¬ng 	Jones, chiªm hóc c­¬ng 	Bill ®øc, chiªm hóc c­¬ng 	§ñ huy, nh÷ng tuyÓn thñ kh¸c 	Jones, nh÷ng tuyÓn thñ kh¸c 	Bill ®øc, nh÷ng tuyÓn thñ kh¸c 	Nh÷ng tuyÓn thñ kh¸c, chiªm hóc c­¬ng 	C¸i kh¸c kh¶ n¨ng 			408180700	408182400	408200900	408222200	6	50	10000000
+14	20 nhËt ®o¹t kim c¹nh sai 	N÷ tö nhu ®¹o 78 kg ®· ngoµi cÊp, bãng bµn n÷ song trËn chung kÕt, n÷ tö bÝnh sµng qu¸n qu©n 	10	5000	T«n phóc minh, v­¬ng nam / tr­¬ng di ninh, hoµng san s¸n 	T«n phóc minh, bß kiÕm phong / qu¸ch nh¶y, hoµng san s¸n 	T«n phóc minh, nh÷ng tuyÓn thñ kh¸c, hoµng san s¸n 	Nh÷ng tuyÓn thñ kh¸c, v­¬ng nam / tr­¬ng di ninh, hoµng san s¸n 	Nh÷ng tuyÓn thñ kh¸c, bß kiÕm phong / qu¸ch nh¶y, hoµng san s¸n 	T«n phóc minh, v­¬ng nam / tr­¬ng di ninh, nh÷ng tuyÓn thñ kh¸c 	T«n phóc minh, bß kiÕm phong / qu¸ch nh¶y, nh÷ng tuyÓn thñ kh¸c 	Nh÷ng tuyÓn thñ kh¸c, v­¬ng nam / tr­¬ng di ninh, nh÷ng tuyÓn thñ kh¸c 	Nh÷ng tuyÓn thñ kh¸c, bß kiÕm phong / qu¸ch nh¶y, nh÷ng tuyÓn thñ kh¸c 	C¸i kh¸c kh¶ n¨ng 	408190700	408192400	408210900	408222200	8	50	10000000
+16	21 nhËt ®o¹t kim c¹nh sai 	A-ten thÞnh héi bãng bµn n÷ ®an, n÷ tö 100 mÔ trËn chung kÕt qu¸n qu©n 	10	5000	Tr­¬ng di ninh, a long 	Tr­¬ng di ninh, t¹p Lan §øc 	Tr­¬ng di ninh, Wiliam mç t­ 	Tr­¬ng di ninh, l¹p nÆc oa 	Tr­¬ng di ninh, nh÷ng tuyÓn thñ kh¸c 	Nh÷ng tuyÓn thñ kh¸c, a long 	Nh÷ng tuyÓn thñ kh¸c, t¹p Lan §øc 	Nh÷ng tuyÓn thñ kh¸c, Wiliam mç t­ 	Nh÷ng tuyÓn thñ kh¸c, l¹p nÆc oa 	C¸i kh¸c kh¶ n¨ng 	408200700	408202400	408220900	408232200	5	50	10000000
+18	22 nhËt ®o¹t kim c¹nh sai 	Nam tö 100 mÔ trËn chung kÕt, n÷ tö cao ®ª giang qu¸n qu©n 	9	5000	C¸ch l©m, Trung Hoa Trung Quèc n÷ tuyÓn thñ 	B¶o Will, Trung Hoa Trung Quèc n÷ tuyÓn thñ 	C¸ch l©m, ho¾c ng­¬i kim na 	B¶o Will, ho¾c ng­¬i kim na 	C¸ch l©m, nh÷ng tuyÓn thñ kh¸c 	B¶o Will, nh÷ng tuyÓn thñ kh¸c 	Nh÷ng tuyÓn thñ kh¸c, Trung Hoa Trung Quèc tuyÓn thñ 	Nh÷ng tuyÓn thñ kh¸c, ho¾c ng­¬i kim na 	C¸i kh¸c kh¶ n¨ng 		408210700	408212400	408230900	408242200	9	50	10000000
+20	23 nhËt ®o¹t kim c¹nh sai 	Ngùa gç vµ xµ kÐp vµ ®iÒn kinh n÷ tö 20 km thi ®i bé qu¸n qu©n 	10	5000	Lý tiÓu b»ng, lý tiÓu b»ng, v­¬ng lÖ b×nh 	Lý tiÓu b»ng, lý tiÓu b»ng, tèng hång ®Ñp 	Lý tiÓu b»ng, lý tiÓu b»ng, Nicola còng oa 	Nh÷ng tuyÓn thñ kh¸c, lý tiÓu b»ng, v­¬ng lÖ b×nh 	Nh÷ng tuyÓn thñ kh¸c, lý tiÓu b»ng, tèng hång ®Ñp 	Nh÷ng tuyÓn thñ kh¸c, lý tiÓu b»ng, Nicola còng oa 	Lý tiÓu b»ng, nh÷ng tuyÓn thñ kh¸c, v­¬ng lÖ b×nh 	Lý tiÓu b»ng, nh÷ng tuyÓn thñ kh¸c, tèng hång ®Ñp 	Lý tiÓu b»ng, nh÷ng tuyÓn thñ kh¸c, Nicola còng oa 	C¸i kh¸c kh¶ n¨ng 	408220700	408222400	408240900	408252200	10	50	10000000
+22	24 nhËt ®o¹t kim c¹nh sai 	N÷ tö nh¶y sµo, nam tö nh¶y cÇu ba th­íc b¶n quyÕt qu¸n qu©n 	10	5000	PhÝ ¸o ph¸p nÆc oa, t¸t « ®inh 	Y t©n ba còng oa, t¸t « ®inh 	PhÝ ¸o ph¸p nÆc oa, bµnh bét 	Y t©n ba còng oa, bµnh bét 	PhÝ ¸o ph¸p nÆc oa, ®a bè Rose khoa kh¾c 	Y t©n ba còng oa, ®a bè Rose khoa kh¾c 	PhÝ ¸o ph¸p nÆc oa, nh÷ng tuyÓn thñ kh¸c 	Y t©n ba còng oa, nh÷ng tuyÓn thñ kh¸c 	Nh÷ng tuyÓn thñ kh¸c, bµnh bét 	C¸i kh¸c kh¶ n¨ng 	408230700	408232400	408250900	408262200	4	50	10000000
+24	25 nhËt ®o¹t kim c¹nh sai 	N÷ tö t¹ xÝch trong tranh tµi n­íc cã thÓ kh«ng thu ®­îc huy ch­¬ng, lµ ai thu ®­îc qu¸n qu©n 	7	5000	N¨ng, cè nguyªn, sê L«i NÆc 	N¨ng, tr­¬ng v¨n tó, sê L«i NÆc 	N¨ng, cè nguyªn, nh÷ng tuyÓn thñ kh¸c 	N¨ng, cè nguyªn, nh÷ng tuyÓn thñ kh¸c 	BÊt n¨ng, sê L«i NÆc 	BÊt n¨ng, nh÷ng tuyÓn thñ kh¸c 	C¸i kh¸c kh¶ n¨ng 				408240700	408242400	408260900	408272200	6	50	10000000
+26	26 nhËt ®o¹t kim c¹nh sai 	Nh¶y cÇu n÷ tö ba th­íc b¶n trËn chung kÕt, nam tö ng­êi s¾t tam h¹ng trËn chung kÕt qu¸n qu©n 	10	5000	Qu¸ch tinh tinh, MÜ Quèc tuyÓn thñ 	Ng« mÉn hµ, MÜ Quèc tuyÓn thñ 	Qu¸ch tinh tinh, Australia tuyÓn thñ 	Ng« mÉn hµ, Australia tuyÓn thñ 	Qu¸ch tinh tinh, Canada tuyÓn thñ 	Ng« mÉn hµ, Canada tuyÓn thñ 	Qu¸ch tinh tinh, Anh quèc tuyÓn thñ 	Ng« mÉn hµ, Anh quèc tuyÓn thñ 	Qu¸ch tinh tinh, nh÷ng quèc gia kh¸c tuyÓn thñ 	C¸i kh¸c kh¶ n¨ng 	408250700	408252400	408270900	408282200	9	50	10000000
+28	27 nhËt ®o¹t kim c¹nh sai 	Nam 110 mÔ v­ît rµo c¶n trËn chung kÕt, n÷ tö 10000 mÔ trËn chung kÕt qu¸n qu©n 	10	5000	L­u bay liÖng, t«n anh kiÖt 	A lan - ­íc hµn tèn, t«n anh kiÖt 	L­u bay liÖng, l¹p §øc Kh¾c lý phu 	A lan - ­íc hµn tèn, l¹p §øc Kh¾c lý phu 	L­u bay liÖng, A §øc l«i 	A lan - ­íc hµn tèn, A §øc l«i 	L­u bay liÖng, nh÷ng tuyÓn thñ kh¸c 	A lan - ­íc hµn tèn, nh÷ng tuyÓn thñ kh¸c 	Nh÷ng tuyÓn thñ kh¸c, t«n anh kiÖt 	C¸i kh¸c kh¶ n¨ng 	408260700	408262400	408280900	408292200	7	50	10000000
+30	28 nhËt ®o¹t kim c¹nh sai 	 nam tö nh¶y cÇu m­êi th­íc thai, tÜnh thñy nam tö 500 mÔ hai ng­êi b× ®Ünh qu¸n qu©n 	10	5000	§iÒn l­îng, hung nha lîi 	H¸ch ng­¬i mç, hung nha lîi 	Sanders kh¨n ®Õ, hung nha lîi 	§iÒn l­îng, Poland 	H¸ch ng­¬i mç, Poland 	Sanders kh¨n ®Õ, Poland 	§iÒn l­îng, §øc 	H¸ch ng­¬i mç, §øc 	Sanders kh¨n ®Õ, §øc 	C¸i kh¸c kh¶ n¨ng 	408270700	408272400	408290900	408302200	10	50	10000000
+32	29 nhËt ®o¹t kim c¹nh sai 	Ch¹y Ma-ra-t«ng bØ t¸i qu¸n qu©n 	7	5000	Kª-ni-a 	Ma Rèc 	T©y Ban Nha 	Italy 	Bå §µo Nha 	NhËt B¶n 	Nh÷ng quèc gia kh¸c tuyÓn thñ 				408280700	408282400	408300900	408312200	4	50	10000000
+1000	Trung Hoa Trung Quèc huy ch­¬ng con sè 	Trung Hoa Trung Quèc ¸o vËn ®¹i biÓu ®éi ë 2004 niªn A-ten thÞnh héi th­îng t­íng xong vµng b¹c huy ch­¬ng ®ång con sè 	7	5000	Kª-ni-a 	Ma Rèc 	T©y Ban Nha 	Italy 	Bå §µo Nha 	NhËt B¶n 	Nh÷ng quèc gia kh¸c tuyÓn thñ 				408130700	408210700	408300900	408312200	921888	50	10000000
+2001		GÆp l¹i (®¶ mét ch÷)	4	0	Ng÷ 	Quan 	B»ng 	Chóng 											2	50	10000000
+2002		ChÝn giê (®¶ mét ch÷)	4	0	NhËn 	Phong 	Chö 	Hoµn 											4	50	10000000
+2003		Mét ngµy (®¶ mét ch÷)	4	0	§iÒn 	Phu 	Phu 	Cò 											4	50	10000000
+2004		Giäng nãi (®¶ mét ch÷)	4	0	Méng 	Am 	Th©u 	ChuÕ 											2	50	10000000
+2005		Liªu trai (®¶ mét ch÷)	4	0	Ph¸ch 	Méc 	KiÖt 	S¸ 											4	50	10000000
+2006		Hai th¸ng b×nh (®¶ mét ch÷)	4	0	B»ng 	BÐo 	VÒ 	Khoa 											1	50	10000000
+2007		NhÞ tiÓu th­ (®¶ mét ch÷)	4	0	T«n 	Muéi 	T­ 	§ñ 											3	50	10000000
+2008		TuÕ m¹t gÆp (®¶ mét ch÷)	4	0	TÞnh 	§au nhøc 	Ch¸o 	T­¬ng 											1	50	10000000
+2009		§¸nh §«ng dÑp B¾c (®¶ mét ch÷)	4	0	Phã 	ThiÕn 	Chøng 	KiÕt 											3	50	10000000
+2010		Ng­êi ng­êi nh­êng chç ngåi (®¶ mét ch÷)	4	0	Täa 	Trang 	Tõ 	Tóng 											2	50	10000000
+2011		§øng hai ngµy (®¶ mét ch÷)	4	0	ChuyÖn 	¸m 	Béc 	Tµm 											2	50	10000000
+2012		Néi c¸c t¶ t­íng (®¶ mét ch÷)	4	0	Xinh ®Ñp 	DÞ 	C¸ch 	TiÔu 											3	50	10000000
+2013		Thñ chu ®·i thá (®¶ mét ch÷)	4	0	Kha 	LiÔu 	Th¾ng 	§·i 											2	50	10000000
+2014		Phµm ¶nh lät vµo trong tÇm m¾t (®¶ mét ch÷)	4	0	Tang 	Nhµn 	§Þch 	H¹m 											4	50	10000000
+2015		Tróc tiÕp theo thÊt (®¶ mét ch÷)	4	0	TÊn 	ThÝch 	Gi¶n 	T©n 											3	50	10000000
+2016		B¸n xÊu hæ liÕc trém (®¶ mét ch÷)	4	0	 	ThiÖn 	QuËt 	Loan 											1	50	10000000
+2017		Tr¨m n¨m rõng tróc (®¶ mét ch÷)	4	0	Trï 	Tróc 	B¸ch 	Kháa 											1	50	10000000
+2018		Giang §«ng nhÞ kiÒu (®¶ mét ch÷)	4	0	èc 	KiÒu 	Giang 	Ngu 											4	50	10000000
+2019		Ngµy mai nhËt thùc toµn phÇn (®¶ mét ch÷)	4	0	NguyÖt 	Hång 	B»ng 	H¹o 											1	50	10000000
+2020		§Èy ra nh©n l¹i tíi (®¶ mét ch÷)	4	0	H÷u 	Nghiªn 	Lai 	Than 											4	50	10000000
+2021		BÕn ®ß d­ mÆt trêi lÆn (®¶ mét ch÷)	4	0	Khöu tay 	MÞch 	Hi 	Thøc 											2	50	10000000
+2022		Hoµng h«n ngµy r­ìi r¬i (®¶ mét ch÷)	4	0	Danh 	¸ 	ChØ 	Vâng 											1	50	10000000
+2023		Chim c«ng ®«ng nam phi (®¶ mét ch÷)	4	0	Tiªm 	BÕ 	T«n 	Gi¸p 											3	50	10000000
+2024		Dông quyÒn ®Çu nãi (®¶ mét ch÷)	4	0	§èt 	Dù 	HØ 	Ng¾n 											2	50	10000000
+2025		NguyÖt û chi, chim quyªn ®Ò (®¶ mét ch÷)	4	0	B»ng 	T¸ng 	Hoµng 	T« 											1	50	10000000
+2026		Tr¨ng tµn chiÕu xÐo ¶nh thµnh ®«i (®¶ mét ch÷)	4	0	Tå 	Sõng 	§a 	B»ng 											3	50	10000000
+2027		Ký trung l­ìng gÆp thËt t×nh nh©n (®¶ mét ch÷)	4	0	C­¬ng 	Bµnh 	R­¬ng 	Tiªu 											1	50	10000000
+2028		Vi c«ng ph¸n ®o¸n s¸ng suèt khÝ « sa (®¶ mét ch÷)	4	0	Méc 	ChØ 	Lo liÖu 	Phong 											1	50	10000000
+2029		§¾c nguyÖt l©u tiÒn tr­íc ph¶i nguyÖt (®¶ mét ch÷)	4	0	MÔ 	¢m 	Cung 	B»ng 											4	50	10000000
+2030		T­¬ng t­ nh©n ®¸o kÕt ®ång t©m (®¶ mét ch÷)	4	0	C¸p 	HuyÒn 	Toa 	Phi 											2	50	10000000
+2031		Ýt tiÓu ly gia l·o ®¹i quay vÒ (®¶ mét ch÷)	4	0	KhÝ 	Tiªm 	ThiÖn 	N¨ng 											2	50	10000000
+2032		Võa ®i NhËt B¶n tin tøc v« (®¶ mét ch÷)	4	0	H¹o 	YÓu 	Khung 	H¹nh 											2	50	10000000
+2033		Trong giã kho¶ng kh«ng hËu lËp chung tiªu (®¶ mét ch÷)	4	0	T¸i 	Tóc 	Hång 	TuÇn 											2	50	10000000
+2034		NhËp chë r­ng r­ng t©y b¾c ng¾m (®¶ mét ch÷)	4	0	TØnh 	Uy 	T­ 	Mang 											4	50	10000000
+2035		L©u biªn kiÒu b¹n cµnh liÔu lay ®éng (®¶ mét ch÷)	4	0	L­¬ng 	§¾c 	§¹n 	B©n 											4	50	10000000
+2036		Hoµng Hµ trªn d­íi thÊt thao thao (®¶ mét ch÷)	4	0	Kho¶ng kh«ng 	Kú 	TÝch 	Phµn 											2	50	10000000
+2037		NguyÖt dêi hoa ¶nh ®¸o ®µi cao (®¶ mét ch÷)	4	0	Hoµn 	SÝ 	¸n 	N¨ng 											4	50	10000000
+2038		NÆng loan nói non trïng ®iÖp mét cäng cá (®¶ mét ch÷)	4	0	LËt 	Tø 	TruÊt 	B¶o 											3	50	10000000
+2039		Ph¹m tiÕn ch¹ng v¹ng khø bê n­íc (®¶ mét ch÷)	4	0	UyÓn 	Thay ®æi 	Tóng 	Thanh 											1	50	10000000
+2040		Tr¨ng non tam tinh chiÕu chi ®Çu (®¶ mét ch÷)	4	0	Cøu 	Th¶i 	Kh«n 	TÕ 											2	50	10000000
+2041		Trong th«n cæ thô chi b¸n kh« (®¶ mét ch÷)	4	0	Hµ 	T­ëng 	Cæ 	MÝnh 											3	50	10000000
+2042		NhÊt c©u tr¨ng non tµ treo ngän c©y (®¶ mét ch÷)	4	0	Hµo 	Lóa 	NghiÖp 	HuyÒn 											2	50	10000000
+2043		BiÖt hËu, t©n c©y cá, ®èi kh«ng nguyÖt (®¶ mét ch÷)	4	0	Kho¸i 	DÜnh 	T©n 	TËp 											1	50	10000000
+2044		TÝch nhËt tõ biÖt hËu, thËp chë ph­¬ng t­¬ng phïng (®¶ mét ch÷)	4	0	N¹i 	H¹nh 	YÓu 	Khæ 											4	50	10000000
+2045		Tµn tinh tam hai ®iÓm, c« gia nh¹n ngang trêi phi (®¶ mét ch÷)	4	0	Chã 	Lôc 	C¸i 	ThÞ 											2	50	10000000
+2046		Khuª trung xinh ®Ñp nh©n, xÊu hæ ®Ýnh uyªn minh (®¶ mét ch÷)	4	0	Nhuém 	Tæng 	Nãi 	Oa 											4	50	10000000
+2047		Nh×n nh­ tõng ngän c©y cäng cá, yªn biÕt ®Çu viªn ngãi trÝch thuû thµnh cù (®¶ mét ch÷)	4	0	Cõ 	San 	Thiªn 	Hµnh 											1	50	10000000
+2048		Mét ®«i tr¨ng s¸ng kh«ng chót nµo tµn, r¬i vµo ch©n nói t¶ h÷u ®øng (®¶ mét ch÷)	4	0	B¨ng 	Cao 	Phôc 	Thµnh 											1	50	10000000
+2049		Mét m¶nh m©y t¶n che trêi ®Ýnh, tam con liÔu rñ vò ®«ng phong (®¶ mét ch÷)	4	0	Tè 	Thanh 	Ph¹m 	Thay ®æi 											1	50	10000000
+2050		Ngäa kh¸n kho¶ng kh«ng s¬n hµm xa c©y, thua phÝa t©y thÝnh tiÕn thanh (®¶ mét ch÷)	4	0	X©y 	Kho¶ng kh«ng 	B»ng 	Tha 											1	50	10000000
+2051		Diªm tiÒn ®Çu viªn ngãi trÝch thuû (®¶ mét ch÷)	4	0	Méc 	B¾c 	CÊp 	TruÊt 											1	50	10000000
+2052		S¾c thu giÊu xu©n (®¶ mét ch÷)	4	0	H­¬ng 	X©m 	U 	Nga 											1	50	10000000
+2053		Ph¸o ®¶ song xa (®¶ mét ch÷)	4	0	H©n 	ThÊp 	Çm 	Th­ 											3	50	10000000
+2054		T©y hå cuèi mïa xu©n (®¶ mét ch÷)	4	0	R¬i 	S«ng 	¦¬ng 	MÞch 											4	50	10000000
+2055		R­îu kú lµm b¹n (®¶ mét ch÷)	4	0	Thôc 	Kú 	TuÕ 	Chuy 											2	50	10000000
+2056		L÷ Bè sÊm Quan Trung (®¶ mét ch÷)	4	0	PhÈm 	L­ 	ThuËn 	ChØ 											2	50	10000000
+2057		Tr­íc nhµ võa ®øt tïng (®¶ mét ch÷)	4	0	VÞ 	Hoµng 	C­ 	B»ng 											3	50	10000000
+2058		M­êi hai hîp nhÊt c©n (®¶ mét ch÷)	4	0	CÇn 	Sam 	ThÓ 	TrÇn 											1	50	10000000
+2059		Hoµng h«n liÔu ®Çu cµnh (®¶ mét ch÷)	4	0	Sao 	Méng 	B­u 	Ph¹m 											2	50	10000000
+2060		§Çu b¹c nghÌo kinh th­ (®¶ mét ch÷)	4	0	YÕu 	D¹ 	Cao 	Tr©n 											3	50	10000000
+2061		Cam lé méc ®µo lý (®¶ mét ch÷)	4	0	Ký 	L©m 	Sinh 	C¸i giá 											2	50	10000000
+2062		ThuyÒn nh©n mét ®ªm vÒ (®¶ mét ch÷)	4	0	Phµn 	YÓu 	Tr­êng 	LÖ 											4	50	10000000
+2063		Rõng tróc ®­êng nhá ngang däc (®¶ mét ch÷)	4	0	ThÖ 	B¹i 	Phò 	L­¬ng 											1	50	10000000
+2064		Hoµng h«n tr¨ng non chiÕu lan tiÒn (®¶ mét ch÷)	4	0	Tùu 	T« 	H¹o 	Hµnh lang 											2	50	10000000
+2065		Xa øc c©y mÉu ®¬n c¶ thµnh h­¬ng (®¶ mét ch÷)	4	0	Ng¹c 	Biªn 	R¬i 	B¶o 											3	50	10000000
+2066		Bôi cá thïy lé l­ìng l¶ l­ít (®¶ mét ch÷)	4	0	Kú 	D¾t 	M·n 	T­¬ng 											3	50	10000000
+2067		Bê s«ng ®o¹n d­¬ng nhËn tµn vu (®¶ mét ch÷)	4	0	Ngé 	Xinh ®Ñp 	Lung 	§·ng 											4	50	10000000
+2068		Lo¹n ®iÒn r¬i l¶ t¶ b¸n hå ©m (®¶ mét ch÷)	4	0	MiÓu 	VÞ 	T« 	Thµnh 											2	50	10000000
+2069		Du th«i d©n s¬n hîp con m¾t miªn (®¶ mét ch÷)	4	0	D©n 	Gi¸p 	Chi 	Lai 											1	50	10000000
+2070		BiÖt th× võa ë ngµy 30 tÕt tÞch (®¶ mét ch÷)	4	0	LÖ 	Xãa 	Ýt 	Bé 											2	50	10000000
+2071		Cèt la bê s«ng kiÕn nguyÖt minh (®¶ mét ch÷)	4	0	Tr­êng 	Th¨ng 	C«ng 	NhËt 											4	50	10000000
+2072		M­a tÔ hµ phi tµ nh¹n qu¸ (®¶ mét ch÷)	4	0	Th»ng 	Ph¹m 	Sao 	Gi¶ 											4	50	10000000
+2073		Ngäc cßn cã hµ, nh©n sao cã thÓ miÔn (®¶ mét ch÷)	4	0	B¶o 	Tóc 	Kim 	Ninh 											3	50	10000000
+2074		V­¬ng bµ rao hµng, hé hé dÉn ©m (®¶ mét ch÷)	4	0	§¹m 	PhØ 	Hå 	Qu¾c 											3	50	10000000
+2075		DÜ khiÓn ®µn con Õch t¸c l­ìng bé, canh khø tr¨ng s¸ng thµnh ba ng­êi (®¶ mét ch÷)	4	0	Giai 	Ngu xuÈn 	§iÖp 	Hµn 											2	50	10000000
+2076		C¸ (®¶ võa thµnh ng÷)	4	0	Nh­ c¸ gÆp n­íc 	Dùa vµo bµng thñy 	CÇu nhá n­íc ch¶y 	N¨m x­a nh­ n­íc 											1	50	10000000
+2077		Tõ (®¶ võa thµnh ng÷)	4	0	Tõ ®a t×nh 	TiÕng o¸n than dËy ®Êt 	Nh­ bãng víi h×nh 	Bá m¹ng ®å 											3	50	10000000
+2078		Ph¶n kÝch (®¶ võa thµnh ng÷)	4	0	HËu ph¸t chÕ nh©n 	§ång quy vu tËn 	Phßng ho¹n ch­a x¶y ra 	VÕt xe ®æ 											1	50	10000000
+2079		HiÖn ®¹i kÞch (®¶ võa thµnh ng÷)	4	0	Minh kiÕn v¹n lý 	V« danh tiÓu tèt 	§Õn nay vi liÖt 	GÆp kh«ng sî h·i 											3	50	10000000
+2080		Phao tó cÇu (®¶ võa thµnh ng÷)	4	0	Sö kh«ng døt th­ 	ThÊy tr­íc míi thÝch 	Lo¹n trong giÆc ngoµi 	Tiªu, ®Çu kú së h¶o 											4	50	10000000
+2081		T­¬ng t­ ®¬n ph­¬ng (®¶ võa thµnh ng÷)	4	0	Nh©n t©m t­ ®Þnh 	Ng« h¹ a ngu dèt 	Thùc kh«ng d¸m ®Êu diÕm 	Mèi t×nh th¾m thiÕt 											4	50	10000000
+2082		TuyÖt thÕ h¶o kiÕm (®¶ võa thµnh ng÷)	4	0	Ngay ng¾n râ rµng 	C¶m gi¸c míi mÎ 	Thiªn h¹ V« Song 	Lµm biÕt kh«ng l­¬ng 											3	50	10000000
+2083		Tr¨ng s¸ng bao l©u cã (®¶ võa thµnh ng÷)	4	0	Long tranh hæ ®Êu 	Mét sím mét chiÒu 	Kh«ng ®Õm xØa ®Õn 	Sèng chÕt tr­íc m¾t 											2	50	10000000
+2084		M­êi l¨m ¸nh tr¨ng (®¶ võa thµnh ng÷)	4	0	S«ng dµi mÆt trêi lÆn 	Quang minh ch¸nh ®¹i 	Thiªn lý céng thiÒn quyªn 	NguyÖt th­îng t©y l©u 											2	50	10000000
+2085		§Çu treo cæ tù tö, trïy thø cæ (®¶ võa thµnh ng÷)	4	0	æn ®Þnh vµ hoµ b×nh l©u dµi 	Xu©n vÒ hoa në 	Kh«ng ngõng v­¬n lªn 	Thanh qu©n tr¾c 											3	50	10000000
+2086		Trêi cao v¹n lý tèng t­¬ng t­ (®¶ võa thµnh ng÷)	4	0	Tr­íc sau vÑn toµn 	V« danh tiÓu tèt 	C¸i sau v­ît c¸i tr­íc 	Réng thïng th×nh vi hoµi 											4	50	10000000
+2087		Héi h×nh ®å ¶nh theo ®uæi bé (®¶ võa thµnh ng÷)	4	0	Lßng nh­ ®ao c¾t 	Kh«ng h¬n kh«ng kÐm 	Tr«ng mÆt mµ b¾t h×nh dong 	MiÖng l­ìi l­u lo¸t 											3	50	10000000
+2088		Chñ tÓ thiªn h¹ vi mÉu nghi (®¶ võa thµnh ng÷)	4	0	Ng­êi nhiÒu h¬n viÖc 	Sinh l·o bÖnh tö 	Vui mõng qu¸ ®çi 	C¸i sau v­ît c¸i tr­íc 											4	50	10000000
+2089		Toµn quèc trªn d­íi hín hë (®¶ võa thµnh ng÷)	4	0	Nh­ trót ®­îc g¸nh nÆng 	NH¢N 	ThÝch thó 	Mét lµ nhÊt, hai lµ nhÞ 											3	50	10000000
+2090		HÇu m«n võa vµo s©u tùa nh­ biÓn (®¶ võa thµnh ng÷)	4	0	Häa lµ tõ ë miÖng mµ ra 	ThÊt nhÜ nh©n xa 	GÇn ®Êt xa trêi 	C¸i sau v­ît c¸i tr­íc 											2	50	10000000
+2091		B»ng qu©n truyÖn ng÷ b¸o b×nh an (®¶ võa thµnh ng÷)	4	0	Vinh quy quª cò 	Mét gi¸ 	Cã ®iÒu lµm 	§¹i ®ång tiÓu dÞ 											1	50	10000000
+2092		DÆn dß nãi h­íng thuyÕt th­ nh©n (®¶ võa thµnh ng÷)	4	0	Vung tay 	Tung tÝch kh«ng râ 	Nãi kh«ng gi÷ lêi 	Kh«ng c¸nh mµ bay 											3	50	10000000
+2093		ChØ cã ThÊt muéi gi¸ ®æng lang (®¶ võa thµnh ng÷)	4	0	Tam nguyªn thi ®Ëu 	Nãi qu¸ sù thËt 	Hoang mang lo sî 	Tr­íc kh¸c nay kh¸c 											3	50	10000000
+2094		LÝ Quú, khø b¶ tèng giang gäi tíi! (®¶ võa thµnh ng÷)	4	0	Vßng ®i vßng l¹i 	§øng nói nµy tr«ng nói nä 	Kh«ng cÇn nãi còng biÕt 	H« phong ho¸n vò 											4	50	10000000
+2095		Lç tai to kÎ trém, kh«ng nhí viªn m«n b¾n kÝch th× còng (®¶ võa thµnh ng÷)	4	0	Rót kinh nghiÖm x­¬ng m¸u 	Håi quang ph¶n chiÕu 	Ai còng cã së tr­êng riªng 	Yªu cÇu cao 											4	50	10000000
+2096		Chç trèng (®¶ võa thµnh ng÷)	4	0	Tèt m· dÎ cïi 	T×m c¸i chÕt 	§Ñp kh«ng sao t¶ xiÕt 	Tó s¾c kh¶ xan 											1	50	10000000
+2097		Tøc sïi bät mÐp (®¶ võa thµnh ng÷)	4	0	Tøc giËn bõng bõng 	§å h¸o s¾c 	Suy cho cïng 	TrÎ nhá dÔ d¹y 											1	50	10000000
+2098		ChØ cho phÐp th¾ng, kh«ng ®­îc b¹i (®¶ võa thµnh ng÷)	4	0	Trêi xui ®Êt khiÕn 	Nh­îng bé lui binh 	Nãi mµ cã tÝn 	ChØ mong kiÕm lîi 											4	50	10000000
+2099		Mu«n s«ng ngh×n nói chØ chê rçi r·nh (®¶ võa thµnh ng÷)	4	0	NhÊt ®Þnh ph¶i ®­îc 	Dïng v¨n chë nãi 	B×nh ch©n nh­ v¹i 	§Çu tµu g­¬ng mÉu 											3	50	10000000
+2100		Kh«ng nh×n ®­îc xu©n h¹ d÷ thu ®«ng (®¶ võa thµnh ng÷)	4	0	Muèn ngõng mµ kh«ng ®­îc 	N¬i phån hoa 	ThÞ b¹n ®­êng 	Sinh thêi 											4	50	10000000
+2101		H¶o th¬ h¶o nguyÖt kh¸nh Trung thu (®¶ võa thµnh ng÷)	4	0	§¹o ®øc tèt 	HÕt søc c¨ng th¼ng 	ïn ïn 	Nghiªm trang 											1	50	10000000
+2102		Kh«ng ng¹i «m banh ch¹y ngùa gç kú (®¶ võa thµnh ng÷)	4	0	BÊt tØnh nh©n sù 	S¾p tíi 	Rung ®ïi ®¾c ý 	Kú qu¸i 											2	50	10000000
+2103		Hùu ®é mét n¨m, c¸c thiªm nhÊt tuÕ (®¶ võa thµnh ng÷)	4	0	Bµi s¬n ®¶o h¶i 	Ai còng cã së tr­êng riªng 	§øng ra 	V¾t chµy ra n­íc 											2	50	10000000
+2104		¸nh b×nh minh tøc khëi, vÈy n­íc quÐt nhµ s©n (®¶ võa thµnh ng÷)	4	0	Sinh thêi 	Th­îng thõa lµm 	Kh«ng hîp nhau 	HiÓu chi dÜ ®Ó ý 											4	50	10000000
+2105		Thao ®ao quû lÇm t¸c l·ng lý ho¸ ®¬n t¹m (®¶ võa thµnh ng÷)	4	0	Danh chÝnh ng«n thuËn 	Gióp ng­êi thµnh ®¹t 	§øng nói nµy tr«ng nói nä 	Gièng nhau nh­ ®óc 											1	50	10000000
+2106		Gi¶ m¹o kh©m sai (®¶ nhÊt tôc ng÷)	4	0	D­êng nh­ 	§a t¹ 	Gi¶ sö 	Cã lÏ 											3	50	10000000
+2107		B¸t mÆt giã lïa (®¶ nhÊt tôc ng÷)	4	0	GiËn kh«ng chç ph¸t tiÕt 	GÆp c¶nh khèn cïng 	Th­îng bÊt chÝnh h¹ t¾c lo¹n 	GÇn mùc th× ®en 											1	50	10000000
+2108		N¨ng uèng mét chÐn v« (®¶ nhÊt tôc ng÷)	4	0	G× chø 	Tôc ng÷ nãi 	LÉn vµo xuèng phÝa d­íi 	Xin th­¬ng xãt 											1	50	10000000
+2109		Du tö trªn ng­êi y (®¶ nhÊt tôc ng÷)	4	0	Nhí t×nh b¹n cò 	Lung tung 	§Çu t­êng mét cäng cá 	BiÖt lai mét bé nµy 											4	50	10000000
+2110		Kh«ng bao giê lµm ®uèi lý sù (®¶ nhÊt tôc ng÷)	4	0	Ng­êi hiÒn lµnh 	LÉn vµo xuèng phÝa d­íi 	Lµm trß c­êi 	G× chø 											1	50	10000000
+2111		N¨m ngo¸i mét giät t­¬ng t­ lÖ, ®Õn nay vÞ ch¶y tíi m¸ biªn (®¶ nhÊt tôc ng÷)	4	0	Nãi kh«ng nªn lêi 	ThËt lµ lín mÆt mòi 	Kh«ng l­u t×nh 	ThÑn thïng 											2	50	10000000
+2112		Tõ nay vÒ sau qu©n v­¬ng kh«ng cßn sím triªu (®¶ nhÊt tôc ng÷)	4	0	C¬ héi khã ®­îc 	Mét chñ kiÕn 	Mèt thêi th­îng 	L·o kh«ng tù chñ 											2	50	10000000
+2113		Tr­êng mòi lç tai to (®¶ nhÊt tôc ng÷)	4	0	Gièng khu«ng ra d¸ng 	Nan gi¶i 	Nghe tiÕng thiªn h¹ 	Lµm bõa b·i 											1	50	10000000
+2114		Qu¸ ngò quan, tr¶m lôc t­íng (®¶ nhÊt tôc ng÷)	4	0	Nh×n ë trong m¾t nhí ë trong lßng 	Nãi m¹nh miÖng 	G× biÔu diÔn 	XuÊt khÈu ®¶ th­¬ng ng­êi 											4	50	10000000
+2115		Hoµng TuyÒn cã ®­êng h¶o vÒ quª (®¶ nhÊt tôc ng÷)	4	0	Mét vßng trõ mét vßng 	Kh«ng ®óng t¹m ®­îc 	Quû míi biÕt ®­îc 	Kh«ng cã t­êng nµo giã kh«ng lät qua ®­îc 											3	50	10000000
+2116		Nh­ lý b¹c b¨ng (®¶ nhÊt tôc ng÷)	4	0	Kh«ng nì 	Cø theo ®µ nµy 	Gi­¬ng m¾t nh×n 	ChØ cã h¬n chø kh«ng kÐm 											1	50	10000000
+2117		Kh«ng ë nhµ (®¶ nhÊt tôc ng÷)	4	0	Chuån mÊt 	Ng­êi th­êng 	Cã ph¸t hiÖn 	MÒm cøng r¾n kh«ng ¨n 											2	50	10000000
+2118		Hµm nói xa nuèt Tr­êng Giang (®¶ nhÊt tôc ng÷)	4	0	§¶ ®Çu ãc lý nguyÖn ý 	¡n uèng kh«ng nhá 	Kh«ng tróng ý 	Xen vµo viÖc cña ng­êi kh¸c 											2	50	10000000
+2119		Lµm nghÒ y (®¶ nhÊt tôc ng÷)	4	0	ChÞu kh«ng næi 	Gi¸ ngay miÖng 	Chê xem 	¡n no xanh  											3	50	10000000
+2120		NghØ khø û nguy lan (®¶ nhÊt tôc ng÷)	4	0	§éng tay ®«ng ch©n 	Kh«ng ®¸ng tin cËy 	Qu¶n ®­îc khoan 	Gi¶ nh· nhÆn 											2	50	10000000
+2121		Hµng ®ªm kh¸n r¬i (lÔ phÐp dïng tõ)	4	0	Thö dån 	§a t¹ 	Lµm phiÒn 	Kh¸ch khÝ 											2	50	10000000
+2122		Lang m¹o (hoa cá danh)	4	0	C©y t­êng vi 	Thñy tiªn 	Phï dung 	Kim quÕ 											3	50	10000000
+2123		Tõ mÉu trªn tay tuyÕn (c«n trïng danh)	4	0	ChiÕu d¹ b¹ch 	DÖt n­¬ng 	Hµn hµo trïng 	ThËp tû muéi 											2	50	10000000
+2124		§iÒn (nh¹c khóc danh)	4	0	Trêi h¹n l«i 	Mïa xu©n bÆc ph¶n 	Quang minh ®i 	Hín hë 											1	50	10000000
+2125		GÇn vua nh­ gÇn cäp (®éng vËt danh)	4	0	§«ng b¾c hæ 	Linh d­¬ng 	S«ng ly 	Khñng long 											4	50	10000000
+2126		T¹i gia mçi ngµy sèng kh¸ gi¶ (nh©n sù dïng tõ)	4	0	NghØ sanh 	§i c«ng t¸c 	Ghi téi 	Lªn chøc 											2	50	10000000
+2127		Ng¾m c¶nh ®oµn hØ ®¨ng ¸nh s¸ng mÆt trêi ®×nh (Trung Hoa Trung Quèc ®Þa danh)	4	0	Thanh l­u, hµm s¬n 	Macao 	Khóc, a lý 	Kh¸ch, l©m quÕ, b×nh nh¹c, th­îng t­, linh s¬n 											4	50	10000000
+2128		Trao quyÒn cho cÊp d­íi c«ng viÖc trªn l©m tr­êng céng ho¹n n¹n (Trung Hoa Trung Quèc ®Þa danh)	4	0	MËt v©n, dô dç 	TuyÒn ch©u 	Thanh l­u, hµm s¬n 	§ång tö 											4	50	10000000
+2129		Hoa ®µo ®Ëp vµo mÆt lai (huyÖt vÞ)	4	0	Kh«ng cho, khóc soa 	Kh«ng cho, ngo¹i l¨ng 	Gi÷a c¸c hµng, h­¬ng phô 	Kh«ng cho, khÝ trïng 											3	50	10000000
+2130		§×nh tiÒn hoa mai tuÕ m¹t khai (danh th¾ng)	4	0	PhËt n»m tù 	Léc m«n s¬n 	§¹i phËt tù 	B¹ch v©n quan 											2	50	10000000
+2131		Nãi hßa khÝ (phong trµo thÓ dôc thÓ thao)	4	0	§« vËt 	Thi ®i bé 	Bãng chuyÒn 	Nhu ®¹o 											4	50	10000000
+2132		Tõ cæ chÝ kim (cæ nh©n danh)	4	0	Tr­¬ng Phi 	Vâ Tßng 	Sö tiÕn 	Lôc du 											3	50	10000000
+2133		MÆn d­¬ng mét m¶nh nguyÖt (cæ nh©n danh)	4	0	LiÔu c«ng quyÒn 	TÇn minh 	Lý b¹ch 	§­êng Minh Hoµng 											2	50	10000000
+2134		C©y méc lan ng­êi Êy (thùc vËt)	4	0	T©y cÇn 	Qu¶ tr¸m 	Hoa sinh 	Gia dung 											3	50	10000000
+2135		NÆng loan nói non trïng ®iÖp (c«n trïng)	4	0	Ong mËt 	§­êng lang 	H¾c s¬n nghÜ 	S«ng chuån chuån 											1	50	10000000
+2136		C« gia nh¹n gµo thÐt nhiÒu tiÕng tiÕp theo (nh©n danh)	4	0	Nhan Ch©n Khanh 	Tõ bi hång 	Lôc ®¹i niªn 	TrÞnh cÇu gç 											2	50	10000000
+2137		HËu sù chung nan kÕ (d­îc liÖu danh)	4	0	§­¬ng quy 	§Þa du 	Thñy t« 	C©y tôc ®o¹n 											4	50	10000000
+2138		¸p gi¶i sinh nhËt c­¬ng (Thñy hö nh©n danh nhÞ)	4	0	Mæ tr©n, mæ b¶o 	Th× thiªn, an nãi toµn bé 	YÕn thanh, tÇn minh 	Tèng giang, ng« dïng 											1	50	10000000
+2139		B¹ch cèt tinh lé ra nguyªn h×nh (tôc ng÷)	4	0	ChuyÓn biÕn tèt h·y thu 	Kh«ng gièng hµo 	HiÖn t­îng l¹ 	Tin ®ån 											3	50	10000000
+2140		Ra Thñy Phï Dung (hoa cá danh)	4	0	L·nh h­¬ng 	H¹n hoa sen 	C©y kim ng©n 	C©y méc lan 											2	50	10000000
+2141		Ngµy xu©n cÊt ra h¶o töu lai (hoa cá danh)	4	0	Tø quý b¸o xu©n 	§oµn tô hoa 	Xu©n nhÊt phÈm 	TRµ 											1	50	10000000
+2142		NhiÔu c©y kh«ng chç n­¬ng tùa nguyÖt chÝnh cao (tõ khóc bµi)	4	0	§oµn tô 	D¹ phi th­íc 	TiÓu Hång l©u 	Mæ oan kÕt 											2	50	10000000
+2143		H«m qua quý phñ thä th«i, h«m nay hùu v¨n xuÊt gi¸, chê lµm h¹ lÔ (tèng tõ ng÷)	4	0	Thu th­ ®Õn canh s¬ 	Kh«ng thÓ tr¸nh ®­îc r¬i khø 	Tr¾ng niªn thiÕu ®Çu 	Còng quen biÕt cò 											2	50	10000000
+2144		Tãc b¹c vÒ quª (thuèc §«ng y danh)	4	0	Hîp h­¬ng 	Th­¬ng nhÜ 	C©y ngò gia b× tè 	§­¬ng quy 											4	50	10000000
+2145		V« ti tróc chi lo¹n nhÜ (dßng hä)	4	0	Hä Mé Dung 	Nh¹c chÝnh 	Hoµn nhan 	N­íc trong 											2	50	10000000
+2146		Mµu tiªn bót ph¸p thÇn kú phó bß niªn (nh©n danh)	4	0	Nhan l­¬ng 	HÒ v¨n 	Tr«ng nom  ninh 	D­¬ng söa 											2	50	10000000
+2147		L­¬ng vâ ®Õ tèn vÞ (nh©n danh)	4	0	Tiªu nh­îng 	§ç thiªn 	Chu th«ng 	Vui s­íng 											1	50	10000000
+2148		Giang l­u cã tiÕng cËn hµn s¬n (danh th¾ng cæ tÝch)	4	0	Xµ s¬n 	ViÕt ®éng 	TriÒu ©m tù 	V« l­îng quan 											3	50	10000000
+2149		ChËm l­u (®Þa danh)	4	0	DÞch m«n 	Song giang 	§Òu qu©n 	Tõ thñy 											4	50	10000000
+2150		Bê s«ng nhÊt c©y cói xuèng ph¸t (c©y cèi danh)	4	0	C©y thuû sam 	ChuyÖn m­a 	C©y d©m bôt 	C©y cä 											1	50	10000000
+2151		N©ng chÐn yªu tr¨ng s¸ng, _______________. 	4	0	§èi ¶nh thµnh ba ng­êi 	¶nh ®å tïy th©n ta 	Ta vò ¶nh thÊt thÇn 	HÑn nhau m¹c ng©n hµ 											1	50	10000000
+2152		Thïy nãi thèn c©y cá t©m, _______________. 	4	0	B¸o ®¾c ba th¸ng mïa xu©n huy 	Tõ mÉu trong tay tuyÕn 	Du tö trªn ng­êi y 	ý chØ chËm ch¹p vÒ 											1	50	10000000
+2153		§«ng l©m kiÖt th¹ch, _____________. 	4	0	§Ó xem biÓn c¶ 	S¬n ®¶o tñng tr× 	Sãng lín d©ng lªn 	C©y cèi mäc thµnh bôi 											1	50	10000000
+2154		Tuæi giµ chÝ ch­a giµ, ____________. 	4	0	ChÝ ë thiªn lý 	ChÝ ë tr¨m dÆm 	ChÝ ë mét dÆm 	ChÝ ë m­êi dÆm 											1	50	10000000
+2155		MÆt trêi chiÒu v« h¹n h¶o, ____________. 	4	0	ChØ lµ cËn hoµng h«n 	H­íng v·n ý kh«ng kháe 	§i «-t« ®¨ng cæ nguyªn 	MÆt trêi chiÒu v« h¹n h¶o 											1	50	10000000
+2156		Khi nµo céng kÐo t©y song chóc, _____________. 	4	0	L¹i nãi ba s¬n d¹ vò th× 	Qu©n vÊn ngµy vÒ kh«ng cã kú 	Ba s¬n d¹ vò phång thu tr× 	Mét bÇu r­îu ®ôc hØ t­¬ng phïng 											1	50	10000000
+2157		Sõ lóa nhËt gi÷a tr­a, ____________. 	4	0	Giät må h«i lóa h¹ ®Êt 	Ai biÕt m©m trung xan 	NhËt gi÷a tr­a sõ lóa 	NgÈng ®Çu ng¾m tr¨ng s¸ng 											1	50	10000000
+2158		Ch¼ng biÕt tÕ l¸ thïy tµi ra, _____________. 	4	0	Hai th¸ng xu©n phong tù kÐo 	V¹n ®iÒu rò xuèng xanh biÕc ti thao 	Th¸ng giªng xu©n phong tù kÐo 	Ngäc bÝch trang thµnh nhÊt c©y cao 											1	50	10000000
+2159		Ban ngµy lªn ng¾m giã löa, _____________. 	4	0	Hoµng h«n uèng m· bµng giao s«ng 	C«ng chñ tú bµ u o¸n ®a 	M­a tuyÕt ®Òu liªn ®¹i m¹c 	Kho¶ng kh«ng kiÕn c©y nho nhËp nhµ H¸n 											1	50	10000000
+2160		Hoµng H¹c l©u tiÒn xu©n thñy réng r·i, _____________. 	4	0	Mét chÐn hoµn øc cè nh©n v« 	§ç l¨ng tiªu thø qu©n 	§¸o cèt thÞ phong trÇn 	TÞch mÞch liªn ng« nãi 											1	50	10000000
+2161		Nam triÒu bèn tr¨m t¸m m­¬i tù, _____________. 	4	0	NhiÒu Ýt ban c«ng m­a bôi trung 	Thñy th«n s¬n qu¸ch r­îu kú phong 	Thiªn lý oanh ®Ò xanh biÕc ¸nh giang 	NhiÒu Ýt ban c«ng trong m­a giã 											1	50	10000000
+2162		§«ng phong kh«ng cïng chu lang liÒn, _____________. 	4	0	§ång t­íc xu©n s©u táa nhÞ kiÒu 	Tù t­¬ng mµi t¾m nhËn thøc tiÒn triÒu 	§«ng phong kh«ng cïng chu lang liÒn 	G¶y kÝch trÇm sa thiÕt vÞ tiªu 											1	50	10000000
+2163		Th­¬ng n÷ ch¼ng biÕt vong quèc hËn, _____________. 	4	0	C¸ch giang do h¸t hËu ®×nh hoa 	Yªn lung hµn thñy nguyÖt lung sa 	D¹ b¹c TÇn Hoµi cËn r­îu 	Lóc tíi hoµn h¹ ®ç l¨ng v« 											1	50	10000000
+2164		Hai m­¬i bèn kiÒu tr¨ng s¸ng d¹, _____________. 	4	0	Ng­êi ngäc n¬i nµo gi¸o thæi tiªu 	Nói xanh m¬ hå thñy xa xa 	Thu tÉn Giang Nam c©y cá ®iªu 	Xa t­ëng tö nª phong chiÕu th«i 											1	50	10000000
+2165		Xe ®ç täa ¸i phong l©m v·n, _____________. 	4	0	S­¬ng l¸ hång vu hai th¸ng hoa 	B¹ch V©n sinh chç cã ng­êi gia 	Xa th­îng hµn nói ®¸ kÝnh tµ 	Hoa lau s©u tr¹ch tÜnh thïy lu©n 											1	50	10000000
+2166		Rót ®ao ®o¹n thñy thñy canh l­u, _____________. 	4	0	N©ng chÐn tiªu buån buån canh buån 	M· ®Ó n»m ngang sa d¹ kh«ng thu 	Mu«n ®êi vinh hoa s¸ng mé 	H¾c s¬n nam diÖn cµng kh«ng ch©u 											1	50	10000000
+2167		Tr­íc gi­êng tr¨ng s¸ng quang, _____________. 	4	0	Nghi tÊt nhiªn th­îng s­¬ng 	NgÈng ®Çu ng¾m tr¨ng s¸ng 	Cói ®Çu t­ cè h­¬ng 	N­íc s«ng h«n phôc thÇn 											1	50	10000000
+2168		Tõ mÉu trong tay tuyÕn, _____________. 	4	0	Du tö trªn ng­êi y 	L©m ®i dÇy ®Æc v¸ 	ý chØ chËm ch¹p vÒ 	LuyÖn tÝnh tÜnh tª b¹ch 											1	50	10000000
+2169		Thïy nãi thèn c©y cá t©m, _____________. 	4	0	B¸o ®¾c ba th¸ng mïa xu©n huy 	S­¬ng khãi v¹n lý buån 	Vi l©u ng¾m cµng trung 	H­íng v·n du ngo¹n s¬n thuû chç 											1	50	10000000
+2170		Xanh biÕc song tr¨ng s¸ng ë, _____________. 	4	0	Sö s¸ch cæ nh©n kho¶ng kh«ng 	Du ngo¹n s¬n thuû B¹ch V©n v·n 	L­u hËn thö Di Phong 	Kh¸ch buån n¨ng mÊy ngµy 											1	50	10000000
+2171		TÝch ng­êi ®· ngåi B¹ch V©n khø, _____________. 	4	0	N¬i ®©y trèng kh«ng Hoµng H¹c l©u 	B¹ch V©n thiªn t¸i kho¶ng kh«ng lo l¾ng 	Hoµng h¹c mét ®i kh«ng trë l¹i 	Hoµng h«n h­¬ng quan n¬i nµo thÞ 											1	50	10000000
+2172		T×nh xuyªn râ rµng H¸n d­¬ng c©y, _____________. 	4	0	Ph­¬ng th¶o um tïm vÑt ch©u 	Hoµng h¹c mét ®i kh«ng trë l¹i 	B¹ch V©n thiªn t¸i kho¶ng kh«ng lo l¾ng 	Hoµng h«n h­¬ng quan n¬i nµo thÞ 											1	50	10000000
+2173		ChÝnh thÞ Giang Nam h¶o phong c¶nh, _____________. 	4	0	Hoa r¬i tiÕt hùu phïng qu©n 	Kú v­¬ng trong nhµ tÇm th­êng kiÕn 	Th«i cöu ®­êng tiÒn kû ®é v¨n 	Phong ®¨ng chiÕu d¹ dôc canh ba 											1	50	10000000
+2174		L¹c D­¬ng th©n h÷u nÕu nh­ muèn hái, _____________. 	4	0	NhÊt phiÕn b¨ng t©m ë ngäc hå 	Hµn m­a liªn giang d¹ nhËp ng« 	B×nh minh tiÔn kh¸ch së s¬n c« gia 	Phông tröu b×nh minh cung vµng ®iÖn ngäc khai 											1	50	10000000
+2175		Nh­ng sö Long Thµnh phi t­¬ng ë, _____________. 	4	0	Kh«ng gi¸o hå m· ®é ©m s¬n 	B×nh minh tiÔn kh¸ch së s¬n c« gia 	Hµn m­a liªn giang d¹ nhËp ng« 	Phông tröu b×nh minh cung vµng ®iÖn ngäc khai 											1	50	10000000
+2176		§¹i m¹c phong trÇn nhËt mÇu h«n, _____________. 	4	0	Hång kú nöa cuèn ra viªn m«n 	TiÒn qu©n ®¸nh ®ªm thao Hµ B¾c 	DÜ b¸o b¾t gi÷ d©n téc Thæ Dôc Hån 	§ªm qua phong khai lé tØnh ®µo 											1	50	10000000
+2177		VÞ thµnh triªu m­a Êp khinh trÇn, _____________. 	4	0	Kh¸ch bá xanh liÔu mÇu t©n 	QuÕ ph¸ch míi sinh thu lé vi 	KhuyÕn qu©n canh tÉn mét chÐn r­îu 	Khinh la dÜ máng vÞ thay y phôc 											1	50	10000000
+2178		KhuyÕn qu©n canh tÉn mét chÐn r­îu, _____________. 	4	0	T©y ra d­¬ng quan v« cí nh©n 	Kh¸ch bá xanh liÔu mÇu t©n 	QuÕ ph¸ch míi sinh thu lé vi 	VÞ thµnh triªu m­a Êp khinh trÇn 											1	50	10000000
+2179		§Ëu ®á sinh miÒn nam, _____________. 	4	0	Xu©n tíi ph¸t kû chi 	N­íc ch¶y nÕu nh­ cã ý ®Þnh 	MÆt trêi lÆn m·n thu s¬n 	Thanh ¶i nhËp kh¸n v« 											1	50	10000000
+2180		NguyÖn qu©n chän thªm hiÖt, _____________. 	4	0	VËt Êy tèi t­¬ng t­ 	§Ëu ®á sinh miÒn nam 	Xu©n th¶o sang n¨m xanh biÕc 	KhÝ trêi muén thu 											1	50	10000000
+2181		§éc ë tha h­¬ng vi dÞ kh¸ch, _____________. 	4	0	Mçi phïng ngµy héi béi t­ th©n 	Xa gi¸ huýnh xuÊt thiªn m«n liÔu 	C¸c nãi quay vÒ coi träng uyÓn hoa 	Vi ngåi d­¬ng khÝ thÞnh hµnh lÖnh 											1	50	10000000
+2182		Xa biÕt huynh ®Ö ®¨ng cao chç, _____________. 	4	0	BiÕn s¸p thï du Ýt mét ng­êi 	§iÒu kh«ng ph¶i thÇn du ngo¹n vËt hoa 	ThÇn lay ®éng ngäc béi xu cung vµng ®iÖn ngäc 	Trong nói tËp tÜnh quan triªu cËn 											1	50	10000000
+2183		M¹c m¹c ruéng n­íc phi b¹ch lé, _____________. 	4	0	¢m ©m h¹ méc chuyÓn chim hoµng oanh 	Trong nói tËp tÜnh quan triªu cËn 	Tïng h¹ thanh trai chiÕt lé Kuwai 	D· l·o cïng ng­êi tranh tÞch th«i 											1	50	10000000
+2184		Väng l©u phô tam tÇn, _____________. 	4	0	S­¬ng khãi ng¾m ngò t©n 	ThÇn chinh ph¹m yªn ®Æng 	TÞch khÕ ë v©n quan 	Phong c¶nh tró ly vui mõng 											1	50	10000000
+2185		Trong n­íc tån tri kû, _____________. 	4	0	Thiªn nhai nÕu l¸ng giÒng 	Qu©n v­¬ng kh«ng chç së 	Thai t¹ nÕu b×nh sinh 	T©y L¨ng tïng gi¶ l·nh 											1	50	10000000
+2186		§«ng ngµy phÝa t©y m­a, _____________. 	4	0	Nãi thÞ v« t×nh ®· cã chuyÖn 	V¨n lang giang th­îng h¸t thanh 	D­¬ng liÔu xanh n­íc s«ng b×nh 	Trªn nói tÇng tÇng ®µo lý hoa 											1	50	10000000
+2187		Hoa hång dÞch suy tù lang ý, _____________. 	4	0	Dßng n­íc v« h¹n tù n«ng buån 	C©y ®µo nói hång hoa rãt ®Çy ®Çu 	Thôc giang xu©n thñy ph¸ch s¬n l­u 	V©n ®ang lóc khãi löa lµ ng­êi gia 											1	50	10000000
+2188		D· kho¸ng thiªn thÊp c©y, _____________. 	4	0	Giang thanh nguyÖt ng­êi thêi nay 	Dêi thuyÒn b¹c yªn chö 	Hoµng h«n kh¸ch buån t©n 	§oan c­ sØ th¸nh minh 											1	50	10000000
+2189		Xu©n miªn ch­a ph¸t gi¸c ra hiÓu, _____________. 	4	0	N¬i chèn v¨n ®Ò ®iÓu 	S¬n quang hèt t©y r¬i 	Tr× nguyÖt tiÖm ®«ng th­îng 	H«m qua tiÕng m­a giã 											1	50	10000000
+2190		H«m qua tiÕng m­a giã, _____________. 	4	0	R¬i biÕt nhiÒu Ýt 	C¶m thö nghi ngê cè nh©n 	T¸m th¸ng hå n­íc b×nh 	KhÝ ch­ng v©n méng tr¹ch 											1	50	10000000
+2191		C©y xanh th«n biªn hîp, _____________. 	4	0	Nói xanh qu¸ch ngo¹i tµ 	Hoµng kim ®èt quÕ tÉn 	Cè nh©n cô kª thö 	Yªu ta tíi n«ng d©n 											1	50	10000000
+2192		§îi cho trïng d­¬ng nhËt, _____________. 	4	0	Cßn tùu c©y hoa cóc 	Khai hiªn mÆt s©n ph¬i 	N©ng cèc nãi tang ma 	§îi cho trïng d­¬ng nhËt 											1	50	10000000
+2193		Phong minh hai bê s«ng l¸, _____________. 	4	0	NguyÖt chiÕu nhÊt thuyÒn c« ®éc 	S¬n minh thÝnh v­în buån 	Th­¬ng Giang cÊp d¹ l­u 	Nghe nãi hoa mai t¶o 											1	50	10000000
+2194		Ba m­¬i c«ng danh trÇn d÷ ®Êt, _____________. 	4	0	B¸t ngh×n dÆm ®­êng v©n vµ nguyÖt 	Mét håi buån méng tØnh r­îu th× 	R­îu diªn ca tÞch chí tõ chèi tÇn 	KhuyÕn qu©n sê t¸c ®éc tØnh nh©n 											1	50	10000000
+2195		Tr¸ng sÜ c¬ xan hå lç thÞt, _____________. 	4	0	Trß c­êi kh¸t uèng d©n téc Hung n« m¸u 	Tr­íc m¾t s¬n hµ kho¶ng kh«ng niÖm xa 	Lu«n lu«n th× giê h÷u h¹n th©n 	KÕ ho¹ch kiÕp phï du ngh×n v¹n lÇn tù 											1	50	10000000
+2196		Kh«ng thÓ tr¸nh ®­îc r¬i khø, _____________. 	4	0	Gièng nh­ ®· tõng quen biÕt yÕn trë vÒ 	Vµi lÇn s¬ giät m­a viªn hµ 	V·n hoa hång phiÕn r¬i ®×nh toa 	Khóc ch»ng chÞt ¶nh nhËp l¹nh ba 											1	50	10000000
+2197		TiÖc xong hùu thµnh kho¶ng kh«ng, _____________. 	4	0	Hån mª méng xu©n trung 	Lai liÒn hµi trung lµm 	Thu ba hoµnh dôc l­u 	¸nh m¾t ¸m cïng c©u 											1	50	10000000
+2198		Hçn lo¹n xu©n buån nÕu nh­ t¬ liÔu, _____________. 	4	0	L¶ l­ít trong méng v« tÇm chç 	B¸ch th¶o thiªn hoa hµn thùc lé 	Hai m¾t ®Ém lÖ û l©u tÇn ®éc tho¹i 	H­¬ng xa th¾t ë nhµ ai c©y 											1	50	10000000
+2199		DÞu dµng nhÊt thñy ®ang lóc, _____________. 	4	0	§­a t×nh kh«ng ®­îc ng÷ 	S«ng ng©n thanh th¶ c¹n 	Nhá vµ dµi tr¹c tè thñ 	Khãc ch¶y n­íc m¾t nh­ m­a 											1	50	10000000
+2200		Xa x«i sao khiªn ng­u, _____________. 	4	0	S¸ng trong s«ng ng©n n÷ 	Võa ®i phôc mÊy phÇn 	Tr¸t tr¸t léng m¸y dÖt 	Khãc ch¶y n­íc m¾t nh­ m­a 											1	50	10000000
+2201		Xu©n phong hùu xanh biÕc Giang Nam ng¹n, _____________. 	4	0	Tr¨ng s¸ng bao thuë chiÕu ta cßn 	Phong c¶nh kh«ng cïng bèn mïa cïng 	Chung s¬n chØ c¸ch sæ nÆng s¬n 	Kinh miÖng d­a ch©u nhÊt thñy ®ang lóc 											1	50	10000000
+2202		§Çy v­ên s¾c xu©n quan kh«ng ®­îc, _____________. 	4	0	NhÊt chi hång h¹nh ra t­êng lai 	øng víi liªn kÞch dÊu r¨ng th­¬ng ®µi 	TiÓu trõ cöa sµi cöu kh«ng ra 	Tæng b¶ t©n ®µo ho¸n cò phï 											1	50	10000000
+2203		B¸ch xuyªn ®«ng ®¸o h¶i, _____________. 	4	0	Bao thuë phôc t©y vÒ 	Mïa xu©n bè ®øc tr¹ch 	Hçn hoµng hoa l¸ suy 	Mïa xu©n bè ®øc tr¹ch 											1	50	10000000
+2204		TrÎ trung kh«ng nç lùc, _____________. 	4	0	L·o ®¹i ®å bi th­¬ng 	S­¬ng mai ®·i nhËt hi 	V¹n vËt sinh quang huy 	Hçn hoµng hoa l¸ suy 											1	50	10000000
+2205		Ngoµi nói nói xanh l©u ngo¹i l©u, _____________. 	4	0	T©y hå ca vò bao l©u nghØ 	Th¼ng b¶ Hµng Ch©u ®­¬ng biÖn ch©u 	Phong c¶nh kh«ng cïng bèn mïa cïng 	Hoa cã mïi th¬m ng¸t nguyÖt cã ©m 											1	50	10000000
+2206		ThÇn t©m mét m¶nh kim la bµn th¹ch, _____________. 	4	0	Kh«ng chØ nam ph­¬ng kh«ng chÞu nghØ 	Quay vÒ tõ d­¬ng tö ®¹i giang ®Çu 	MÊy ngµy theo giã b¾c h¶i du 	Ca tr«ng nom  l©u ®×nh thanh tinh tÕ 											1	50	10000000
+2207		V­¬ng s­ b¾c ®Þnh vïng Trung Nguyªn nhËt, _____________. 	4	0	Bµi ®iÕu cóng tæ tiªn v« quªn c¸o n·i «ng 	Bµi ®iÕu cóng tæ tiªn v« quªn c¸o nh÷ «ng 	Nh­ng bi kh«ng gÆp Cöu Ch©u cïng 	Sau khi nguyªn biÕt v¹n sù kho¶ng kh«ng 											1	50	10000000
+2208		Ph¸o trong tiÕng nhÊt ngµy 30 tÕt, _____________. 	4	0	Xu©n phong tèng no·n nhËp ®å t« 	Tæng b¶ t©n ®µo ho¸n cò phï 	Thiªn m«n v¹n hé ®ång ®ång nhËt 	N¨m ®­îc mïa l­u kh¸ch ®ñ kª ®ån 											1	50	10000000
+2209		Sinh coi nh­ nh©n kiÖt, _____________. 	4	0	Tö còng hi sinh oanh liÖt 	§Õn nay t­ H¹ng Vâ 	Trêi mªnh m«ng biÓn m©y ®ang lóc 	Kh«ng chÞu qua Giang §«ng 											1	50	10000000
+2210		NhËn thiªn l¸ sen v« cïng bÝch, _____________. 	4	0	¸nh nhËt hoa sen kh¸c hång 	Dï sao T©y hå th¸ng s¸u trung 	Phong c¶nh kh«ng cïng bèn mïa cïng 	LÇm vµo ngÉu hoa ë chç s©u trong 											1	50	10000000
+2211		Xu©n tiªu nhÊt kh¾c thiªn kim, _____________. 	4	0	Hoa cã mïi th¬m ng¸t nguyÖt cã ©m 	Ca tr«ng nom  l©u ®×nh thanh tinh tÕ 	Bµn ®u d©y s©n d¹ nÆng nÒ 	Hi väng l¹i mét th«n 											1	50	10000000
+2212		S¬n träng thñy phôc nghi kh«ng ®­êng, _____________. 	4	0	Hi väng l¹i mét th«n 	N¨m ®­îc mïa l­u kh¸ch ®ñ kª ®ån 	Y quan ®¬n gi¶n cæ phong tån 	Trô tr­îng kh«ng lóc nµo d¹ gâ cöa 											1	50	10000000
+2213		Tranh ®é, tranh ®é, _____________. 	4	0	GiËt m×nh mét b·i ©u lé 	Say mª ch¼ng biÕt ®­êng vÒ 	Th­êng nhí khª ®×nh hoµng h«n 	LÇm vµo ngÉu hoa ë chç s©u trong 											1	50	10000000
+2214		ChuyÖn cò ®· thµnh kho¶ng kh«ng, _____________. 	4	0	Hoµn nÕu nh­ nhÊt trong méng 	Cao lÇu thïy d÷ th­îng 	Cè quèc méng quay vÒ 	Tr­êng nhí thu chuyÖn ng¾m 											1	50	10000000
+2215		Dôc nghÌo thiªn lý con m¾t, _____________. 	4	0	N©ng cao mét b­íc 	Hoµng Hµ vµo biÓn l­u 	Ban ngµy dùa vµo tÉn 	NgÈng ®Çu ng¾m tr¨ng s¸ng 											1	50	10000000
+2216		Tuæi giµ chÝ ch­a giµ, _____________. 	4	0	ChÝ ë thiªn lý 	Chung vi ®Êt h«i 	Du cã c¸nh th× 	ChÝ lín kh«ng ngít 											1	50	10000000
+2217		NhËt nguyÖt hµnh tr×nh, _____________. 	4	0	NÕu ra trong ®ã 	Sãng lín d©ng lªn 	NÕu ra kú lý 	Ca dÜ vÞnh chÝ 											1	50	10000000
+2218		Vèn lµ cïng c©y sinh, _____________. 	4	0	Cïng tiªn g× qu¸ mau 	Léc thôc cho r»ng n­íc 	§Ëu ë phñ trung khãc 	Chö ®Ëu tr× t¸c canh 											1	50	10000000
+2219		§èi r­îu ®­¬ng ca, _____________. 	4	0	Nh©n sinh bao nhiªu 	¤ th­íc bay vÒ phÝa nam 	Lo l¾ng lßng ta 	Cæ s¾t xuy sanh 											1	50	10000000
+2220		_____________, tÊt cã ta s­ yªn. 	4	0	Ba ng­êi ®i 	Hai ng­êi ®i 	Mét ng­êi ®i 	Bèn ng­êi ®i 											1	50	10000000
+2221		C¬n giã m¹nh mÊy v¹n lý, _____________. 	4	0	Xuy ®é Ngäc m«n quan 	Thë dµi vÞ øng víi rçi r·nh 	Trêi mªnh m«ng biÓn m©y ®ang lóc 	T­ vÒ ®a khæ nhan 											1	50	10000000

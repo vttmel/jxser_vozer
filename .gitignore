@@ -1,15 +1,15 @@
-gateway/Backup/*
-gateway/Logs/*
-gateway/s3relay/relay_log/*
-gateway/s3relay/Logs/*
-gateway/s3relay/RelayRunData/*
+server/gateway/Backup/*
+server/gateway/Logs/*
+server/gateway/s3relay/relay_log/*
+server/gateway/s3relay/Logs/*
+server/gateway/s3relay/RelayRunData/*
 
-server1/*.log
-server1/itemexchange_setting/rolevalue_log/*
-server1/Logs/*
-server1/rolevalueladder_setting/rolevalue_log/*
-# server1/pak/*
-gateway/bishop_livetime.dat
-server1/gameserver.log
-server1/servershutdown_log
+server/server1/*.log
+server/server1/itemexchange_setting/rolevalue_log/*
+server/server1/Logs/*
+server/server1/rolevalueladder_setting/rolevalue_log/*
+# server/server1/pak/*
+server/gateway/bishop_livetime.dat
+server/server1/gameserver.log
+server/server1/servershutdown_log
 

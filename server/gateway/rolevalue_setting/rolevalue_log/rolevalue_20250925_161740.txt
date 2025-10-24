@@ -1,0 +1,116 @@
+[Begin]Account(uchiha1), Role(1CaveBuff)
+Money(654387): Value(9)
+[End]Item Evaluate
+[End]Account(uchiha1), Role(1CaveBuff): ValueG(9), ValueS(0)
+[Begin]Account(uchiha2), Role(2Doctimchim)
+Money(344905): Value(4)
+[End]Item Evaluate
+[End]Account(uchiha2), Role(2Doctimchim): ValueG(4), ValueS(0)
+[Begin]Account(uchiha3), Role(3TNluutinh)
+Money(1915576): Value(26)
+[End]Item Evaluate
+[End]Account(uchiha3), Role(3TNluutinh): ValueG(26), ValueS(0)
+[Begin]Account(uchiha4), Role(4Samset)
+Money(660907): Value(9)
+[End]Item Evaluate
+[End]Account(uchiha4), Role(4Samset): ValueG(9), ValueS(0)
+[Begin]Account(uchiha5), Role(5THieulamdao)
+Money(488811): Value(6)
+[End]Item Evaluate
+[End]Account(uchiha5), Role(5THieulamdao): ValueG(6), ValueS(0)
+[Begin]Account(yduc5), Role(BuffBÔa)
+Money(18311): Value(0)
+[End]Item Evaluate
+[End]Account(yduc5), Role(BuffBÔa): ValueG(0), ValueS(0)
+[Begin]Account(yduc4), Role(BπchCËtTinh)
+Money(61122): Value(0)
+[End]Item Evaluate
+[End]Account(yduc4), Role(BπchCËtTinh): ValueG(0), ValueS(0)
+[Begin]Account(yduc2), Role(CaveBuff)
+Money(102873): Value(1)
+[End]Item Evaluate
+[End]Account(yduc2), Role(CaveBuff): ValueG(1), ValueS(0)
+[Begin]Account(biheodn01), Role(Chivas01)
+Money(192522): Value(2)
+[End]Item Evaluate
+[End]Account(biheodn01), Role(Chivas01): ValueG(2), ValueS(0)
+[Begin]Account(biheodn02), Role(Chivas02)
+Money(195402): Value(2)
+[End]Item Evaluate
+[End]Account(biheodn02), Role(Chivas02): ValueG(2), ValueS(0)
+[Begin]Account(biheodn02), Role(Chivas02Ÿ)
+Money(205361): Value(2)
+[End]Item Evaluate
+[End]Account(biheodn02), Role(Chivas02Ÿ): ValueG(2), ValueS(0)
+[Begin]Account(biheodn03), Role(Chivas03)
+Money(268895): Value(3)
+[End]Item Evaluate
+[End]Account(biheodn03), Role(Chivas03): ValueG(3), ValueS(0)
+[Begin]Account(biheodn04), Role(Chivas04)
+Money(207704): Value(2)
+[End]Item Evaluate
+[End]Account(biheodn04), Role(Chivas04): ValueG(2), ValueS(0)
+[Begin]Account(biheodn05), Role(Chivas05)
+Money(246641): Value(3)
+[End]Item Evaluate
+[End]Account(biheodn05), Role(Chivas05): ValueG(3), ValueS(0)
+[Begin]Account(kufunishi3), Role(Huy’tHÂnB®ng)
+Money(443013): Value(6)
+[End]Item Evaluate
+[End]Account(kufunishi3), Role(Huy’tHÂnB®ng): ValueG(6), ValueS(0)
+[Begin]Account(kufunishi4), Role(Huy’tHÂnDi‘m)
+Money(453277): Value(6)
+[End]Item Evaluate
+[End]Account(kufunishi4), Role(Huy’tHÂnDi‘m): ValueG(6), ValueS(0)
+[Begin]Account(kufunishi4), Role(Huy’tHÂnH·a)
+Money(200000): Value(2)
+[End]Item Evaluate
+[End]Account(kufunishi4), Role(Huy’tHÂnH·a): ValueG(2), ValueS(0)
+[Begin]Account(kufunishi5), Role(Huy’tHÂnTr∂m)
+Money(606085): Value(8)
+[End]Item Evaluate
+[End]Account(kufunishi5), Role(Huy’tHÂnTr∂m): ValueG(8), ValueS(0)
+[Begin]Account(kufunishi2), Role(Huy’tHÂnT®ng)
+Money(760876): Value(10)
+[End]Item Evaluate
+[End]Account(kufunishi2), Role(Huy’tHÂnT®ng): ValueG(10), ValueS(0)
+[Begin]Account(kufunishi1), Role(Huy’tHÂnßao)
+Money(320077): Value(4)
+[End]Item Evaluate
+[End]Account(kufunishi1), Role(Huy’tHÂnßao): ValueG(4), ValueS(0)
+[Begin]Account(yduc1), Role(K–oXeT®ng)
+Money(365603): Value(5)
+[End]Item Evaluate
+[End]Account(yduc1), Role(K–oXeT®ng): ValueG(5), ValueS(0)
+[Begin]Account(shakun1), Role(K–oŸXe)
+Money(88843): Value(1)
+[End]Item Evaluate
+[End]Account(shakun1), Role(K–oŸXe): ValueG(1), ValueS(0)
+[Begin]Account(melgm), Role(MelGameMaster)
+Money(100051222): Value(1400)
+[End]Item Evaluate
+[End]Account(melgm), Role(MelGameMaster): ValueG(1400), ValueS(0)
+[Begin]Account(shakun3), Role(M›tŸßÈc)
+Money(128826): Value(1)
+[End]Item Evaluate
+[End]Account(shakun3), Role(M›tŸßÈc): ValueG(1), ValueS(0)
+[Begin]Account(shakun2), Role(PhongŸS≠¨ng)
+Money(154903): Value(2)
+[End]Item Evaluate
+[End]Account(shakun2), Role(PhongŸS≠¨ng): ValueG(2), ValueS(0)
+[Begin]Account(yduc3), Role(Thi™nNh…n)
+Money(93920): Value(1)
+[End]Item Evaluate
+[End]Account(yduc3), Role(Thi™nNh…n): ValueG(1), ValueS(0)
+[Begin]Account(shakun4), Role(TrÍiŸß t)
+Money(1873910): Value(26)
+[End]Item Evaluate
+[End]Account(shakun4), Role(TrÍiŸß t): ValueG(26), ValueS(0)
+[Begin]Account(robocomtb1), Role(ashley)
+Money(128138): Value(1)
+[End]Item Evaluate
+[End]Account(robocomtb1), Role(ashley): ValueG(1), ValueS(0)
+[Begin]Account(shakun5), Role(ßoπŸThi™n)
+Money(3287386): Value(46)
+[End]Item Evaluate
+[End]Account(shakun5), Role(ßoπŸThi™n): ValueG(46), ValueS(0)

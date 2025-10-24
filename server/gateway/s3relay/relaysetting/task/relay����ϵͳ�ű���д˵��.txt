@@ -1,0 +1,172 @@
+	Relay nhiÖm vô hÖ thèng nhiÖm vô kŞch b¶n gèc biªn so¹n nãi râ
+
+	Toµn bé dÜ kŞch b¶n gèc ®Æt ra, nhiÖm vô kh¶ dÜ tù ®éng tha cho chÊp hµnh, kŞch b¶n gèc trung bao hµm hai ng­êi hµm sè TaskShedule vµ
+
+	TaskContent, TaskShedule hµm sè dïng cho ®Æt ra nhiÖm vô chÊp hµnh tin tøc, nÕu nh­ ®ang cïng thêi gian chÊp hµnh, c¸ch bao l©u
+
+	ChÊp hµnh mét lÇn, céng kh¶ dÜ chÊp hµnh bao nhiªu lÇn chê;TaskContent hµm sè dïng cho ®Æt ra nhiÖm vô néi dung, tøc nhiÖm vô ph¸t
+
+	Sinh th× yÕu lµm nh÷ng thø g×.
+
+	--------------------------------------------------------------------------
+
+	KŞch b¶n gèc trung kh¶ dÜ sö dông nh­ sau thuyªn chuyÓn
+
+	TaskName(tªn gäi tù phï xuyÕn)
+
+	-- chó ı: ChØ ë TaskShedule trung thuyªn chuyÓn h÷u hiÖu
+
+	-- c«ng n¨ng: ThiÕt trİ nhiÖm vô tªn gäi, cam chŞu vi kho¶ng kh«ng tù xuyÕn!
+
+	-- tham sè: Tªn gäi tù phï xuyÕn nÕu nh­ v­ît lªn tr­íc 15 mét bai tr­êng sÏ bŞ tù ®éng c¾t ®o¹n.
+
+	TaskTime(tiÕng ®ång hå, phót)
+
+	-- chó ı: ChØ ë TaskShedule trung thuyªn chuyÓn h÷u hiÖu! NhiÖm vô cam chŞu lÇn ®Çu chÊp hµnh thêi gian lµ gia chë nhiÖm vô th× ®İch m­u tiÒn thêi gian
+
+	-- c«ng n¨ng: ThiÕt trİ nhiÖm vô lÇn ®Çu g©y ra thêi gian, truyÒn vµo tham sè cùc kú giíi t¾c kh«ng xö lı.
+
+	-- tham sè: TiÕng ®ång hå h÷u hiÖu ph¹m vi 0 ®¸o 23, phót h÷u hiÖu ph¹m vi 0 ®¸o 59
+
+	TaskInterval(kho¶ng c¸ch thêi gian)
+
+	-- chó ı: ChØ ë TaskShedule trung thuyªn chuyÓn h÷u hiÖu! NhiÖm vô cam chŞu kho¶ng c¸ch thêi gian lµ 100 thiªn.
+
+	-- c«ng n¨ng: ThiÕt trİ nhiÖm vô kho¶ng c¸ch kû tiÕng ®ång hå vËn hµnh mét lÇn.
+
+	-- tham sè: Kho¶ng c¸ch thêi gian, trŞ sè ®¬n vŞ lµ nhá th×. Nhá nhÊt h÷u hiÖu vi 1, truyÒn vµo trŞ sè nhá 1 t¾c kh«ng xö lı.
+
+	TaskCountLimit(sè lÇn)
+
+	-- chó ı: ChØ ë TaskShedule trung thuyªn chuyÓn h÷u hiÖu! NhiÖm vô vËn hµnh sè lÇn h¹n chÕ thŞ 1 thø.
+
+	-- c«ng n¨ng: ThiÕt trİ nhiÖm vô tæng vËn hµnh sè lÇn, tøc vËn hµnh bao nhiªu lÇn hËu sÏ kh«ng t¸i vËn hµnh,
+
+	-- tham sè: 0 biÓu thŞ kh«ng h¹n sè lÇn, truyÒn vµo trŞ sè nhá 1 t¾c kh«ng xö lı.
+
+	TaskLoad(nhiÖm vô v¨n kiÖn danh)
+
+	-- c«ng n¨ng: Gia chë mét c¸i nhiÖm vô
+
+	-- tham sè: NhiÖm vô v¨n kiÖn danh (tù phï xuyÕn)
+
+	-- ph¶n håi: Gia chë thµnh c«ng hay kh«ng (sè nguyªn) 0 gi¸ trŞ biÓu thŞ thÊt b¹i, 1 gi¸ trŞ biÓu thŞ thµnh c«ng
+
+	TaskRelease(nhiÖm vô tªn gäi)
+
+	-- c«ng n¨ng: Th¸o dì mét c¸i nhiÖm vô
+
+	-- tham sè: NhiÖm vô tªn gäi (tù phï xuyÕn)
+
+	-- ph¶n håi: Th¸o dì thµnh c«ng hay kh«ng (sè nguyªn) 0 gi¸ trŞ biÓu thŞ thÊt b¹i (nhiÖm vô kh«ng tån t¹i), 1 gi¸ trŞ biÓu thŞ thµnh c«ng
+
+	GetCurrentDate()
+
+	-- c«ng n¨ng: §¹t ®­îc tr­íc mÆt ngµy
+
+	-- ph¶n håi: Sè nguyªn biÓu thŞ ®İch m­u ngµy h«m tr­íc kú, = niªn *10000 + nguyÖt *100 + nhËt
+
+	RandomSelAOnlinePlayer()
+
+	-- c«ng n¨ng: NgÉu nhiªn thu ho¹ch mét ë tuyÕn ngo¹n gia
+
+	-- ph¶n håi: Ngo¹n gia vai tªn gäi (tù phï xuyÕn)
+
+	RandomSelAOnlineMap()
+
+	-- c«ng n¨ng: NgÉu nhiªn thu ho¹ch mét ë tuyÕn ®Şa ®å
+
+	-- ph¶n håi: §Şa ®å id(sè nguyªn), ®Şa ®å h­íng dÉn tra cøu (sè nguyªn)
+
+	SaveStringToShareDB(ghi l¹i tiªu kı tù xuyÕn, ghi l¹i tiªu kı tham sè 1, ghi l¹i tiªu kı tham sè 2, ghi l¹i sè liÖu tù xuyÕn)
+
+	-- c«ng n¨ng: B¶o tån mét ch÷ phï xuyÕn ghi l¹i ®¸o cïng chung sæ c­ khè, nÕu nh­ ®· tån t¹i t­¬ng ®ång chóa kiÖn ghi l¹i t¾c thÊt b¹i kh«ng tån tr÷
+
+	-- tham sè: 'Ghi l¹i tiªu kı tù xuyÕn 'BÊt n¨ng vi kho¶ng kh«ng tù phï xuyÕn, 'Ghi l¹i tiªu kı tham sè 1 'D÷ 'Ghi l¹i tiªu kı tham sè 2 'Vi sè nguyªn
+
+	-- ph¶n håi: B¶o tån thµnh c«ng hay kh«ng (sè nguyªn) 0 gi¸ trŞ biÓu thŞ thÊt b¹i, 1 gi¸ trŞ biÓu thŞ thµnh c«ng
+
+	SaveStringToShareDBOw(ghi l¹i tiªu kı tù xuyÕn, ghi l¹i tiªu kı tham sè 1, ghi l¹i tiªu kı tham sè 2, ghi l¹i sè liÖu tù xuyÕn)
+
+	-- c«ng n¨ng: B¶o tån mét ch÷ phï xuyÕn ghi l¹i ®¸o cïng chung sæ c­ khè, nÕu nh­ ®· tån t¹i t­¬ng ®ång chóa kiÖn ghi l¹i t¾c thay thÕ ®­îc nã
+
+	-- tham sè d÷ ph¶n håi hµm nghÜa cïng SaveStringToShareDB
+
+	SaveIntegerToShareDB(ghi l¹i tiªu kı tù xuyÕn, ghi l¹i tiªu kı tham sè 1, ghi l¹i tiªu kı tham sè 2, ghi l¹i trŞ sè)
+
+	-- c«ng n¨ng: B¶o tån mét sè nguyªn ghi l¹i ®¸o cïng chung sæ c­ khè, nÕu nh­ ®· tån t¹i t­¬ng ®ång chóa kiÖn ghi l¹i t¾c thÊt b¹i kh«ng tån tr÷
+
+	-- tham sè: 'Ghi l¹i tiªu kı tù xuyÕn 'BÊt n¨ng vi kho¶ng kh«ng tù phï xuyÕn, 'Ghi l¹i tiªu kı tham sè 1', 'Ghi l¹i tiªu kı tham sè 2 'D÷ 'Ghi l¹i trŞ sè '§Òu lµ sè nguyªn
+
+	-- ph¶n håi: B¶o tån thµnh c«ng hay kh«ng (sè nguyªn) 0 gi¸ trŞ biÓu thŞ thÊt b¹i, 1 gi¸ trŞ biÓu thŞ thµnh c«ng
+
+	SaveIntegerToShareDBOw(ghi l¹i tiªu kı tù xuyÕn, ghi l¹i tiªu kı tham sè 1, ghi l¹i tiªu kı tham sè 2, ghi l¹i trŞ sè)
+
+	-- c«ng n¨ng: B¶o tån mét sè nguyªn ghi l¹i ®¸o cïng chung sæ c­ khè, nÕu nh­ ®· tån t¹i t­¬ng ®ång chóa kiÖn ghi l¹i t¾c thay thÕ ®­îc nã
+
+	-- tham sè d÷ ph¶n håi hµm nghÜa cïng SaveIntegerToShareDB
+
+	SaveCustomDataToShareDB(ghi l¹i tiªu kı tù xuyÕn, ghi l¹i tiªu kı tham sè 1, ghi l¹i tiªu kı tham sè 2, ghi l¹i c¸ch thøc, ghi l¹i sè liÖu... )
+
+	-- c«ng n¨ng: B¶o tån tæ tù phï xuyÕn d÷ sè nguyªn ı tæ hîp ghi l¹i ®¸o cïng chung sæ c­ khè, nÕu nh­ ®· tån t¹i t­¬ng ®ång chóa kiÖn ghi l¹i t¾c thÊt b¹i kh«ng tån tr÷
+
+	-- tham sè: 'Ghi l¹i tiªu kı tù xuyÕn 'BÊt n¨ng vi kho¶ng kh«ng tù phï xuyÕn, 'Ghi l¹i tiªu kı tham sè 1 'D÷ 'Ghi l¹i tiªu kı tham sè 2 'Vi sè nguyªn
+
+	'Ghi l¹i c¸ch thøc 'Vi phi kho¶ng kh«ng tù phï xuyÕn, tù phï xuyÕn trung xuÊt hiÖn tù phï chØ cã thÓ lµ ch÷ c¸i s hoÆc ch÷ c¸i i(khæ viÕt ®Òu)
+
+	Trong ®ã s biÓu thŞ tån tr÷ mét ch÷ phï xuyÕn, i biÓu thŞ tån tr÷ mét sè nguyªn
+
+	'Ghi l¹i sè liÖu...'Lµm mét danh s¸ch tù phï xuyÕn d÷ sè nguyªn, bän hä s¾p hµng tr×nh tù ph¶i d÷ 'Ghi l¹i c¸ch thøc 'Bµ con c« cËu kú cïng nhÊt trİ.
+
+	-- ph¶n håi: B¶o tån thµnh c«ng hay kh«ng (sè nguyªn) 0 gi¸ trŞ biÓu thŞ thÊt b¹i, 1 gi¸ trŞ biÓu thŞ thµnh c«ng
+
+	SaveCustomDataToShareDBOw(ghi l¹i tiªu kı tù xuyÕn, ghi l¹i tiªu kı tham sè 1, ghi l¹i tiªu kı tham sè 2, ghi l¹i c¸ch thøc, ghi l¹i sè liÖu... )
+
+	-- c«ng n¨ng: B¶o tån tæ tù phï xuyÕn d÷ sè nguyªn ı tæ hîp ghi l¹i ®¸o cïng chung sæ c­ khè, nÕu nh­ ®· tån t¹i t­¬ng ®ång chóa kiÖn ghi l¹i t¾c thay thÕ ®­îc nã
+
+	-- tham sè d÷ ph¶n håi hµm nghÜa cïng SaveCustomDataToShareDB
+
+	ClearRecordOnShareDB(ghi l¹i tiªu kı tù xuyÕn, ghi l¹i tiªu kı tham sè 1, ghi l¹i tiªu kı tham sè 2)
+
+	-- c«ng n¨ng: C¾t bá cïng chung sæ c­ khè trung chØ ®Şnh ghi l¹i
+
+	-- tham sè: TruyÒn vµo tham sè vi 1 mét cã lÏ 3 mét, nÕu nh­ chØ th©m nhËp ng­êi thø nhÊt tham sè, t¾c biÓu thŞ chØ cÇn tiªu kı tù xuyÕn gièng nhau ghi l¹i ®Òu c¾t bá
+
+	'Ghi l¹i tiªu kı tù xuyÕn 'BÊt n¨ng vi kho¶ng kh«ng tù phï xuyÕn, 'Ghi l¹i tiªu kı tham sè 1 'D÷ 'Ghi l¹i tiªu kı tham sè 2 '§Òu lµ sè nguyªn
+
+	NotifySDBRecordChanged(ghi l¹i tiªu kı tù xuyÕn, ghi l¹i tiªu kı tham sè 1, ghi l¹i tiªu kı tham sè 2)
+
+	-- c«ng n¨ng: Th«ng tri trß ch¬i thÕ giíi phôc vô khİ nãi cïng chung sæ c­ khè trung tån tr÷ ghi l¹i thay ®æi
+
+	-- tham sè: 'Ghi l¹i tiªu kı tù xuyÕn 'BÊt n¨ng vi kho¶ng kh«ng tù phï xuyÕn, 'Ghi l¹i tiªu kı tham sè 1 'D÷ 'Ghi l¹i tiªu kı tham sè 2 '§Òu lµ sè nguyªn
+
+	------------------------------------------------------------------------------------------
+
+	KŞch b¶n gèc thİ dô mÉu:
+
+	function TaskContent()
+
+	TaskName( "May m¾n ng«i sao ")
+
+	TaskTime(16,30)
+
+	TaskInterval(24)
+
+	TaskCountLimit(0)
+
+	end
+
+	function TaskContent()
+
+	role = RandomSelAOnlinePlayer()
+
+
+	date = GetCurrentDate()
+
+	success = OwSaveStringToSDB( "May m¾n ng«i sao", 0, 0, role)
+
+	success = OwSaveStringToSDB( "May m¾n ng«i sao", date, 0, role)
+
+	end
+
+

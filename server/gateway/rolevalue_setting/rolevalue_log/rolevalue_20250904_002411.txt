@@ -1,0 +1,36 @@
+[Begin]Account(lavish), Role(Lavish)
+Money(0): Value(0)
+[End]Item Evaluate
+[End]Account(lavish), Role(Lavish): ValueG(0), ValueS(0)
+[Begin]Account(melgm), Role(MelGameMaster)
+Money(0): Value(0)
+[End]Item Evaluate
+[End]Account(melgm), Role(MelGameMaster): ValueG(0), ValueS(0)
+[Begin]Account(melgm), Role(TaoNhanVat)
+Money(200000000): Value(2800)
+[End]Item Evaluate
+[End]Account(melgm), Role(TaoNhanVat): ValueG(2800), ValueS(0)
+[Begin]Account(melhoa), Role(TestCaiBang)
+Money(0): Value(0)
+[End]Item Evaluate
+[End]Account(melhoa), Role(TestCaiBang): ValueG(0), ValueS(0)
+[Begin]Account(meltho), Role(TestConLon)
+Money(0): Value(0)
+[End]Item Evaluate
+[End]Account(meltho), Role(TestConLon): ValueG(0), ValueS(0)
+[Begin]Account(melhoa), Role(TestThienNhan)
+Money(0): Value(0)
+[End]Item Evaluate
+[End]Account(melhoa), Role(TestThienNhan): ValueG(0), ValueS(0)
+[Begin]Account(melthuy), Role(TestThuyYen)
+Money(200000000): Value(2800)
+[End]Item Evaluate
+[End]Account(melthuy), Role(TestThuyYen): ValueG(2800), ValueS(0)
+[Begin]Account(meltho), Role(TestVoDang)
+Money(0): Value(0)
+[End]Item Evaluate
+[End]Account(meltho), Role(TestVoDang): ValueG(0), ValueS(0)
+[Begin]Account(letly), Role(TøcThiÖt)
+Money(0): Value(0)
+[End]Item Evaluate
+[End]Account(letly), Role(TøcThiÖt): ValueG(0), ValueS(0)
