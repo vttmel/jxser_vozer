@@ -1,0 +1,451 @@
+ÈÛÁ¶²ÄÁÏÃû³Æ	µÀ¾ßÖÖÀà	¾ßÌåÀà±ğ	ÏêÏ¸Àà±ğ	¶¯»­ÎÄ¼şÃû	¶ÔÓ¦Îï¼şË÷	¿í¶È	¸ß¶È	ËµÃ÷ÎÄ×Ö	ÎåĞĞÊôĞÔ	¼Û¸ñ	µÈ¼¶	ÊÇ·ñµş·Å	Æ·ÖÊ	Ä§·¨ÊôĞÔË÷Òı1	¿ÉÈÛÁ¶×°±¸ÀàĞÍ1	¿ÉÈÛÁ¶×°±¸ÀàĞÍ2	¿ÉÈÛÁ¶×°±¸ÀàĞÍ3	¿ÉÈÛÁ¶×°±¸ÀàĞÍ4	¿ÉÈÛÁ¶×°±¸ÀàĞÍ5	¿ÉÈÛÁ¶×°±¸ÀàĞÍ6	ÌáÁ¶ºóÊÇ·ñÓÀ¾Ã°ó¶¨
+Th­¬ng Long V¨n C­¬ng- Gi¸p [CÊp 1]	8	1	1	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3147	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Gi¸p [CÊp 2]	8	1	2	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3148	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Gi¸p [CÊp 3]	8	1	3	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3149	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Gi¸p [CÊp 4]	8	1	4	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3150	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Gi¸p [CÊp 5]	8	1	5	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3151	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Gi¸p [CÊp 6]	8	1	6	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3152	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Gi¸p [CÊp 7]	8	1	7	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3153	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Gi¸p [CÊp 8]	8	1	8	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3154	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Gi¸p [CÊp 9]	8	1	9	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3155	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Gi¸p [CÊp 10]	8	1	10	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3156	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Êt [CÊp 1]	8	1	11	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3157	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- Êt [CÊp 2]	8	1	12	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3158	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- Êt [CÊp 3]	8	1	13	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3159	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- Êt [CÊp 4]	8	1	14	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3160	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- Êt [CÊp 5]	8	1	15	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3161	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- Êt [CÊp 6]	8	1	16	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3162	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- Êt [CÊp 7]	8	1	17	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3163	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- Êt [CÊp 8]	8	1	18	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3164	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- Êt [CÊp 9]	8	1	19	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3165	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- Êt [CÊp 10]	8	1	20	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3166	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- Bİnh[CÊp 1]	8	1	21	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3167	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Bİnh[CÊp 2]	8	1	22	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3168	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Bİnh[CÊp 3]	8	1	23	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3169	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Bİnh[CÊp 4]	8	1	24	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3170	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Bİnh[CÊp 5]	8	1	25	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3171	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Bİnh[CÊp 6]	8	1	26	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3172	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Bİnh[CÊp 7]	8	1	27	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3173	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Bİnh[CÊp 8]	8	1	28	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3174	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Bİnh[CÊp 9]	8	1	29	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3175	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- Bİnh[CÊp 10]	8	1	30	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3176	1	4	8				0
+Th­¬ng Long V¨n C­¬ng- §inh [CÊp 1]	8	1	31	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3177	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- §inh [CÊp 2]	8	1	32	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3178	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- §inh [CÊp 3]	8	1	33	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3179	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- §inh [CÊp 4]	8	1	34	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3180	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- §inh [CÊp 5]	8	1	35	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3181	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- §inh [CÊp 6]	8	1	36	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3182	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- §inh [CÊp 7]	8	1	37	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3183	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- §inh [CÊp 8]	8	1	38	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3184	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- §inh [CÊp 9]	8	1	39	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3185	2	3	9				0
+Th­¬ng Long V¨n C­¬ng- §inh [CÊp 10]	8	1	40	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3186	2	3	9				0
+¢m Méc V¨n C­¬ng- Gi¸p [CÊp 1]	8	1	41	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3187	1	4	8				0
+¢m Méc V¨n C­¬ng- Gi¸p [CÊp 2]	8	1	42	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3188	1	4	8				0
+¢m Méc V¨n C­¬ng- Gi¸p [CÊp 3]	8	1	43	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3189	1	4	8				0
+¢m Méc V¨n C­¬ng- Gi¸p [CÊp 4]	8	1	44	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3190	1	4	8				0
+¢m Méc V¨n C­¬ng- Gi¸p [CÊp 5]	8	1	45	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3191	1	4	8				0
+¢m Méc V¨n C­¬ng- Gi¸p [CÊp 6]	8	1	46	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3192	1	4	8				0
+¢m Méc V¨n C­¬ng- Gi¸p [CÊp 7]	8	1	47	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3193	1	4	8				0
+¢m Méc V¨n C­¬ng- Gi¸p [CÊp 8]	8	1	48	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3194	1	4	8				0
+¢m Méc V¨n C­¬ng- Gi¸p [CÊp 9]	8	1	49	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3195	1	4	8				0
+¢m Méc V¨n C­¬ng- Gi¸p [CÊp 10]	8	1	50	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3196	1	4	8				0
+¢m Méc V¨n C­¬ng- Êt [CÊp 1]	8	1	51	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3197	2	3	9				0
+¢m Méc V¨n C­¬ng- Êt [CÊp 2]	8	1	52	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3198	2	3	9				0
+¢m Méc V¨n C­¬ng- Êt [CÊp 3]	8	1	53	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3199	2	3	9				0
+¢m Méc V¨n C­¬ng- Êt [CÊp 4]	8	1	54	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3200	2	3	9				0
+¢m Méc V¨n C­¬ng- Êt [CÊp 5]	8	1	55	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3201	2	3	9				0
+¢m Méc V¨n C­¬ng- Êt [CÊp 6]	8	1	56	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3202	2	3	9				0
+¢m Méc V¨n C­¬ng- Êt [CÊp 7]	8	1	57	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3203	2	3	9				0
+¢m Méc V¨n C­¬ng- Êt [CÊp 8]	8	1	58	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3204	2	3	9				0
+¢m Méc V¨n C­¬ng- Êt [CÊp 9]	8	1	59	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3205	2	3	9				0
+¢m Méc V¨n C­¬ng- Êt [CÊp 10]	8	1	60	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3206	2	3	9				0
+HuyÒn Thñy V¨n C­¬ng- Gi¸p [CÊp 1]	8	1	61	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3207	1	4	8				0
+HuyÒn Thñy V¨n C­¬ng- Gi¸p [CÊp 2]	8	1	62	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3208	1	4	8				0
+HuyÒn Thñy V¨n C­¬ng- Gi¸p [CÊp 3]	8	1	63	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3209	1	4	8				0
+HuyÒn Thñy V¨n C­¬ng- Gi¸p [CÊp 4]	8	1	64	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3210	1	4	8				0
+HuyÒn Thñy V¨n C­¬ng- Gi¸p [CÊp 5]	8	1	65	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3211	1	4	8				0
+HuyÒn Thñy V¨n C­¬ng- Gi¸p [CÊp 6]	8	1	66	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3212	1	4	8				0
+HuyÒn Thñy V¨n C­¬ng- Gi¸p [CÊp 7]	8	1	67	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3213	1	4	8				0
+HuyÒn Thñy V¨n C­¬ng- Gi¸p [CÊp 8]	8	1	68	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3214	1	4	8				0
+HuyÒn Thñy V¨n C­¬ng- Gi¸p [CÊp 9]	8	1	69	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3215	1	4	8				0
+HuyÒn Thñy V¨n C­¬ng- Gi¸p [CÊp 10]	8	1	70	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3216	1	4	8				0
+HuyÒn Thñy V¨n C­¬ng- Êt [CÊp 1]	8	1	71	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3217	2	3	9				0
+HuyÒn Thñy V¨n C­¬ng- Êt [CÊp 2]	8	1	72	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3218	2	3	9				0
+HuyÒn Thñy V¨n C­¬ng- Êt [CÊp 3]	8	1	73	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3219	2	3	9				0
+HuyÒn Thñy V¨n C­¬ng- Êt [CÊp 4]	8	1	74	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3220	2	3	9				0
+HuyÒn Thñy V¨n C­¬ng- Êt [CÊp 5]	8	1	75	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3221	2	3	9				0
+HuyÒn Thñy V¨n C­¬ng- Êt [CÊp 6]	8	1	76	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3222	2	3	9				0
+HuyÒn Thñy V¨n C­¬ng- Êt [CÊp 7]	8	1	77	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3223	2	3	9				0
+HuyÒn Thñy V¨n C­¬ng- Êt [CÊp 8]	8	1	78	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3224	2	3	9				0
+HuyÒn Thñy V¨n C­¬ng- Êt [CÊp 9]	8	1	79	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3225	2	3	9				0
+HuyÒn Thñy V¨n C­¬ng- Êt [CÊp 10]	8	1	80	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3226	2	3	9				0
+Thiªn L«i V¨n C­¬ng- Gi¸p [CÊp 1]	8	1	81	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3227	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Gi¸p [CÊp 2]	8	1	82	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3228	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Gi¸p [CÊp 3]	8	1	83	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3229	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Gi¸p [CÊp 4]	8	1	84	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3230	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Gi¸p [CÊp 5]	8	1	85	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3231	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Gi¸p [CÊp 6]	8	1	86	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3232	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Gi¸p [CÊp 7]	8	1	87	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3233	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Gi¸p [CÊp 8]	8	1	88	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3234	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Gi¸p [CÊp 9]	8	1	89	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3235	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Gi¸p [CÊp 10]	8	1	90	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3236	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Êt [CÊp 1]	8	1	91	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3237	2	3	9				0
+Thiªn L«i V¨n C­¬ng- Êt [CÊp 2]	8	1	92	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3238	2	3	9				0
+Thiªn L«i V¨n C­¬ng- Êt [CÊp 3]	8	1	93	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3239	2	3	9				0
+Thiªn L«i V¨n C­¬ng- Êt [CÊp 4]	8	1	94	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3240	2	3	9				0
+Thiªn L«i V¨n C­¬ng- Êt [CÊp 5]	8	1	95	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3241	2	3	9				0
+Thiªn L«i V¨n C­¬ng- Êt [CÊp 6]	8	1	96	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3242	2	3	9				0
+Thiªn L«i V¨n C­¬ng- Êt [CÊp 7]	8	1	97	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3243	2	3	9				0
+Thiªn L«i V¨n C­¬ng- Êt [CÊp 8]	8	1	98	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3244	2	3	9				0
+Thiªn L«i V¨n C­¬ng- Êt [CÊp 9]	8	1	99	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3245	2	3	9				0
+Thiªn L«i V¨n C­¬ng- Êt [CÊp 10]	8	1	100	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3246	2	3	9				0
+Thiªn L«i V¨n C­¬ng- Bİnh[CÊp 1]	8	1	101	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3247	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Bİnh[CÊp 2]	8	1	102	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3248	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Bİnh[CÊp 3]	8	1	103	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3249	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Bİnh[CÊp 4]	8	1	104	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3250	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Bİnh[CÊp 5]	8	1	105	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3251	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Bİnh[CÊp 6]	8	1	106	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3252	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Bİnh[CÊp 7]	8	1	107	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3253	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Bİnh[CÊp 8]	8	1	108	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3254	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Bİnh[CÊp 9]	8	1	109	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3255	1	4	8				0
+Thiªn L«i V¨n C­¬ng- Bİnh[CÊp 10]	8	1	110	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3256	1	4	8				0
+Thiªn L«i V¨n C­¬ng- §inh [CÊp 1]	8	1	111	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3257	2	3	9				0
+Thiªn L«i V¨n C­¬ng- §inh [CÊp 2]	8	1	112	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3258	2	3	9				0
+Thiªn L«i V¨n C­¬ng- §inh [CÊp 3]	8	1	113	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3259	2	3	9				0
+Thiªn L«i V¨n C­¬ng- §inh [CÊp 4]	8	1	114	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3260	2	3	9				0
+Thiªn L«i V¨n C­¬ng- §inh [CÊp 5]	8	1	115	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3261	2	3	9				0
+Thiªn L«i V¨n C­¬ng- §inh [CÊp 6]	8	1	116	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3262	2	3	9				0
+Thiªn L«i V¨n C­¬ng- §inh [CÊp 7]	8	1	117	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3263	2	3	9				0
+Thiªn L«i V¨n C­¬ng- §inh [CÊp 8]	8	1	118	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3264	2	3	9				0
+Thiªn L«i V¨n C­¬ng- §inh [CÊp 9]	8	1	119	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3265	2	3	9				0
+Thiªn L«i V¨n C­¬ng- §inh [CÊp 10]	8	1	120	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3266	2	3	9				0
+Nh­îc Thñy V¨n C­¬ng- Gi¸p [CÊp 1]	8	1	121	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3267	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Gi¸p [CÊp 2]	8	1	122	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3268	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Gi¸p [CÊp 3]	8	1	123	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3269	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Gi¸p [CÊp 4]	8	1	124	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3270	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Gi¸p [CÊp 5]	8	1	125	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3271	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Gi¸p [CÊp 6]	8	1	126	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3272	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Gi¸p [CÊp 7]	8	1	127	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3273	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Gi¸p [CÊp 8]	8	1	128	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3274	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Gi¸p [CÊp 9]	8	1	129	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3275	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Gi¸p [CÊp 10]	8	1	130	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3276	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Êt [CÊp 1]	8	1	131	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3277	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Êt [CÊp 2]	8	1	132	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3278	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Êt [CÊp 3]	8	1	133	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3279	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Êt [CÊp 4]	8	1	134	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3280	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Êt [CÊp 5]	8	1	135	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3281	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Êt [CÊp 6]	8	1	136	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3282	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Êt [CÊp 7]	8	1	137	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3283	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Êt [CÊp 8]	8	1	138	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3284	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Êt [CÊp 9]	8	1	139	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3285	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Êt [CÊp 10]	8	1	140	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3286	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Bİnh[CÊp 1]	8	1	141	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3287	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Bİnh[CÊp 2]	8	1	142	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3288	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Bİnh[CÊp 3]	8	1	143	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3289	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Bİnh[CÊp 4]	8	1	144	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3290	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Bİnh[CÊp 5]	8	1	145	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3291	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Bİnh[CÊp 6]	8	1	146	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3292	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Bİnh[CÊp 7]	8	1	147	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3293	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Bİnh[CÊp 8]	8	1	148	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3294	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Bİnh[CÊp 9]	8	1	149	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3295	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- Bİnh[CÊp 10]	8	1	150	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3296	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- §inh [CÊp 1]	8	1	151	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3297	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- §inh [CÊp 2]	8	1	152	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3298	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- §inh [CÊp 3]	8	1	153	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3299	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- §inh [CÊp 4]	8	1	154	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3300	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- §inh [CÊp 5]	8	1	155	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3301	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- §inh [CÊp 6]	8	1	156	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3302	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- §inh [CÊp 7]	8	1	157	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3303	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- §inh [CÊp 8]	8	1	158	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3304	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- §inh [CÊp 9]	8	1	159	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3305	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- §inh [CÊp 10]	8	1	160	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3306	5	6	7	9			0
+Nh­îc Thñy V¨n C­¬ng- MËu[CÊp 1]	8	1	161	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3307	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- MËu[CÊp 2]	8	1	162	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3308	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- MËu[CÊp 3]	8	1	163	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3309	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- MËu[CÊp 4]	8	1	164	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3310	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- MËu[CÊp 5]	8	1	165	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3311	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- MËu[CÊp 6]	8	1	166	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3312	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- MËu[CÊp 7]	8	1	167	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3313	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- MËu[CÊp 8]	8	1	168	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3314	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- MËu[CÊp 9]	8	1	169	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3315	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- MËu[CÊp 10]	8	1	170	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3316	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- Kû [CÊp 1]	8	1	171	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3317	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- Kû [CÊp 2]	8	1	172	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3318	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- Kû [CÊp 3]	8	1	173	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3319	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- Kû [CÊp 4]	8	1	174	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3320	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- Kû [CÊp 5]	8	1	175	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3321	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- Kû [CÊp 6]	8	1	176	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3322	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- Kû [CÊp 7]	8	1	177	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3323	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- Kû [CÊp 8]	8	1	178	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3324	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- Kû [CÊp 9]	8	1	179	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3325	2	5	6	7			0
+Nh­îc Thñy V¨n C­¬ng- Kû [CÊp 10]	8	1	180	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3326	2	5	6	7			0
+Bµn Long V¨n C­¬ng- Gi¸p [CÊp 1]	8	1	181	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3327	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Gi¸p [CÊp 2]	8	1	182	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3328	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Gi¸p [CÊp 3]	8	1	183	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3329	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Gi¸p [CÊp 4]	8	1	184	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3330	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Gi¸p [CÊp 5]	8	1	185	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3331	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Gi¸p [CÊp 6]	8	1	186	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3332	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Gi¸p [CÊp 7]	8	1	187	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3333	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Gi¸p [CÊp 8]	8	1	188	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3334	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Gi¸p [CÊp 9]	8	1	189	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3335	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Gi¸p [CÊp 10]	8	1	190	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3336	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Êt [CÊp 1]	8	1	191	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3337	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Êt [CÊp 2]	8	1	192	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3338	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Êt [CÊp 3]	8	1	193	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3339	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Êt [CÊp 4]	8	1	194	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3340	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Êt [CÊp 5]	8	1	195	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3341	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Êt [CÊp 6]	8	1	196	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3342	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Êt [CÊp 7]	8	1	197	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3343	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Êt [CÊp 8]	8	1	198	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3344	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Êt [CÊp 9]	8	1	199	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3345	3	5	6	7			0
+Bµn Long V¨n C­¬ng- Êt [CÊp 10]	8	1	200	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3346	3	5	6	7			0
+Kim Long V¨n C­¬ng- Gi¸p [CÊp 1]	8	1	201	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3347	1	4	8				0
+Kim Long V¨n C­¬ng- Gi¸p [CÊp 2]	8	1	202	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3348	1	4	8				0
+Kim Long V¨n C­¬ng- Gi¸p [CÊp 3]	8	1	203	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3349	1	4	8				0
+Kim Long V¨n C­¬ng- Gi¸p [CÊp 4]	8	1	204	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3350	1	4	8				0
+Kim Long V¨n C­¬ng- Gi¸p [CÊp 5]	8	1	205	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3351	1	4	8				0
+Kim Long V¨n C­¬ng- Gi¸p [CÊp 6]	8	1	206	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3352	1	4	8				0
+Kim Long V¨n C­¬ng- Gi¸p [CÊp 7]	8	1	207	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3353	1	4	8				0
+Kim Long V¨n C­¬ng- Gi¸p [CÊp 8]	8	1	208	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3354	1	4	8				0
+Kim Long V¨n C­¬ng- Gi¸p [CÊp 9]	8	1	209	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3355	1	4	8				0
+Kim Long V¨n C­¬ng- Gi¸p [CÊp 10]	8	1	210	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3356	1	4	8				0
+Thanh Méc V¨n C­¬ng- Gi¸p [CÊp 1]	8	1	211	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3357	1	4	8				0
+Thanh Méc V¨n C­¬ng- Gi¸p [CÊp 2]	8	1	212	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3358	1	4	8				0
+Thanh Méc V¨n C­¬ng- Gi¸p [CÊp 3]	8	1	213	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3359	1	4	8				0
+Thanh Méc V¨n C­¬ng- Gi¸p [CÊp 4]	8	1	214	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3360	1	4	8				0
+Thanh Méc V¨n C­¬ng- Gi¸p [CÊp 5]	8	1	215	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3361	1	4	8				0
+Thanh Méc V¨n C­¬ng- Gi¸p [CÊp 6]	8	1	216	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3362	1	4	8				0
+Thanh Méc V¨n C­¬ng- Gi¸p [CÊp 7]	8	1	217	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3363	1	4	8				0
+Thanh Méc V¨n C­¬ng- Gi¸p [CÊp 8]	8	1	218	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3364	1	4	8				0
+Thanh Méc V¨n C­¬ng- Gi¸p [CÊp 9]	8	1	219	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3365	1	4	8				0
+Thanh Méc V¨n C­¬ng- Gi¸p [CÊp 10]	8	1	220	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3366	1	4	8				0
+MŞch Thñy V¨n C­¬ng- Gi¸p [CÊp 1]	8	1	221	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3367	1	4	8				0
+MŞch Thñy V¨n C­¬ng- Gi¸p [CÊp 2]	8	1	222	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3368	1	4	8				0
+MŞch Thñy V¨n C­¬ng- Gi¸p [CÊp 3]	8	1	223	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3369	1	4	8				0
+MŞch Thñy V¨n C­¬ng- Gi¸p [CÊp 4]	8	1	224	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3370	1	4	8				0
+MŞch Thñy V¨n C­¬ng- Gi¸p [CÊp 5]	8	1	225	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3371	1	4	8				0
+MŞch Thñy V¨n C­¬ng- Gi¸p [CÊp 6]	8	1	226	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3372	1	4	8				0
+MŞch Thñy V¨n C­¬ng- Gi¸p [CÊp 7]	8	1	227	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3373	1	4	8				0
+MŞch Thñy V¨n C­¬ng- Gi¸p [CÊp 8]	8	1	228	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3374	1	4	8				0
+MŞch Thñy V¨n C­¬ng- Gi¸p [CÊp 9]	8	1	229	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3375	1	4	8				0
+MŞch Thñy V¨n C­¬ng- Gi¸p [CÊp 10]	8	1	230	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3376	1	4	8				0
+Xİch Háa V¨n C­¬ng- Gi¸p [CÊp 1]	8	1	231	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3377	1	4	8				0
+Xİch Háa V¨n C­¬ng- Gi¸p [CÊp 2]	8	1	232	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3378	1	4	8				0
+Xİch Háa V¨n C­¬ng- Gi¸p [CÊp 3]	8	1	233	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3379	1	4	8				0
+Xİch Háa V¨n C­¬ng- Gi¸p [CÊp 4]	8	1	234	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3380	1	4	8				0
+Xİch Háa V¨n C­¬ng- Gi¸p [CÊp 5]	8	1	235	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3381	1	4	8				0
+Xİch Háa V¨n C­¬ng- Gi¸p [CÊp 6]	8	1	236	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3382	1	4	8				0
+Xİch Háa V¨n C­¬ng- Gi¸p [CÊp 7]	8	1	237	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3383	1	4	8				0
+Xİch Háa V¨n C­¬ng- Gi¸p [CÊp 8]	8	1	238	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3384	1	4	8				0
+Xİch Háa V¨n C­¬ng- Gi¸p [CÊp 9]	8	1	239	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3385	1	4	8				0
+Xİch Háa V¨n C­¬ng- Gi¸p [CÊp 10]	8	1	240	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3386	1	4	8				0
+L¹c L«i V¨n C­¬ng- Gi¸p [CÊp 1]	8	1	241	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	1	3387	1	4	8				0
+L¹c L«i V¨n C­¬ng- Gi¸p [CÊp 2]	8	1	242	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	2	3388	1	4	8				0
+L¹c L«i V¨n C­¬ng- Gi¸p [CÊp 3]	8	1	243	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	3	3389	1	4	8				0
+L¹c L«i V¨n C­¬ng- Gi¸p [CÊp 4]	8	1	244	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	4	3390	1	4	8				0
+L¹c L«i V¨n C­¬ng- Gi¸p [CÊp 5]	8	1	245	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	5	3391	1	4	8				0
+L¹c L«i V¨n C­¬ng- Gi¸p [CÊp 6]	8	1	246	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	6	3392	1	4	8				0
+L¹c L«i V¨n C­¬ng- Gi¸p [CÊp 7]	8	1	247	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	7	3393	1	4	8				0
+L¹c L«i V¨n C­¬ng- Gi¸p [CÊp 8]	8	1	248	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	8	3394	1	4	8				0
+L¹c L«i V¨n C­¬ng- Gi¸p [CÊp 9]	8	1	249	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	9	3395	1	4	8				0
+L¹c L«i V¨n C­¬ng- Gi¸p [CÊp 10]	8	1	250	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	V¨n C­¬ng thİ luyÖn tõ Tinh ThiÕt Kho¸ng cã thÓ gia t¨ng søc m¹nh trang bŞ.	0	0	1	0	10	3396	1	4	8				0
+Ngò hµnh v¨n c­¬ng - Kim [CÊp 1]	8	1	251	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	3444	13						0
+Ngò hµnh v¨n c­¬ng - Kim [CÊp 2]	8	1	252	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	3445	13						0
+Ngò hµnh v¨n c­¬ng - Kim [CÊp 3]	8	1	253	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	3446	13						0
+Ngò hµnh v¨n c­¬ng - Kim [CÊp 4]	8	1	254	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	3447	13						0
+Ngò hµnh v¨n c­¬ng - Kim [CÊp 5]	8	1	255	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	3448	13						0
+Ngò hµnh v¨n c­¬ng - Kim [CÊp 6]	8	1	256	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	3449	13						0
+Ngò hµnh v¨n c­¬ng - Kim [CÊp 7]	8	1	257	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	3450	13						0
+Ngò hµnh v¨n c­¬ng - Kim [CÊp 8]	8	1	258	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	3451	13						0
+Ngò hµnh v¨n c­¬ng - Kim [CÊp 9]	8	1	259	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	3452	13						0
+Ngò hµnh v¨n c­¬ng - Kim [CÊp 10]	8	1	260	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	3453	13						0
+Ngò hµnh v¨n c­¬ng - Méc [CÊp 1]	8	1	261	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	3504	13						0
+Ngò hµnh v¨n c­¬ng - Méc [CÊp 2]	8	1	262	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	3505	13						0
+Ngò hµnh v¨n c­¬ng - Méc [CÊp 3]	8	1	263	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	3506	13						0
+Ngò hµnh v¨n c­¬ng - Méc [CÊp 4]	8	1	264	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	3507	13						0
+Ngò hµnh v¨n c­¬ng - Méc [CÊp 5]	8	1	265	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	3508	13						0
+Ngò hµnh v¨n c­¬ng - Méc [CÊp 6]	8	1	266	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	3509	13						0
+Ngò hµnh v¨n c­¬ng - Méc [CÊp 7]	8	1	267	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	3510	13						0
+Ngò hµnh v¨n c­¬ng - Méc [CÊp 8]	8	1	268	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	3511	13						0
+Ngò hµnh v¨n c­¬ng - Méc [CÊp 9]	8	1	269	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	3512	13						0
+Ngò hµnh v¨n c­¬ng - Méc [CÊp 10]	8	1	270	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	3513	13						0
+Ngò hµnh v¨n c­¬ng - Thñy [CÊp 1]	8	1	271	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	3484	13						0
+Ngò hµnh v¨n c­¬ng - Thñy [CÊp 2]	8	1	272	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	3485	13						0
+Ngò hµnh v¨n c­¬ng - Thñy [CÊp 3]	8	1	273	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	3486	13						0
+Ngò hµnh v¨n c­¬ng - Thñy [CÊp 4]	8	1	274	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	3487	13						0
+Ngò hµnh v¨n c­¬ng - Thñy [CÊp 5]	8	1	275	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	3488	13						0
+Ngò hµnh v¨n c­¬ng - Thñy [CÊp 6]	8	1	276	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	3489	13						0
+Ngò hµnh v¨n c­¬ng - Thñy [CÊp 7]	8	1	277	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	3490	13						0
+Ngò hµnh v¨n c­¬ng - Thñy [CÊp 8]	8	1	278	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	3491	13						0
+Ngò hµnh v¨n c­¬ng - Thñy [CÊp 9]	8	1	279	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	3492	13						0
+Ngò hµnh v¨n c­¬ng - Thñy [CÊp 10]	8	1	280	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	3493	13						0
+Ngò hµnh v¨n c­¬ng - Háa [CÊp 1]	8	1	281	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	3424	13						0
+Ngò hµnh v¨n c­¬ng - Háa [CÊp 2]	8	1	282	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	3425	13						0
+Ngò hµnh v¨n c­¬ng - Háa [CÊp 3]	8	1	283	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	3426	13						0
+Ngò hµnh v¨n c­¬ng - Háa [CÊp 4]	8	1	284	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	3427	13						0
+Ngò hµnh v¨n c­¬ng - Háa [CÊp 5]	8	1	285	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	3428	13						0
+Ngò hµnh v¨n c­¬ng - Háa [CÊp 6]	8	1	286	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	3429	13						0
+Ngò hµnh v¨n c­¬ng - Háa [CÊp 7]	8	1	287	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	3430	13						0
+Ngò hµnh v¨n c­¬ng - Háa [CÊp 8]	8	1	288	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	3431	13						0
+Ngò hµnh v¨n c­¬ng - Háa [CÊp 9]	8	1	289	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	3432	13						0
+Ngò hµnh v¨n c­¬ng - Háa [CÊp 10]	8	1	290	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	3433	13						0
+Ngò hµnh v¨n c­¬ng - Thæ [CÊp 1]	8	1	291	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	3464	13						0
+Ngò hµnh v¨n c­¬ng - Thæ [CÊp 2]	8	1	292	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	3465	13						0
+Ngò hµnh v¨n c­¬ng - Thæ [CÊp 3]	8	1	293	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	3466	13						0
+Ngò hµnh v¨n c­¬ng - Thæ [CÊp 4]	8	1	294	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	3467	13						0
+Ngò hµnh v¨n c­¬ng - Thæ [CÊp 5]	8	1	295	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	3468	13						0
+Ngò hµnh v¨n c­¬ng - Thæ [CÊp 6]	8	1	296	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	3469	13						0
+Ngò hµnh v¨n c­¬ng - Thæ [CÊp 7]	8	1	297	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	3470	13						0
+Ngò hµnh v¨n c­¬ng - Thæ [CÊp 8]	8	1	298	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	3471	13						0
+Ngò hµnh v¨n c­¬ng - Thæ [CÊp 9]	8	1	299	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	3472	13						0
+Ngò hµnh v¨n c­¬ng - Thæ [CÊp 10]	8	1	300	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	3473	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Kim [CÊp 1]	8	1	301	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	3454	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Kim [CÊp 2]	8	1	302	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	3455	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Kim [CÊp 3]	8	1	303	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	3456	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Kim [CÊp 4]	8	1	304	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	3457	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Kim [CÊp 5]	8	1	305	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	3458	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Kim [CÊp 6]	8	1	306	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	3459	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Kim [CÊp 7]	8	1	307	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	3460	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Kim [CÊp 8]	8	1	308	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	3461	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Kim [CÊp 9]	8	1	309	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	3462	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Kim [CÊp 10]	8	1	310	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	3463	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Méc [CÊp 1]	8	1	311	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	3514	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Méc [CÊp 2]	8	1	312	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	3515	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Méc [CÊp 3]	8	1	313	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	3516	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Méc [CÊp 4]	8	1	314	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	3517	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Méc [CÊp 5]	8	1	315	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	3518	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Méc [CÊp 6]	8	1	316	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	3519	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Méc [CÊp 7]	8	1	317	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	3520	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Méc [CÊp 8]	8	1	318	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	3521	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Méc [CÊp 9]	8	1	319	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	3522	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Méc [CÊp 10]	8	1	320	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	3523	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thñy [CÊp 1]	8	1	321	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	3494	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thñy [CÊp 2]	8	1	322	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	3495	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thñy [CÊp 3]	8	1	323	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	3496	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thñy [CÊp 4]	8	1	324	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	3497	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thñy [CÊp 5]	8	1	325	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	3498	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thñy [CÊp 6]	8	1	326	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	3499	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thñy [CÊp 7]	8	1	327	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	3500	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thñy [CÊp 8]	8	1	328	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	3501	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thñy [CÊp 9]	8	1	329	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	3502	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thñy [CÊp 10]	8	1	330	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	3503	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Háa [CÊp 1]	8	1	331	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	3434	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Háa [CÊp 2]	8	1	332	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	3435	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Háa [CÊp 3]	8	1	333	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	3436	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Háa [CÊp 4]	8	1	334	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	3437	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Háa [CÊp 5]	8	1	335	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	3438	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Háa [CÊp 6]	8	1	336	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	3439	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Háa [CÊp 7]	8	1	337	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	3440	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Háa [CÊp 8]	8	1	338	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	3441	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Háa [CÊp 9]	8	1	339	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	3442	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Háa [CÊp 10]	8	1	340	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	3443	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thæ [CÊp 1]	8	1	341	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	3474	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thæ [CÊp 2]	8	1	342	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	3475	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thæ [CÊp 3]	8	1	343	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	3476	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thæ [CÊp 4]	8	1	344	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	3477	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thæ [CÊp 5]	8	1	345	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	3478	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thæ [CÊp 6]	8	1	346	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	3479	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thæ [CÊp 7]	8	1	347	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	3480	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thæ [CÊp 8]	8	1	348	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	3481	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thæ [CÊp 9]	8	1	349	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	3482	13						0
+NghŞch ngò hµnh v¨n c­¬ng - Thæ [CÊp 10]	8	1	350	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	3483	13						0
+Bµn Long V¨n C­¬ng - Bİnh [CÊp 1]	8	1	351	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	4075	1	4	8				0
+Bµn Long V¨n C­¬ng - Bİnh [CÊp 2]	8	1	352	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	4076	1	4	8				0
+Bµn Long V¨n C­¬ng - Bİnh [CÊp 3]	8	1	353	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	4077	1	4	8				0
+Bµn Long V¨n C­¬ng - Bİnh [CÊp 4]	8	1	354	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	4078	1	4	8				0
+Bµn Long V¨n C­¬ng - Bİnh [CÊp 5]	8	1	355	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	4079	1	4	8				0
+Bµn Long V¨n C­¬ng - Bİnh [CÊp 6]	8	1	356	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	4080	1	4	8				0
+Bµn Long V¨n C­¬ng - Bİnh [CÊp 7]	8	1	357	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	4081	1	4	8				0
+Bµn Long V¨n C­¬ng - Bİnh [CÊp 8]	8	1	358	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	4082	1	4	8				0
+Bµn Long V¨n C­¬ng - Bİnh [CÊp 9]	8	1	359	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	4083	1	4	8				0
+Bµn Long V¨n C­¬ng - Bİnh [CÊp 10]	8	1	360	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	4084	1	4	8				0
+Kim Long V¨n C­¬ng - Êt [CÊp 1]	8	1	361	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	4085	2	3	9				0
+Kim Long V¨n C­¬ng - Êt [CÊp 2]	8	1	362	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	4086	2	3	9				0
+Kim Long V¨n C­¬ng - Êt [CÊp 3]	8	1	363	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	4087	2	3	9				0
+Kim Long V¨n C­¬ng - Êt [CÊp 4]	8	1	364	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	4088	2	3	9				0
+Kim Long V¨n C­¬ng - Êt [CÊp 5]	8	1	365	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	4089	2	3	9				0
+Kim Long V¨n C­¬ng - Êt [CÊp 6]	8	1	366	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	4090	2	3	9				0
+Kim Long V¨n C­¬ng - Êt [CÊp 7]	8	1	367	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	4091	2	3	9				0
+Kim Long V¨n C­¬ng - Êt [CÊp 8]	8	1	368	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	4092	2	3	9				0
+Kim Long V¨n C­¬ng - Êt [CÊp 9]	8	1	369	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	4093	2	3	9				0
+Kim Long V¨n C­¬ng - Êt [CÊp 10]	8	1	370	\spr\item\fusion\ÁúÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	4094	2	3	9				0
+Thanh Méc V¨n C­¬ng - Bİnh [CÊp 1]	8	1	371	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	4095	1	4	8				0
+Thanh Méc V¨n C­¬ng - Bİnh [CÊp 2]	8	1	372	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	4096	1	4	8				0
+Thanh Méc V¨n C­¬ng - Bİnh [CÊp 3]	8	1	373	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	4097	1	4	8				0
+Thanh Méc V¨n C­¬ng - Bİnh [CÊp 4]	8	1	374	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	4098	1	4	8				0
+Thanh Méc V¨n C­¬ng - Bİnh [CÊp 5]	8	1	375	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	4099	1	4	8				0
+Thanh Méc V¨n C­¬ng - Bİnh [CÊp 6]	8	1	376	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	4100	1	4	8				0
+Thanh Méc V¨n C­¬ng - Bİnh [CÊp 7]	8	1	377	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	4101	1	4	8				0
+Thanh Méc V¨n C­¬ng - Bİnh [CÊp 8]	8	1	378	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	4102	1	4	8				0
+Thanh Méc V¨n C­¬ng - Bİnh [CÊp 9]	8	1	379	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	4103	1	4	8				0
+Thanh Méc V¨n C­¬ng - Bİnh [CÊp 10]	8	1	380	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	4104	1	4	8				0
+Thanh Méc V¨n C­¬ng - Êt [CÊp 1]	8	1	381	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	4105	2	3	9				0
+Thanh Méc V¨n C­¬ng - Êt [CÊp 2]	8	1	382	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	4106	2	3	9				0
+Thanh Méc V¨n C­¬ng - Êt [CÊp 3]	8	1	383	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	4107	2	3	9				0
+Thanh Méc V¨n C­¬ng - Êt [CÊp 4]	8	1	384	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	4108	2	3	9				0
+Thanh Méc V¨n C­¬ng - Êt [CÊp 5]	8	1	385	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	4109	2	3	9				0
+Thanh Méc V¨n C­¬ng - Êt [CÊp 6]	8	1	386	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	4110	2	3	9				0
+Thanh Méc V¨n C­¬ng - Êt [CÊp 7]	8	1	387	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	4111	2	3	9				0
+Thanh Méc V¨n C­¬ng - Êt [CÊp 8]	8	1	388	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	4112	2	3	9				0
+Thanh Méc V¨n C­¬ng - Êt [CÊp 9]	8	1	389	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	4113	2	3	9				0
+Thanh Méc V¨n C­¬ng - Êt [CÊp 10]	8	1	390	\spr\item\fusion\Ä¾ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	4114	2	3	9				0
+M¹c Thñy V¨n C­¬ng - Bİnh [CÊp 1]	8	1	391	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	4115	1	4	8				0
+M¹c Thñy V¨n C­¬ng - Bİnh [CÊp 2]	8	1	392	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	4116	1	4	8				0
+M¹c Thñy V¨n C­¬ng - Bİnh [CÊp 3]	8	1	393	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	4117	1	4	8				0
+M¹c Thñy V¨n C­¬ng - Bİnh [CÊp 4]	8	1	394	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	4118	1	4	8				0
+M¹c Thñy V¨n C­¬ng - Bİnh [CÊp 5]	8	1	395	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	4119	1	4	8				0
+M¹c Thñy V¨n C­¬ng - Bİnh [CÊp 6]	8	1	396	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	4120	1	4	8				0
+M¹c Thñy V¨n C­¬ng - Bİnh [CÊp 7]	8	1	397	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	4121	1	4	8				0
+M¹c Thñy V¨n C­¬ng - Bİnh [CÊp 8]	8	1	398	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	4122	1	4	8				0
+M¹c Thñy V¨n C­¬ng - Bİnh [CÊp 9]	8	1	399	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	4123	1	4	8				0
+M¹c Thñy V¨n C­¬ng - Bİnh [CÊp 10]	8	1	400	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	4124	1	4	8				0
+M¹c Thñy V¨n C­¬ng - Êt [CÊp 1]	8	1	401	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	4125	2	3	9				0
+M¹c Thñy V¨n C­¬ng - Êt [CÊp 2]	8	1	402	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	4126	2	3	9				0
+M¹c Thñy V¨n C­¬ng - Êt [CÊp 3]	8	1	403	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	4127	2	3	9				0
+M¹c Thñy V¨n C­¬ng - Êt [CÊp 4]	8	1	404	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	4128	2	3	9				0
+M¹c Thñy V¨n C­¬ng - Êt [CÊp 5]	8	1	405	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	4129	2	3	9				0
+M¹c Thñy V¨n C­¬ng - Êt [CÊp 6]	8	1	406	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	4130	2	3	9				0
+M¹c Thñy V¨n C­¬ng - Êt [CÊp 7]	8	1	407	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	4131	2	3	9				0
+M¹c Thñy V¨n C­¬ng - Êt [CÊp 8]	8	1	408	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	4132	2	3	9				0
+M¹c Thñy V¨n C­¬ng - Êt [CÊp 9]	8	1	409	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	4133	2	3	9				0
+M¹c Thñy V¨n C­¬ng - Êt [CÊp 10]	8	1	410	\spr\item\fusion\Ë®ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	4134	2	3	9				0
+Xİch Háa V¨n C­¬ng - Bİnh [CÊp 1]	8	1	411	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	4135	1	4	8				0
+Xİch Háa V¨n C­¬ng - Bİnh [CÊp 2]	8	1	412	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	4136	1	4	8				0
+Xİch Háa V¨n C­¬ng - Bİnh [CÊp 3]	8	1	413	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	4137	1	4	8				0
+Xİch Háa V¨n C­¬ng - Bİnh [CÊp 4]	8	1	414	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	4138	1	4	8				0
+Xİch Háa V¨n C­¬ng - Bİnh [CÊp 5]	8	1	415	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	4139	1	4	8				0
+Xİch Háa V¨n C­¬ng - Bİnh [CÊp 6]	8	1	416	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	4140	1	4	8				0
+Xİch Háa V¨n C­¬ng - Bİnh [CÊp 7]	8	1	417	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	4141	1	4	8				0
+Xİch Háa V¨n C­¬ng - Bİnh [CÊp 8]	8	1	418	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	4142	1	4	8				0
+Xİch Háa V¨n C­¬ng - Bİnh [CÊp 9]	8	1	419	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	4143	1	4	8				0
+Xİch Háa V¨n C­¬ng - Bİnh [CÊp 10]	8	1	420	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	4144	1	4	8				0
+Xİch Háa V¨n C­¬ng - Êt [CÊp 1]	8	1	421	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	4145	2	3	9				0
+Xİch Háa V¨n C­¬ng - Êt [CÊp 2]	8	1	422	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	4146	2	3	9				0
+Xİch Háa V¨n C­¬ng - Êt [CÊp 3]	8	1	423	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	4147	2	3	9				0
+Xİch Háa V¨n C­¬ng - Êt [CÊp 4]	8	1	424	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	4148	2	3	9				0
+Xİch Háa V¨n C­¬ng - Êt [CÊp 5]	8	1	425	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	4149	2	3	9				0
+Xİch Háa V¨n C­¬ng - Êt [CÊp 6]	8	1	426	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	4150	2	3	9				0
+Xİch Háa V¨n C­¬ng - Êt [CÊp 7]	8	1	427	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	4151	2	3	9				0
+Xİch Háa V¨n C­¬ng - Êt [CÊp 8]	8	1	428	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	4152	2	3	9				0
+Xİch Háa V¨n C­¬ng - Êt [CÊp 9]	8	1	429	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	4153	2	3	9				0
+Xİch Háa V¨n C­¬ng - Êt [CÊp 10]	8	1	430	\spr\item\fusion\»ğÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	4154	2	3	9				0
+L¹c L«i V¨n C­¬ng - Bİnh [CÊp 1]	8	1	431	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	4155	1	4	8				0
+L¹c L«i V¨n C­¬ng - Bİnh [CÊp 2]	8	1	432	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	4156	1	4	8				0
+L¹c L«i V¨n C­¬ng - Bİnh [CÊp 3]	8	1	433	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	4157	1	4	8				0
+L¹c L«i V¨n C­¬ng - Bİnh [CÊp 4]	8	1	434	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	4158	1	4	8				0
+L¹c L«i V¨n C­¬ng - Bİnh [CÊp 5]	8	1	435	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	4159	1	4	8				0
+L¹c L«i V¨n C­¬ng - Bİnh [CÊp 6]	8	1	436	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	4160	1	4	8				0
+L¹c L«i V¨n C­¬ng - Bİnh [CÊp 7]	8	1	437	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	4161	1	4	8				0
+L¹c L«i V¨n C­¬ng - Bİnh [CÊp 8]	8	1	438	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	4162	1	4	8				0
+L¹c L«i V¨n C­¬ng - Bİnh [CÊp 9]	8	1	439	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	4163	1	4	8				0
+L¹c L«i V¨n C­¬ng - Bİnh [CÊp 10]	8	1	440	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	4164	1	4	8				0
+L¹c L«i V¨n C­¬ng - Êt [CÊp 1]	8	1	441	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	1	4165	2	3	9				0
+L¹c L«i V¨n C­¬ng - Êt [CÊp 2]	8	1	442	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	2	4166	2	3	9				0
+L¹c L«i V¨n C­¬ng - Êt [CÊp 3]	8	1	443	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	3	4167	2	3	9				0
+L¹c L«i V¨n C­¬ng - Êt [CÊp 4]	8	1	444	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	4	4168	2	3	9				0
+L¹c L«i V¨n C­¬ng - Êt [CÊp 5]	8	1	445	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	5	4169	2	3	9				0
+L¹c L«i V¨n C­¬ng - Êt [CÊp 6]	8	1	446	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	6	4170	2	3	9				0
+L¹c L«i V¨n C­¬ng - Êt [CÊp 7]	8	1	447	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	7	4171	2	3	9				0
+L¹c L«i V¨n C­¬ng - Êt [CÊp 8]	8	1	448	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	8	4172	2	3	9				0
+L¹c L«i V¨n C­¬ng - Êt [CÊp 9]	8	1	449	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	9	4173	2	3	9				0
+L¹c L«i V¨n C­¬ng - Êt [CÊp 10]	8	1	450	\spr\item\fusion\À×ÎÆ¸Ö.spr	41	1	1	Ngò hµnh v¨n c­¬ng ®­îc luyÖn tõ ngò hµnh kho¸ng, cã thÓ n©ng cao n¨ng lùc trang bŞ	0	0	1	0	10	4174	2	3	9				0

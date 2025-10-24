@@ -1,0 +1,70 @@
+Name	Type	Genre	Detail	Particular	Serise	Level	Param1	Param2	Param3	Param4	Param5	Param6	Proba	Costly	Msg	Log
+Tiªn Th¶o Lé 	1	6	1	71	0	1	0						200000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+§Şnh Quèc Thanh Sa Tr­êng Sam	2	159	0	0	0	1	0						1000	1	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+§Şnh Quèc ¤ Sa Ph¸t Qu¸n	2	160	0	0	0	1	0						1000	1	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+§Şnh Quèc Xİch Quyªn NhuyÔn Ngoa	2	161	0	0	0	1	0						1000	1	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+§Şnh Quèc Tö §»ng Hé uyÓn	2	162	0	0	0	1	0						1000	1	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+§Şnh Quèc Ng©n Tµm Yªu ®¸i	2	163	0	0	0	1	0						1000	1	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+An Bang B¨ng Tinh Th¹ch H¹ng Liªn	2	164	0	0	0	1	0						500	1	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+An Bang Cóc Hoa Th¹ch ChØ hoµn	2	165	0	0	0	1	0						500	1	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+An Bang §iÒn Hoµng Th¹ch Ngäc Béi	2	166	0	0	0	1	0						500	1	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+An Bang Kª HuyÕt Th¹ch Giíi ChØ 	2	167	0	0	0	1	0						500	1	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thiªn Hoµng Long Long §µi	2	168	0	0	0	1	0						2000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thiªn Hoµng Long B¹ch Long Tøc	2	169	0	0	0	1	0						2000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thiªn Hoµng Long TrÊn Minh Liªn	2	170	0	0	0	1	0						2000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thiªn Hoµng Long Cöu HiÖn chØ 	2	171	0	0	0	1	0						2000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thiªn Hoµng Long Ngäc Tiªu Diªu	2	172	0	0	0	1	0						2000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thiªn Hoµng Long Hoµng Kim L©n	2	173	0	0	0	1	0						2000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thiªn Hoµng Long Bµn Long c«i	2	174	0	0	0	1	0						2000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thiªn Hoµng Long Long Khèc Thiªn Lı 	2	175	0	0	0	1	0						2000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thiªn Hoµng Long Né Long §ång	2	176	0	0	0	1	0						2000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Kim Phong Thanh D­¬ng Kh«i	2	177	0	0	0	1	0						5000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Kim Phong Kú L©n HuyÕt	2	178	0	0	0	1	0						5000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Kim Phong Tr¹c Liªn Quang	2	179	0	0	0	1	0						5000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Kim Phong C«ng CÈn Tam Th¸n	2	180	0	0	0	1	0						5000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Kim Phong §o¹t Hån Ngäc ®¸i	2	181	0	0	0	1	0						5000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Kim Phong HËu NghÖ dÉn cung	2	182	0	0	0	1	0						5000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Kim Phong Lan §×nh Ngäc	2	183	0	0	0	1	0						5000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Kim Phong Thiªn Lı Th¶o Th­îng Phi	2	184	0	0	0	1	0						5000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Kim Phong §ång T­íc Xu©n Th©m	2	185	0	0	0	1	0						5000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Vâ L©m MËt TŞch	1	6	1	26	0	1	0						1000	1	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+TÈy Tñy Kinh	1	6	1	22	0	1	0						1000	1	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Tö Thñy Tinh	1	4	239	1	0	1	0						6000	1	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Lam Thñy Tinh	1	4	238	1	0	1	0						6000	1	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Lôc Thñy Tinh	1	4	240	1	0	1	0						6000	1	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Tinh Hång B¶o Th¹ch	1	4	353	1	0	1	0						10000	1	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Phóc Duyªn Lé (§¹i) 	1	6	1	124	0	1	0						160000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Phóc Duyªn Lé (Trung) 	1	6	1	123	0	1	0						200000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Phóc Duyªn Lé (TiÓu) 	1	6	1	122	0	1	0						100000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thiªn s¬n  B¶o Lé 	1	6	1	72	0	1	0						121400	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+B¸ch Qu¶ Lé 	1	6	1	73	0	1	0						100000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+ThiÕt La H¸n	1	6	1	23	0	1	0						10000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Phi Phong	1	6	1	15	0	1	0						3000	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Tô TiÔn thuËt. B¹o Vò Lª Hoa	1	6	1	27	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+H·m TÜnh thuËt.Lo¹n Hoµn Kİch	1	6	1	28	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Th¸i Cùc QuyÒn Phæ. QuyÓn 3	1	6	1	33	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Th¸i Cùc KiÕm Phæ. QuyÓn 2	1	6	1	34	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+V©n Long Kİch. M©u ph¸p	1	6	1	35	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+L­u Tinh. §ao ph¸p	1	6	1	36	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thiªn V­¬ng Chïy Ph¸p. QuyÓn 1	1	6	1	37	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thiªn V­¬ng Th­¬ng ph¸p. QuyÓn 2	1	6	1	38	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thiªn V­¬ng §ao ph¸p.QuyÓn 3	1	6	1	39	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thóy Yªn §ao ph¸p	1	6	1	40	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Thóy Yªn Song ®ao	1	6	1	41	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+DiÖt KiÕm MËt TŞch	1	6	1	42	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Nga Mi  PhËt Quang Ch­ëng MËt TŞch	1	6	1	43	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Phi §ao thuËt. NhiÕp Hån NguyÖt ¶nh	1	6	1	45	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Phi Tiªu thuËt. Cöu Cung Phi Tinh	1	6	1	46	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Ngò §éc Ch­ëng Ph¸p. QuyÓn 1	1	6	1	47	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Ngò §éc §ao ph¸p. QuyÓn 2	1	6	1	48	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Ngò §éc NhiÕp T©m thuËt. QuyÓn 3	1	6	1	49	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Ngù Phong thuËt	1	6	1	50	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Ngù L«i thuËt	1	6	1	51	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Ngù T©m thuËt	1	6	1	52	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+NhiÕp Hån. Chó thuËt	1	6	1	53	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+C¸i Bang Ch­ëng Ph¸p	1	6	1	54	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+C¸i Bang C«n ph¸p	1	6	1	55	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+ThiÕu L©m QuyÒn Ph¸p. QuyÓn 1	1	6	1	56	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+ThiÕu L©m C«n ph¸p. QuyÓn 2	1	6	1	57	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+ThiÕu L©m §ao ph¸p. QuyÓn 3	1	6	1	58	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1
+Phæ §é MËt TŞch	1	6	1	59	0	1	0						200	0	<player> më ThÇn bİ §¹i Hång Bao, nhËn ®­îc 1 <name>.	1

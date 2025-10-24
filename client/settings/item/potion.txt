@@ -1,0 +1,41 @@
+Ãû³Æ	µÀ¾ßÖÖÀà	¾ßÌåÀà±ğ	ÏêÏ¸Àà±ğ	¶¯»­ÎÄ¼şÃû	¶ÔÓ¦Îï¼şË÷Òı	¿í¶È	¸ß¶È	ËµÃ÷ÎÄ×Ö	ÎåĞĞÊôĞÔ	¼Û¸ñ	µÈ¼¶	ÊÇ·ñµş·Å	Ò©Æ·ÊôĞÔ1	ÊôĞÔ1ÊıÖµ	ÊôĞÔ1Ê±¼ä(ÓÎÏ·Ñ­»·Êı£©	Ò©Æ·ÊôĞÔ2	ÊôĞÔ2ÊıÖµ	ÊôĞÔ2Ê±¼ä	Ò©Æ·ÊôĞÔ3	ÊôĞÔ3ÊıÖµ	ÊôĞÔ3Ê±¼ä	Ò©Æ·ÊôĞÔ4	ÊôĞÔ4ÊıÖµ	ÊôĞÔ4Ê±¼ä	Ò©Æ·ÊôĞÔ5	ÊôĞÔ5ÊıÖµ	ÊôĞÔ5Ê±¼ä
+Kim S¸ng D­îc(TiÓu )	1	0	0	\spr\item\medecine\obj-potion01.spr	18	1	1	Lo¹i d­îc liÖu trŞ th­¬ng th«ng th­êng, chØ cã hiÖu qu¶ cÇm m¸u. 		50	1	0	153	10	100												
+Kim S¸ng D­îc(Trung)	1	0	0	\spr\item\medecine\obj-potion01.spr	18	1	1	Lo¹i d­îc liÖu trŞ th­¬ng th«ng th­êng, phôc håi vÕt th­¬ng, m¸u huyÕt l­u th«ng. 		100	2	0	153	25	100												
+Kim S¸ng D­îc(§¹i )	1	0	0	\spr\item\medecine\obj-potion02.spr	307	1	1	TrŞ th­¬ng rÊt hiÖu qu¶, phôc håi vÕt th­¬ng, m¸u huyÕt l­u th«ng. 		250	3	0	153	25	200												
+Håi Thiªn §an	1	0	0	\spr\item\medecine\obj-potion02.spr	307	1	1	ThÇn d­îc trŞ th­¬ng, trŞ liÖu néi ngo¹i xuÊt huyÕt, hµn nèi x­¬ng cèt. 		500	4	0	153	50	200												
+Cöu ChuyÓn Hoµn Hån §an	1	0	0	\spr\item\medecine\obj-potion03.spr	310	1	1	ThÇn d­îc trŞ th­¬ng, c¶i tö hoµn sinh, phôc håi sinh mÖnh 5000 ®iÓm.		2000	5	0	153	500	100												
+Ng­ng ThÇn §an(TiÓu )	1	1	0	\spr\item\medecine\obj-potion06.spr	20	1	1	Lo¹i bæ d­îc th«ng th­êng, cã thÓ phôc håi chót İt néi lùc. 		50	1	0	154	5	200												
+Ng­ng ThÇn §an(Trung)	1	1	0	\spr\item\medecine\obj-potion06.spr	20	1	1	Lo¹i bæ d­îc th«ng th­êng, cã thÓ håi phôc mét chót néi lùc. 		100	2	0	154	10	200												
+Ng­ng ThÇn §an(§¹i )	1	1	0	\spr\item\medecine\obj-potion07.spr	309	1	1	Lo¹i thÇn d­îc th«ng th­êng, cã thÓ håi phôc kh«ng İt néi lùc. 		250	3	0	154	20	250												
+§¹i Bæ T¸n 	1	1	0	\spr\item\medecine\obj-potion07.spr	309	1	1	Lo¹i bæ d­îc c«ng hiÖu, cã thÓ håi phôc rÊt nhiÒu néi lùc. 		500	4	0	154	50	200												
+Thñ ¤ Hoµn thÇn ®¬n	1	1	0	\spr\item\medecine\obj-potion08.spr	312	1	1	§¹i bæ thÇn d­îc, cã thÓ phôc håi néi lùc 5000 ®iÓm.		2000	5	0	154	500	100												
+Thõa Tiªn MËt(TiÓu )	1	2	0	\spr\item\medecine\obj-potion11.spr	19	1	1	Phôc håi ®ång thêi mét İt sinh mÖnh vµ néi lùc. 		80	1	0	153	10	100	154	6	100									
+Thõa Tiªn MËt(Trung)	1	2	0	\spr\item\medecine\obj-potion11.spr	19	1	1	Phôc håi ®ång thêi sinh mÖnh vµ néi lùc. 		150	2	0	153	25	100	154	6	250									
+Thõa Tiªn MËt(§¹i )	1	2	0	\spr\item\medecine\obj-potion12.spr	308	1	1	Phôc håi ®ång thêi kh«ng İt sinh mÖnh vµ néi lùc. 		375	3	0	153	25	200	154	15	200									
+ThÊt KhiÕu Bæ T©m §an	1	2	0	\spr\item\medecine\obj-potion12.spr	308	1	1	Phôc håi ®ång thêi c¶ sinh mÖnh vµ néi lùc. 		750	4	0	153	50	200	154	30	200									
+Trung Ngò Hoa Ngäc Lé hoµn	1	2	0	\spr\item\medecine\obj-potion13.spr	311	1	1	Mét lo¹i thÇn d­îc, phôc håi c¶ sinh mÖnh vµ néi lùc. 		3000	5	0	153	500	100	154	500	100									
+Tam Hoa T¸n 	1	3	0	\spr\item\medecine\obj-potion16.spr	19	1	1	Bæ d­îc th«ng th­êng, cã thÓ håi phôc 1000 mét İt thÓ lùc.		50	1	0	95	50	200												
+¼¦ÍÈ	1	3	0	\spr\item\questkey\taskobj106.spr	41	1	1	Ò»Ö§¼¦ÍÈ£¬ÄÜ²¹³äÆøÑª¡£		50	2	0	153	500	100												
+B¸nh Trung thu biÕn chÊt	1	3	0	\spr\item\special\ÔÂ±ı.spr	329	1	1	B¸nh Trung thu biÕn chÊt, ¨n vµo sÏ ®au bông.		50	3	0	153	-10	100	154	-10	100									
+Toµn Qu¶ hoµn	1	3	0	\spr\item\medecine\obj-potion17.spr	19	1	1	Bæ d­îc ®Æc hiÖu, cã thÓ håi phôc 5000 ThÓ lùc.		100	4	0	95	200	200												
+Toµn Qu¶ hoµn	1	3	0	\spr\item\medecine\obj-potion17.spr	19	1	1	Bæ d­îc ®Æc hiÖu, cã thÓ håi phôc 5000 ThÓ lùc.		100	5	0	95	200	200												
+Thanh Ng­u gi¶i §éc T¸n 	1	4	0	\spr\item\medecine\obj-potion23.spr	19	1	1	Lo¹i thuèc gi¶i ®éc th«ng th­êng, T¸c dông kh«ng cao. 		10	1	0	109	100	200												
+Ho¾c H­¬ng Chİnh khİ hoµn	1	4	0	\spr\item\medecine\obj-potion24.spr	19	1	1	ChØ cã chót İt t¸c dông gi¶i ®éc		20	2	0	109	200	200												
+Tam ThuËn t¸n	1	4	0	\spr\item\medecine\obj-potion25.spr	19	1	1	Gi¶i ®éc rÊt tuyÖt hiÖu. 		50	3	0	109	400	200												
+Ng©n KiÒu Khø §éc §an	1	4	0	\spr\item\medecine\obj-potion26.spr	19	1	1	Kh¶ n¨ng gi¶i ®éc rÊt hiÖu qu¶. 		100	4	0	109	800	200												
+Long Diªn Hãa §éc §an	1	4	0	\spr\item\medecine\obj-potion27.spr	19	1	1	Gi¶i ®éc rÊt hiÖu qu¶		200	5	0	109	1200	200												
+Tr­êng thä hoµn	1	5	0	\spr\item\medecine\obj-potion15.spr	19	1	1	5·ÖÖÓÄÚ£¬ÉúÃüÉÏÏŞÔö¼Ó500µã¡£		5	1	0	85	500	6000												
+Gia Bµo hoµn	1	5	0	\spr\item\medecine\obj-potion15.spr	19	1	1	5·ÖÖÓÄÚ£¬ÒÆ¶¯ËÙ¶È¼Ó¿ì20%¡£		5	2	0	111	20	6000												
+§¹i lùc hoµn	1	5	0	\spr\item\medecine\obj-potion15.spr	19	1	1	5·ÖÖÓÄÚ£¬ÎïÁ¦¹¥»÷Ôö¼Ó100µã¡£		5	3	0	121	100	6000												
+Cao ThiÓm hoµn	1	5	0	\spr\item\medecine\obj-potion15.spr	19	1	1	5·ÖÖÓÄÚ£¬ÉÁ±ÜÂÊÌá¸ß500µã¡£		5	4	0	150	500	6000												
+Cao Trung hoµn	1	5	0	\spr\item\medecine\obj-potion15.spr	19	1	1	5·ÖÖÓÄÚ£¬ÃüÖĞÂÊÌá¸ß500µã¡£		5	5	0	166	500	6000												
+Phi Tèc hoµn	1	6	0	\spr\item\medecine\obj-potion15.spr	19	1	1	5·ÖÖÓÄÚ£¬¹¥»÷ËÙ¶ÈÔö¼Ó50%¡£		5	1	0	115	50	6000												
+Phßng b¨ng hoµn	1	6	0	\spr\item\medecine\obj-potion15.spr	19	1	1	5·ÖÖÓÄÚ£¬±ù·ÀÓùÌá¸ß50%¡£		5	2	0	105	50	6000												
+Phßng sÊm hoµn	1	6	0	\spr\item\medecine\obj-potion15.spr	19	1	1	5·ÖÖÓÄÚ£¬À×·ÀÓùÌá¸ß50%¡£		5	3	0	103	50	6000												
+Phßng Háa hoµn	1	6	0	\spr\item\medecine\obj-potion15.spr	19	1	1	5·ÖÖÓÄÚ£¬»ğ·ÀÓùÌá¸ß50%¡£		5	4	0	102	50	6000												
+N©ng cao kh¶ n¨ng phßng ngù ®éc néi trong vßng. . . phót	1	6	0	\spr\item\medecine\obj-potion15.spr	19	1	1	5·ÖÖÓÄÚ£¬¶¾·ÀÓùÌá¸ß50%¡£		5	5	0	101	50	6000												
+B¸nh ch­ng nh©n t¸o	1	7	0	\spr\item\questkey\taskobj400.spr	366	1	1	Sau khi ¨n xong, sÏ t¨ng theo tõng gi©y sè l­îng... 1000 HuyÕt		100	1	0	153	500	100												
+B¸nh ch­ng nh©n t¸o	1	7	0	\spr\item\questkey\taskobj400.spr	366	1	1	Sau khi ¨n xong, sÏ t¨ng theo tõng gi©y sè l­îng... 1000 HuyÕt		100	2	0	153	500	100												
+B¸nh ch­ng nh©n t¸o	1	7	0	\spr\item\questkey\taskobj400.spr	366	1	1	Sau khi ¨n xong, sÏ t¨ng theo tõng gi©y sè l­îng... 1000 HuyÕt		100	3	0	153	500	100												
+B¸nh ch­ng nh©n t¸o	1	7	0	\spr\item\questkey\taskobj400.spr	366	1	1	Sau khi ¨n xong, sÏ t¨ng theo tõng gi©y sè l­îng... 1000 HuyÕt		100	4	0	153	500	100												
+B¸nh ch­ng nh©n t¸o	1	7	0	\spr\item\questkey\taskobj400.spr	366	1	1	Sau khi ¨n xong, sÏ t¨ng theo tõng gi©y sè l­îng... 1000 HuyÕt		100	5	0	153	500	100												
