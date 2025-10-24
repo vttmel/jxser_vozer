@@ -20,11 +20,13 @@ Include("\\script\\global\\fuyuan.lua")
 Include("\\script\\lib\\log.lua")
 
 function main()
-	local szTitle = format("Xin chµo");
-	local tbOption = {}
-		tinsert(tbOption, {"Gäi Boss Hoµng Kim", GoiBossHoangKim})	
-		tinsert(tbOption, {"§ãng."})
-	CreateNewSayEx(szTitle, tbOption)
+	-- Call bosshoangkim
+	PickBoss()
+	-- local szTitle = format("Xin chµo");
+	-- local tbOption = {}
+	-- 	tinsert(tbOption, {"Gäi Boss Hoµng Kim", GoiBossHoangKim})	
+	-- 	tinsert(tbOption, {"§ãng."})
+	-- CreateNewSayEx(szTitle, tbOption)
 end
 
 function GoiBossHoangKim()
@@ -96,7 +98,17 @@ function PickBoss(nIndex)
 		Talk(1,"","Kh«ng thÓ th¶ boss ë nh÷ng n¬i phi chiÕn ®Êu ®­îc.")
 		return 
 	end
-	local item = TBBOSS[nIndex];
+	-- Random chance not to spawn a boss
+	local nChance = random(1, 100);
+	if nChance <= 20 then
+		Talk(1,"","Boss ®ang mÖt, b¹n ®i t×m ng­êi kh¸c ®i.")
+		return
+	end
+	
+	local nBossCount = getn(TBBOSS);
+	local nRandomIndex = random(1, nBossCount);
+	local item = TBBOSS[nRandomIndex];
+
 	local nw,nx,ny = GetWorldPos();
 	local index = AddNpcEx(item.nBossId,item.nLevel,item.nSeries,SubWorldID2Idx(nw),nx*32,ny*32,1,item.szName,1);
 	SetNpcDeathScript(index,"\\script\\global\\pgaming\\missions\\bosshoangkim\\bossdai\\goldboss_death.lua")		
