@@ -1,0 +1,15 @@
+gateway/Backup/*
+gateway/Logs/*
+gateway/s3relay/relay_log/*
+gateway/s3relay/Logs/*
+gateway/s3relay/RelayRunData/*
+
+server1/*.log
+server1/itemexchange_setting/rolevalue_log/*
+server1/Logs/*
+server1/rolevalueladder_setting/rolevalue_log/*
+# server1/pak/*
+gateway/bishop_livetime.dat
+server1/gameserver.log
+server1/servershutdown_log
+
