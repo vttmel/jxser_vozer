@@ -54,6 +54,11 @@ NPCDaTau = 1
 PhanThuongTienVan = 0.09 --ChØnh cµng cao cµng ®­îc nhiÒu
 PhanThuongKinhNghiem = 10 --ChØnh cµng cao cµng ®­îc nhiÒu
 -----------------------
+---Phong háa liªn thµnh---
+HoatDongPHLT = 1 --0: T¾t , 1: Më
+ThoiGianOpenPHLT = {0200, 0400, 0600, 0800, 1000, 1200, 1400, 1600, 1800, 2000, 2200} --b¸o danh giê ch½n
+ThoiGianBaoDanhPHLT = 2 --thêi gian b¸o danh
+ThoiGianThuThanhPHLT = 40 --Thêi gian thñ thµnh 
 --============================================================================================================--
 --												NPC													  --
 --============================================================================================================--

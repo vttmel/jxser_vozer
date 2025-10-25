@@ -31,7 +31,7 @@ Include("\\script\\event\\great_night\\lantern\\create_lanterns.lua");
 Include("\\script\\item\\fireworks_callback.lua");
 --情人节活动2006
 Include("\\script\\item\\valentine_callback.lua");
-
+Include("\\script\\global\\pgaming\\configserver\\configall.lua")
 if (GetProductRegion() == "cn_ib") then
 	--IB服务器刷boss新规则
 	Include([[\script\event\ib\ib_seed_boss.lua]]);
@@ -1087,6 +1087,34 @@ end;
 --GV_TSK_CD_OPEN = 35
 
 function NewCityDefence_OpenMain(citycamp)
+	if (HoatDongPHLT ~= 1) then
+		print("HoatDongPHLT is disabled.")
+		return
+	end
+
+	local nCurrentHour = tonumber(date("%H"))
+	local nCurrentMinute = tonumber(date("%M"))
+	local nTotalCurrentMinutes = nCurrentHour * 60 + nCurrentMinute
+
+	local isTimeAllowed = 0
+	for i =1, getn(ThoiGianOpenPHLT) do
+		local nTime = ThoiGianOpenPHLT[i]
+		local nHour = floor(nTime / 100)
+		local nMinute = nTime - (floor(nTime / 100) * 100)
+		local nTotalAllowedMinutes = nHour * 60 + nMinute
+
+		if nTotalCurrentMinutes >= nTotalAllowedMinutes - 5 and nTotalCurrentMinutes <= nTotalAllowedMinutes + 5 then
+			
+			isTimeAllowed = 1
+			break
+		end
+	end
+
+	if isTimeAllowed == 0 then
+		print("PHLT is not allowed at this time")
+		return
+	end
+	
 	SetGlbValue( 35, citycamp )
 	local oldSubWorld = SubWorld
 	local mapid = 580	--宋方守城地图

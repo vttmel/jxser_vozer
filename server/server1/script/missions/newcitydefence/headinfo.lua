@@ -10,6 +10,7 @@ IncludeLib("FILESYS");
 IncludeLib("TITLE");
 IncludeLib("RELAYLADDER")
 Include( "\\script\\task\\system\\task_string.lua" );
+Include("\\script\\global\\pgaming\\configserver\\configall.lua")
 
 --print(date("%w"))				--»ñµÃµ±Ç°·þÎñÆ÷ÐÇÆÚ 1--Monday£»2--Tuesday£»3--Wednesday£»4--Thursday£»5--Frieday£»6--Saturday£»0--Sunday
 GV_TSK_CD_OPEN = 35
@@ -124,10 +125,10 @@ SMALLTIMERID = 52;				--¼ÆÊ±Æ÷±àºÅ
 TOTALTIMERID = 53;				--¼ÆÊ±Æ÷±àºÅ
 
 SMALL_TIME = 20 * FRAME2TIME;				--Ã¿20Ãë¼ÆÊ±Ò»´Î
-TOTAL_TIME = 150 * 60 * FRAME2TIME;			--150·ÖÖÓ¼ÆÊ±Ò»´Î£¬»î¶¯½áÊø
-RUNGAME_TIME = 30 * 60 * FRAME2TIME / SMALL_TIME; --±¨Ãû30·ÖÖÓÖ®ºó£¬Æô¶¯
-LASTREPORT_TIME = 145 * 60 * FRAME2TIME / SMALL_TIME;	--ÊØ³Ç×îºó5·ÖÖÓÃ»·ÖÖÓ£¬ÌáÊ¾Ò»´ÎÊ±¼ä
-CALLBOSS_ZHUSHUAI = 120 * 60 * FRAME2TIME / SMALL_TIME;	--Ö÷Ë§³öÏÖÊ±¼ä
+TOTAL_TIME = ThoiGianThuThanhPHLT * 60 * FRAME2TIME;			--Thêi gian thñ thµnh
+RUNGAME_TIME = ThoiGianBaoDanhPHLT * 60 * FRAME2TIME / SMALL_TIME; -- thêi gian chê b¸o danh
+LASTREPORT_TIME = (ThoiGianThuThanhPHLT-2) * 60 * FRAME2TIME / SMALL_TIME;	--thêi gian c¶nh b¸o
+CALLBOSS_ZHUSHUAI = (ThoiGianThuThanhPHLT-10) * 60 * FRAME2TIME / SMALL_TIME;	--thoi gian boss xuat hien
 
 NHOMEDEFENCE = 24 --³Ç·À³õÊ¼Öµ
 NHOMEDEFENCE_DAMAGE = 1  --³Ç·ÀÉËº¦Öµ£¬¹¥³Ç³µ¶Ô³Ç·À
