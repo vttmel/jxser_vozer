@@ -19,7 +19,7 @@ function TaskShedule()
 	local h, m = GetNextTime();
 	TaskInterval( INTERVAL_TIME );
 
-	TaskTime( 13, 0 );
+	TaskTime( h, m );
 	OutputMsg(format("=====> CHIEN TRUONG TONG KIM BAT DAU DA LEN LICH GIO LE"));
 	TaskCountLimit( 0 );
 
