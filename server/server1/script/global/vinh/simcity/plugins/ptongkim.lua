@@ -1,6 +1,6 @@
 IncludeLib("BATTLE")
-Include("\\script\\battles\\battlehead.lua")
-Include("\\script\\battles\\marshal\\head.lua")
+--Include("\\script\\battles\\battlehead.lua")
+--Include("\\script\\battles\\marshal\\head.lua")
 
 SimCityTongKim = {
 

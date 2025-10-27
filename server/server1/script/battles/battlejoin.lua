@@ -10,6 +10,8 @@ Include("\\script\\battles\\check_ip_songjin.lua")
 Include("\\script\\global\\pgaming\\configserver\\configall.lua")
 
 function main()
+	dofile("script/battles/battlejoin.lua")
+	print("load file battlejoin.lua")
 	if ThamGiaTongKim ~= 1 then
 		return Talk(1, "", "<color=Orange>Mé Binh Quan: <color>Tèng Kim ®· t¹m ®ãng, c¸c h¹ h·y quay l¹i sau")	
 	end
@@ -34,29 +36,29 @@ function main()
 	local pl_level = GetLevel()
 	local bt_level = 0;
 	
-	if (pl_level < 40 ) then
-		Say("ChiÕn tr­êng chØ dµnh cho ng­êi tõ cÊp 40 trë lªn, ng­¬i ch­a ®ñ ®iÒu kiÖn. Cè g¾ng tËp luyÖn thªm ®i!",2, "§­îc!/bt_oncancel", "Ta muèn t×m hiÓu th«ng tin chiÕn dÞch./bt_onbattleinfo");
-		SubWorld = nOldSubWorld
-		return 
-	elseif (pl_level < 80) then
-		bt_level = 1
-	elseif (pl_level < 120) then
-		bt_level = 2
-	else
-		bt_level = 3
-	end;
-	SubWorld = SubWorldID2Idx(nWorld)
-	if (tbGAME_SIGNMAP[bt_level] ~= wid) then
-		 local maplevel = bt_map2battlelevel(wid)
-		 if ( maplevel == 0) then
-		 	print("B¸o danh Tèng Kim, ID cã vÊn ®Ò, xin phËn vËn hµnh kiÓm tra gÊp!");
-		 	SubWorld = nOldSubWorld
-		 	return 	
-		 end
-		 Say("Khu vùc nµy lµ <color=yellow>"..szGAME_GAMELEVEL[maplevel].."<color>, §¼ng cÊp cña ng­¬i hiÖn giê chØ cã thÓ ®i <color=green>"..szGAME_GAMELEVEL[bt_level].."<color> ®Ó b¸o danh!", 0)--£¿£¿A»ÓÐ·ÖµÈ¼¶µÄ`áÊ¾ÐÅÏ¢		 
-		 SubWorld = nOldSubWorld
-		 return
-	end
+	-- if (pl_level < 40 ) then
+	-- 	Say("ChiÕn tr­êng chØ dµnh cho ng­êi tõ cÊp 40 trë lªn, ng­¬i ch­a ®ñ ®iÒu kiÖn. Cè g¾ng tËp luyÖn thªm ®i!",2, "§­îc!/bt_oncancel", "Ta muèn t×m hiÓu th«ng tin chiÕn dÞch./bt_onbattleinfo");
+	-- 	SubWorld = nOldSubWorld
+	-- 	return 
+	-- elseif (pl_level < 80) then
+	-- 	bt_level = 1
+	-- elseif (pl_level < 120) then
+	-- 	bt_level = 2
+	-- else
+	-- 	bt_level = 3
+	-- end;
+	-- SubWorld = SubWorldID2Idx(nWorld)
+	-- if (tbGAME_SIGNMAP[bt_level] ~= wid) then
+	-- 	 local maplevel = bt_map2battlelevel(wid)
+	-- 	 if ( maplevel == 0) then
+	-- 	 	print("B¸o danh Tèng Kim, ID cã vÊn ®Ò, xin phËn vËn hµnh kiÓm tra gÊp!");
+	-- 	 	SubWorld = nOldSubWorld
+	-- 	 	return 	
+	-- 	 end
+	-- 	 Say("Khu vùc nµy lµ <color=yellow>"..szGAME_GAMELEVEL[maplevel].."<color>, §¼ng cÊp cña ng­¬i hiÖn giê chØ cã thÓ ®i <color=green>"..szGAME_GAMELEVEL[bt_level].."<color> ®Ó b¸o danh!", 0)--£¿£¿A»ÓÐ·ÖµÈ¼¶µÄ`áÊ¾ÐÅÏ¢		 
+	-- 	 SubWorld = nOldSubWorld
+	-- 	 return
+	-- end
 
 -------------------------------------------------------------------	
 	SubWorld = SubWorldID2Idx(nWorld)
@@ -142,15 +144,38 @@ function storm_goon_start()
 		"Chóc mõng b¹n ®· chÝnh thøc trë thµnh t­íng sü cña ®¹i Tèng! H·y chøng tá b¶n lÜnh cña m×nh ®i!",
 		"Chóc mõng b¹n ®· chÝnh thøc trë thµnh t­íng sü cña ®¹i Kim! H·y chøng tá b¶n lÜnh cña m×nh ®i!"
 	}
-	local szMsg = "HiÖn thêi qu©n sü 2 bªn lµ <enter><enter><color=yellow>Qu©n sè bªn Tèng lµ <color><color=green>"..mem_song.." <color><color=yellow>ng­êi <enter>Qu©n sè bªn Kim lµ <color><color=green>"..mem_jin.." <color><color=yellow>ng­êi<color>"
-	Say(szMsg, 2, "H·y cho ta tham gia/bt_enterbattle", "§Ó ta suy nghÜ l¹i!/bt_oncancel");
+	local szTongKim
+	if nWorld == tbGAME_SIGNMAP[1] then
+		szTongKim = "ChiÕn tr­êng s¬ cÊp"
+	elseif nWorld == tbGAME_SIGNMAP[2] then
+		szTongKim = "ChiÕn tr­êng trung cÊp"
+	else 
+		szTongKim = "ChiÕn tr­êng cao cÊp"
+	end
+
+	local tbSay = {}
+	local szMsg = "B¹n ®ang ë <color=green>"..szTongKim.."<color>\n"
+	szMsg = szMsg.."HiÖn thêi qu©n sü 2 bªn lµ <enter><enter><color=yellow>Qu©n sè bªn Tèng lµ <color><color=green>"..mem_song.." <color><color=yellow>ng­êi <enter>Qu©n sè bªn Kim lµ <color><color=green>"..mem_jin.." <color><color=yellow>ng­êi<color>\n"
+	--tinsert(tbSay, szMsg)
+	tinsert(tbSay, "H·y cho ta tham gia lu«n/bt_enterbattle");
+	tinsert(tbSay, "§æi sang S¬ cÊp/#goMap(1)")
+	tinsert(tbSay, "§æi sang Trung cÊp/#goMap(2)")
+	tinsert(tbSay, "§æi sang Cao cÊp/#goMap(3)")
+	tinsert(tbSay, "§Ó ta suy nghÜ l¹i!/bt_oncancel")
+	Say(szMsg, 5, tbSay);
 	if (bt_getgn_awardtimes() ~= 1) then
 		Msg2Player("ChiÕn dÞch lÇn nµy lµ <color=yellor>Cuèi TuÇn <color>, phÇn th­ëng gÊp ®«i so víi b×nh th­êng! C¬ héi kh«ng nªn bá qua!")
 	end
 	SubWorld = nOldSubWorld
 end
-
+function goMap(nlevel)
+	BT_SetGameData(GAME_LEVEL, nlevel)
+	local nWorld,posX,posY = GetWorldPos();
+	NewWorld(tbGAME_SIGNMAP[nlevel], posX, posY);
+	bt_enterbattle()
+end
 function bt_enterbattle()
+	BT_SetGameData(GAME_LEVEL, 1)
 	if battlesSongJinCheck:FuncCheckIP(bt_ncamp) then return end ---chÆn trïng ip
 	local nWorld,_,_ = GetWorldPos(); --***
 	local nOldSubWorld = SubWorld
