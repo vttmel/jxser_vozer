@@ -6,7 +6,10 @@ SimCityChienTranh = {
 	path2 = {},
  
 }
-
+function SimCityChienTranh:init()
+	self.nW = 380
+	
+end
 function createTaskSayChienTranh(mapId, extra)
 
 	local worldInfo = SimCityWorld:Get(mapId)
@@ -390,9 +393,18 @@ function SimCityChienTranh:phe_tudo_xe(startNPCIndex, perPage, ngoaitrang)
 end
 
 function SimCityChienTranh:nv_tudo(capHP)
- 
 	local worldInfo = SimCityWorld:Get(self.nW)
-
+	local result = SimCityGraphToChienTranh:build(worldInfo, 32)
+	if (result == 0) then
+		--local tbSay = createTaskSayChienTranh("<enter><enter>ChiÕn lo¹n t¹i b¶n ®å nµy ch­a ®­îc më. Chµng cã thÓ gëi <color=yellow>®Þa ®å chÝ<color> ®Õn t¸c gi¶ trªn fb héi qu¸n.")
+		--tinsert(tbSay, "KÕt thóc ®èi tho¹i./no")
+		--CreateTaskSay(tbSay)
+		print("Chien loan ban do nay chua mow")
+		return 1 
+ 	end
+	worldInfo.allowFighting = 1
+	worldInfo.showFightingArea = 0
+	
 	local forCamp = 1
 	local pool = SimCityNPCInfo:getPoolByCap(capHP)
 	local total = 0

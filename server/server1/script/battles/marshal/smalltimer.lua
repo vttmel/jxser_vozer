@@ -156,7 +156,7 @@ function OnTimer()
 				end
 			end
 			
-			bt_pop2signmap()	--将在后营（fight=0）的玩家送回报名点
+			--bt_pop2signmap()	--将在后营（fight=0）的玩家送回报名点
 			
 			--每一分钟通告当前双方积分，和npc
 			if (mod(t, 3) == 0 ) then

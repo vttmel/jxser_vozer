@@ -14,10 +14,11 @@ Include("\\script\\event\\jiefang_jieri\\200904\\qianqiu_yinglie\\head.lua");
 
 Include("\\script\\battles\\doubleexp.lua")
 
+Include("\\script\\global\\vinh\\simcity\\head.lua")
 
 FRAME2TIME = 18;	--18帧游戏时间相当于1秒钟
-BAOMING_TIME = 10		-- 10分钟报名时间	
-FIGHTING_TIME = 60		-- 60分钟比赛时间
+BAOMING_TIME = 1		-- 10分钟报名时间	
+FIGHTING_TIME = 45		-- 60分钟比赛时间
 ANNOUNCE_TIME = 20		-- 20秒公布一下战况
 
 TIMER_1 = ANNOUNCE_TIME * FRAME2TIME; --20秒公布一下战况
@@ -654,7 +655,8 @@ function sf_buildfightnpcdata()
 	--开始时士兵一次全部出现————金
 	npcfile = GetIniFileData(mapfile, "Area_"..j_area, tbNPCPOS[2]);
 	bt_addrandfightnpc(npcfile, GetMissionV(MS_TRANK1_J), GetMissionV(MS_RANK1LVL_J), 2, GetMissionV(MS_NPCCOUNT1_J), tabFILE_NPCDEATH[1], 0)
-
+	SimCityChienTranh:init()
+	SimCityChienTranh:nv_tudo(1)
 end
 ------------------------------------------------------------------------------------------
 function GetIniFileData(mapfile, sect, key)
