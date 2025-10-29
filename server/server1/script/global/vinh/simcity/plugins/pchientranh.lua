@@ -6,9 +6,14 @@ SimCityChienTranh = {
 	path2 = {},
  
 }
-function SimCityChienTranh:init()
-	self.nW = 380
-	
+function SimCityChienTranh:init(idMap)
+	if idMap == 378 then
+		self.nW = 378
+	elseif idMap == 379 then
+		self.nW = 379
+	else 
+		self.nW = 380
+	end
 end
 function createTaskSayChienTranh(mapId, extra)
 
@@ -44,22 +49,16 @@ function SimCityChienTranh:genWalkPath(forCamp)
 	local worldInfo = SimCityWorld:Get(self.nW)
 
 	
-	-- Duoi len tren
+	-- FIX: Luon luon camp1 (Tong) o duoi, camp2 (Kim) o tren
+	-- worldInfo.camp2TopRight = 1 (luon luon)
 	local myPath = {}
 	local mySpawnODuoi = 1
 	
-	if (worldInfo.camp2TopRight == 1) then
-		if forCamp == 1 then
-			mySpawnODuoi = 1
-		else
-			mySpawnODuoi = 0
-		end
+	-- Don gian: camp 1 = duoi, camp 2 = tren
+	if forCamp == 1 then
+		mySpawnODuoi = 1  -- Tong luon o duoi
 	else
-		if forCamp == 1 then
-			mySpawnODuoi = 0
-		else
-			mySpawnODuoi = 1
-		end
+		mySpawnODuoi = 0  -- Kim luon o tren
 	end
 
 	local presetCampDuoiKey = worldInfo.presetPaths.baseDuoi
@@ -327,7 +326,16 @@ end
 function SimCityChienTranh:phe_tudo(startNPCIndex, perPage, ngoaitrang)
  
 	local worldInfo = SimCityWorld:Get(self.nW)
-
+	-- local result = SimCityGraphToChienTranh:build(worldInfo, 32)
+	-- if (result == 0) then
+	-- 	--local tbSay = createTaskSayChienTranh("<enter><enter>ChiÕn lo¹n t¹i b¶n ®å nµy ch­a ®­îc më. Chµng cã thÓ gëi <color=yellow>®Þa ®å chÝ<color> ®Õn t¸c gi¶ trªn fb héi qu¸n.")
+	-- 	--tinsert(tbSay, "KÕt thóc ®èi tho¹i./no")
+	-- 	--CreateTaskSay(tbSay)
+	-- 	print("Chien loan ban do nay chua mow")
+	-- 	return 1 
+ 	-- end
+	worldInfo.allowFighting = 1
+	worldInfo.showFightingArea = 0
 	local forCamp = 1
 	for i = 0, perPage do
 		local id = startNPCIndex + i
@@ -411,7 +419,7 @@ function SimCityChienTranh:nv_tudo(capHP)
 	local loop = 0
 	
 	local rate = worldInfo.teamRatio or 0.5
-	local everyoneCount = 100
+	local everyoneCount = 10
 
 	local team1Size = floor(everyoneCount * rate)
 	local team2Size = everyoneCount - team1Size

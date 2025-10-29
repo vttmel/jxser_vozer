@@ -27,6 +27,9 @@ ThoiGianBatDauBauCuaText = "TÝnh n¨ng chØ ®­îc khai më khung giê 20h-22h h»ng ng
 ThoiGianKetThucBauCuaText = 12
 ------Tèng Kim----------------
 ThamGiaTongKim = 1
+ThoiGianOpenTK ={0100, 0300, 0500, 0700, 0900, 1300, 1500, 1700, 1900, 2100, 2300}
+ThoiGianBaoDanhTK = 5 --phut
+ThoiGianChienDauTK = 45 --phut
 KiemTraIpChongBoostDiemTongKim = 0
 KhongCoNguoiDanhLenDiemTongKim = 1
 VongSangTopTongKim9h = 0

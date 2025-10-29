@@ -10,8 +10,8 @@ Include("\\script\\battles\\check_ip_songjin.lua")
 Include("\\script\\global\\pgaming\\configserver\\configall.lua")
 
 function main()
-	dofile("script/battles/battlejoin.lua")
-	print("load file battlejoin.lua")
+	--dofile("script/battles/battlejoin.lua")
+	--print("load file battlejoin.lua")
 	if ThamGiaTongKim ~= 1 then
 		return Talk(1, "", "<color=Orange>Mé Binh Quan: <color>Tèng Kim ®· t¹m ®ãng, c¸c h¹ h·y quay l¹i sau")	
 	end
@@ -86,34 +86,34 @@ function main()
 	SubWorld = tempSubWorld;
 	
 	SubWorld = SubWorldID2Idx(nWorld)
-if (BT_GetGameData(GAME_BATTLEID) ~= BT_GetData(PL_BATTLEID) or BT_GetGameData(GAME_BATTLESERIES) ~= BT_GetData(PL_BATTLESERIES)) then
-	if (state ~= 1 and state ~= 2 ) then
-		Say("Xin lçi! §¹i chiÕn ®· kÕt thóc! LÇn sau quay l¹i nhĞ", 0)
+	if (BT_GetGameData(GAME_BATTLEID) ~= BT_GetData(PL_BATTLEID) or BT_GetGameData(GAME_BATTLESERIES) ~= BT_GetData(PL_BATTLESERIES)) then
+		if (state ~= 1 and state ~= 2 ) then
+			Say("Xin lçi! §¹i chiÕn ®· kÕt thóc! LÇn sau quay l¹i nhĞ", 0)
+			SubWorld = nOldSubWorld
+			return 
+		end
+
+		if (bt_ncamp == 1) then
+			Say("["..battlename.."] ChiÕn dŞch ®· b¾t ®Çu, mäi ng­êi h·y v× toµn d©n ®¹i tèng, tôc ng÷ cã c©u: Thiªn hæ h­ng vong, thÊt phu h÷u tr¸ch. Nay ng­êi kim x©m ph¹m bê câi chóng ta, ®©y lµ lóc b¸o hiÕu ®Êt n­íc, chØ cÇn cÊp 40 trë lªn vµ cÇn 2 v¹n l­îng th× cã thÓ b¸o ®¸p quèc gia råi, nµo ng­êi anh em cßn chÇn chõ g× n÷a!", 2, "Ta tham gia! (§iÓm tİch lòy trë vÒ 0) /bt_joinsong", "§Ó ta suy nghÜ l¹i!/bt_oncancel");
+		else
+			Say("["..battlename.."] ChiÕn dŞch ®· b¾t ®Çu, hìi c¸c vŞ dòng sü Kim quèc, thêi kh¾c nhÊt thèng thiªn h¹ vµ dÑp bän Tèng quèc nam man c¶n ®­êng cña chóng ta ®· ®Õn. Nay Kim quèc rÊt cÇn sù trî lùc cña c¸c ng­¬i, chØ cÇn cÊp 40 trë lªn vµ cÇn 2 v¹n l­îng lµ cã thÓ ®Òn ®¸p quèc gia råi, nµo ng­êi anh em cßn chÇn chê g× n÷a!", 2, "Ta tham gia! (§iÓm tİch lòy trë vÒ 0) /bt_joinjin", "§Ó ta suy nghÜ l¹i!/bt_oncancel");
+		end
+		SubWorld = nOldSubWorld
+		return	
+	end;
+	SubWorld = SubWorldID2Idx(nWorld)
+--if (BT_GetData(PL_BATTLECAMP) ~= bt_ncamp) then
+	if (BT_GetGameData(GAME_KEY) == BT_GetData(PL_KEYNUMBER) and BT_GetData(PL_BATTLECAMP) ~= bt_ncamp) then
+		if (bt_ncamp == 1) then
+			Say("Nh×n ng­¬i m¾t la mµy loĞt, nhÊt ®Şnh lµ Kim quèc gian tÕ Ng­êi ®©u! B¾t lÊy h¾n!",0)
+			Msg2Player("Ng­¬i ®· ®Çu qu©n cho Kim quèc, h·y ®Õn gÆp Mé binh quan xin gia nhËp chiÕn tr­êng!")
+		else
+			Say("Tªn Nam man kia, cã gan th©m nhËp vµo l·nh ®Şa ®¹i Kim, râ rµng lµ tíi t×m c¸i chÕt!",0)
+			Msg2Player("Ng­¬i ®· ®Çu qu©n cho Kim quèc, h·y ®Õn gÆp Mé binh quan xin nhËp chiÕn tr­êng!")	
+		end;
 		SubWorld = nOldSubWorld
 		return 
 	end
-
-	if (bt_ncamp == 1) then
-		Say("["..battlename.."] ChiÕn dŞch ®· b¾t ®Çu, mäi ng­êi h·y v× toµn d©n ®¹i tèng, tôc ng÷ cã c©u: Thiªn hæ h­ng vong, thÊt phu h÷u tr¸ch. Nay ng­êi kim x©m ph¹m bê câi chóng ta, ®©y lµ lóc b¸o hiÕu ®Êt n­íc, chØ cÇn cÊp 40 trë lªn vµ cÇn 2 v¹n l­îng th× cã thÓ b¸o ®¸p quèc gia råi, nµo ng­êi anh em cßn chÇn chõ g× n÷a!", 2, "Ta tham gia! (§iÓm tİch lòy trë vÒ 0) /bt_joinsong", "§Ó ta suy nghÜ l¹i!/bt_oncancel");
-	else
-		Say("["..battlename.."] ChiÕn dŞch ®· b¾t ®Çu, hìi c¸c vŞ dòng sü Kim quèc, thêi kh¾c nhÊt thèng thiªn h¹ vµ dÑp bän Tèng quèc nam man c¶n ®­êng cña chóng ta ®· ®Õn. Nay Kim quèc rÊt cÇn sù trî lùc cña c¸c ng­¬i, chØ cÇn cÊp 40 trë lªn vµ cÇn 2 v¹n l­îng lµ cã thÓ ®Òn ®¸p quèc gia råi, nµo ng­êi anh em cßn chÇn chê g× n÷a!", 2, "Ta tham gia! (§iÓm tİch lòy trë vÒ 0) /bt_joinjin", "§Ó ta suy nghÜ l¹i!/bt_oncancel");
-	end
-	SubWorld = nOldSubWorld
-	return	
-end;
-	SubWorld = SubWorldID2Idx(nWorld)
---if (BT_GetData(PL_BATTLECAMP) ~= bt_ncamp) then
-if (BT_GetGameData(GAME_KEY) == BT_GetData(PL_KEYNUMBER) and BT_GetData(PL_BATTLECAMP) ~= bt_ncamp) then
-	if (bt_ncamp == 1) then
-		Say("Nh×n ng­¬i m¾t la mµy loĞt, nhÊt ®Şnh lµ Kim quèc gian tÕ Ng­êi ®©u! B¾t lÊy h¾n!",0)
-		Msg2Player("Ng­¬i ®· ®Çu qu©n cho Kim quèc, h·y ®Õn gÆp Mé binh quan xin gia nhËp chiÕn tr­êng!")
-	else
-		Say("Tªn Nam man kia, cã gan th©m nhËp vµo l·nh ®Şa ®¹i Kim, râ rµng lµ tíi t×m c¸i chÕt!",0)
-		Msg2Player("Ng­¬i ®· ®Çu qu©n cho Kim quèc, h·y ®Õn gÆp Mé binh quan xin nhËp chiÕn tr­êng!")	
-	end;
-	SubWorld = nOldSubWorld
-	return 
-end
 
 ----------------------------------------------------------------------
 --OuÊ½±¨AûÊ±µÄ`o¼?ÊÇ£¬
