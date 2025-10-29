@@ -455,80 +455,80 @@ function sf_join(camp)
 		end
 	end
 
-if (result == 0) then
---§æi phÝ b¸o danh l¹i thµnh 1 TK chiªu binh lÖnh - Modified by DinhHQ - 20110504
-	
-		BT_LeaveBattle() -- Çå³ýÍæ¼Ò¿Í»§¶Ëµ±Ç°µÄÅÅÃûÊý¾Ý
-		BT_ClearPlayerData()
-		SetTask(2435, 0);--±¾³¡ËÎ½ðÒÑ¾­ÁìÈ¡µÄ°ï»á¹±Ï×¶ÈÇåÁã--by ÁÎÖ¾É½
-		Msg2Player("Nh¾c nhë: cã thÓ Ên phÝm ~ ë gãc tr¸i phÝa trªn bµn phÝm ®Ó xem tin tøc chiÕn sù!");
-		BT_SetData(PL_ROUND,BT_GetGameData(GAME_ROUND))
-		tbLog:PlayerActionLog("EventChienThang042011","BaoDanhTongKim")	-- ±¨ÃûÈÕÖ¾
-		local nlevel = BT_GetGameData(GAME_LEVEL)
-		G_ACTIVITY:OnMessage("SignUpSongJin", PlayerIndex, nlevel)
-		tbLog:PlayerActionLog("TinhNangKey","BaoDanhTongKim")
+	if (result == 0) then
+	--§æi phÝ b¸o danh l¹i thµnh 1 TK chiªu binh lÖnh - Modified by DinhHQ - 20110504
+		
+			BT_LeaveBattle() -- Çå³ýÍæ¼Ò¿Í»§¶Ëµ±Ç°µÄÅÅÃûÊý¾Ý
+			BT_ClearPlayerData()
+			SetTask(2435, 0);--±¾³¡ËÎ½ðÒÑ¾­ÁìÈ¡µÄ°ï»á¹±Ï×¶ÈÇåÁã--by ÁÎÖ¾É½
+			Msg2Player("Nh¾c nhë: cã thÓ Ên phÝm ~ ë gãc tr¸i phÝa trªn bµn phÝm ®Ó xem tin tøc chiÕn sù!");
+			BT_SetData(PL_ROUND,BT_GetGameData(GAME_ROUND))
+			tbLog:PlayerActionLog("EventChienThang042011","BaoDanhTongKim")	-- ±¨ÃûÈÕÖ¾
+			local nlevel = BT_GetGameData(GAME_LEVEL)
+			G_ACTIVITY:OnMessage("SignUpSongJin", PlayerIndex, nlevel)
+			tbLog:PlayerActionLog("TinhNangKey","BaoDanhTongKim")
 
-end
+	end
 
-gametime = floor(GetMSRestTime(MISSIONID, 31) / 18);
-AddMSPlayer(MISSIONID,camp);
-BT_UpdateMemberCount();
-SetCurCamp(camp);
+	gametime = floor(GetMSRestTime(MISSIONID, 31) / 18);
+	AddMSPlayer(MISSIONID,camp);
+	BT_UpdateMemberCount();
+	SetCurCamp(camp);
 
-SetTaskTemp(200,1)
-SetFightState(0);
-SetLogoutRV(1);
+	SetTaskTemp(200,1)
+	SetFightState(0);
+	SetLogoutRV(1);
 
-SetPunish(0);
+	SetPunish(0);
 
-level = BT_GetGameData(GAME_LEVEL)
+	level = BT_GetGameData(GAME_LEVEL)
 
-if (camp == 1) then
-	posx = GetMissionV(MS_HOMEIN_X1)
-	posy = GetMissionV(MS_HOMEIN_Y1)
-	str = GetName().."Gia nhËp phe Tèng"
-	EnterChannel(PlayerIndex, "Phe Tèng"..szGAME_GAMELEVEL[level].."B¶o vÖ Nguyªn so¸i")
-else
-	posx = GetMissionV(MS_HOMEIN_X2)
-	posy = GetMissionV(MS_HOMEIN_Y2)
-	str = GetName().."Gia nhËp phe Kim"
-	EnterChannel(PlayerIndex, "Phe Kim"..szGAME_GAMELEVEL[level].."B¶o vÖ Nguyªn so¸i")
-end
+	if (camp == 1) then
+		posx = GetMissionV(MS_HOMEIN_X1)
+		posy = GetMissionV(MS_HOMEIN_Y1)
+		str = GetName().."Gia nhËp phe Tèng"
+		EnterChannel(PlayerIndex, "Phe Tèng"..szGAME_GAMELEVEL[level].."B¶o vÖ Nguyªn so¸i")
+	else
+		posx = GetMissionV(MS_HOMEIN_X2)
+		posy = GetMissionV(MS_HOMEIN_Y2)
+		str = GetName().."Gia nhËp phe Kim"
+		EnterChannel(PlayerIndex, "Phe Kim"..szGAME_GAMELEVEL[level].."B¶o vÖ Nguyªn so¸i")
+	end
 
-BT_SetData(PL_PARAM1,0)
-BT_SetData(PL_PARAM2,0)
-sf_mapid = SubWorldIdx2ID(SubWorld)
+	BT_SetData(PL_PARAM1,0)
+	BT_SetData(PL_PARAM2,0)
+	sf_mapid = SubWorldIdx2ID(SubWorld)
 
-if (camp == 1) then
-	SetRevPos(tbGAME_SIGNMAP[level], 1)
-else
-	SetRevPos(tbGAME_SIGNMAP[level], 2)
-end
+	if (camp == 1) then
+		SetRevPos(tbGAME_SIGNMAP[level], 1)
+	else
+		SetRevPos(tbGAME_SIGNMAP[level], 2)
+	end
 
-NewWorld(sf_mapid, posx, posy);
-SetTempRevPos(sf_mapid, posx * 32, posy * 32);
-BT_SetData(PL_LASTDEATHTIME, GetGameTime())
+	NewWorld(sf_mapid, posx, posy);
+	SetTempRevPos(sf_mapid, posx * 32, posy * 32);
+	BT_SetData(PL_LASTDEATHTIME, GetGameTime())
 
-SetCreateTeam(0);
-BT_SetData(PL_KEYNUMBER, BT_GetGameData(GAME_KEY))
-BT_SetData(PL_BATTLEID, BT_GetGameData(GAME_BATTLEID))
-BT_SetData(PL_RULEID, BT_GetGameData(GAME_RULEID))
+	SetCreateTeam(0);
+	BT_SetData(PL_KEYNUMBER, BT_GetGameData(GAME_KEY))
+	BT_SetData(PL_BATTLEID, BT_GetGameData(GAME_BATTLEID))
+	BT_SetData(PL_RULEID, BT_GetGameData(GAME_RULEID))
 
-BT_BroadView();
-BT_BroadAllLadder();
-BT_SetRestTime(gametime);
-BT_BroadGameData();
-BT_SortLadder();
-BT_BroadSelf()
-BT_BroadBattleDesc();
-BT_ViewBattleStart()
-SetFightState(0)
---Msg2MSAll(MISSIONID,str);
-SetPKFlag(1)
-ForbidChangePK(1);
-SetDeathScript("\\script\\battles\\marshal\\playerdeath.lua");
-bt_JudgePLAddTitle()
-end;
+	BT_BroadView();
+	BT_BroadAllLadder();
+	BT_SetRestTime(gametime);
+	BT_BroadGameData();
+	BT_SortLadder();
+	BT_BroadSelf()
+	BT_BroadBattleDesc();
+	BT_ViewBattleStart()
+	SetFightState(0)
+	--Msg2MSAll(MISSIONID,str);
+	SetPKFlag(1)
+	ForbidChangePK(1);
+	SetDeathScript("\\script\\battles\\marshal\\playerdeath.lua");
+	bt_JudgePLAddTitle()
+	end;
 ------------------------------------------------------------------
 
 -----½«Ãë´«»»³É·ÖÓëÃë£¬±ÈÈç62s = 1m2s

@@ -1,6 +1,6 @@
-		IncludeLib("FILESYS");
-		IncludeLib("TITLE");
-		IncludeLib("SETTING");
+IncludeLib("FILESYS");
+IncludeLib("TITLE");
+IncludeLib("SETTING");
 Include("\\script\\event\\storm\\function.lua")	--Storm
 Include("\\script\\event\\great_night\\huangzhizhang\\event.lua")	--HUANGZHIZHANG
 Include("\\script\\missions\\boss\\bigboss.lua")	-- big boss
@@ -17,8 +17,8 @@ Include("\\script\\battles\\doubleexp.lua")
 Include("\\script\\global\\vinh\\simcity\\head.lua")
 
 FRAME2TIME = 18;	--18帧游戏时间相当于1秒钟
-BAOMING_TIME = 1		-- 10分钟报名时间	
-FIGHTING_TIME = 45		-- 60分钟比赛时间
+BAOMING_TIME = ThoiGianBaoDanhTK		-- 10分钟报名时间	
+FIGHTING_TIME = ThoiGianChienDauTK		-- 60分钟比赛时间
 ANNOUNCE_TIME = 20		-- 20秒公布一下战况
 
 TIMER_1 = ANNOUNCE_TIME * FRAME2TIME; --20秒公布一下战况
@@ -655,8 +655,15 @@ function sf_buildfightnpcdata()
 	--开始时士兵一次全部出现————金
 	npcfile = GetIniFileData(mapfile, "Area_"..j_area, tbNPCPOS[2]);
 	bt_addrandfightnpc(npcfile, GetMissionV(MS_TRANK1_J), GetMissionV(MS_RANK1LVL_J), 2, GetMissionV(MS_NPCCOUNT1_J), tabFILE_NPCDEATH[1], 0)
-	SimCityChienTranh:init()
-	SimCityChienTranh:nv_tudo(1)
+	local game_level= BT_GetGameData(GAME_LEVEL)
+	--print("Current game level: " .. game_level)
+	if game_level == 1 then
+		add_npc_simcity(378)
+	elseif game_level == 2 then
+		add_npc_simcity(379)
+	elseif game_level == 3 then
+		add_npc_simcity(380)
+	end
 end
 ------------------------------------------------------------------------------------------
 function GetIniFileData(mapfile, sect, key)
@@ -908,7 +915,10 @@ end
 function bt_autoselectmaparea(mapfile,areacount)		--随机选择场地中，双方所在的阵营地
 	local s_area = 0
 	local j_area = 0
-	local areatmp = random(areacount);
+	--print("mapfile="..mapfile)
+	--print("areacount="..areacount)
+	-- fix doanh trai  tong o duoi, kim o tren
+	local areatmp = 1;
 	local wwt = tonumber(GetIniFileData(mapfile, "Area_"..areatmp, "camparea"))
 	if (wwt == 0 or wwt == 1) then
 		s_area = areatmp
@@ -933,6 +943,7 @@ function bt_autoselectmaparea(mapfile,areacount)		--随机选择场地中，双方所在的阵
 			end
 		end
 	end
+	---print("s_area="..s_area..",j_area="..j_area)
 	return s_area,j_area
 end
 
@@ -1302,4 +1313,20 @@ function bt_announce (lsf_level, n_time)
 	
 	
 	PlayerIndex = old_player;
+end
+
+function add_npc_simcity(idMap)
+	SimCityChienTranh:init(idMap)
+	--SimCityChienTranh:nv_tudo(1)
+	if idMap == 378 then
+		--trung cap
+		SimCityChienTranh:phe_tudo(500,100,1)
+	elseif idMap == 379 then
+		-- cao cap 1
+		SimCityChienTranh:phe_tudo(1000,100,1)
+
+	elseif idMap == 380 then
+		SimCityChienTranh:phe_tudo(1000,100,0)
+		SimCityChienTranh:nv_tudo(1)
+	end
 end
