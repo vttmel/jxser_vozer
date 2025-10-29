@@ -26,3 +26,4 @@ server/server1/dulieu/bosshoangkim/*
 server/server1/vng_data/Logs/*
 
 server/gateway/statdata.dat
+server/gateway/roleback/*.log
