@@ -5,7 +5,7 @@ Include("\\script\\missions\\battle\\lib.lua")
 Include("\\script\\dailogsys\\dailogsay.lua")
 
 
-PLAYER_COUNT_DIFFERENCE = 5
+PLAYER_COUNT_DIFFERENCE = 50
 CAMP_PLAYER_MAX_COUNT = 150
 NEED_PLAYER_COUNT = 100
 MIN_NEED_PLAYER_COUNT = 10

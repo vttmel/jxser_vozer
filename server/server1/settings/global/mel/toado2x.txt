@@ -1,2 +1,4 @@
 nIdMap	pX	pY	pX1	pY1	sNameMap
 7	2388	2673	298	167	TÇn L¨ng
+7	2272	2591	284	161	TÇn L¨ng
+7	2408	2519	301	157	TÇn L¨ng

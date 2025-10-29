@@ -1,0 +1,2 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+225	1548	3289	193	205	Sa M¹c 1

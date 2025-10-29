@@ -21,6 +21,7 @@ Include("\\script\\global\\mel\\nguahoangkim.lua")
 Include("\\script\\global\\mel\\nangcapphiphong.lua")
 Include("\\script\\global\\mel\\phiphonghoangkim.lua")
 Include("\\script\\global\\mel\\tuyetdinhgioichi.lua")
+Include("\\script\\global\\mel\\donganh.lua")
 
 -----------------------------------------------------------------------tbFaction------------------------------------------------------------------------
 local tbFaction =
@@ -135,6 +136,7 @@ function main(nItemIndex)
 			tinsert(tbSay,"N©ng cÊp Phi Phong/melnangcapphiphong")
 			tinsert(tbSay,"N©ng cÊp Phi Phong V« Cùc Hoµng Kim/phiphonghoangkim")
 			tinsert(tbSay,"ChÕ t¹o TuyÖt §Ønh Giíi ChØ/tuyetdinhgioichi")
+			tinsert(tbSay,"ChÕ t¹o §éng ¶nh/donganh")
 			tinsert(tbSay, "KÕt thóc ®èi tho¹i./no")
 		CreateTaskSay(tbSay)
 	return 1;

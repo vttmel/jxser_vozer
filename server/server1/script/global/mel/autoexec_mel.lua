@@ -10,7 +10,9 @@ tbFeatureNpc = {}
 -----------------------------------------------------------------------------
 
 newmel_npc ={
-{1848,80,4,78,1547,3219,0,"N©ng CÊp Trang BÞ",0,"\\script\\global\\mel\\annie.lua"},
+{202,80,4,78,1547,3219,0,"N©ng CÊp Trang BÞ",0,"\\script\\global\\mel\\annie.lua"},
+{114,80,4,78,1557,3205,0,"Phong Háa C¸n Bé",0,"\\script\\global\\mel\\vozer.lua"},
+{1209,80,4,78,1552,3245,0,"Mói MÝt",0,"\\script\\global\\mel\\testserver.lua"},
 }
 
 function Add_Npc_Mel()
@@ -1062,6 +1064,301 @@ function tao_bai_train9x6()
             -- Spawn 30 NPCs for each coordinate set.
             for j = 1, 40 do
                 nNpcId = 144
+                local isBoss = 0
+                -- Make the 5th NPC a boss.
+                -- if (j - floor(j / 10) * 10) == 0 then 
+                --     isBoss = 2
+                -- end
+				nSeriesMonster = random(0, 4)
+				if nSeriesMonster == 0 then
+					nNameMonster = "Vozer Qu¸i 90"
+				elseif nSeriesMonster == 1 then
+					nNameMonster = "Vozer Qu¸i 90"
+				elseif nSeriesMonster == 2 then
+					nNameMonster = "Vozer Qu¸i 90"
+				elseif nSeriesMonster == 3 then
+					nNameMonster = "Vozer Qu¸i 90"
+				else
+					nNameMonster = "Vozer Qu¸i 90"
+				end
+                -- Add the NPC to the game world with a random offset from the base coordinates.
+                AddNpcEx(nNpcId, nNpcLv, nSeriesMonster, SubWorldID2Idx(idmap), (pX + random(-5,5)) * 32, (pY + random(-5,5)) * 32, 0, nNameMonster, isBoss)
+            end
+        end
+    end
+end
+
+--------------------B·i 9x7--------------------
+function tao_bai_train9x7()
+    local nNpcId = 155;
+    local nNpcLv = 95;
+
+    local fileName = "toado9x7.txt"
+    local filePath = "settings/global/mel/"
+    
+    -- Define a pattern to read 5 numeric values and one string from each line.
+    local tbPattern = {"*n", "*n", "*n", "*n", "*n", "*l"}
+    -- Read the coordinate data from the file using the specified pattern.
+    local tbData = tbVngLib_File:TableFromFile(filePath, fileName, tbPattern)
+    
+    -- Check if any data was loaded.
+    if not tbData or getn(tbData) == 0 then
+        print("No coordinate data found to create training area.")
+        return
+    end
+	local nSeriesMonster
+	local nNameMonster = ""
+	local idmap
+	local pX
+	local pY
+    -- Iterate through each set of coordinates.
+    for i = 1, getn(tbData) do
+        local row = tbData[i]
+        -- Assign coordinate values from the current row.
+        idmap = row[1]
+        pX = row[2]
+        pY = row[3]
+
+        if idmap and pX and pY then
+            -- Spawn 30 NPCs for each coordinate set.
+            for j = 1, 40 do
+                nNpcId = random(155, 157)
+                local isBoss = 0
+                -- Make the 5th NPC a boss.
+                -- if (j - floor(j / 10) * 10) == 0 then 
+                --     isBoss = 2
+                -- end
+				nSeriesMonster = random(0, 4)
+				if nSeriesMonster == 0 then
+					nNameMonster = "Vozer Qu¸i 90"
+				elseif nSeriesMonster == 1 then
+					nNameMonster = "Vozer Qu¸i 90"
+				elseif nSeriesMonster == 2 then
+					nNameMonster = "Vozer Qu¸i 90"
+				elseif nSeriesMonster == 3 then
+					nNameMonster = "Vozer Qu¸i 90"
+				else
+					nNameMonster = "Vozer Qu¸i 90"
+				end
+                -- Add the NPC to the game world with a random offset from the base coordinates.
+                AddNpcEx(nNpcId, nNpcLv, nSeriesMonster, SubWorldID2Idx(idmap), (pX + random(-5,5)) * 32, (pY + random(-5,5)) * 32, 0, nNameMonster, isBoss)
+            end
+        end
+    end
+end
+
+--------------------B·i 9x8--------------------
+function tao_bai_train9x8()
+    local nNpcId = 559;
+    local nNpcLv = 95;
+
+    local fileName = "toado9x8.txt"
+    local filePath = "settings/global/mel/"
+    
+    -- Define a pattern to read 5 numeric values and one string from each line.
+    local tbPattern = {"*n", "*n", "*n", "*n", "*n", "*l"}
+    -- Read the coordinate data from the file using the specified pattern.
+    local tbData = tbVngLib_File:TableFromFile(filePath, fileName, tbPattern)
+    
+    -- Check if any data was loaded.
+    if not tbData or getn(tbData) == 0 then
+        print("No coordinate data found to create training area.")
+        return
+    end
+	local nSeriesMonster
+	local nNameMonster = ""
+	local idmap
+	local pX
+	local pY
+    -- Iterate through each set of coordinates.
+    for i = 1, getn(tbData) do
+        local row = tbData[i]
+        -- Assign coordinate values from the current row.
+        idmap = row[1]
+        pX = row[2]
+        pY = row[3]
+
+        if idmap and pX and pY then
+            -- Spawn 30 NPCs for each coordinate set.
+            for j = 1, 40 do
+                nNpcId = random(559, 561)
+                local isBoss = 0
+                -- Make the 5th NPC a boss.
+                -- if (j - floor(j / 10) * 10) == 0 then 
+                --     isBoss = 2
+                -- end
+				nSeriesMonster = random(0, 4)
+				if nSeriesMonster == 0 then
+					nNameMonster = "Vozer Qu¸i 90"
+				elseif nSeriesMonster == 1 then
+					nNameMonster = "Vozer Qu¸i 90"
+				elseif nSeriesMonster == 2 then
+					nNameMonster = "Vozer Qu¸i 90"
+				elseif nSeriesMonster == 3 then
+					nNameMonster = "Vozer Qu¸i 90"
+				else
+					nNameMonster = "Vozer Qu¸i 90"
+				end
+                -- Add the NPC to the game world with a random offset from the base coordinates.
+                AddNpcEx(nNpcId, nNpcLv, nSeriesMonster, SubWorldID2Idx(idmap), (pX + random(-5,5)) * 32, (pY + random(-5,5)) * 32, 0, nNameMonster, isBoss)
+            end
+        end
+    end
+end
+
+--------------------B·i 9x9--------------------
+function tao_bai_train9x9()
+    local nNpcId = 142;
+    local nNpcLv = 95;
+
+    local fileName = "toado9x9.txt"
+    local filePath = "settings/global/mel/"
+    
+    -- Define a pattern to read 5 numeric values and one string from each line.
+    local tbPattern = {"*n", "*n", "*n", "*n", "*n", "*l"}
+    -- Read the coordinate data from the file using the specified pattern.
+    local tbData = tbVngLib_File:TableFromFile(filePath, fileName, tbPattern)
+    
+    -- Check if any data was loaded.
+    if not tbData or getn(tbData) == 0 then
+        print("No coordinate data found to create training area.")
+        return
+    end
+	local nSeriesMonster
+	local nNameMonster = ""
+	local idmap
+	local pX
+	local pY
+    -- Iterate through each set of coordinates.
+    for i = 1, getn(tbData) do
+        local row = tbData[i]
+        -- Assign coordinate values from the current row.
+        idmap = row[1]
+        pX = row[2]
+        pY = row[3]
+
+        if idmap and pX and pY then
+            -- Spawn 30 NPCs for each coordinate set.
+            for j = 1, 40 do
+                nNpcId = 142
+                local isBoss = 0
+                -- Make the 5th NPC a boss.
+                -- if (j - floor(j / 10) * 10) == 0 then 
+                --     isBoss = 2
+                -- end
+				nSeriesMonster = random(0, 4)
+				if nSeriesMonster == 0 then
+					nNameMonster = "Vozer Qu¸i 90"
+				elseif nSeriesMonster == 1 then
+					nNameMonster = "Vozer Qu¸i 90"
+				elseif nSeriesMonster == 2 then
+					nNameMonster = "Vozer Qu¸i 90"
+				elseif nSeriesMonster == 3 then
+					nNameMonster = "Vozer Qu¸i 90"
+				else
+					nNameMonster = "Vozer Qu¸i 90"
+				end
+                -- Add the NPC to the game world with a random offset from the base coordinates.
+                AddNpcEx(nNpcId, nNpcLv, nSeriesMonster, SubWorldID2Idx(idmap), (pX + random(-5,5)) * 32, (pY + random(-5,5)) * 32, 0, nNameMonster, isBoss)
+            end
+        end
+    end
+end
+
+--------------------B·i 9x10--------------------
+function tao_bai_train9x10()
+    local nNpcId = 146;
+    local nNpcLv = 95;
+
+    local fileName = "toado9x10.txt"
+    local filePath = "settings/global/mel/"
+    
+    -- Define a pattern to read 5 numeric values and one string from each line.
+    local tbPattern = {"*n", "*n", "*n", "*n", "*n", "*l"}
+    -- Read the coordinate data from the file using the specified pattern.
+    local tbData = tbVngLib_File:TableFromFile(filePath, fileName, tbPattern)
+    
+    -- Check if any data was loaded.
+    if not tbData or getn(tbData) == 0 then
+        print("No coordinate data found to create training area.")
+        return
+    end
+	local nSeriesMonster
+	local nNameMonster = ""
+	local idmap
+	local pX
+	local pY
+    -- Iterate through each set of coordinates.
+    for i = 1, getn(tbData) do
+        local row = tbData[i]
+        -- Assign coordinate values from the current row.
+        idmap = row[1]
+        pX = row[2]
+        pY = row[3]
+
+        if idmap and pX and pY then
+            -- Spawn 30 NPCs for each coordinate set.
+            for j = 1, 40 do
+                nNpcId = random(146, 148)
+                local isBoss = 0
+                -- Make the 5th NPC a boss.
+                -- if (j - floor(j / 10) * 10) == 0 then 
+                --     isBoss = 2
+                -- end
+				nSeriesMonster = random(0, 4)
+				if nSeriesMonster == 0 then
+					nNameMonster = "Vozer Qu¸i 90"
+				elseif nSeriesMonster == 1 then
+					nNameMonster = "Vozer Qu¸i 90"
+				elseif nSeriesMonster == 2 then
+					nNameMonster = "Vozer Qu¸i 90"
+				elseif nSeriesMonster == 3 then
+					nNameMonster = "Vozer Qu¸i 90"
+				else
+					nNameMonster = "Vozer Qu¸i 90"
+				end
+                -- Add the NPC to the game world with a random offset from the base coordinates.
+                AddNpcEx(nNpcId, nNpcLv, nSeriesMonster, SubWorldID2Idx(idmap), (pX + random(-5,5)) * 32, (pY + random(-5,5)) * 32, 0, nNameMonster, isBoss)
+            end
+        end
+    end
+end
+
+--------------------B·i 9x11--------------------
+function tao_bai_train9x11()
+    local nNpcId = 13;
+    local nNpcLv = 95;
+
+    local fileName = "toado9x11.txt"
+    local filePath = "settings/global/mel/"
+    
+    -- Define a pattern to read 5 numeric values and one string from each line.
+    local tbPattern = {"*n", "*n", "*n", "*n", "*n", "*l"}
+    -- Read the coordinate data from the file using the specified pattern.
+    local tbData = tbVngLib_File:TableFromFile(filePath, fileName, tbPattern)
+    
+    -- Check if any data was loaded.
+    if not tbData or getn(tbData) == 0 then
+        print("No coordinate data found to create training area.")
+        return
+    end
+	local nSeriesMonster
+	local nNameMonster = ""
+	local idmap
+	local pX
+	local pY
+    -- Iterate through each set of coordinates.
+    for i = 1, getn(tbData) do
+        local row = tbData[i]
+        -- Assign coordinate values from the current row.
+        idmap = row[1]
+        pX = row[2]
+        pY = row[3]
+
+        if idmap and pX and pY then
+            -- Spawn 30 NPCs for each coordinate set.
+            for j = 1, 40 do
+                nNpcId = random(13, 14)
                 local isBoss = 0
                 -- Make the 5th NPC a boss.
                 -- if (j - floor(j / 10) * 10) == 0 then 

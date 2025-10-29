@@ -331,7 +331,7 @@ local szTitle =myTitleText
 	local tbOpt =
 	{		
 		{"BiÕt råi, ®Ó ta hoµn thµnh nhiÖm vô xong míi l¹i t×m ng­¬i",Task_Wait},
-		{"ta ®· hoµn thµnh nhiÖm vô lÇn nµy, xin h·y kiÓm tra l¹i!",Task_Accept},
+		{"Ta ®· hoµn thµnh nhiÖm vô lÇn nµy, xin h·y kiÓm tra l¹i!",Task_Accept},
 		{"NhiÖm vô lÇn nµy khã qu¸, ta muèn hñy bá nhiÖm vô.",Task_CancelConfirm},
 		{"Ta muèn biÕt kh¶o nghiÖm cña ng­¬i nãi cã néi dung ra sao.",Task_Info},
 		{"Rêi khái.", no},

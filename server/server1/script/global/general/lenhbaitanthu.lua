@@ -31,6 +31,7 @@ Include("\\script\\global\\pgaming\\configserver\\configall.lua")
 Include("\\script\\global\\mel\\doitienvan.lua")
 Include("\\script\\global\\mel\\thanbidochi.lua")
 Include("\\script\\global\\general\\morongruong.lua")
+Include("\\script\\global\\mel\\autoexec_mel.lua")
 
 -----------------------------------------------------------------------tbFaction------------------------------------------------------------------------
 local tbFaction =
@@ -188,6 +189,7 @@ function main(nItemIndex)
 	--tinsert(tbSay,"T¹o b·i qu¸i/meltaobai")
 	--tinsert(tbSay,"Xãa b·i qu¸i/melxoabai")
 	--tinsert(tbSay,"T×m ID NPC/LietKeNPCXungQuanh")
+	--tinsert(tbSay,"Ghi b·i qu¸i/ghi_bai_quai")
 	tinsert(tbSay, "KÕt thóc ®èi tho¹i./no")
 			
 	CreateTaskSay(tbSay)

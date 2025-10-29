@@ -35,7 +35,7 @@ function main()
 	elseif tl_gettaskcourse() == 1 then
 		Task_AwardRecord()
 		--tl_settaskcourse(2)
-		--Msg2SubWorld("<color=green>Chóc mõng ®¹i hiÖp <color=yellow>"..GetName().."<color> ®· sö dông <color=yellow>LÖnh bµi hoµn thµnh nhiÖm vô D· TÈu<color> ®Ó v­ît qua nhiÖm vô khã kh¨n lÇn nµy!<color>")
+		Msg2SubWorld("<color=green>Chóc mõng ®¹i hiÖp <color=yellow>"..GetName().."<color> ®· sö dông <color=yellow>LÖnh bµi hoµn thµnh nhiÖm vô D· TÈu<color> ®Ó v­ît qua nhiÖm vô khã kh¨n lÇn nµy!<color>")
 		Say("§· hoµn thµnh xong nhiÖm vô, ®èi tho¹i víi D· TÈu ®Ó nhËn th­ëng")
 		nUseTimes = nUseTimes + 1;
 		SetBitTask(DTL_TASK, 0, 8,  nUseTimes);

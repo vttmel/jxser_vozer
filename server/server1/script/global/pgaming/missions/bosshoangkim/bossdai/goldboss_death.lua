@@ -34,12 +34,12 @@ function OnDeath(nBossIndex)
 	if GetTeamSize() >= 2 then 
 		for k=1,GetTeamSize() do 
 			PlayerIndex = GetTeamMember(k);
-				AddPlayerExp(10000000);
+				AddPlayerExp(20000000);
 				Msg2Player("B¹n nhËn ®­îc ®iÓm kinh nghiÖm céng dån "..KinhNghiemGietBoss.." .");
 				_LogPlayer("exp","gold_boss",{GetLocalDate("%m/%d/%Y_%H:%M:%S"),KinhNghiemGietBoss," Kinh nghiÖm ®· h¹ gôc tõ boss "..szBossName.." "});
 		end
 	else
-			AddPlayerExp(10000000);
+			AddPlayerExp(20000000);
 			Msg2Player("B¹n nhËn ®­îc ®iÓm kinh nghiÖm céng dån "..KinhNghiemGietBoss.." .");
 			_LogPlayer("exp","gold_boss",{GetLocalDate("%m/%d/%Y_%H:%M:%S"),KinhNghiemGietBoss," Kinh nghiÖm ®· h¹ gôc tõ boss "..szBossName.." "});
 	end
@@ -48,7 +48,7 @@ function OnDeath(nBossIndex)
 	if tbplayer and getn(tbplayer) > 0 then 
 		for k=1,getn(tbplayer) do 
 			PlayerIndex = tbplayer[k];
-			AddPlayerExp(100000000);
+			AddPlayerExp(10000000);
 			Msg2Player("B¹n nhËn ®­îc ®iÓm kinh nghiÖm céng dån "..KinhNghiemNguoiChoiDungXungQuanh.." .");
 			_LogPlayer("exp","gold_boss",{GetLocalDate("%m/%d/%Y_%H:%M:%S"),KinhNghiemNguoiChoiDungXungQuanh,"Kinh nghiÖm ®øng gÇn lóc boss "..szBossName.." bÞ tiªu diÖt."});
 		end

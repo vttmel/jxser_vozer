@@ -1,0 +1,2 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+93	1596	3291	199	205	TiÕn Cóc ®éng

@@ -118,7 +118,7 @@ SKILLS={
 		skill_cost_v={{{1,10},{20,60}}}
 	},
 	wangu_shixin={ --万蛊蚀心
-		poisontimereduce_p={{{1,-100},{20,-200}},{{1,18*45},{20,18*120}}},
+		poisontimereduce_p={{{1,-100},{20,-500}},{{1,18*45},{20,18*120}}},
 		skill_cost_v={{{1,40},{20,40}}}
 	},
 	tiangang_disha={ --天罡地杀

@@ -17,12 +17,14 @@ dofile("script/global/pgaming/npc/freepk/doivatpham.lua")
 		--{"§æi Tinh Hång B¶o Th¹ch",DoiTinhHongBaoThach},
 		--{"§æi Trang BÞ Viªm §Õ",DoiTrangBiViemDe},
 		--{"§æi Trang BÞ §éng S¸t",DoiTrangBiDongSat},
-		{"§æi R­¬ng Hoµng Kim M«n Ph¸i",RuongHKMP},
-		{"§æi ®å Hoµng Kim M«n Ph¸i lÊy Vâ L©m LÖnh",doihkmprac},
+		--{"§æi R­¬ng Hoµng Kim M«n Ph¸i",RuongHKMP},
+		{"§æi LÖnh bµi gäi Boss Hoµng Kim",DoiLenhBaiBossHK},
+		{"§æi ®å HKMP lÊy LÖnh bµi gäi Boss HKMP",doihkmprac},
+		{"§æi R­¬ng TrÊn Bang Chi B¶o",DoiRuongTranBang},
 		{"§æi Vâ L©m MËt TÞch",DoiVoLamMatTich},
 		{"§æi TÈy Tñy Kinh",DoiTayTuyKinh},
 		--{"§æi B«n Tiªu",DoiBonTieu},
-		{"§æi H·n HuyÕt Long C©u",DoiHHLC},
+		--{"§æi H·n HuyÕt Long C©u",DoiHHLC},
 		{"§æi Tói m¸u Vozer",tuimauvozer},
 		--{"§æi Vò KhÝ T©n Thñ",vukhitanthu},
 		{"KÕt Thóc §èi Tho¹i",No},
@@ -30,26 +32,47 @@ dofile("script/global/pgaming/npc/freepk/doivatpham.lua")
 	CreateNewSayEx("<color=green>Ng­¬i muèn ®æi ®å kh«ng?<color>", tbOpt)
 end
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-function vukhitanthu()
+function DoiLenhBaiBossHK()
 local nVoLamLenh = CalcEquiproomItemCount(6,1,4903,-1);
-	Describe("Sè l­îng Vâ l©m lÖnh hiÖn cã: <color=yellow>: "..nVoLamLenh.."<color><enter>     Tû lÖ ®æi 1 Vâ l©m lÖnh = 1 Vò KhÝ T©n Thñ<enter>",11,
-	"§æi cho ta r­¬ng T©n Thñ KiÕm./tanthukiem",
+	Describe("Sè l­îng Vâ L©m lÖnh hiÖn cã: <color=yellow>: "..nVoLamLenh.."<color><enter>     Tû lÖ ®æi 100 Vâ l©m lÖnh = 1 LÖnh bµi gäi Boss Hoµng Kim<enter>",11,
+	"Ta ®ång ý/tadongybosshk",
 	"Ta sÏ quay l¹i sau!/no"
 	);
 end
 
-------------------------------T©n Thñ KiÕm------------------------------
-function tanthukiem()
+function tadongybosshk()
 local nVoLamLenh = CalcEquiproomItemCount(6,1,4903,-1);
-	if nVoLamLenh > 1 then
-		ItemIndex = AddItem(0,0,0,1,0,0)
+	if nVoLamLenh > 100 then
+		ItemIndex = AddItem(6,1,4916,1,0,0)
 		SyncItem(ItemIndex); 
-		ConsumeEquiproomItem(1,6,1,4903,-1)
+		ConsumeEquiproomItem(100,6,1,4903,-1)
 	else
-		Talk(1,"","B¹n vÉn ch­a ®ñ Vâ L©m LÖnh, h·y cè g¾ng thu thËp thªm")
+		Talk(1,"","B¹n vÉn ch­a ®ñ Vâ L©m lÖnh, h·y cè g¾ng thu thËp thªm")
 		return 1
 	end
 end
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+function DoiRuongTranBang()
+local nVoLamLenh = CalcEquiproomItemCount(6,1,4903,-1);
+	Describe("Sè l­îng Vâ L©m lÖnh hiÖn cã: <color=yellow>: "..nVoLamLenh.."<color><enter>     Tû lÖ ®æi 50 Vâ l©m lÖnh = 1 R­¬ng TrÊn Bang (H¹n sö dông 7 ngµy)<enter>",11,
+	"Ta ®ång ý/tadongytranbang",
+	"Ta sÏ quay l¹i sau!/no"
+	);
+end
+
+function tadongytranbang()
+local nVoLamLenh = CalcEquiproomItemCount(6,1,4903,-1);
+	if nVoLamLenh > 50 then
+		ItemIndex = AddItem(6,1,4904,1,0,0)
+		SyncItem(ItemIndex); 
+		ConsumeEquiproomItem(50,6,1,4903,-1)
+	else
+		Talk(1,"","B¹n vÉn ch­a ®ñ Vâ L©m lÖnh, h·y cè g¾ng thu thËp thªm")
+		return 1
+	end
+end
+
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 function RuongHKMP()
 local nVoLamLenh = CalcEquiproomItemCount(6,1,4903,-1);
@@ -191,15 +214,15 @@ end
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 function DoiTayTuyKinh()
 local nVoLamLenh = CalcEquiproomItemCount(6,1,4903,-1);
-	Describe("Sè l­îng Vâ l©m lÖnh hiÖn cã: <color=yellow>: "..nVoLamLenh.."<color><enter>     Tû lÖ ®æi 30 Vâ l©m lÖnh = 1 Vâ L©m MËt TÞch<enter>",11,
+	Describe("Sè l­îng Vâ l©m lÖnh hiÖn cã: <color=yellow>: "..nVoLamLenh.."<color><enter>     Tû lÖ ®æi 50 Vâ l©m lÖnh = 1 Vâ L©m MËt TÞch<enter>",11,
 	"Ta ®ång ý ®æi/doittk",
 	"Ta sÏ quay l¹i sau!/no"
 	);
 end
 
 function doittk()
-	local nVoLamLenh = CalcEquiproomItemCount(6,1,4903,-1)/30
-	AskClientForNumber("doittk2",0,nVoLamLenh, "30/1: ")
+	local nVoLamLenh = CalcEquiproomItemCount(6,1,4903,-1)/50
+	AskClientForNumber("doittk2",0,nVoLamLenh, "50/1: ")
 end
 
 function doittk2(n_key)
@@ -211,21 +234,21 @@ if n_key > nRuong then
 for i=1,n_key do
 		ItemIndex = AddItem(6,1,22,1,0,0)
 		SetItemBindState(ItemIndex, -2)
-		ConsumeEquiproomItem(30,6,1,4903,-1)
+		ConsumeEquiproomItem(50,6,1,4903,-1)
 	end
 end;
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 function DoiVoLamMatTich()
 local nVoLamLenh = CalcEquiproomItemCount(6,1,4903,-1);
-	Describe("Sè l­îng Vâ l©m lÖnh hiÖn cã: <color=yellow>: "..nVoLamLenh.."<color><enter>     Tû lÖ ®æi 30 Vâ l©m lÖnh = 1 Vâ L©m MËt TÞch<enter>",11,
+	Describe("Sè l­îng Vâ l©m lÖnh hiÖn cã: <color=yellow>: "..nVoLamLenh.."<color><enter>     Tû lÖ ®æi 50 Vâ l©m lÖnh = 1 Vâ L©m MËt TÞch<enter>",11,
 	"Ta ®ång ý ®æi/doivlmt",
 	"Ta sÏ quay l¹i sau!/no"
 	);
 end
 
 function doivlmt()
-	local nVoLamLenh = CalcEquiproomItemCount(6,1,4903,-1)/30
-	AskClientForNumber("doivlmt2",0,nVoLamLenh, "30/1: ")
+	local nVoLamLenh = CalcEquiproomItemCount(6,1,4903,-1)/50
+	AskClientForNumber("doivlmt2",0,nVoLamLenh, "50/1: ")
 end
 
 function doivlmt2(n_key)
@@ -237,7 +260,7 @@ if n_key > nRuong then
 for i=1,n_key do
 		ItemIndex = AddItem(6,1,26,1,0,0)
 		SetItemBindState(ItemIndex, -2)
-		ConsumeEquiproomItem(30,6,1,4903,-1)
+		ConsumeEquiproomItem(50,6,1,4903,-1)
 	end
 end;
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
