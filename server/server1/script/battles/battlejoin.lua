@@ -1,5 +1,5 @@
 --coding by romandou 2004-12-22
---O½?ÛµÄ±¨AûµaNpc¶Ô»°½Å±¾
+--OÂ½?Ã›ÂµÃ„Â±Â¨AÃ»ÂµaNpcÂ¶Ã”Â»Â°Â½Ã…Â±Â¾
 
 IncludeLib("BATTLE")
 Include("\\script\\battles\\battlehead.lua")
@@ -13,7 +13,7 @@ function main()
 	--dofile("script/battles/battlejoin.lua")
 	--print("load file battlejoin.lua")
 	if ThamGiaTongKim ~= 1 then
-		return Talk(1, "", "<color=Orange>Mé Binh Quan: <color>Tèng Kim ®· t¹m ®ãng, c¸c h¹ h·y quay l¹i sau")	
+		return Talk(1, "", "<color=Orange>MÃ© Binh Quan: <color>TÃ¨ng Kim Â®Â· tÂ¹m Â®Ã£ng, cÂ¸c hÂ¹ hÂ·y quay lÂ¹i sau")	
 	end
 
 	local nWorld, _, _ = GetWorldPos() --***
@@ -21,14 +21,14 @@ function main()
 	SubWorld = SubWorldID2Idx(nWorld)
 	bt_setnormaltask2type()
 	if (BT_GetGameData(GAME_BATTLEID) == 0 ) then
-		Say("§¹i qu©n cña ta vÉn ch­a xuÊt ph¸t! H·y t¹m thêi nghØ ng¬i ®îi tin nhĞ",0)
+		Say("Â§Â¹i quÂ©n cÃ±a ta vÃ‰n chÂ­a xuÃŠt phÂ¸t! HÂ·y tÂ¹m thÃªi nghÃ˜ ngÂ¬i Â®Ã®i tin nhÃ",0)
 		SubWorld = nOldSubWorld
 		return
 	end
 
 	if (GetSkillState(314) > 0) then
 		RemoveSkillState(314);
-		Msg2Player("§· xãa hiÖu øng <enter>           [<color=white>Håi m¸u, håi n¨ng l­îng<color>] <enter>           trªn nh©n vËt.")
+		Msg2Player("Â§Â· xÃ£a hiÃ–u Ã¸ng <enter>           [<color=white>HÃ¥i mÂ¸u, hÃ¥i nÂ¨ng lÂ­Ã®ng<color>] <enter>           trÂªn nhÂ©n vÃ‹t.")
 	end
 	
 -------------------------------------------------------------------	
@@ -37,7 +37,7 @@ function main()
 	local bt_level = 0;
 	
 	-- if (pl_level < 40 ) then
-	-- 	Say("ChiÕn tr­êng chØ dµnh cho ng­êi tõ cÊp 40 trë lªn, ng­¬i ch­a ®ñ ®iÒu kiÖn. Cè g¾ng tËp luyÖn thªm ®i!",2, "§­îc!/bt_oncancel", "Ta muèn t×m hiÓu th«ng tin chiÕn dŞch./bt_onbattleinfo");
+	-- 	Say("ChiÃ•n trÂ­Ãªng chÃ˜ dÂµnh cho ngÂ­Ãªi tÃµ cÃŠp 40 trÃ« lÂªn, ngÂ­Â¬i chÂ­a Â®Ã± Â®iÃ’u kiÃ–n. CÃ¨ gÂ¾ng tÃ‹p luyÃ–n thÂªm Â®i!",2, "Â§Â­Ã®c!/bt_oncancel", "Ta muÃ¨n tÃ—m hiÃ“u thÂ«ng tin chiÃ•n dÃch./bt_onbattleinfo");
 	-- 	SubWorld = nOldSubWorld
 	-- 	return 
 	-- elseif (pl_level < 80) then
@@ -51,11 +51,11 @@ function main()
 	-- if (tbGAME_SIGNMAP[bt_level] ~= wid) then
 	-- 	 local maplevel = bt_map2battlelevel(wid)
 	-- 	 if ( maplevel == 0) then
-	-- 	 	print("B¸o danh Tèng Kim, ID cã vÊn ®Ò, xin phËn vËn hµnh kiÓm tra gÊp!");
+	-- 	 	print("BÂ¸o danh TÃ¨ng Kim, ID cÃ£ vÃŠn Â®Ã’, xin phÃ‹n vÃ‹n hÂµnh kiÃ“m tra gÃŠp!");
 	-- 	 	SubWorld = nOldSubWorld
 	-- 	 	return 	
 	-- 	 end
-	-- 	 Say("Khu vùc nµy lµ <color=yellow>"..szGAME_GAMELEVEL[maplevel].."<color>, §¼ng cÊp cña ng­¬i hiÖn giê chØ cã thÓ ®i <color=green>"..szGAME_GAMELEVEL[bt_level].."<color> ®Ó b¸o danh!", 0)--£¿£¿A»ÓĞ·ÖµÈ¼¶µÄ`áÊ¾ĞÅÏ¢		 
+	-- 	 Say("Khu vÃ¹c nÂµy lÂµ <color=yellow>"..szGAME_GAMELEVEL[maplevel].."<color>, Â§Â¼ng cÃŠp cÃ±a ngÂ­Â¬i hiÃ–n giÃª chÃ˜ cÃ£ thÃ“ Â®i <color=green>"..szGAME_GAMELEVEL[bt_level].."<color> Â®Ã“ bÂ¸o danh!", 0)--Â£Â¿Â£Â¿AÂ»Ã“ÃÂ·Ã–ÂµÃˆÂ¼Â¶ÂµÃ„`Ã¡ÃŠÂ¾ÃÃ…ÃÂ¢		 
 	-- 	 SubWorld = nOldSubWorld
 	-- 	 return
 	-- end
@@ -64,7 +64,7 @@ function main()
 	SubWorld = SubWorldID2Idx(nWorld)
 	battlemap = SubWorldID2Idx(BT_GetGameData(GAME_MAPID));
 	if (battlemap < 0) then
-		Say("TiÒn ph­¬ng cã vÊn ®Ò, t¹m thêi kh«ng thÓ tiÕn hµnh tèng kim ®¹i chiÕn", 0 )
+		Say("TiÃ’n phÂ­Â¬ng cÃ£ vÃŠn Â®Ã’, tÂ¹m thÃªi khÂ«ng thÃ“ tiÃ•n hÂµnh tÃ¨ng kim Â®Â¹i chiÃ•n", 0 )
 		SubWorld = nOldSubWorld
 		return
 	end
@@ -73,11 +73,11 @@ function main()
 	SubWorld = battlemap
 	state = GetMissionV(MS_STATE);
 	if (state == 0) then
-		Say("Xin lçi! §¹i chiÕn vÉn ch­a b¾t ®Çu! LÇn sau quay l¹i nhĞ", 0 )
+		Say("Xin lÃ§i! Â§Â¹i chiÃ•n vÃ‰n chÂ­a bÂ¾t Â®Ã‡u! LÃ‡n sau quay lÂ¹i nhÃ", 0 )
 		SubWorld = tempSubWorld;		
 		return
 	elseif (state == 3) then
-		Say("Xin lçi! §¹i chiÕn ®· kÕt thóc! LÇn sau quay l¹i nhĞ", 0)
+		Say("Xin lÃ§i! Â§Â¹i chiÃ•n Â®Â· kÃ•t thÃ³c! LÃ‡n sau quay lÂ¹i nhÃ", 0)
 		SubWorld = tempSubWorld;
 		return
 	else
@@ -88,15 +88,15 @@ function main()
 	SubWorld = SubWorldID2Idx(nWorld)
 	if (BT_GetGameData(GAME_BATTLEID) ~= BT_GetData(PL_BATTLEID) or BT_GetGameData(GAME_BATTLESERIES) ~= BT_GetData(PL_BATTLESERIES)) then
 		if (state ~= 1 and state ~= 2 ) then
-			Say("Xin lçi! §¹i chiÕn ®· kÕt thóc! LÇn sau quay l¹i nhĞ", 0)
+			Say("Xin lÃ§i! Â§Â¹i chiÃ•n Â®Â· kÃ•t thÃ³c! LÃ‡n sau quay lÂ¹i nhÃ", 0)
 			SubWorld = nOldSubWorld
 			return 
 		end
 
 		if (bt_ncamp == 1) then
-			Say("["..battlename.."] ChiÕn dŞch ®· b¾t ®Çu, mäi ng­êi h·y v× toµn d©n ®¹i tèng, tôc ng÷ cã c©u: Thiªn hæ h­ng vong, thÊt phu h÷u tr¸ch. Nay ng­êi kim x©m ph¹m bê câi chóng ta, ®©y lµ lóc b¸o hiÕu ®Êt n­íc, chØ cÇn cÊp 40 trë lªn vµ cÇn 2 v¹n l­îng th× cã thÓ b¸o ®¸p quèc gia råi, nµo ng­êi anh em cßn chÇn chõ g× n÷a!", 2, "Ta tham gia! (§iÓm tİch lòy trë vÒ 0) /bt_joinsong", "§Ó ta suy nghÜ l¹i!/bt_oncancel");
+			Say("["..battlename.."] ChiÃ•n dÃch Â®Â· bÂ¾t Â®Ã‡u, mÃ¤i ngÂ­Ãªi hÂ·y vÃ— toÂµn dÂ©n Â®Â¹i tÃ¨ng, tÃ´c ngÃ· cÃ£ cÂ©u: ThiÂªn hÃ¦ hÂ­ng vong, thÃŠt phu hÃ·u trÂ¸ch. Nay ngÂ­Ãªi kim xÂ©m phÂ¹m bÃª cÃ¢i chÃ³ng ta, Â®Â©y lÂµ lÃ³c bÂ¸o hiÃ•u Â®ÃŠt nÂ­Ã­c, chÃ˜ cÃ‡n cÃŠp 40 trÃ« lÂªn vÂµ cÃ‡n 2 vÂ¹n lÂ­Ã®ng thÃ— cÃ£ thÃ“ bÂ¸o Â®Â¸p quÃ¨c gia rÃ¥i, nÂµo ngÂ­Ãªi anh em cÃŸn chÃ‡n chÃµ gÃ— nÃ·a!", 2, "Ta tham gia! (Â§iÃ“m tÃch lÃ²y trÃ« vÃ’ 0) /bt_joinsong", "Â§Ã“ ta suy nghÃœ lÂ¹i!/bt_oncancel");
 		else
-			Say("["..battlename.."] ChiÕn dŞch ®· b¾t ®Çu, hìi c¸c vŞ dòng sü Kim quèc, thêi kh¾c nhÊt thèng thiªn h¹ vµ dÑp bän Tèng quèc nam man c¶n ®­êng cña chóng ta ®· ®Õn. Nay Kim quèc rÊt cÇn sù trî lùc cña c¸c ng­¬i, chØ cÇn cÊp 40 trë lªn vµ cÇn 2 v¹n l­îng lµ cã thÓ ®Òn ®¸p quèc gia råi, nµo ng­êi anh em cßn chÇn chê g× n÷a!", 2, "Ta tham gia! (§iÓm tİch lòy trë vÒ 0) /bt_joinjin", "§Ó ta suy nghÜ l¹i!/bt_oncancel");
+			Say("["..battlename.."] ChiÃ•n dÃch Â®Â· bÂ¾t Â®Ã‡u, hÃ¬i cÂ¸c vÃ dÃ²ng sÃ¼ Kim quÃ¨c, thÃªi khÂ¾c nhÃŠt thÃ¨ng thiÂªn hÂ¹ vÂµ dÃ‘p bÃ¤n TÃ¨ng quÃ¨c nam man cÂ¶n Â®Â­Ãªng cÃ±a chÃ³ng ta Â®Â· Â®Ã•n. Nay Kim quÃ¨c rÃŠt cÃ‡n sÃ¹ trÃ® lÃ¹c cÃ±a cÂ¸c ngÂ­Â¬i, chÃ˜ cÃ‡n cÃŠp 40 trÃ« lÂªn vÂµ cÃ‡n 2 vÂ¹n lÂ­Ã®ng lÂµ cÃ£ thÃ“ Â®Ã’n Â®Â¸p quÃ¨c gia rÃ¥i, nÂµo ngÂ­Ãªi anh em cÃŸn chÃ‡n chÃª gÃ— nÃ·a!", 2, "Ta tham gia! (Â§iÃ“m tÃch lÃ²y trÃ« vÃ’ 0) /bt_joinjin", "Â§Ã“ ta suy nghÃœ lÂ¹i!/bt_oncancel");
 		end
 		SubWorld = nOldSubWorld
 		return	
@@ -105,30 +105,30 @@ function main()
 --if (BT_GetData(PL_BATTLECAMP) ~= bt_ncamp) then
 	if (BT_GetGameData(GAME_KEY) == BT_GetData(PL_KEYNUMBER) and BT_GetData(PL_BATTLECAMP) ~= bt_ncamp) then
 		if (bt_ncamp == 1) then
-			Say("Nh×n ng­¬i m¾t la mµy loĞt, nhÊt ®Şnh lµ Kim quèc gian tÕ Ng­êi ®©u! B¾t lÊy h¾n!",0)
-			Msg2Player("Ng­¬i ®· ®Çu qu©n cho Kim quèc, h·y ®Õn gÆp Mé binh quan xin gia nhËp chiÕn tr­êng!")
+			Say("NhÃ—n ngÂ­Â¬i mÂ¾t la mÂµy loÃt, nhÃŠt Â®Ãnh lÂµ Kim quÃ¨c gian tÃ• NgÂ­Ãªi Â®Â©u! BÂ¾t lÃŠy hÂ¾n!",0)
+			Msg2Player("NgÂ­Â¬i Â®Â· Â®Ã‡u quÂ©n cho Kim quÃ¨c, hÂ·y Â®Ã•n gÃ†p MÃ© binh quan xin gia nhÃ‹p chiÃ•n trÂ­Ãªng!")
 		else
-			Say("Tªn Nam man kia, cã gan th©m nhËp vµo l·nh ®Şa ®¹i Kim, râ rµng lµ tíi t×m c¸i chÕt!",0)
-			Msg2Player("Ng­¬i ®· ®Çu qu©n cho Kim quèc, h·y ®Õn gÆp Mé binh quan xin nhËp chiÕn tr­êng!")	
+			Say("TÂªn Nam man kia, cÃ£ gan thÂ©m nhÃ‹p vÂµo lÂ·nh Â®Ãa Â®Â¹i Kim, rÃ¢ rÂµng lÂµ tÃ­i tÃ—m cÂ¸i chÃ•t!",0)
+			Msg2Player("NgÂ­Â¬i Â®Â· Â®Ã‡u quÂ©n cho Kim quÃ¨c, hÂ·y Â®Ã•n gÃ†p MÃ© binh quan xin nhÃ‹p chiÃ•n trÂ­Ãªng!")	
 		end;
 		SubWorld = nOldSubWorld
 		return 
 	end
 
 ----------------------------------------------------------------------
---OuÊ½±¨AûÊ±µÄ`o¼?ÊÇ£¬
---1¡¢?Ñ¾­±¨ÁË±¾´ÎµÄO½?Û
---2¡¢?Ñ¾­ÊÇ±¾·½O½?ÛµÄOóÓªÁË
---3¡¢Óë±¾´ÎO½¾ÖµÄO½¾ÖµÈ¼¶Ïà·ûÁË
+--OuÃŠÂ½Â±Â¨AÃ»ÃŠÂ±ÂµÃ„`oÂ¼?ÃŠÃ‡Â£Â¬
+--1Â¡Â¢?Ã‘Â¾Â­Â±Â¨ÃÃ‹Â±Â¾Â´ÃÂµÃ„OÂ½?Ã›
+--2Â¡Â¢?Ã‘Â¾Â­ÃŠÃ‡Â±Â¾Â·Â½OÂ½?Ã›ÂµÃ„OÃ³Ã“ÂªÃÃ‹
+--3Â¡Â¢Ã“Ã«Â±Â¾Â´ÃOÂ½Â¾Ã–ÂµÃ„OÂ½Â¾Ã–ÂµÃˆÂ¼Â¶ÃÃ Â·Ã»ÃÃ‹
 
---OuÊ½¿É?Ô±¨AûÁË
+--OuÃŠÂ½Â¿Ã‰?Ã”Â±Â¨AÃ»ÃÃ‹
 
-	--Storm ¼ÓÈë`ôO½
+	--Storm Â¼Ã“ÃˆÃ«`Ã´OÂ½
 	say_index = 1
 	storm_ask2start(1)
 end;
 
---Ou³£µÄËÎ½d´óO½¶Ô»°
+--OuÂ³Â£ÂµÃ„Ã‹ÃÂ½dÂ´Ã³OÂ½Â¶Ã”Â»Â°
 function storm_goon_start()
 	local nWorld,_,_ = GetWorldPos(); --***
 	local nOldSubWorld = SubWorld
@@ -140,31 +140,31 @@ function storm_goon_start()
 	end
 	
 	local tb_words = {
-		"Trèng trËn ®· rÒn vang! Sao ng­¬i ch­a tham gia chiÕn?",
-		"Chóc mõng b¹n ®· chİnh thøc trë thµnh t­íng sü cña ®¹i Tèng! H·y chøng tá b¶n lÜnh cña m×nh ®i!",
-		"Chóc mõng b¹n ®· chİnh thøc trë thµnh t­íng sü cña ®¹i Kim! H·y chøng tá b¶n lÜnh cña m×nh ®i!"
+		"TrÃ¨ng trÃ‹n Â®Â· rÃ’n vang! Sao ngÂ­Â¬i chÂ­a tham gia chiÃ•n?",
+		"ChÃ³c mÃµng bÂ¹n Â®Â· chÃnh thÃ¸c trÃ« thÂµnh tÂ­Ã­ng sÃ¼ cÃ±a Â®Â¹i TÃ¨ng! HÂ·y chÃ¸ng tÃ¡ bÂ¶n lÃœnh cÃ±a mÃ—nh Â®i!",
+		"ChÃ³c mÃµng bÂ¹n Â®Â· chÃnh thÃ¸c trÃ« thÂµnh tÂ­Ã­ng sÃ¼ cÃ±a Â®Â¹i Kim! HÂ·y chÃ¸ng tÃ¡ bÂ¶n lÃœnh cÃ±a mÃ—nh Â®i!"
 	}
 	local szTongKim
 	if nWorld == tbGAME_SIGNMAP[1] then
-		szTongKim = "ChiÕn tr­êng s¬ cÊp"
+		szTongKim = "ChiÃ•n trÂ­Ãªng sÂ¬ cÃŠp"
 	elseif nWorld == tbGAME_SIGNMAP[2] then
-		szTongKim = "ChiÕn tr­êng trung cÊp"
+		szTongKim = "ChiÃ•n trÂ­Ãªng trung cÃŠp"
 	else 
-		szTongKim = "ChiÕn tr­êng cao cÊp"
+		szTongKim = "ChiÃ•n trÂ­Ãªng cao cÃŠp"
 	end
 
 	local tbSay = {}
-	local szMsg = "B¹n ®ang ë <color=green>"..szTongKim.."<color>\n"
-	szMsg = szMsg.."HiÖn thêi qu©n sü 2 bªn lµ <enter><enter><color=yellow>Qu©n sè bªn Tèng lµ <color><color=green>"..mem_song.." <color><color=yellow>ng­êi <enter>Qu©n sè bªn Kim lµ <color><color=green>"..mem_jin.." <color><color=yellow>ng­êi<color>\n"
+	local szMsg = "BÂ¹n Â®ang Ã« <color=green>"..szTongKim.."<color>\n"
+	szMsg = szMsg.."HiÃ–n thÃªi quÂ©n sÃ¼ 2 bÂªn lÂµ <enter><enter><color=yellow>QuÂ©n sÃ¨ bÂªn TÃ¨ng lÂµ <color><color=green>"..mem_song.." <color><color=yellow>ngÂ­Ãªi <enter>QuÂ©n sÃ¨ bÂªn Kim lÂµ <color><color=green>"..mem_jin.." <color><color=yellow>ngÂ­Ãªi<color>\n"
 	--tinsert(tbSay, szMsg)
-	tinsert(tbSay, "H·y cho ta tham gia lu«n/bt_enterbattle");
-	tinsert(tbSay, "§æi sang S¬ cÊp/#goMap(1)")
-	tinsert(tbSay, "§æi sang Trung cÊp/#goMap(2)")
-	tinsert(tbSay, "§æi sang Cao cÊp/#goMap(3)")
-	tinsert(tbSay, "§Ó ta suy nghÜ l¹i!/bt_oncancel")
+	tinsert(tbSay, "HÂ·y cho ta tham gia luÂ«n/bt_enterbattle");
+	tinsert(tbSay, "Â§Ã¦i sang SÂ¬ cÃŠp/#goMap(1)")
+	tinsert(tbSay, "Â§Ã¦i sang Trung cÃŠp/#goMap(2)")
+	tinsert(tbSay, "Â§Ã¦i sang Cao cÃŠp/#goMap(3)")
+	tinsert(tbSay, "Â§Ã“ ta suy nghÃœ lÂ¹i!/bt_oncancel")
 	Say(szMsg, 5, tbSay);
 	if (bt_getgn_awardtimes() ~= 1) then
-		Msg2Player("ChiÕn dŞch lÇn nµy lµ <color=yellor>Cuèi TuÇn <color>, phÇn th­ëng gÊp ®«i so víi b×nh th­êng! C¬ héi kh«ng nªn bá qua!")
+		Msg2Player("ChiÃ•n dÃch lÃ‡n nÂµy lÂµ <color=yellor>CuÃ¨i TuÃ‡n <color>, phÃ‡n thÂ­Ã«ng gÃŠp Â®Â«i so vÃ­i bÃ—nh thÂ­Ãªng! CÂ¬ hÃ©i khÂ«ng nÂªn bÃ¡ qua!")
 	end
 	SubWorld = nOldSubWorld
 end
@@ -176,7 +176,7 @@ function goMap(nlevel)
 end
 function bt_enterbattle()
 	BT_SetGameData(GAME_LEVEL, 1)
-	if battlesSongJinCheck:FuncCheckIP(bt_ncamp) then return end ---chÆn trïng ip
+	if battlesSongJinCheck:FuncCheckIP(bt_ncamp) then return end ---chÃ†n trÃ¯ng ip
 	local nWorld,_,_ = GetWorldPos(); --***
 	local nOldSubWorld = SubWorld
 	SubWorld = SubWorldID2Idx(nWorld)
@@ -190,14 +190,14 @@ function bt_enterbattle()
 			local szTong = GetTong()
 			if szTong ~= nil and szTong ~= "" then
 				if 2 == bt_ncamp then
-					if GetCityOwner(4) ~= szTong and GetCityOwner(7) == szTong then--4ÊÇaê¾©£¬7ÊÇÁÙ°², 2ÊÇ½d·½
-						Msg2Player("Bang héi chiÕm thµnh L©m An chØ ®­îc b¸o danh bªn Tèng!")
+					if GetCityOwner(4) ~= szTong and GetCityOwner(7) == szTong then--4ÃŠÃ‡aÃªÂ¾Â©Â£Â¬7ÃŠÃ‡ÃÃ™Â°Â², 2ÃŠÃ‡Â½dÂ·Â½
+						Msg2Player("Bang hÃ©i chiÃ•m thÂµnh LÂ©m An chÃ˜ Â®Â­Ã®c bÂ¸o danh bÂªn TÃ¨ng!")
 						SubWorld = nOldSubWorld
 						return
 					end
 				elseif 1 == bt_ncamp then
-					if GetCityOwner(4) == szTong and GetCityOwner(7) ~= szTong then--4ÊÇaê¾©£¬7ÊÇÁÙ°²£¬1ÊÇËÎ·½
-						Msg2Player("Bang héi chiÕm thµnh BiÖn Kinh chØ ®­îc b¸o danh bªn Kim!")
+					if GetCityOwner(4) == szTong and GetCityOwner(7) ~= szTong then--4ÃŠÃ‡aÃªÂ¾Â©Â£Â¬7ÃŠÃ‡ÃÃ™Â°Â²Â£Â¬1ÃŠÃ‡Ã‹ÃÂ·Â½
+						Msg2Player("Bang hÃ©i chiÃ•m thÂµnh BiÃ–n Kinh chÃ˜ Â®Â­Ã®c bÂ¸o danh bÂªn Kim!")
 						SubWorld = nOldSubWorld
 						return
 					end
@@ -226,7 +226,7 @@ function bt_enterbattle()
 		idx = SubWorldID2Idx(MapId);
 		
 		if (idx < 0) then
-			Say("Xin lçi,tiÒn tuyÕn cã vÊn ®Ò, t¹m thêi kh«ng thÓ tiÕn vµo chiÕn tr­êng.",0)
+			Say("Xin lÃ§i,tiÃ’n tuyÃ•n cÃ£ vÃŠn Â®Ã’, tÂ¹m thÃªi khÂ«ng thÃ“ tiÃ•n vÂµo chiÃ•n trÂ­Ãªng.",0)
 			SignMapId = SubWorldIdx2ID(SubWorld);
 			BattleId = BT_GetGameData(GAME_BATTLEID);
 			print("ERROR !!!Battle[%d]Level[%d]'s BattleMap[%d] and SignMap[%d] Must In Same Server!", BattleId, BT_GetGameData(GAME_LEVEL),MapId, SignMapId); 
@@ -246,7 +246,7 @@ function bt_enterbattle()
 		local nRet = tbVNG2011_ChangeSign:CheckChangeSign();
 		local nTimeNow = tbVNG2011_ChangeSign:GetTimeNow()
 		if ( nRet ~= 1 ) then
-			Say(format("ChiÕn tr­êng cßn <color=red>%d <color=red>phót n÷a cã thÓ b¸o danh", nTimeNow));
+			Say(format("ChiÃ•n trÂ­Ãªng cÃŸn <color=red>%d <color=red>phÃ³t nÃ·a cÃ£ thÃ“ bÂ¸o danh", nTimeNow));
 			SubWorld = nOldSubWorld
 			return
 		end
@@ -260,17 +260,17 @@ function bt_enterbattle()
 		SubWorld = nOldSubWorld
 		return
 	else
-		Say("Xin lçi! TiÒn ph­¬ng cã vÊn ®Ò, t¹m thêi kh«ng thÓ tiÕn vµo chiÕn tr­êng", 0);
+		Say("Xin lÃ§i! TiÃ’n phÂ­Â¬ng cÃ£ vÃŠn Â®Ã’, tÂ¹m thÃªi khÂ«ng thÃ“ tiÃ•n vÂµo chiÃ•n trÂ­Ãªng", 0);
 	end
 	SubWorld = nOldSubWorld
 end;
 
 function bt_wantjin()
-		Say("Ng­¬i x¸c ®Şnh ®Çu qu©n cho Kim quèc? NÕu ®· gia nhËp, néi trong 1 tuÇn ng­¬i sÏ lµ ng­êi cña chóng ta. Muèn thay ®æi, ph¶i ®îi tuÇn sau!",2, "Ta nhÊt ®Şnh gia nhËp Kim quèc/bt_joinjin", "§Ó ta suy nghÜ l¹i ®·!/bt_oncancel");
+		Say("NgÂ­Â¬i xÂ¸c Â®Ãnh Â®Ã‡u quÂ©n cho Kim quÃ¨c? NÃ•u Â®Â· gia nhÃ‹p, nÃ©i trong 1 tuÃ‡n ngÂ­Â¬i sÃ lÂµ ngÂ­Ãªi cÃ±a chÃ³ng ta. MuÃ¨n thay Â®Ã¦i, phÂ¶i Â®Ã®i tuÃ‡n sau!",2, "Ta nhÃŠt Â®Ãnh gia nhÃ‹p Kim quÃ¨c/bt_joinjin", "Â§Ã“ ta suy nghÃœ lÂ¹i Â®Â·!/bt_oncancel");
 end;
 
 function bt_wantsong()
-		Say("Ng­¬i x¸c ®Şnh ®Çu qu©n cho Tèng quèc? NÕu ®· gia nhËp, néi trong 1 tuÇn ng­¬i sÏ lµ ng­êi cña chóng ta. Muèn thay ®æi, ph¶i ®îi tuÇn sau!",2, "Ta nhÊt ®Şnh gia nhËp Tèng quèc/bt_joinsong", "§Ó ta suy nghÜ l¹i ®·!/bt_oncancel");
+		Say("NgÂ­Â¬i xÂ¸c Â®Ãnh Â®Ã‡u quÂ©n cho TÃ¨ng quÃ¨c? NÃ•u Â®Â· gia nhÃ‹p, nÃ©i trong 1 tuÃ‡n ngÂ­Â¬i sÃ lÂµ ngÂ­Ãªi cÃ±a chÃ³ng ta. MuÃ¨n thay Â®Ã¦i, phÂ¶i Â®Ã®i tuÃ‡n sau!",2, "Ta nhÃŠt Â®Ãnh gia nhÃ‹p TÃ¨ng quÃ¨c/bt_joinsong", "Â§Ã“ ta suy nghÃœ lÂ¹i Â®Â·!/bt_oncancel");
 end;
 
 function bt_joinsong()
@@ -285,10 +285,10 @@ function bt_joinsong()
 	SetTask(1017, 0)
 	SetTask(TV_SERIESKILL_REALY,0)
 	BT_SetData(PL_BATTLECAMP, 0)
-	Msg2Player("C«ng c¸o:®· b¾t ®Çu chiÕn dŞch míi, ®iÓm tİch lòy hiÖn giê sÏ lµ 0!")
-	Msg2Player("Hoan nghªnh! Hoan nghªnh! Ng­êi Tèng lu«n lµ anh hïng!")
+	Msg2Player("CÂ«ng cÂ¸o:Â®Â· bÂ¾t Â®Ã‡u chiÃ•n dÃch mÃ­i, Â®iÃ“m tÃch lÃ²y hiÃ–n giÃª sÃ lÂµ 0!")
+	Msg2Player("Hoan nghÂªnh! Hoan nghÂªnh! NgÂ­Ãªi TÃ¨ng luÂ«n lÂµ anh hÃ¯ng!")
 
-	--Storm ¼ÓÈë`ôO½
+	--Storm Â¼Ã“ÃˆÃ«`Ã´OÂ½
 	say_index = 2
 	storm_ask2start(1)
 	SubWorld = nOldSubWorld
@@ -306,10 +306,10 @@ function bt_joinjin()
 	SetTask(1017, 0)
 	SetTask(TV_SERIESKILL_REALY,0)
 	BT_SetData(PL_BATTLECAMP, 0)
-	Msg2Player("C«ng c¸o:®· b¾t ®Çu chiÕn dŞch míi, ®iÓm tİch lòy hiÖn giê sÏ lµ 0!")
-	Msg2Player("Hoan nghªnh! Hoan nghªnh! Kim quèc kh«ng thiÕu anh tµi!")
+	Msg2Player("CÂ«ng cÂ¸o:Â®Â· bÂ¾t Â®Ã‡u chiÃ•n dÃch mÃ­i, Â®iÃ“m tÃch lÃ²y hiÃ–n giÃª sÃ lÂµ 0!")
+	Msg2Player("Hoan nghÂªnh! Hoan nghÂªnh! Kim quÃ¨c khÂ«ng thiÃ•u anh tÂµi!")
 
-	--Storm ¼ÓÈë`ôO½
+	--Storm Â¼Ã“ÃˆÃ«`Ã´OÂ½
 	say_index = 3
 	storm_ask2start(1)
 	SubWorld = nOldSubWorld
@@ -329,84 +329,84 @@ function bt_checkmemcount_balance()
 			local mem_jin = GetMSPlayerCount(BT_GetGameData(GAME_RULEID), 2)
 			SubWorld = oldSubWorld
 			
-			-- ¹úO½ËÎ½d `ØÊâµÄÈËÊuÆ½ºâ´¦Àí		
+			-- Â¹ÃºOÂ½Ã‹ÃÂ½d `Ã˜ÃŠÃ¢ÂµÃ„ÃˆÃ‹ÃŠuÃ†Â½ÂºÃ¢Â´Â¦Ã€Ã­		
 			if BT_GetGameData(GAME_BATTLEID) == 2 then
 				if (bt_ncamp == 1 and mem_song >= BALANCE_GUOZHAN_MAXCOUNT) or (bt_ncamp == 2 and mem_jin >= BALANCE_GUOZHAN_MAXCOUNT) then
-					 -- ÈËÊu³¬¹u100ÈËÏ~ÖÆ£¬¼`ĞøÍùÏÂÖ´ĞĞ£¬Ï~ÖÆÈËÊu²î5ÈË
+					 -- ÃˆÃ‹ÃŠuÂ³Â¬Â¹u100ÃˆÃ‹Ã~Ã–Ã†Â£Â¬Â¼`ÃÃ¸ÃÃ¹ÃÃ‚Ã–Â´ÃÃÂ£Â¬Ã~Ã–Ã†ÃˆÃ‹ÃŠuÂ²Ã®5ÃˆÃ‹
 				else
-					 -- ÈËÊuÎ´³¬¹uÏ~ÖÆ£¬ºöÂÔ5ÈË²î¶î£¬Ö±½ÓÔÊĞí½øÈë
+					 -- ÃˆÃ‹ÃŠuÃÂ´Â³Â¬Â¹uÃ~Ã–Ã†Â£Â¬ÂºÃ¶Ã‚Ã”5ÃˆÃ‹Â²Ã®Â¶Ã®Â£Â¬Ã–Â±Â½Ã“Ã”ÃŠÃÃ­Â½Ã¸ÃˆÃ«
 					return mem_song, mem_jin
 				end
 			end
 			
 			if (bt_ncamp == 1 and (mem_song - mem_jin) >= BALANCE_MAMCOUNT ) then
-				Say("HiÖn t¹i binh lùc phe ta lµ <color=yellow>"..mem_song.." ng­êi<color>, ®Şch ph­¬ng lµ <color=yellow>"..mem_jin.." ng­êi<color>, c¸ch biÖt <color=red>"..BALANCE_MAMCOUNT.." ng­êi<color>. Qu©n lùc cña ta hiÖn giê ®· d­ søc tiªu diÖt Kim binh! Tr¸ng sü xin ®îi trËn sau nhĞ", 0)
+				Say("HiÃ–n tÂ¹i binh lÃ¹c phe ta lÂµ <color=yellow>"..mem_song.." ngÂ­Ãªi<color>, Â®Ãch phÂ­Â¬ng lÂµ <color=yellow>"..mem_jin.." ngÂ­Ãªi<color>, cÂ¸ch biÃ–t <color=red>"..BALANCE_MAMCOUNT.." ngÂ­Ãªi<color>. QuÂ©n lÃ¹c cÃ±a ta hiÃ–n giÃª Â®Â· dÂ­ sÃ¸c tiÂªu diÃ–t Kim binh! TrÂ¸ng sÃ¼ xin Â®Ã®i trÃ‹n sau nhÃ", 0)
 				return
 			elseif (bt_ncamp == 2 and (mem_jin - mem_song) >= BALANCE_MAMCOUNT ) then
-				Say("HiÖn t¹i binh lùc phe ta lµ <color=yellow>"..mem_jin.." ng­êi<color>, ®Şch ph­¬ng lµ <color=yellow>"..mem_song.." ng­êi<color>, c¸ch biÖt <color=red>"..BALANCE_MAMCOUNT.." ng­êi<color>. Qu©n lùc cña ta hiÖn giê ®· d­ søc tiªu diÖt Tèng qu©n. Tr¸ng sü xin ®îi trËn sau nhĞ", 0)
+				Say("HiÃ–n tÂ¹i binh lÃ¹c phe ta lÂµ <color=yellow>"..mem_jin.." ngÂ­Ãªi<color>, Â®Ãch phÂ­Â¬ng lÂµ <color=yellow>"..mem_song.." ngÂ­Ãªi<color>, cÂ¸ch biÃ–t <color=red>"..BALANCE_MAMCOUNT.." ngÂ­Ãªi<color>. QuÂ©n lÃ¹c cÃ±a ta hiÃ–n giÃª Â®Â· dÂ­ sÃ¸c tiÂªu diÃ–t TÃ¨ng quÂ©n. TrÂ¸ng sÃ¼ xin Â®Ã®i trÃ‹n sau nhÃ", 0)
 				return
 			else
 				return mem_song, mem_jin
 			end
 		end
 	end
-	Say("Xin lçi! TiÒn ph­¬ng cã vÊn ®Ò, T¹m thêi kh«ng thÓ tiÕn vµo chiÕn tr­êng", 0);
+	Say("Xin lÃ§i! TiÃ’n phÂ­Â¬ng cÃ£ vÃŠn Â®Ã’, TÂ¹m thÃªi khÂ«ng thÃ“ tiÃ•n vÂµo chiÃ•n trÂ­Ãªng", 0);
 	return nil
 end
 
--- ¹úO½ËÎ½d¶Ô½øÈëµÄÍæ¼?×ö½ø?»²½µÄ¼´²é 1:·ÅĞĞ 0:²»ÈA½øÈë
+-- Â¹ÃºOÂ½Ã‹ÃÂ½dÂ¶Ã”Â½Ã¸ÃˆÃ«ÂµÃ„ÃÃ¦Â¼?Ã—Ã¶Â½Ã¸?Â»Â²Â½ÂµÃ„Â¼Â´Â²Ã© 1:Â·Ã…ÃÃ 0:Â²Â»ÃˆAÂ½Ã¸ÃˆÃ«
 function bt_checkmem_for_guozan()
 	
-	-- ·Ç¹úO½ËÎ½dÖ±½Ó·ÅĞĞ
+	-- Â·Ã‡Â¹ÃºOÂ½Ã‹ÃÂ½dÃ–Â±Â½Ã“Â·Ã…ÃÃ
 	if BT_GetGameData(GAME_BATTLEID) ~= 2 then
 		return 1;
 	end
 	
-	-- Ö®Ç°?Ñ¾­Í¨¹u¼´²é£¬²Î¼ÓÁËO½?Û£¬²»±ØÔÙ¼´²éÁË
+	-- Ã–Â®Ã‡Â°?Ã‘Â¾Â­ÃÂ¨Â¹uÂ¼Â´Â²Ã©Â£Â¬Â²ÃÂ¼Ã“ÃÃ‹OÂ½?Ã›Â£Â¬Â²Â»Â±Ã˜Ã”Ã™Â¼Â´Â²Ã©ÃÃ‹
 --	if (BT_GetGameData(GAME_KEY) == BT_GetData(PL_KEYNUMBER) and BT_GetData(PL_BATTLECAMP) == bt_ncamp) then
 --		return 1;
 --	end
 	
-	local szCityOwner_LinAn		= GetCityOwner(7);	-- ÁÙ°²µÄO¼Á´°ï»á
-	local szCityOwner_Bianjin	= GetCityOwner(4);	-- aê¾©µÄO¼Á´°ï»á
-	local szMyTong				= GetTongName();	-- ×Ô¼ºµÄ°ï»á
+	local szCityOwner_LinAn		= GetCityOwner(7);	-- ÃÃ™Â°Â²ÂµÃ„OÂ¼ÃÂ´Â°Ã¯Â»Ã¡
+	local szCityOwner_Bianjin	= GetCityOwner(4);	-- aÃªÂ¾Â©ÂµÃ„OÂ¼ÃÂ´Â°Ã¯Â»Ã¡
+	local szMyTong				= GetTongName();	-- Ã—Ã”Â¼ÂºÂµÃ„Â°Ã¯Â»Ã¡
 	
-	-- O¼³Ç°ï»áÊu¾U´íÎó
+	-- OÂ¼Â³Ã‡Â°Ã¯Â»Ã¡ÃŠuÂ¾UÂ´Ã­ÃÃ³
 	if szCityOwner_LinAn == "" or szCityOwner_Bianjin == "" or szCityOwner_LinAn == szCityOwner_Bianjin then
-		Say("LÇn quèc chiÕn Tèng Kim nµy kh«ng ®­îc phĞp më", 0);
+		Say("LÃ‡n quÃ¨c chiÃ•n TÃ¨ng Kim nÂµy khÂ«ng Â®Â­Ã®c phÃp mÃ«", 0);
 		return 0;
 	end
 	
-	-- Í¨¹u°ï»áµÄÉí·U½øÈë
+	-- ÃÂ¨Â¹uÂ°Ã¯Â»Ã¡ÂµÃ„Ã‰Ã­Â·UÂ½Ã¸ÃˆÃ«
 	if (szMyTong == szCityOwner_LinAn and bt_ncamp == 1) or (szMyTong == szCityOwner_Bianjin and bt_ncamp == 2) then
 		return 1;
 	end
 
-	-- ¼éÏ¸
+	-- Â¼Ã©ÃÂ¸
 	if (szMyTong == szCityOwner_LinAn and bt_ncamp == 2) or (szMyTong == szCityOwner_Bianjin and bt_ncamp == 1) then
-		Say("Gian tÕ cña ®Şch ®· chui vµo ®¹i doanh råi, h·y mau mau b¾t!", 0);
+		Say("Gian tÃ• cÃ±a Â®Ãch Â®Â· chui vÂµo Â®Â¹i doanh rÃ¥i, hÂ·y mau mau bÂ¾t!", 0);
 		return 0;
 	end
 	
-	-- ¼´²éÉíÉÏµÄÁîÅÆ
+	-- Â¼Â´Â²Ã©Ã‰Ã­Ã‰ÃÂµÃ„ÃÃ®Ã…Ã†
 	local nCount_song = CalcItemCount(3, 6, 1, 2057, -1);
 	local nCount_jin  = CalcItemCount(3, 6, 1, 2058, -1);
 	
 	if nCount_song == 0 and nCount_jin == 0 then
-		Say("Hai quèc giao tranh, cÇn ph¶i cã quèc chiÕn lÖnh bµi cña mçi bªn míi ®­îc tiÕn vµo.", 0);
+		Say("Hai quÃ¨c giao tranh, cÃ‡n phÂ¶i cÃ£ quÃ¨c chiÃ•n lÃ–nh bÂµi cÃ±a mÃ§i bÂªn mÃ­i Â®Â­Ã®c tiÃ•n vÂµo.", 0);
 		return 0;
 	end
 	
-	-- ÉíÉÏÓĞ±d¹úµÄÁîÅÆ
+	-- Ã‰Ã­Ã‰ÃÃ“ÃÂ±dÂ¹ÃºÂµÃ„ÃÃ®Ã…Ã†
 	if (nCount_jin ~= 0 and bt_ncamp == 1) or (nCount_song ~= 0 and bt_ncamp == 2) then
-		Say("Gian tÕcña ®Şch ®· chui vµo ®¹i doanh råi, h·y mau mau b¾t!", 0);
+		Say("Gian tÃ•cÃ±a Â®Ãch Â®Â· chui vÂµo Â®Â¹i doanh rÃ¥i, hÂ·y mau mau bÂ¾t!", 0);
 		return 0;
 	end
 	
-	-- ¼´²é½dÇ®
+	-- Â¼Â´Â²Ã©Â½dÃ‡Â®
 
 	
-	-- ¿Û³uÁîÅÆ
+	-- Â¿Ã›Â³uÃÃ®Ã…Ã†
 	local bPay = 0;
 	
 	if bt_ncamp == 1 then
@@ -416,10 +416,10 @@ function bt_checkmem_for_guozan()
 	end
 	
 	if bPay ~= 1 then
-		Msg2Player("KhÊu trõ lÖnh bµi thÊt b¹i");
+		Msg2Player("KhÃŠu trÃµ lÃ–nh bÂµi thÃŠt bÂ¹i");
 		return 0;
 	end
 	
-	-- ÔÊĞíÍ¨¹u
+	-- Ã”ÃŠÃÃ­ÃÂ¨Â¹u
 	return 1;
 end
