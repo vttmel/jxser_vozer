@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+93	1573	3120	TiÕn Cóc ®éng
+93	1630	3339	TiÕn Cóc ®éng
+93	1707	3134	TiÕn Cóc ®éng
+93	1690	3019	TiÕn Cóc ®éng

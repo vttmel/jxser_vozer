@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+174	1468	3378	Long Tuy烋 th南
+174	1406	3240	Long Tuy烋 th南
+174	1608	3006	Long Tuy烋 th南
+174	1754	3079	Long Tuy烋 th南
