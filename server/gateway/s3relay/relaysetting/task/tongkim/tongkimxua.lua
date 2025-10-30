@@ -29,12 +29,12 @@ end
 
 function TaskContent()
 
-	Battle_StartNewRound( 1, 1 );	-- GM chØ lÖnh, khëi ®éng tèng kim s¬ cÊp
+	-- Battle_StartNewRound( 1, 1 );	-- GM chØ lÖnh, khëi ®éng tèng kim s¬ cÊp
 
-	Battle_StartNewRound( 1, 2 );	-- GM chØ lÖnh, khëi ®éng tèng kim trung cÊp
+	-- Battle_StartNewRound( 1, 2 );	-- GM chØ lÖnh, khëi ®éng tèng kim trung cÊp
 
-	Battle_StartNewRound( 1, 3 );	-- GM chØ lÖnh, khëi ®éng tèng kim cao cÊp
-
+	-- Battle_StartNewRound( 1, 3 );	-- GM chØ lÖnh, khëi ®éng tèng kim cao cÊp
+	GlobalExecute("dwf \\script\\global\\mel\\mission\\tongkim.lua OpenTongKim()");
 	OutputMsg( " =========================Chien truong Tong - Kim So Cap 9 : 50 khoi dong --->")
 	OutputMsg( " =========================Chien truong Tong - Kim Trung Cap 9 : 50 khoi dong --->")
 	OutputMsg( " =========================Chien truong Tong - Kim Cao Cap 9 : 50 khoi dong --->")

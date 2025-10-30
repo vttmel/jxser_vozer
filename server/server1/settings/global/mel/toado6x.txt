@@ -1,2 +1,4 @@
 nIdMap	pX	pY	pX1	pY1	sNameMap
 56	1543	3282	192	205	Hoµnh S¬n Ph¸i
+56	1586	3348	198	209	Hoµnh S¬n Ph¸i
+56	1486	3283	185	205	Hoµnh S¬n Ph¸i

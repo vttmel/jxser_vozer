@@ -5163,3 +5163,4 @@ Hång ¶nh B¶o R­¬ng	6	1	4923	\spr\item\leaguematch\hongyinbaoxiang.spr	41	1	1	Më 
 §éng S¸t B¶o R­¬ng	6	1	4924	\spr\item\leaguematch\hongyinbaoxiang.spr	41	1	1	Më ra nhËn ®­îc set §éng S¸t khãa		0	1	0	\script\global\mel\mellebao\dongsat.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0
 Kim Phong B¶o R­¬ng	6	1	4925	\spr\item\leaguematch\hongyinbaoxiang.spr	41	1	1	Më ra nhËn ®­îc set Kim Phong khãa		0	1	0	\script\global\mel\mellebao\kimphong.lua	0	1	1	0	0		0	0	0	0	0	0	0	0	0	0
 Phong Háa LÖnh	6	1	4926	\spr\item\questkey\taskobj023.spr	41	1	1	LÖnh bµi ®Æc biÖt		100	1	0	\script\item\noscript.lua	0	1	1	0	0		999	0	0	0	0	0	0	0	0	0
+Th­ T×nh Mói MÝt	6	1	4927	\spr\item\questkey\card_all.spr	41	1	1	Tinh thÇn t¨ng lªn ®ét ph¸ sau khi ®­îc Mói MÝt tá t×nh.<enter>Sö dông nhËn ®­îc x50 lÇn kinh nghiÖm		4	1	0	\script\global\mel\ttlx50.lua	0	1	1	0	1		999	0	0	0	0	0	0	0	0	0

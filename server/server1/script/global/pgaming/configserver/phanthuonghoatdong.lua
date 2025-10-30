@@ -24,7 +24,7 @@ TAB_LBPLD = {
 		}
 --Ph«n th≠Îng k’t thÛc Phong L®ng ßÈ bæng l÷nh bµi thÒy t∆c
 TAB_LBTT = {
-			{szName="<color=pink>V‚ L©m L÷nh", tbProp={6,1,4903,1,0,0}, nCount = 10},
+			{szName="<color=pink>V‚ L©m L÷nh", tbProp={6,1,4903,1,0,0}, nCount = 20},
 		}
 --------------------------------------------------------------------------------------------------------------------------------
 --													V≠Ót ∂i																	  --
@@ -35,7 +35,7 @@ if nRuong < SoLuongRuongTrongNhanThuong then
 		Talk(1,"","Kh´ng ßÒ "..SoLuongRuongTrongNhanThuong.." r≠¨ng ch¯a ÆÂ, kh´ng th” nhÀn th≠Îng")
 		return 1
 end
-	tbAwardTemplet:GiveAwardByList({tbProp = {6,1,4903,1,0,0}, nCount = 10}, "test", 1);
+	tbAwardTemplet:GiveAwardByList({tbProp = {6,1,4903,1,0,0}, nCount = 25}, "test", 1);
 end
 --------------------------------------------------------------------------------------------------------------------------------
 --													TËng Kim																  --
@@ -202,7 +202,7 @@ if nRuong < SoLuongRuongTrongNhanThuong then
 		Talk(1,"","Kh´ng ßÒ "..SoLuongRuongTrongNhanThuong.." r≠¨ng ch¯a ÆÂ, kh´ng th” nhÀn th≠Îng")
 		return 1
 end
-tbAwardTemplet:GiveAwardByList({tbProp = {6,1,123,0,0,0}, nCount = 2}, "PhÛc Duy™n Trung", 1);
+tbAwardTemplet:GiveAwardByList({tbProp = {6,1,124,0,0,0}, nCount = 1}, "PhÛc Duy™n ßπi", 1);
 tbAwardTemplet:GiveAwardByList({tbProp = {6,1,4903,1,0,0}, nCount = 1}, "test", 1);
 AddOwnExp(10000000)
 end
@@ -227,7 +227,7 @@ end
 --													Boss Hoµng Kim															  --
 --------------------------------------------------------------------------------------------------------------------------------
 tbVnNewItemDropBossAward = {
-	{{szName="V‚ L©m L÷nh",tbProp={6,1,4903,1,0,0}, nCount = 20},},
+	{{szName="V‚ L©m L÷nh",tbProp={6,1,4903,1,0,0}, nCount = 10},},
 	--{{szName="Bæc ß»u Thu«n M∑ ThuÀt",tbProp={6,1,4894,1,0,0},nCount=1,nRate=3},},
 	--{{szName="M∂nh Kim Bµi",tbProp={6,1,1774,1,0,0},nCount=1,nRate=0.003},},
 	--{{szName="M∂nh Ng‰c Bµi",tbProp={6,1,1775,1,0,0},nCount=1,nRate=0.001},},

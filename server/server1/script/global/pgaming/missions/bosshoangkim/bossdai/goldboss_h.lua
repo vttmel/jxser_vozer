@@ -491,7 +491,7 @@ BIGBOSS_AWARD =
 
 
 BOSS_DEATH_SCRIPT = "\\script\\global\\pgaming\\missions\\bosshoangkim\\bossdai\\goldboss_death.lua";
-TIME_BIGBOSS_REMOVE = 180*60*18;
+TIME_BIGBOSS_REMOVE = 300*60*18;
 
 BossDataSave = {};
 

@@ -2,29 +2,29 @@ _PlayersNameTb =
 {
 TopCaoThu = 
 		{
-			[1] = {Name = 'MelGameMaster', Level = 140,},
-			[2] = {Name = 'HNTNgaMy', Level = 116,},
-			[3] = {Name = 'duoamon', Level = 115,},
-			[4] = {Name = 'HNTNguDoc', Level = 115,},
+			[1] = {Name = 'MelGameMaster', Level = 121,},
+			[2] = {Name = '', Level = 0,},
+			[3] = {Name = '', Level = 0,},
+			[4] = {Name = '', Level = 0,},
 		},
 TopPhuHo = 
 		{
-			[1] = {Name = '0Sedee', Money = 1254427996,},
-			[2] = {Name = '§­êngTam', Money = 309397968,},
-			[3] = {Name = 'TiÓuYTiªn', Money = 308985707,},
-			[4] = {Name = 'KimMécLan', Money = 308850996,},
+			[1] = {Name = 'MelGameMaster', Money = 99926715,},
+			[2] = {Name = 'TestTaoNhanVat', Money = 500000,},
+			[3] = {Name = '', Money = 0,},
+			[4] = {Name = '', Money = 0,},
 		},
 TopMonPhai = 
 		{
-			shaolin = {Name = 'HNTThieuLam', Level = 114,},
-			tianwang = {Name = 'BlanC1', Level = 112,},
-			tangmen = {Name = 'duoamon', Level = 115,},
-			wudu = {Name = 'HNTNguDoc', Level = 115,},
-			emei = {Name = 'HNTNgaMy', Level = 116,},
-			cuiyan = {Name = 'ThuyYen1', Level = 113,},
-			gaibang = {Name = 'ca5caibang', Level = 108,},
-			tianren = {Name = 'HNTThienNhan', Level = 114,},
-			wudang = {Name = 'MelGameMaster', Level = 140,},
-			kunlun = {Name = 'Conlon1', Level = 113,},
+			shaolin = {Name = '', Level = 0,},
+			tianwang = {Name = '', Level = 0,},
+			tangmen = {Name = '', Level = 0,},
+			wudu = {Name = '', Level = 0,},
+			emei = {Name = '', Level = 0,},
+			cuiyan = {Name = '', Level = 0,},
+			gaibang = {Name = '', Level = 0,},
+			tianren = {Name = '', Level = 0,},
+			wudang = {Name = '', Level = 0,},
+			kunlun = {Name = '', Level = 0,},
 		},
 }

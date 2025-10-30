@@ -488,7 +488,7 @@ local n
 		if myTaskValue<=254 then
 			nt_setTask(1020,SetByte(n,myTaskState,myTaskValue))
 		else
-			Msg2Player("S?lÇn b¹n xãa b?®· ®¹t ®Õn giíi h¹n <color=yellow>254 lÇn<color>, kh«ng th?t¨ng thªm!");
+			Msg2Player("Sè lÇn b¹n xãa bá ®· ®¹t ®Õn giíi h¹n <color=yellow>254 lÇn<color>, kh«ng thÓ t¨ng thªm!");
 			return
 		end;
 	elseif ( myTaskState == 6) then
@@ -820,7 +820,7 @@ local myWhen, myWhere, myWho, myWhy1, myWhy2, myWhat, myMainTalk
 		myWho = TabFile_GetCell(TL_TASKBUYTALK, tl_gettalkvalue(3), "Who")
 		myWhat = TabFile_GetCell(TL_TASKBUYTALK, tl_gettalkvalue(6), "What")
 		
-		myMainTalk = "H·y ®i <color=yellow>"..myTaskInfo1.."<color> mua gióp ta <color=yellow>"..myTaskOrder.."<color> v?®©y!";
+		myMainTalk = "H·y ®i <color=yellow>"..myTaskInfo1.."<color> mua gióp ta <color=yellow>"..myTaskOrder.."<color> vÒ ®©y!";
 		
 		myTaskMainInfo = myMainTalk
 		
@@ -846,7 +846,7 @@ local myWhen, myWhere, myWho, myWhy1, myWhy2, myWhat, myMainTalk
 			myTaskMainInfo = "1 c¸i <color=yellow>"..myTaskInfo1.."<color>"
 			myMainTalk = "H·y gióp ta ®i t×m mãn nµy: <color=yellow>"..myTaskMainInfo.."<color>.";
 		else		
-			myMainTalk = "H·y gióp ta ®i t×m mãn nµy: <color=yellow>"..myTaskInfo1.."<color>£¬<color=yellow>"..myTaskOrder.."<color>, nh?nhÊt: <color=yellow>"..myTaskInfo2.."<color>, lín nhÊt: <color=yellow>"..myTaskInfo3.."<color>.";
+			myMainTalk = "H·y gióp ta ®i t×m mãn nµy: <color=yellow>"..myTaskInfo1.."<color>£¬<color=yellow>"..myTaskOrder.."<color>, nhá nhÊt: <color=yellow>"..myTaskInfo2.."<color>, lín nhÊt: <color=yellow>"..myTaskInfo3.."<color>.";
 		end
 
 		myTaskMainInfo = myMainTalk
@@ -864,7 +864,7 @@ local myWhen, myWhere, myWho, myWhy1, myWhy2, myWhat, myMainTalk
 		-- Ä§·¨ÊôÐÔµÄ×î´óÖµ
 		myTaskInfo2 = TabFile_GetCell(TL_SHOWGOODS,tl_gettasktablecol(),"MaxValue")
 
-		myMainTalk = "H·y gióp ta ®i t×m mãn nµy: <color=yellow>"..myTaskOrder.."<color>, nh?nhÊt: <color=yellow>"..myTaskInfo1.."<color>, lín nhÊt: <color=yellow>"..myTaskInfo2.."<color>! Xem xong ta s?tr?l¹i cho ng­¬i";
+		myMainTalk = "H·y gióp ta ®i t×m mãn nµy: <color=yellow>"..myTaskOrder.."<color>, nhá nhÊt: <color=yellow>"..myTaskInfo1.."<color>, lín nhÊt: <color=yellow>"..myTaskInfo2.."<color>! Xem xong ta sÏ tr¶ l¹i cho ng­¬i";
 		
 		myTaskMainInfo = myMainTalk
 		
@@ -882,9 +882,9 @@ local myWhen, myWhere, myWho, myWhy1, myWhy2, myWhat, myMainTalk
 		myWhat = TabFile_GetCell(TL_TASKFINDMAPS, tl_gettalkvalue(6), "What")
 		
 		if (tonumber(myTaskInfo2) == 1) then
-			myTaskInfo3 = "§Þa §å ch?"
+			myTaskInfo3 = "§Þa §å chÝ"
 		else
-			myTaskInfo3 = "MËt ch?"
+			myTaskInfo3 = "MËt chÝ"
 		end
 
 		myTaskMainInfo = "Ng­¬i h·y ®Õn <color=yellow>"..myTaskOrder.."<color> t×m gióp ta <color=yellow>"..myTaskInfo1.."<color> quyÓn <color=yellow>"..myTaskInfo3.."<color>.";
@@ -906,8 +906,8 @@ local myWhen, myWhere, myWho, myWhy1, myWhy2, myWhat, myMainTalk
 			myTaskInfo2 = "®¼ng cÊp"
 			myTaskInfo3 = "®¼ng cÊp"
 		elseif (tonumber(myTaskOrder) == 2) then
-			myTaskInfo2 = "Tr?kinh nghiÖm"
-			myTaskInfo3 = "Tr?kinh nghiÖm"
+			myTaskInfo2 = "TrÞ kinh nghiÖm"
+			myTaskInfo3 = "TrÞ kinh nghiÖm"
 		elseif (tonumber(myTaskOrder) == 3) then
 			myTaskInfo2 = "Danh väng"
 			myTaskInfo3= "Danh väng"
@@ -932,7 +932,7 @@ local myWhen, myWhere, myWho, myWhy1, myWhy2, myWhat, myMainTalk
 		-- ÐèÒªÊÕ¼¯µÄÉ½ºÓÉçð¢Í¼²ÐÆ¬
 		myTaskOrder = TabFile_GetCell(TL_WORLDMAPS,tl_gettasktablecol(),"Num")
 		
-		myTaskMainInfo = "H·y ®i t×m gióp ta <color=yellow>"..myTaskOrder.."<color> m¶nh b¶n ®å S¬n H?X?T¾c";
+		myTaskMainInfo = "H·y ®i t×m gióp ta <color=yellow>"..myTaskOrder.."<color> m¶nh b¶n ®å S¬n Hµ X· T¾c";
 	end
 
 	return myTaskMainInfo
@@ -984,9 +984,9 @@ function GetPlayerSex()
 local mySex -- ÓÃÒÔÏÔÊ¾ÈËÎïÐÔ±ðµÄ×Ö·û
 
 	if (GetSex() == 0) then
-		mySex = "C«ng t?"
+		mySex = "C«ng tö"
 	else
-		mySex = "N?hiÖp "
+		mySex = "N÷ hiÖp "
 	end
 	
 return mySex

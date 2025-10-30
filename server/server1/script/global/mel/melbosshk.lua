@@ -100,8 +100,8 @@ function PickBoss(nIndex)
 	end
 	-- Random chance not to spawn a boss
 	local nChance = random(1, 100);
-	if nChance <= 20 then
-		Talk(1,"","Boss ®ang mÖt, b¹n ®i t×m ng­êi kh¸c ®i.")
+	if nChance <= 10 then
+		Talk(1,"","T­ëng gäi Boss mµ dÔ µ, h·y c¶i thiÖn kh¶ n¨ng gacha ®i")
 		return
 	end
 	

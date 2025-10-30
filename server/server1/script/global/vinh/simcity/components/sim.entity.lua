@@ -89,7 +89,7 @@ function execCreateChar(self, simInstance, tbNpc, isNew, goX32, goY32)
                 if tbNpc.mode == "tieuthiep" then
                     SetNpcScript(nNpcIndex, "\\script\\global\\vinh\\simcity\\controllers\\tieuthiep.lua")
                 else
-                    SetNpcScript(nNpcIndex, "\\script\\global\\vinh\\simcity\\components\\sim.timer.lua")
+                    SetNpcScript(nNpcIndex, "\\script\\battles\\marshal\\npcdeath_simcity.lua")
                 end
 
                 -- Ngoai trang?

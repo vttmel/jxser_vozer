@@ -234,6 +234,8 @@ WorldID	WorldName	PathFile	Type
 341	M¹n B¾c Th¶o Nguyªn	thanhthi\341_manbacthaonguyen_preset.txt	preset
 342	Vi Son §¶o	thanhthi\342_visondao_nodes.txt	nodes
 342	Vi Son §¶o	thanhthi\342_visondao_preset.txt	preset
+378	Noname	thanhthi\378_noname_nodes.txt	nodes
+379	Noname	thanhthi\379_noname_nodes.txt	nodes
 380	Noname	thanhthi\380_noname_nodes.txt	nodes
 383	Noname	thanhthi\383_noname_nodes.txt	nodes
 386	Noname	thanhthi\386_noname_nodes.txt	nodes
