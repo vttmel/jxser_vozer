@@ -49,7 +49,7 @@ ListHKMP={
 function doihkmprac() 
 dofile("script/global/mel/doihkmprac.lua")
 	local tbOpt = {
-		{"§æi trang bÞ HKMP lÊy Vâ L©m LÖnh",DoiTrangBiHKMP},
+		{"§æi trang bÞ HKMP lÊy LÖnh bµi gäi Boss HKMP",DoiTrangBiHKMP},
 		{"KÕt Thóc §èi Tho¹i",No},
 	}
 	CreateNewSayEx("<color=green>Ng­¬i Muèn §æi Trang BÞ Hoµng Kim Mèn Ph¸i kh«ng?<color>", tbOpt)
@@ -60,12 +60,12 @@ function DoiTrangBiHKMP()
 		{"Bá vµo 5 mãn HKMP bÊt kú",HKMPRac},
 		{"KÕt Thóc §èi Tho¹i",No},
 	}
-	CreateNewSayEx("<color=green>§Æt vµo Set M«n ph¸i ng­¬i muèn ®æi sang ph¸i kh¸c<color>", tbOpt)
+	CreateNewSayEx("<color=green>§Æt vµo 5 mãn Trang BÞ HKMP<color>", tbOpt)
 end
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 function HKMPRac()
-	GiveItemUI( "§æi R­¬ng Hoµng Kim", "B¹n cÇn chuÈn bÞ 5 mãn Trang BÞ HKMP vµ 5 tiÒn ®ång th× cã thÓ ®æi ®­îc 100 Vâ L©m LÖnh", "HKMPRac_1", "onCancel",1 );
+	GiveItemUI( "§æi R­¬ng Hoµng Kim", "B¹n cÇn chuÈn bÞ 5 mãn Trang BÞ HKMP vµ 5 tiÒn ®ång trong hµnh trang th× cã thÓ ®æi ®­îc 5 LÖnh bµi gäi Boss Hoµng Kim", "HKMPRac_1", "onCancel",1 );
 end
 
 function HKMPRac_1( nCount )
@@ -101,7 +101,7 @@ function HKMPRac_1( nCount )
 				end		
 			end
 			ConsumeEquiproomItem(5, 4, 417, 1, 1)
-			AddStackItem (100,6,1,4903,1,0,0)
+			AddStackItem (5,6,1,4916,1,0,0)
 			Msg2Player("Chóc Mõng "..GetName().." §æi trang bÞ Thµnh C«ng")
 		else
 			Say("Kh¸ch quan ®ang trªu chäc tiÓu nh©n hay thËt sù ng­êi cã ®ñ 5 TiÒn §ång kh«ng?", 0);

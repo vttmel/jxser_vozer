@@ -652,9 +652,9 @@ if checkTask_Limit()~=1 then return end;
 
 	if (nType==2) then
 		if (myMapNum>=100) then
-			myMapNum = myMapNum + 100;
+			myMapNum = myMapNum - 100;
 			nt_setTask(1027, myMapNum);
-			myTaskCancel = myTaskCancel + 0;
+			myTaskCancel = myTaskCancel + 1;
 			Msg2Player("B¹n ®· sö dông 100 m¶nh s¬n Hµ X· T¾c ®Ó hñy bá nhiÖm vô nµy!");
 			Msg2Player("M¶nh s¬n Hµ X· T¾c hiÖn t¹i cña b¹n cßn d­ "..myMapNum.." TÊm!");
 		else
@@ -667,7 +667,7 @@ if checkTask_Limit()~=1 then return end;
 	
 		if (myTaskCancel == 0) then
 		
-			myCanceled = myCanceled + 0
+			myCanceled = myCanceled + 1
 			nt_setTask(1036,myCanceled)
 	
 			if ( myCanceled > 2) then -- Èç¹ûÍæ¼ÒÁ¬ÐøÔÚ³õÆÚÈ¡ÏûÁËÈý´ÎÈÎÎñ£¬Ôò×÷´¦·£
@@ -683,7 +683,7 @@ if checkTask_Limit()~=1 then return end;
 		end
 		
 		-- ÖØÐÂËæ»úÅÉ·¢ÐÂµÄÈÎÎñ
-		SetTask(ID_TASKLINK_LIMITCancelCount, GetTask(ID_TASKLINK_LIMITCancelCount) + 0); -- Ôö¼Óµ±ÌìµÄÈ¡Ïû´ÎÊý
+		SetTask(ID_TASKLINK_LIMITCancelCount, GetTask(ID_TASKLINK_LIMITCancelCount) + 1); -- Ôö¼Óµ±ÌìµÄÈ¡Ïû´ÎÊý
 		storm_ask2start(4)	--Storm ¿ªÊ¼ÌôÕ½
 		
 		return
@@ -802,27 +802,24 @@ function Task_GiveAward()
 	for i=1,3 do
 	--	tl_print ("µÃµ½½ðÇ®½±Àø£¡");
 		if (myAward[i][1] == 1) then
-			--ShowText[i] = "NhËn ®­îc"..myAward[i][9].."/3".."/"..myAward[i][2].."/SelectAward_Money"
-			ShowText[i] = "NhËn ®­îc"..myAward[i][9].."/4".."/"..myAward[i][2].."/SelectAward_Exp"			
+			ShowText[i] = "NhËn ®­îc"..myAward[i][9].."/3".."/"..myAward[i][2].."/SelectAward_Money"
 		elseif (myAward[i][1] == 2) then
 			ShowText[i] = "NhËn ®­îc"..myAward[i][9].."/4".."/"..myAward[i][2].."/SelectAward_Exp"
 		elseif (myAward[i][1] == 3) then
-			--myGoodsText = myAward[i][3]..","..myAward[i][4]..","..myAward[i][5]..","..myAward[i][6]..","..myAward[i][7]..","..myAward[i][8]
-			--ShowText[i] = "NhËn ®­îc"..myAward[i][9].."/5".."/"..myGoodsText.."/mySG"
-			ShowText[i] = "NhËn ®­îc"..myAward[i][9].."/4".."/"..myAward[i][2].."/SelectAward_Exp"
+			myGoodsText = myAward[i][3]..","..myAward[i][4]..","..myAward[i][5]..","..myAward[i][6]..","..myAward[i][7]..","..myAward[i][8]
+			ShowText[i] = "NhËn ®­îc"..myAward[i][9].."/5".."/"..myGoodsText.."/mySG"
 		elseif (myAward[i][1] == 4) then
 			if (myAward[i][10]==1) then
-				--myGoodsText = myAward[i][3]..","..myAward[i][4]..","..myAward[i][5]..","..myAward[i][6]..","..myAward[i][7]..","..myAward[i][8]
-				--ShowText[i] = myAward[i][9].."/6".."/"..myGoodsText.."/mySG"
-				ShowText[i] = "NhËn ®­îc"..myAward[i][9].."/4".."/"..myAward[i][2].."/SelectAward_Exp"
+				myGoodsText = myAward[i][3]..","..myAward[i][4]..","..myAward[i][5]..","..myAward[i][6]..","..myAward[i][7]..","..myAward[i][8]
+				ShowText[i] = myAward[i][9].."/6".."/"..myGoodsText.."/mySG"
 			elseif (myAward[i][10]==2) then
 				ShowText[i] = myAward[i][9].."/6".."/"..myAward[i][2].."/SelectAward_Exp"
 			elseif (myAward[i][10]==3) then
-				ShowText[i] = "NhËn ®­îc"..myAward[i][9].."/4".."/"..myAward[i][2].."/SelectAward_Exp"
+				ShowText[i] = myAward[i][9].."/6".."/"..myAward[i][2].."/SelectAward_Money"
 			end
 			
 		elseif (myAward[i][1] == 5) then
-			ShowText[i] = "NhËn ®­îc"..myAward[i][9].."/4".."/"..myAward[i][2].."/SelectAward_Exp"
+			ShowText[i] = "NhËn ®­îc"..myAward[i][9].."/7".."/"..myAward[i][1].."/SelectAward_Cancel"
 		end
 		
 	end
@@ -960,7 +957,7 @@ if (tl_gettaskcourse() == 3) then
 	return
 end
 
-	tl_addPlayerExp(nAward*5)
+	tl_addPlayerExp(nAward)
 	Msg2Player("B¹n nhËn ®­îc <color=green>"..nAward.."<color> ®iÓm kinh nghiÖm");
 	
 	tl_settaskcourse(3)

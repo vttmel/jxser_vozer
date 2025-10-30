@@ -1,0 +1,2 @@
+nIdMap	pX	pY	pX1	pY1	sNameMap
+144	1668	3110	208	194	D­îc V­¬ng ®éng tÇng 4

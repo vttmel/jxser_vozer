@@ -42,6 +42,8 @@ end
 
 function VoDangQuyen() 
 ItemIndex = AddGoldItem(0,881)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
@@ -64,18 +66,24 @@ end
 
 function ConLonDao() 
 ItemIndex = AddGoldItem(0,891)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
 
 function ConLonSet() 
 ItemIndex = AddGoldItem(0,898)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
 
 function ConLonBua() 
 ItemIndex = AddGoldItem(0,901)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
@@ -92,24 +100,32 @@ end
 
 function ThienNhanKich() 
 ItemIndex = AddGoldItem(0,868)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
 
 function ThienNhanDao() 
 ItemIndex = AddGoldItem(0,876)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
 
 function ThienNhanBua() 
 ItemIndex = AddGoldItem(0,874)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
 ----------------------------------------------------------------------------------------------------------------------
 function CaiBang() 
 ItemIndex = AddGoldItem(0,855)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
@@ -125,12 +141,16 @@ end
 
 function DuongMonNo() 
 ItemIndex = AddGoldItem(0,843)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
 
 function DuongMonBay() 
 ItemIndex = AddGoldItem(0,854)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
@@ -146,12 +166,16 @@ end
 
 function NguDocDao() 
 ItemIndex = AddGoldItem(0,829)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
 
 function NguDocBua() 
 ItemIndex = AddGoldItem(0,834)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
@@ -167,12 +191,16 @@ end
 
 function ThuyYenDao() 
 ItemIndex = AddGoldItem(0,811)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
 
 function ThuyYenSongDao() 
 ItemIndex = AddGoldItem(0,816)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
@@ -189,18 +217,24 @@ end
 
 function NgaMyKiem() 
 ItemIndex = AddGoldItem(0,796)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
 
 function NgaMyChuong() 
 ItemIndex = AddGoldItem(0,801)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
 
 function NgaMyBuff() 
 ItemIndex = AddGoldItem(0,808)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
@@ -217,24 +251,32 @@ end
 
 function ThieuLamQuyen() 
 ItemIndex = AddGoldItem(0,769)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
 
 function ThieuLamDao() 
 ItemIndex = AddGoldItem(0,776)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
 
 function ThieuLamBong() 
 ItemIndex = AddGoldItem(0,771)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end
 ----------------------------------------------------------------------------------------------------------------------
 function ThienVuong() 
 ItemIndex = AddGoldItem(0,793)
+ITEM_SetExpiredTime(ItemIndex, 10080);
+SetItemBindState(ItemIndex, -2)
 SyncItem(ItemIndex); 
 ConsumeEquiproomItem(1,6,1,4904,-1)
 end

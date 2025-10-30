@@ -407,6 +407,11 @@ function main()
 	tao_bai_train9x4()
 	tao_bai_train9x5()
 	tao_bai_train9x6()
+	tao_bai_train9x7()
+	tao_bai_train9x8()
+	tao_bai_train9x9()
+	tao_bai_train9x10()
+	tao_bai_train9x11()
 	end
 
 --------------------------------------------------------------------------------	

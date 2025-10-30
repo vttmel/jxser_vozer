@@ -17,12 +17,12 @@ CauCa = 0 --T¹i ThuyÒn Phu C¸c thµnh
 -------NPC NhiÕp NhÝ TrÇn-------------
 NPCNhipThiTran = 1
 SoNguoiThapNhatThamGiaVuotAi = 1
-SoLanVuotAiTrongNgay = 20
-SoLuongBossSatThuTrongNgay = 100
+SoLanVuotAiTrongNgay = 2
+SoLuongBossSatThuTrongNgay = 50
 -------BÇu Cua----------------
-BauCua = 0 -- Trung T©m T­¬ng D­¬ng
-ThoiGianBatDauBauCua = 0000
-ThoiGianKetThucBauCua = 0000
+BauCua = 1 -- Trung T©m T­¬ng D­¬ng
+ThoiGianBatDauBauCua = 2000
+ThoiGianKetThucBauCua = 2200
 ThoiGianBatDauBauCuaText = "TÝnh n¨ng chØ ®­îc khai më khung giê 20h-22h h»ng ngµy. Vui lßng quay l¹i sau"
 ThoiGianKetThucBauCuaText = 12
 ------Tèng Kim----------------
@@ -48,13 +48,13 @@ Mo3LoaiTinSuNhuVNG = 0 --(Phong Kú: BiÖn Kinh - D­¬ng Ch©u, Th­¬ng B¶o Khè: Thµn
 SoLuongBossHoangKimGoiRa = 20  --sè l­îng boss hoµng kim gäi ra mçi ngµy, max lµ 20
 KinhNghiemGietBoss = 10000000
 KinhNghiemNguoiChoiDungXungQuanh = 100000000
-TyLeRotDoPho = 1 ---100 t­¬ng øng víi 100%
-TyLeRotTrangBiHoangKim = 30 ---100 t­¬ng øng víi 100%
+TyLeRotDoPho = 0 ---100 t­¬ng øng víi 100%
+TyLeRotTrangBiHoangKim = 1 ---100 t­¬ng øng víi 100%
 ---Boss TiÓu Hoµng Kim------
 KinhNghiemGietBossTieu = 10000000;
 -----D· TÈu ------------
 NPCDaTau = 1
-PhanThuongTienVan = 0.09 --ChØnh cµng cao cµng ®­îc nhiÒu
+PhanThuongTienVan = 1 --ChØnh cµng cao cµng ®­îc nhiÒu
 PhanThuongKinhNghiem = 10 --ChØnh cµng cao cµng ®­îc nhiÒu
 -----------------------
 ---Phong háa liªn thµnh---
@@ -149,7 +149,7 @@ DiViSonDao = 0
 --												  VËt PhÈm													  --
 --============================================================================================================--
 SuDoThiep = 1
-GioiHanTTK = 9999
+GioiHanTTK = 99
 GioiHanVLMT = 99
 --============================================================================================================--
 --											   	Ðp Trang BÞ													  --
@@ -172,29 +172,6 @@ HocKyNang120 = 1
 VoDanhTangHocSkill150 = 0
 -------------------------------------------
 
-------------------------------------
-----Tèc ®é luyÖn skill c¸c ph¸i----
-
---ThiÕu L©m--
-nTocDoLuyenSkillThieuLam = 10
---Thiªn V­¬ng--
-nTocDoLuyenSkillThienVuong = 10
---§­êng M«n--
-nTocDoLuyenSkillDuongMon = 10
---Ngò §éc--
-nTocDoLuyenSkillNguDoc = 10
---Thóy Yªn--
-nTocDoLuyenSkillThuyYen = 10
---Nga My--
-nTocDoLuyenSkillNgaMy = 10
---C¸i Bang--
-nTocDoLuyenSkillCaiBang = 10
---Thiªn NhÉn--
-nTocDoLuyenSkillThienNhan = 10
---Vâ §ang--
-nTocDoLuyenSkillVoDang = 10
---C«n L«n--
-nTocDoLuyenSkillConLon = 10
 --============================================================================================================--
 --													Event 12 th¸ng											  --
 --============================================================================================================--
