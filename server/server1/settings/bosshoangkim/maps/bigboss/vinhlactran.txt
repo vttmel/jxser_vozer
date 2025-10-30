@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+99	1511	3580	V‹nh Lπc tr n
+99	1818	3596	V‹nh Lπc tr n
+99	1847	3147	V‹nh Lπc tr n
+99	1721	3039	V‹nh Lπc tr n

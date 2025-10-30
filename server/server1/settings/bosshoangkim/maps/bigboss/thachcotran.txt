@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+153	1602	3395	Thπch CÊ tr n
+153	1687	3421	Thπch CÊ tr n
+153	1767	3328	Thπch CÊ tr n
+153	1818	3108	Thπch CÊ tr n
