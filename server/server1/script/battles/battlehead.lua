@@ -1314,19 +1314,48 @@ function bt_announce (lsf_level, n_time)
 	
 	PlayerIndex = old_player;
 end
+function call_npc_simcity(nIdMap,startNPCIndex, stopNPCIndex, nCount ,ngoaitrang)
+	SimCityChienTranh:init(nIdMap)
+	local worldInfo = SimCityWorld:Get(nIdMap)
+	--worldInfo.allowFighting = 1
+	--worldInfo.showFightingArea = 0
+	-- phe tong
+	local forCamp = 1
+	for i = 0, nCount do
+		local id = random(startNPCIndex,stopNPCIndex)
+		if SimCityNPCInfo:IsValidFighter(id) == 1 then
+			local myPath = SimCityChienTranh:genWalkPath(forCamp)
 
+			local fighter = SimCityChienTranh:taoNV(id, forCamp, worldInfo, myPath, ngoaitrang or 0)
+		end
+	end
+	--phe kim
+	forCamp = 2
+	for i = 0, nCount do
+		local id = random(startNPCIndex,stopNPCIndex)
+		if SimCityNPCInfo:IsValidFighter(id) == 1 then
+			local myPath = SimCityChienTranh:genWalkPath(forCamp)
+
+			local fighter = SimCityChienTranh:taoNV(id, forCamp, worldInfo, myPath, ngoaitrang or 0)
+		end
+	end
+end
 function add_npc_simcity(idMap)
-	SimCityChienTranh:init(idMap)
-	--SimCityChienTranh:nv_tudo(1)
+
+
 	if idMap == 378 then
 		--trung cap
-		SimCityChienTranh:phe_tudo(500,100,1)
+		--SimCityChienTranh:phe_tudo(500,10,1,100)
+		call_npc_simcity(idMap,515,526,50,1)
 	elseif idMap == 379 then
 		-- cao cap 1
-		SimCityChienTranh:phe_tudo(1000,100,1)
+		--SimCityChienTranh:phe_tudo(978,20,1,100)
+		call_npc_simcity(idMap, 1029,1041,50,1)
 
-	elseif idMap == 380 then
-		SimCityChienTranh:phe_tudo(1000,100,0)
-		SimCityChienTranh:nv_tudo(1)
+	-- elseif idMap == 380 then
+	-- 	--SimCityChienTranh:phe_tudo(1009,30,0,100)
+	-- 	--SimCityChienTranh:nv_tudo(1)
+	-- 	call_npc_simcity(idMap, 1010,1041,50,1)
+
 	end
 end
