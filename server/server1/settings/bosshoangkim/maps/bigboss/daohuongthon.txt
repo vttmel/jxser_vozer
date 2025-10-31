@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+101	1856	3297	完o H閂ng th南
+101	1771	3037	完o H閂ng th南
+101	1733	2973	完o H閂ng th南
+101	1730	2886	完o H閂ng th南

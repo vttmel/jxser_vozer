@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+100	1487	3339	Chu Tiªn trÊn
+100	1520	2992	Chu Tiªn trÊn
+100	1513	2919	Chu Tiªn trÊn
+100	1733	3038	Chu Tiªn trÊn

@@ -1,0 +1,5 @@
+MAPID	POSX	POSY	MAPNAME
+144	1604	3127	D­îc V­¬ng ®éng tÇng 4
+144	1728	3193	D­îc V­¬ng ®éng tÇng 4
+144	1771	3131	D­îc V­¬ng ®éng tÇng 4
+144	1726	3044	D­îc V­¬ng ®éng tÇng 4
